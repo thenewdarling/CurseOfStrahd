@@ -29,11 +29,15 @@ She gives us a reading, and in the beginning, the cards reading of history match
 
 ## Arabelle's Reading
 
-**The Wizard**: where once was knowledge now there is death
-**The Thief**: a sword that was taken, shall be stolen once more
-**The Anarchist**: an ancient force is biding its time
-**The Horseman**: a lost soul returned, and now she is lost
-**The Tempter**: fear not only the Devil, but the Dark itself
+**The WIZARD**: Where once was knowledge now there is death.
+
+**The THIEF**: A sword that was taken, shall be stolen once more.
+
+**The ANARCHIST**: An ancient force is biding its time.
+
+**The HORSEMAN**: A lost soul returned, and now she is lost.
+
+**The TEMPTER**: Fear not only the Devil, but the Dark itself.
 
 
 We leave the party in Arabelle's home, unsure of what comes next -- but absolutely soaking in vibes.
