@@ -5,24 +5,24 @@
 *A vampire must satiate their hunger for blood or suffer painful withdrawal. The blood itself seems to be something of a red herring, what a vampire truly needs is another sapient creature’s life force. For this reason, stored blood is ineffective, and the blood of beasts is never able to fully fulfil the vampire’s needs.*
 — notes provided by Sasha in downtime before Session 6
 
-#### Vampire Traits
+### Vampire Traits
 All vampires regardless of level add the following abilities and restrictions to their character sheet:
 
-#### Abilities
+### Abilities
 - *Darkvision* (60ft)
 - Damage resistance to Necrotic
 - *No Reflection*: Vampire player characters cast no reflection in mirrors, water, or other surfaces
 - *Bite attack*: STR to hit (finesse), reach 5ft. The attacker has proficiency with this attack. The target is one humanoid who is either willing, grappled, incapacitated, or restrained. On a hit, target takes 1d6+3 piercing damage + 2d6 necrotic damage, and the attacker regains HP equal to damage dealt. If the target's HP are reduced to 0 by this attack, they die immediately.
 
-#### Restrictions
+### Restrictions
 
 - Damage weakness to Radiant
 - *Sunlight Sensitivity (vampire)*: While in direct sunlight, vampire PCs have disadvantage on all attack rolls and ability checks
 - *Owned By The Night*: Vampire PCs have disadvantage on saving throws against the Charm ability of a greater vampire.
 - *Stake to the Heart*: - If a vampire PC is incapacitated and a piercing weapon made of wood is driven into their heart, they are immediately destroyed.
-- *Forbiddance*: A vampire PC must be invited into a home/residence by one of its occupants. If they do not, they take 5 radiant damage a round until they leave. (This radiant damage is unaffected by weaknesses and resistances.) The invitation must come from a resident of the building (eg. they cannot ask a party member to enter first and invite them in). As a result of this, buildings which are considered open to the public (such as taverns and places of business) do not trigger Forbiddance.
+- *Forbiddance*: A vampire PC must be invited into a home/residence by one of its occupants. If they do not, they take 5 radiant damage a round until they leave. (This radiant damage is unaffected by weaknesses and resistances.) The invitation must come from a resident of the building (eg. they cannot ask a party member to enter first and invite them in). As a result of this, buildings which are considered open to the public (such as taverns and places of business) do not trigger Forbiddance. (Written invitations count as invitations for the purposes of Forbiddance.)
 
-#### Born From Death
+### Born From Death
 
 As vampires feed, they grow stronger, and as they fail to feed, they grow weaker. This is represented by the following stages:
 
@@ -44,7 +44,7 @@ As vampires feed, they grow stronger, and as they fail to feed, they grow weaker
 - *Partially fed* here means reduced to 0 HP with a Bite attack, and optionally impose three levels of exhaustion on the drained creature instead of consuming them, as above.
 - Any spells unlocked by *Born From Death* uses the save DC of their class. *Spider Climb* cast in this way has a range of Self.
 
-#### Unlocked Abilities
+### Unlocked Abilities
 
 **Misty Escape**
 A vampire PC at Stage 1 or higher can vanish in a puff of mist in response to harm. After you take damage, you can use your reaction to momentarily turn to a cloud of mist and teleport up to 30ft to an unoccupied space you can see. Once you use this feature, you can't use it again until you finish a short or long rest.
