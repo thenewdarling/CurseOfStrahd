@@ -1,0 +1,1 @@
+One of the two main factions in [[Vallaki]] -- they are where the city gets its name from. They oversaw the wall.

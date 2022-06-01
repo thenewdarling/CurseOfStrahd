@@ -1,0 +1,1 @@
+One of two Barovian gods, the other being the [[Morning Lord]].
