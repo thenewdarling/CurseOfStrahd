@@ -19,7 +19,8 @@ No more enemies immediately pressuring them, the party runs inside the church wi
 As we stand there, the vampire spawns encircle the Church’s grounds, not quite coming forward at first, but suddenly rushing in with gurgling and piercing screams of pain as they start disintegrating by approaching the holy ground. Sasha, hearing this, ushes the last people downstairs and closes the door. The party stands with Father Lucian and Blinksy.
 Blinksy tries to set of his traps, set all around the church, but the rush of vampire spawn’s has the wire torn and now he can’t pull the triggering pin out. We can see the little device 60 feet away, a throng of vampire spawns in the way. Jeremiah, eager to help, casts catapult, making the pin fly and setting the trap off. The party runs towards the altar, having 12 seconds to find cover.
 Finally, the explosives go off, causing the windows to burst in, sending splinters and broken glass flying everywhere. With a ringing in her ears, Magda quickly gets up, tending to the wounded. She stabilizes Father Lucian and bring Jeremiah back to consciousness. 
-[11:22] Arabelle (she/her): Suddenly there’s a different chill in the air. As mists tumble in through the broken windows, we see bats flying in, turning into the form of a man no other than Strahd von Zarovich!
+
+Suddenly there’s a different chill in the air. As mists tumble in through the broken windows, we see bats flying in, turning into the form of a man no other than Strahd von Zarovich!
 
 He glides towards Arlo, introducing himself and kissing his hand. He seems to be assumed, wanting to rewards us for our efforts. Seeing Father Lucian unconscious by the altar, he heals him. He admires Father Lucian’s devotion to the Morning Lord, even though he claims to have killed him centuries ago, ripping his heart out of his chest. As he talks, he hovers his hand over the bones of St. Andreal, slowing destroying them into dust.
 He sets the dust on fire and in the flames we see Lady Fiona Watcher in her study, surrounded by the vampire spawns, holding an amulet with the notable Watcher family Eye on it. She looks scared, a blue light glowing around her. But lamps flicker and shadows creep from the corners of the room, eventually involving her completely. The flames on the altar flare up, replacing the image by Lady Watcher’s body, trembling and at death’s door.
@@ -28,7 +29,7 @@ We hear screams of terror and pain from downstairs and people banging on the doo
 **The party ends with Magda on 29 HP, Jeremiah on 6 HP, Arlo on 5 HP, and Varian on 11 HP).**
 
 # Session 13 Post-Credits Sequence - 3rd January 2022
-##Vallaki - Day 11 since Arrival in Barovia
+## Vallaki - Day 11 since Arrival in Barovia
 
 Magda hovers over the Lady Watcher’s body. “What do I do?” she asks the party. “I know what I want to do, what my blood is screaming for constantly, but I’ve learned to ignore it. So what’s the right thing to do? And why would he do this?”
 

@@ -1,5 +1,5 @@
 # Session 15 -- 16th January 2022
-## On the Road to Kresk -- Day 14 since the party arrived in Barovia
+## On the Road to Krezk -- Day 14 since the party arrived in Barovia
 
 The battle for Rose's soul begins!!
 
