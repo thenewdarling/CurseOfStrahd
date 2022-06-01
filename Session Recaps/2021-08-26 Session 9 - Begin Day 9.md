@@ -24,7 +24,7 @@ Danton is not interested in Vallaki politics, and is thinking of Strahd. He know
 
 He gives us an invitation to the Watcher's dance, and a detailed, beautiful map of Barovia. We now know where Mafoo Forest is.
 
-"The devil is watching Vallaki. Though you are only rats in a maze, he does seem to enjoy watching you."
+*"The devil is watching Vallaki. Though you are only rats in a maze, he does seem to enjoy watching you."*
 
 The person who is following us reaches us, and Danton pulls out a fucking gun and kills him. He implies Blinksy made it for him. He is confirmed to be the person who gave Magda and Varian the letter of invitation to the Watchers.
 
@@ -46,6 +46,6 @@ Prince Rupert still trusts us and understands, but wished we'd chosen a better t
 
 Blinksy, Piccolo, Alec, Father Lucian and the Martikovs all sit round a table.
 
-"You know why we're here. Lady Watcher wants to bring the city to its knees. We're not going to let them."
+*"You know why we're here. Lady Watcher wants to bring the city to its knees. We're not going to let them."*
 
 **The party ends the session with the same HP as they began: Magda on 32HP, Jeremiah on 22HP, Arlo on 43HP, Varian on 25HP.**
