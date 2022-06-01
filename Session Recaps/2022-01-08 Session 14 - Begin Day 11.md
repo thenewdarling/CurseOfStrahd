@@ -37,7 +37,7 @@ Exhausted, the party arrive back at the Blue Water, stock the bar with wine from
 
 Magda prepares a salve for Jeremiah from the holy water, beeswax, etc. Arlo attunes to the Lady Watcher's amulet, and hangs it like a pocket watch in his waistcoat.
 
-Father Lucian chaps the door. He has a conversation with Jeremiah about more holy water, and asks Jeremiah if he can contact the Abbot of Kresk, and rekindle his faith. After the conversation with Strahd, and losing the bones of Saint Andreal, he has lost his faith that the Morning Lord is still watching over them.
+Father Lucian chaps the door. He has a conversation with Jeremiah about more holy water, and asks Jeremiah if he can contact the Abbot of Krezk, and rekindle his faith. After the conversation with Strahd, and losing the bones of Saint Andreal, he has lost his faith that the Morning Lord is still watching over them.
 
 Dargos is still bullish about making the armour -- Jacob's greatest work. The party pays him 500gp, and agrees to stop by the winery to find out what the status with his children, who left with Danika Martikov when the fighting broke out.
 
@@ -63,11 +63,11 @@ With that the party concludes their long rest, unlocking their full 6th level ab
 
 ## Riding out of Vallaki -- Day 13 since the party arrived in Barovia
 
-Magda prepares more salve. The party ride out towards the tower on the road to Kresk.
+Magda prepares more salve. The party ride out towards the tower on the road to Krezk.
 
 Varian notices they are being followed throughout the day. As night falls, and the Barovian mists begin to roll in, they suppose that whoever is following them will likely not be able to see them either, and they stop to rest for the evening.
 
-On the Road to the Tower at Kresk -- Day 14 since the party arrived in Barovia
+## On the Road to the Tower at Krezk -- Day 14 since the party arrived in Barovia
 
 As midnight passes, Magda takes first watch, and when she hears snarling out in the fog, she sends her new familiar Eden to have a look.
 

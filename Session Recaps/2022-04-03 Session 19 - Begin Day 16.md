@@ -1,5 +1,5 @@
 # Session 19 -- 3rd April 2022
-## Day 16 - Arabelle's house, on the Outskirts of Kresk
+## Day 16 - Arabelle's house, on the Outskirts of Krezk
 
 During downtime, Arabelle has a vision of the Tower falling, of Danton unconscious, possibly dead.
 
@@ -31,7 +31,7 @@ Adrianna is perplexed by Magda's decision to feast on the horse in the barn but 
 
 There is a funeral service for Urwin.
 
-We find out the Morninglord and the Night Mother looked over Barovia until the mists came. The Night Mother appears to be gone. (The Keepers of the Feather are followers of hers.) They think the Morninglord is also gone, but don't have the power to challenge the Church in Kresk. They try and warn people from Berez, and think the witches are likely the ones who broke the tree. (They guess.)
+We find out the Morninglord and the Night Mother looked over Barovia until the mists came. The Night Mother appears to be gone. (The Keepers of the Feather are followers of hers.) They think the Morninglord is also gone, but don't have the power to challenge the Church in Krezk. They try and warn people from Berez, and think the witches are likely the ones who broke the tree. (They guess.)
 
 Arabelle's brother went to Berez in the hope they would help him. The witches have links to Mother Night, and are the ones who Gertruda went looking for all the way back in Barovia Town. 
 

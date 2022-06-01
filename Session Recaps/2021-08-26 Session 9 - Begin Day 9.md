@@ -20,7 +20,7 @@ The Baron tasks us with "finding Izek's killer" by tomorrow, in time for the fes
 
 After leaving and regrouping with Jeremiah, Magda asks Danton why he vouched for us, and he asks us to follow him. He says we're being followed, and we stealth into an alleyway.
 
-Danton is not interested in Vallaki politics, and is thinking of Strahd. He knows the prophecy we were told by Madame Eva. He says he will help Ireena, and that there is a tower east of Kresk -- we should meet him there.
+Danton is not interested in Vallaki politics, and is thinking of Strahd. He knows the prophecy we were told by Madame Eva. He says he will help Ireena, and that there is a tower east of Krezk -- we should meet him there.
 
 He gives us an invitation to the Watcher's dance, and a detailed, beautiful map of Barovia. We now know where Mafoo Forest is.
 

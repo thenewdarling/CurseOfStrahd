@@ -16,7 +16,7 @@ The Baron is either really tight, broke, or both. He wants us to lead the parade
 
 We learn Izek is in prison getting medical attention. Normally he would be put to death for what he's done, but he is a close friend of the Vallakoviches. Back in the day, he was rescued by them after being left near-dead by the Witches of Berez.
 
-Jeremiah still wishes to go to Kresk soon to see about his illness.
+Jeremiah still wishes to go to Krezk soon to see about his illness.
 
 We leave the manor, with plans for downtime. Varian is going to try and visit Izek in prison against the wishes of the Baron, and Magda will assist if needed. She also needs to find a beast to feed on relatively soon it seems. Jeremiah and Arlo are going to do recon for the break-in to the Watchers' manor to rescue Stella's body.
 

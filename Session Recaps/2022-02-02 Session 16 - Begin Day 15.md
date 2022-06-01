@@ -1,9 +1,9 @@
 # Session 16 -- 2nd February 2022
-## Kresk -- Day 15 since the party arrived in Barovia
+## Krezk -- Day 15 since the party arrived in Barovia
 
-We begin with the party standing outside the gate to Kresk, having trekked up the hill and left their horses with Rerakir the stable keeper. As Jeremiah won't be allowed entry, Magda stays outside with him and Varian and Arlo go inside.
+We begin with the party standing outside the gate to Krezk, having trekked up the hill and left their horses with Rerakir the stable keeper. As Jeremiah won't be allowed entry, Magda stays outside with him and Varian and Arlo go inside.
 
-The guards make a small cut in Varian and Arlo's hands to show that they still bleed, and explain it's an anti-zombie measure. People undergoing zombification are turned away, and if someone is found to be in Kresk bitten they are separated in a cell until they turn, at which point they're killed. According to the guards, there's no cure.
+The guards make a small cut in Varian and Arlo's hands to show that they still bleed, and explain it's an anti-zombie measure. People undergoing zombification are turned away, and if someone is found to be in Krezk bitten they are separated in a cell until they turn, at which point they're killed. According to the guards, there's no cure.
 
 They meet Genril, who's short even for a halfling, and grumpy as fuck. We stan. He works for the abbey, and can't be arsed with Varian and Arlo's questions. They hand over 15gp like absolute rubes, and head to the food court.
 
@@ -21,7 +21,7 @@ Back inside the walls, Arlo and Varian go to talk to the Vistani traders. Panit,
 
 The Vistani traders come here to sell Alanatis flowers to the Krezkovs. They're hallucinogenic drugs they import to Barovia when Strahd lets them leave on their trading trips. Also, Shay, who is a kenku wares salesperson??? VERY CUTE WE MUST MEET YOU LITTLE BIRD SHOPKEEP
 
-The group reconvenes outside the main gate, and Jeremiah turns invisible. He walks past the guards behind everyone else. Magda has her hand cut. Meanwhile Magda sends Eden to scout over Kresk and finds the Abbey garden that Rerakir had mentioned. Looking through his eyes, she can see the monks milling about and the orb.
+The group reconvenes outside the main gate, and Jeremiah turns invisible. He walks past the guards behind everyone else. Magda has her hand cut. Meanwhile Magda sends Eden to scout over Krezk and finds the Abbey garden that Rerakir had mentioned. Looking through his eyes, she can see the monks milling about and the orb.
 
 Jeremiah (still invisible) decides to go look for an entrance other than the main doors, and we plan to break in under cover of night.
 
