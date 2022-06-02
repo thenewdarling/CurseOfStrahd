@@ -1,4 +1,4 @@
-**Lady Fiona Watcher**
+**Lady [[Fiona]] Watcher**
 
 Head of an old noble family of [[Vallaki]], they live in [[Watcher Manor]]. 
 

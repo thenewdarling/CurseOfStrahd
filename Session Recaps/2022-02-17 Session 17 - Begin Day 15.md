@@ -3,11 +3,11 @@
 
 Having successfully snuck into [[Krezk]] with his invisibility spell, Jeremiah does a reconnaissance mission, and before the spell runs out, the party enter the food court and attempt to hide him in a corner.
 
-They introduce him to Karloman, who attempts to be friendly but is clearly terrified.
+They introduce him to [[Karloman]], who attempts to be friendly but is clearly terrified.
 
-Markug spots the extra person in our group, and is on his way over, when Magda interposes herself between them. When it's clear he's not going to leave her, she uses her new vampire Charm ability and enthralls him, leading him away.
+[[Markug]] spots the extra person in our group, and is on his way over, when Magda interposes herself between them. When it's clear he's not going to leave her, she uses her new vampire Charm ability and enthralls him, leading him away.
 
-Varian questions him -- he doesn't know the guard shifts but his sister, Areti, will.
+Varian questions him -- he doesn't know the guard shifts but his sister, [[Areti]], will.
 
 Once it goes dark, they sneak into the Abbey -- Jeremiah flying over the fence, Magda using Spider Climb, and Varian throwing a rope over for Arlo. The shining orbs seem to pay them no mind, and the Monk praying at the foot of the pool is in some kind of trance.
 

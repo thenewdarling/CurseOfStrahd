@@ -3,13 +3,13 @@ Jeremiah Templeton (he/him): *The morning, Jeremiah is waiting downstairs for th
 [16:35] Jeremiah Templeton (he/him): "I know it's not the best, but if the blood doesn't have to be taken straight, we could source some donations maybe?"  
 [16:37] Magdalena de Luna (she/her): Magda looks more chipper than you've seen her in weeks as she prepares her bag for the day.  
 "Jeremiah. Good morning, I hope you slept well! ... Yes, I suppose we will need to source some chickens. My problem so far has been finding someone with disposable chickens, who won't ask questions when I come back every week for more."  
-[16:40] Jeremiah Templeton (he/him): Jeremiah seems emboldened by not being snapped at immediately. "Maybe we could go hunting this morning? There's no worry of not being let back in now lady Watcher is gone."  
+[16:40] Jeremiah Templeton (he/him): Jeremiah seems emboldened by not being snapped at immediately. "Maybe we could go hunting this morning? There's no worry of not being let back in now [[lady Watcher]] is gone."  
 [16:41] Jeremiah Templeton (he/him): "possibly we could say we're bringing the chickens somewhere else, no one needs to know they don't make it to the destination"  
 [16:44] Magdalena de Luna (she/her): "That could work. I did do a similar trick once back in Castle Redis. It worked, for a few months. Eventually, the guy started thinking I was middle-manning him and wanted to know who I was selling them to, so he could sell them directly...." She zones out. "Always looking a gift horse in a mouth."  
 [16:45] Magdalena de Luna (she/her): "In all honesty, my plans today were to try and source some diamonds. I'm still incapable of bringing any of you back if you decide to pop your clogs." She sniffs. "For the moment at least, I still need you." She boops his nose. "But sure, we can hunt chickens."  
 [16:46] Jeremiah Templeton (he/him): "What do you mean, for the moment?"  
 [16:47] Magdalena de Luna (she/her): "A joke, dear." She hoists her rucksack onto her back. "I know I don't make them very often. I'm a little rusty."  
-[16:51] Jeremiah Templeton (he/him): "I mean, we're both immortal at this point, shall we go hunt this morning? I don't think Blinksy will be up for a while and he's who I would ask for diamonds"  
+[16:51] Jeremiah Templeton (he/him): "I mean, we're both immortal at this point, shall we go hunt this morning? I don't think [[Blinksy]] will be up for a while and he's who I would ask for diamonds"  
 [16:57] Magdalena de Luna (she/her): "Why not..."  
 [16:58] Magdalena de Luna (she/her): She gestures to the door. "Lead the way, ranger."  
 [17:00] Jeremiah Templeton (he/him): Jeremiah flinches slightly at ranger, but tries to shrug it off  

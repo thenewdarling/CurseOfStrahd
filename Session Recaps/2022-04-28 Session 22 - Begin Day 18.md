@@ -3,11 +3,11 @@
 
 The party finds itself in an underground forest, an eery red glow coming off the earth.  Jeremiah and Varian come down from the tunnel and can hear Magda close by. They move towards the sound of her voice and fighting to find several Shades.
 
-Magda summons her spirit guardians, surrounding herself in a swirl of bats, charged with divine purpose and obliterating any Shade that dares come near. Fighting the remains of Nicholas’ spirit, a deformed humanoid figure with long fangs for a mouth, the party keeps getting grabbed, blinded and dragged away, constantly being separated. More and more Shades keep appearing, not matter how many are killed.
+Magda summons her spirit guardians, surrounding herself in a swirl of bats, charged with divine purpose and obliterating any Shade that dares come near. Fighting the remains of [[Nicholas]]’ spirit, a deformed humanoid figure with long fangs for a mouth, the party keeps getting grabbed, blinded and dragged away, constantly being separated. More and more Shades keep appearing, not matter how many are killed.
 
 Arlo is furthest away from the party but keeps advancing through the forest looking for his friends, shrugging off any Shades that come his way. As he gets closer to the sounds of fighting, a soft breeze brushes past and he sees red rose petals float North. He immediately follows it, shouting for the party to follow. Varian slashes at the final Shade in his way and dashes towards Arlo. Magda and Jeremiah get surrounded by Shades and can’t follow immediately.
 
-Arlo follows the petals towards an overgrown thicket with Varian right behind him. Arlo hacks at it to reveal the mostly decomposed body of Nicholas imprisoned in a tree, holding the hilt of a sword in his hand. Arlo reaches for the hilt and yanks it off the body. As he does so, he hears a loud, piercing screech, and everything goes even darker. Looking around, all he sees is darkness. 
+Arlo follows the petals towards an overgrown thicket with Varian right behind him. Arlo hacks at it to reveal the mostly decomposed body of [[Nicholas]] imprisoned in a tree, holding the hilt of a sword in his hand. Arlo reaches for the hilt and yanks it off the body. As he does so, he hears a loud, piercing screech, and everything goes even darker. Looking around, all he sees is darkness. 
 
 From the corner of his eye, he notices something move in the shadows. He hears scuttling sounds, like little creepers running about but, as he looks in that direction, nothing is there. He stands still, readying himself for whatever is coming, and as he focusses a bit longer, gazing into that darkness, he starts to see the form of a giant spider moving towards him, eight red eyes gazing back, hungry and hateful.
 
@@ -37,7 +37,7 @@ Arlo goes unconscious as darkness takes over. Varian picks up the hilt, and walk
 
 ___
 
-Magda and Jeremiah, keep fighting off Nicholas’ spirit and the unceasing stream of Shades. Intent on following Varian and finding Arlo, they hack away at their enemies, until a loud shriek fills their ears. Nicholas’ spirit disappears but they find themselves blocked by a thick wall of webs. Hearing Arlo’s voice on the other side, Jeremiah tries to get through the webs, but gets stuck. Desperate to get across, he blasts a fireball at the webs, burning them away, but scorching himself as well. A remaining Shade senses his weakness and slashes, dropping him unconscious.
+Magda and Jeremiah, keep fighting off [[Nicholas]]’ spirit and the unceasing stream of Shades. Intent on following Varian and finding Arlo, they hack away at their enemies, until a loud shriek fills their ears. [[Nicholas]]’ spirit disappears but they find themselves blocked by a thick wall of webs. Hearing Arlo’s voice on the other side, Jeremiah tries to get through the webs, but gets stuck. Desperate to get across, he blasts a fireball at the webs, burning them away, but scorching himself as well. A remaining Shade senses his weakness and slashes, dropping him unconscious.
 
 Magda finishes off the last of the Shades and everything goes still. The red glow is pulsating with less intensity each time, slowly fading, the only sounds her heavy breathing and the fire crackling away, consuming the last of the webs. Seeing Jeremiah on the ground, she quickly kneels over him and cures his wounds, bringing him back into consciousness.
 Before the light goes out, Magda sees Arlo just ahead, lying still, the smell of blood heavy in the air.
