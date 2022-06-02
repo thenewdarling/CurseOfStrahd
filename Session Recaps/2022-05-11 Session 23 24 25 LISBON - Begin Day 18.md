@@ -1,21 +1,21 @@
 
 # Session 23, 24, 25 – THE LISBON SPECIAL (11th-16th May 2022)
 
-## Day 18, Yester Hill
+## Day 18, [[Yester Hill]]
 
-Reeling from the betrayal by Varian, the party regroups and escapes back to the Winery.
+Reeling from the betrayal by Varian, the party regroups and escapes back to [[the Winery]].
 
-## Day 19, The Winery 
+## Day 19, [[The Winery]] 
 
-The party arrive back at the Winery, where they discuss what to do next.
+The party arrive back at [[the Winery]], where they discuss what to do next.
 
-They note already the crops at the winery seem to be rebudding. Arabelle gives the garden a bit of a helping hand with Plant Growth.
+They note already the crops at [[the winery]] seem to be rebudding. Arabelle gives the garden a bit of a helping hand with Plant Growth.
 
 Adrianna tells the party that like the Morning Lord, Mother Night's influence in Barovia is waning (no pun intended) and she's the last werewolf with control over her powers. There are others in the Mafoo Forest, but they haven't learned to tame the transformation. 
 
 As the party sleep outside, Jerry spots on his watch a procession of ghosts, leaving the hill and fading away.
 
-## Day 20, the Winery
+## Day 20, [[the Winery]]
 
 The party wake and take the day off in a long rest.
 
@@ -23,9 +23,9 @@ Come evening, when her spell slots return, Magda attempts to contact Ezmerelda, 
 
 She also uses Divination to ask Asmodeus where they might find the hilt of the sword, and is told a cryptic phrase about the Amber Temple.
 
-## Day 21, leaving the Winery
+## Day 21, leaving [[the Winery]]
 
-Arabelle joins the party as they head to the Tower. Notably we allow [[the Keepers of the Feather]] to organise retrieving Dargos and bringing him back to the Winery and his kids by themselves.
+Arabelle joins the party as they head to the Tower. Notably we allow [[the Keepers of the Feather]] to organise retrieving Dargos and bringing him back to [[the Winery]] and his kids by themselves.
 
 ## Day 22, arrival at the Tower
 

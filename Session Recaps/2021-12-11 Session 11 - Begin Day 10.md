@@ -37,7 +37,7 @@ With Jeremiah's invisibility and quick movement through the city, he goes alone 
 
 The rest of the party go to the Baron's manor to see Viktor and return Stella's body to him, but they're turned away by the guards. 
 
-Dejected they return to the Blue Water Inn. We learn that Danika has taken both the [[Weerdos]] and their own kids to safety. (There may be more here but notetaking brain went brrrrr.) 
+Dejected they return to the [[Blue Water Inn]]. We learn that Danika has taken both the [[Weerdos]] and their own kids to safety. (There may be more here but notetaking brain went brrrrr.) 
 
 ## Vallaki - Day 11 since Arrival in Barovia - The Day of the Parade
 
@@ -51,7 +51,7 @@ They try one last time to get into the Baron's manor and get an audience with Vi
 
 Though turned away by the guards again, the Lady Vallakovitch lets the party in and takes them to Viktor, who is bedridden, his body covered in welts and bruises. He is unconscious and it's unclear whether he'll make it. Magda casts Lesser Restoration and a 3rd level Cure Wounds on him, and his wounds appear to heal somewhat, and he regains consciousness.
 
-After allowing his mother a moment, Varian questions the boy. (I don't have notes of what he asked, but from memory it was just what had happened to him and Jakob of which he didn't know. Also to tell him that Cat!Stella is in the Blue Water Inn). It's clear the [[Vallakoviches]] are completely unaware of the Watcher's vampire plot, and will not listen to reason.
+After allowing his mother a moment, Varian questions the boy. (I don't have notes of what he asked, but from memory it was just what had happened to him and Jakob of which he didn't know. Also to tell him that Cat!Stella is in the [[Blue Water Inn]]). It's clear the [[Vallakoviches]] are completely unaware of the Watcher's vampire plot, and will not listen to reason.
 
 With that, the Baron leads the party to go and lead the parade as the original plan dictated. They pass the stocks, and find Henrick, hanged, with the word "TRAITOR" painted across his chest. With guilt in their hearts, they listen to the Baron's speech:
 

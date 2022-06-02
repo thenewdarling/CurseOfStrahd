@@ -100,13 +100,13 @@ The Dragonborn cannot cry, but the pain is clear in Prince Rupert’s eyes.
 
 Nobody seems keen to stay inside for long, and soon you are alone in the broken hall. A faint blue glow emanates from an amulet in the ash where Fiona’s body lay, the same you saw her clutching before she was overcome by shadows.
 
-Blinksy remains at the door, staring out. The church grounds are a mess of rubble and embers, no trace of the vampire spawn remains. In the dim light of the afternoon, the Eye of the Watcher manor gazes down over the town. Able townsfolk and the remaining guards tend to the wounded and start clearing the streets.
+Blinksy remains at the door, staring out. The church grounds are a mess of rubble and embers, no trace of the vampire spawn remains. In the dim light of the afternoon, the Eye of the [[Watcher manor]] gazes down over the town. Able townsfolk and the remaining guards tend to the wounded and start clearing the streets.
 
 In the direction of the Baron’s home, wisps of smoke can be seen in the distance.
 
 ___
 
-**With the 'Battle of Burning Sun' concluded, the party continues in downtime with Magda on 29 HP, Jeremiah on 6 HP, Arlo on 5 HP, and Varian on 11 HP.**
+**With the '[[Battle of Burning Sun]]' concluded, the party continues in downtime with Magda on 29 HP, Jeremiah on 6 HP, Arlo on 5 HP, and Varian on 11 HP.**
 
 # Credit
 

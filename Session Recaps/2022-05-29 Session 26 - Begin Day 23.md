@@ -11,7 +11,7 @@ Magda heals the two Elvish captives and attempts to mitigate some of damage to A
 
 Jeremiah leads the party back to the path, and we backtrack to get our horses. 
 
-The two captives are Luca and Shaun, merchants from Krezk who were on their way to Vallaki when they were mugged. They agree to be accompanied to Vallaki for safety. Upon being told they've been saved by the Heroes of Burning Sun, they are amazed, saying "we thought one of you was an elf!" This does not get a happy response. 
+The two captives are Luca and Shaun, merchants from [[Krezk]] who were on their way to Vallaki when they were mugged. They agree to be accompanied to Vallaki for safety. Upon being told they've been saved by the Heroes of Burning Sun, they are amazed, saying "we thought one of you was an elf!" This does not get a happy response. 
 
 After getting the two horses, they let the two injured merchants ride them.
 

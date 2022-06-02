@@ -3,7 +3,7 @@
 
 *(Out of character -- Kate is group treasurer now.)*
 
-After discovering the [[Vallakoviches]]' Manor has been burned down by Karl Watcher, we escort Viktor, his mother, and the newly recovered Stella to the Watcher Manor, where they can stay for now while the town is in chaos. Viktor explains that they were able to escape to safety through the Teleportation Circle Viktor was testing that made Stella a cat to begin with, and thus they were at Alec's when the house actually began to burn down.
+After discovering the [[Vallakoviches]]' Manor has been burned down by Karl Watcher, we escort Viktor, his mother, and the newly recovered Stella to the [[Watcher Manor]], where they can stay for now while the town is in chaos. Viktor explains that they were able to escape to safety through the Teleportation Circle Viktor was testing that made Stella a cat to begin with, and thus they were at Alec's when the house actually began to burn down.
 
 On the way to the [[Watchers]]' Manor, there is looting in the streets, and the party happen to run into Alec, who doesn't know what happened to Nikolai and Lady Watcher.
 
@@ -11,7 +11,7 @@ We split up to help the relief effort -- Team Edgy (Varian and Magda) go to help
 
 Arlo lifts a door back into place while Jeremiah tries to work out how to fix it with magic. Arlo: "I'm not a magic man! I just hold the doors!"
 
-Prince Rupert uses his dragonborn breath weapon to make new stained glass windows for the church. Father Lucian provides Jeremiah with some more holy water. They discover Blinksy likely has the only key to the Blue Water Inn, where they were going to stay for the night.
+Prince Rupert uses his dragonborn breath weapon to make new stained glass windows for the church. Father Lucian provides Jeremiah with some more holy water. They discover Blinksy likely has the only key to the [[Blue Water Inn]], where they were going to stay for the night.
 
 Team Edgy are waylaid when they come across people looting Francis' apothecary. After failing to intimidate them into leaving, one of them breaks open a box under Francis' desk, smashing the potion of cackle fever he had confiscated from the party.
 
@@ -37,9 +37,9 @@ Exhausted, the party arrive back at the Blue Water, stock the bar with wine from
 
 Magda prepares a salve for Jeremiah from the holy water, beeswax, etc. Arlo attunes to the Lady Watcher's amulet, and hangs it like a pocket watch in his waistcoat.
 
-Father Lucian chaps the door. He has a conversation with Jeremiah about more holy water, and asks Jeremiah if he can contact the Abbot of Krezk, and rekindle his faith. After the conversation with Strahd, and losing the bones of Saint Andreal, he has lost his faith that the Morning Lord is still watching over them.
+Father Lucian chaps the door. He has a conversation with Jeremiah about more holy water, and asks Jeremiah if he can contact the Abbot of [[Krezk]], and rekindle his faith. After the conversation with Strahd, and losing the bones of Saint Andreal, he has lost his faith that the Morning Lord is still watching over them.
 
-Dargos is still bullish about making the armour -- [[Jakob]]'s greatest work. The party pays him 500gp, and agrees to stop by the winery to find out what the status with his children, who left with Danika Martikov when the fighting broke out.
+Dargos is still bullish about making the armour -- [[Jakob]]'s greatest work. The party pays him 500gp, and agrees to stop by [[the winery]] to find out what the status with his children, who left with Danika Martikov when the fighting broke out.
 
 Later in the day, we arrive at the town centre to hear the speech by the surviving [[Vallakoviches]] and the [[Watchers]].
 
@@ -49,9 +49,9 @@ He names Alec as the new captain of the city guard.
 
 He asks the people of Vallaki to give thanks to us, remembering yesterday as the Feast of Saint Andreal, and dubbing us "the Heroes of Burning Sun" (yo party name??)
 
-Finally, Father Lucian reveals to Jeremiah that to his memory, there was a holy water source at the winery.
+Finally, Father Lucian reveals to Jeremiah that to his memory, there was a holy water source at [[the winery]].
 
-We go to the Watcher Manor, where the [[Vallakoviches]] now live with Stella. It doesn't carry the same air it once did. Magda chooses to remain downstairs, not wishing to see them -- whether she feels guilt about entreating the devil to save Viktor's life, or for killing and drinking the blood of Stella's mother, she does not say.
+We go to the [[Watcher Manor]], where the [[Vallakoviches]] now live with Stella. It doesn't carry the same air it once did. Magda chooses to remain downstairs, not wishing to see them -- whether she feels guilt about entreating the devil to save Viktor's life, or for killing and drinking the blood of Stella's mother, she does not say.
 
 The party ask about Sasha. Lydia says that Sasha has her sympathies, but she chose this life. The party also reveal that Lady Watcher was killed "by Strahd" -- Arlo and Jeremiah specifically speak over Varian revealing that Magda gave the killing blow.
 
@@ -63,11 +63,11 @@ With that the party concludes their long rest, unlocking their full 6th level ab
 
 ## Riding out of Vallaki -- Day 13 since the party arrived in Barovia
 
-Magda prepares more salve. The party ride out towards the tower on the road to Krezk.
+Magda prepares more salve. The party ride out towards the tower on the road to [[Krezk]].
 
 Varian notices they are being followed throughout the day. As night falls, and the Barovian mists begin to roll in, they suppose that whoever is following them will likely not be able to see them either, and they stop to rest for the evening.
 
-## On the Road to the Tower at Krezk -- Day 14 since the party arrived in Barovia
+## On the Road to the Tower at [[Krezk]] -- Day 14 since the party arrived in Barovia
 
 As midnight passes, Magda takes first watch, and when she hears snarling out in the fog, she sends her new familiar Eden to have a look.
 

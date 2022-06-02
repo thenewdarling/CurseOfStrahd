@@ -1,7 +1,7 @@
 # Session 17 -- 17th February 2022
-## Krezk -- (the night of) Day 15 since the party arrived in Barovia
+## [[Krezk]] -- (the night of) Day 15 since the party arrived in Barovia
 
-Having successfully snuck into Krezk with his invisibility spell, Jeremiah does a reconnaissance mission, and before the spell runs out, the party enter the food court and attempt to hide him in a corner.
+Having successfully snuck into [[Krezk]] with his invisibility spell, Jeremiah does a reconnaissance mission, and before the spell runs out, the party enter the food court and attempt to hide him in a corner.
 
 They introduce him to Karloman, who attempts to be friendly but is clearly terrified.
 
@@ -31,7 +31,7 @@ Arlo lets Varian go first, and scoops up Magda. "Come on, old girl." He backs in
 
 The monk, who was starting to rouse, enters his trance again.
 
-The party, half unconscious and all exhausted, find themselves on the inside of what may be the most dangerous building in Krezk, guilty of breaking and entering if we are discovered.
+The party, half unconscious and all exhausted, find themselves on the inside of what may be the most dangerous building in [[Krezk]], guilty of breaking and entering if we are discovered.
 
 Great job, guys. We're geniuses.
 

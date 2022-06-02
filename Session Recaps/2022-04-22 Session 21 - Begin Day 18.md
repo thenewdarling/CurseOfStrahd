@@ -1,5 +1,5 @@
 # Session 21 - 22nd April 2022
-## Day 18, Yester Hill
+## Day 18, [[Yester Hill]]
 
 
 #### Further summary to come

@@ -1,5 +1,5 @@
 # Session 22 – 28th April 2022
-## Day 18, Yester Hill
+## Day 18, [[Yester Hill]]
 
 The party finds itself in an underground forest, an eery red glow coming off the earth.  Jeremiah and Varian come down from the tunnel and can hear Magda close by. They move towards the sound of her voice and fighting to find several Shades.
 

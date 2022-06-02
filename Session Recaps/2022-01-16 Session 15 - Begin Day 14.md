@@ -1,5 +1,5 @@
 # Session 15 -- 16th January 2022
-## On the Road to Krezk -- Day 14 since the party arrived in Barovia
+## On the Road to [[Krezk]] -- Day 14 since the party arrived in Barovia
 
 The battle for Rose's soul begins!!
 
@@ -40,15 +40,15 @@ She's impressed, says we fight like demons, and seems to know who we are. She in
 
 She gives us a variety of information -- she reveals that she travelled over the area where we claim the Tower is, and didn't see it. She also reveals that Danton was actually the mythical vampire hunter Van Richten all along!
 
-Ezmerelda says we will be unable to sleep through the night with the undead hordes shambling around like this, and so we agree to travel with her to the crossroads leading to both the tower and Krezk.
+Ezmerelda says we will be unable to sleep through the night with the undead hordes shambling around like this, and so we agree to travel with her to the crossroads leading to both the tower and [[Krezk]].
 
-We reach the turn off to the tower, and Jeremiah makes his stand that we should go to Krezk first to help him. This is the point he realises that Arlo never actually knew he was a zombie. Ezmerelda goes to the Tower without us, and we cross our fingers we'll be able to find Van Richten after this.
+We reach the turn off to the tower, and Jeremiah makes his stand that we should go to [[Krezk]] first to help him. This is the point he realises that Arlo never actually knew he was a zombie. Ezmerelda goes to the Tower without us, and we cross our fingers we'll be able to find Van Richten after this.
 
-This night, we rest overnight, on the outskirts of Krezk. (No-one manages to remove their point of exhaustion to my knowledge.)
+This night, we rest overnight, on the outskirts of [[Krezk]]. (No-one manages to remove their point of exhaustion to my knowledge.)
 
-## Approaching Krezk -- Day 15 since the party arrived in Barovia
+## Approaching [[Krezk]] -- Day 15 since the party arrived in Barovia
 
-We wake, and are approaching Krezk. We notice the fog is thicker out west, and something tells us that's the end of the line -- the outer edge of the world of Barovia. Inside that fog is likely nothing but madness, death and a fall into infinite nothing.
+We wake, and are approaching [[Krezk]]. We notice the fog is thicker out west, and something tells us that's the end of the line -- the outer edge of the world of Barovia. Inside that fog is likely nothing but madness, death and a fall into infinite nothing.
 
 There is a mountain structure with a path snaking up, and we're walking along the road when we find a horse lying on the ground twitching. It's broken its leg, seemingly having fallen from jumping over the fence. Its rider is underneath it, crushed to death.
 

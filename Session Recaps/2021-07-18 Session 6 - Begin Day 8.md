@@ -2,8 +2,8 @@
 
 ## Downtime Day - Vallaki - Day 8 since Arrival in Barovia
 
-The party eats breakfast in the Blue Water Inn.
-Varian and Arlo go to find a blacksmith - The Authors of Iron. Varian overhears two thieves dissing the place, and suggest the two go to Prince Ruper's -- a dragonborn blacksmith who crafts magical weapons imbued with dragon flame, can silver existing weapons, and makes "Lifehunter" weapons that appear like blown glass.
+The party eats breakfast in the [[Blue Water Inn]].
+Varian and Arlo go to find a blacksmith - The [[Authors of Iron]]. Varian overhears two thieves dissing the place, and suggest the two go to Prince Ruper's -- a dragonborn blacksmith who crafts magical weapons imbued with dragon flame, can silver existing weapons, and makes "Lifehunter" weapons that appear like blown glass.
 
 Magda goes to investigate the Lady Watcher's manor, but achieves nothing but pissing off the guard with her haughtiness.
 
@@ -11,7 +11,7 @@ Jeremiah goes to a magic store and buys The Little Book of Necromancy, containin
 
 *(Magdalena whisper)* Magda runs into Sasha outside the church, who says she knows what she is, and gives her notes on vampirism -- implying that Asmodeus' pact alone will not be able to hold back her curse.
 
-Jeremiah and Magda run into each other outside the church and investigate the history of the Abbot of Krezk with Father Lucian. The Church is grander than in Barovia Town, though desolate. The symbology is the same though, and the window which overlooks Castle Ravenloft in the background. Apparently he will heal people of a zombie curse, a handful of people a year.
+Jeremiah and Magda run into each other outside the church and investigate the history of the Abbot of [[Krezk]] with Father Lucian. The Church is grander than in [[Barovia Town]], though desolate. The symbology is the same though, and the window which overlooks Castle Ravenloft in the background. Apparently he will heal people of a zombie curse, a handful of people a year.
 
 They go to Blinksy's. (IS NO FUN? IS NO BLINKSY!) And buy toys for [[Freek and Myrtle]]. Blinksy recognises Arlo, he has been crafting a doll in the likeness of Arlo and Alessandra - after receiving a message from her, to let Arlo know he's ok and she's thinking of him.
 

@@ -1,5 +1,5 @@
 # Session 18 -- 18th February 2022
-## Krezk -- crossing midnight into Day 16 since the party arrived in Barovia
+## [[Krezk]] -- crossing midnight into Day 16 since the party arrived in Barovia
 
 As Magda and Jeremiah are roused from their Life Drain sleep, the party consider their options -- inside the Krezkov's home.
 
@@ -21,7 +21,7 @@ Yalom can't heal Jeremiah's curse, but he can freeze it in his tracks. He sews J
 
 Sergei shows us an exit which leads us out further down the mountain, past the borders of the city. Knowing no doubt Markug's charm effect has worn off and he's told everyone, we're in deep trouble -- we head down to find Arabelle's home, as Sergei tells us she can offer us another reading.
 
-Eventually finding her in the fields outside Krezk, she seems to know we were coming. She offers us a bed for the night, and in the morning she's poking at a roast chicken in the oven.
+Eventually finding her in the fields outside [[Krezk]], she seems to know we were coming. She offers us a bed for the night, and in the morning she's poking at a roast chicken in the oven.
 
 "Sometimes, people who are lost need someone to tell them where to go."
 

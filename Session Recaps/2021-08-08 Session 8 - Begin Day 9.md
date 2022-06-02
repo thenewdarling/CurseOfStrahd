@@ -22,13 +22,13 @@ Meanwhile, Arlo and Jeremiah go on a stakeout of the [[Watchers]]' Manor. There 
 
 They overhear two male voices -- one almost hysterical, one firm. Peering through the gap in the fence, they see the cellar door open -- the two Watcher brothers chuck an elderly man out, tell him not to come back. The elderly man is a bit drunk.
 
-Jeremiah hides from the man, Arlo pretends to be looking for a place of shelter to light his cigar. They talk, and agree to help him. Jeremiah makes this man invisible, and they lead him back to the Blue Water Inn. His name is Henrick van der Voort.
+Jeremiah hides from the man, Arlo pretends to be looking for a place of shelter to light his cigar. They talk, and agree to help him. Jeremiah makes this man invisible, and they lead him back to the [[Blue Water Inn]]. His name is Henrick van der Voort.
 
 Henrik tells the story of what happened to him:
 
 He was approached by the Watcher brothers. He's the local coffin maker and runs the morgue. He didn't have any prior affiliation with the [[Watchers]] but the money was good. He was instructed to make some coffins but not to take them to the burial grounds, instead to keep them in the upper floor of his house. Just a few to start, but the numbers started to tick up.
 
-Eventually he notices that some of the bodies in the coffins are having small movements. He goes to the [[Watchers]], tries to back out. They put him in a hotel -- the Pale Horse Inn. He tried to back out again, and they threatened him. They forced him to exhume the remains of St Andreal from the church and hide them outside the city.
+Eventually he notices that some of the bodies in the coffins are having small movements. He goes to the [[Watchers]], tries to back out. They put him in a hotel -- the [[Pale Horse Inn]]. He tried to back out again, and they threatened him. They forced him to exhume the remains of St Andreal from the church and hide them outside the city.
 
 He is distraught and ashamed. A few hours before this conversation, the Brothers Watcher retrieved the key to the room with the bodies from the morgue.
 
@@ -36,7 +36,7 @@ Varian has a vision which shows the hags seemingly consuming Rose's soul, turnin
 
 A man with a lantern approaches them and gives them an envelope with the Lady Watcher's seal, in the shape of an eye. She wishes to speak with them in two hours (10pm).
 
-They arrive back at the Blue Water Inn and discover Jeremiah and Arlo's situation. Magda tips Danika Martikov 2gp, lets them know that there is an additional person in their room, and asks for discretion. (She doesn't say who it is when prompted.)
+They arrive back at the [[Blue Water Inn]] and discover Jeremiah and Arlo's situation. Magda tips Danika Martikov 2gp, lets them know that there is an additional person in their room, and asks for discretion. (She doesn't say who it is when prompted.)
 
 We have a toast to Rose's memory, and Ireena finds them and asks what's going on. Magda tells them about the vision of Rose. Ireena is troubled by this. We don't tell her we know where the bones of St Andreal are yet -- we're going to go to Lady Watcher's first.
 

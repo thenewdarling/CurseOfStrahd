@@ -1,5 +1,5 @@
 [30-May-21 05:47 PM] Magdalena de Luna (she/her)
-*The party have stopped in the Vistani camp to take a long rest of 24 hours*
+*The party have stopped in the [[Vistani camp]] to take a long rest of 24 hours*
 
 
 [30-May-21 09:55 PM] Magdalena de Luna (she/her)
@@ -64,7 +64,7 @@ no worries! (we have weeks after all haha)
 
 [01-Jun-21 08:44 PM] Varian Lo'Gosh (he/him)
 Just one more detail I'd like to add to my downtime meanders:
-As Varian explores the Vistani camp, he spots Radu. Still bitter about him rigging the game, he sends Rose, in her invisible form, to spy on him for a couple of games and see if she can tell how Radu tricks people. After that, once Radu retires for the night, she'll follow him and try to find out where he'd keep Varian's and Magda's hair strands.
+As Varian explores the [[Vistani camp]], he spots Radu. Still bitter about him rigging the game, he sends Rose, in her invisible form, to spy on him for a couple of games and see if she can tell how Radu tricks people. After that, once Radu retires for the night, she'll follow him and try to find out where he'd keep Varian's and Magda's hair strands.
 
 {Reactions}
 👀 
@@ -191,7 +191,7 @@ Btw! I would like to make sure we get like an evening wine or something during t
 @UsernameOfRassilon @thenewdarling Father Rurick’s note shows a slightly more complicated process than he let on, perhaps mundane to him now after years of practice. At least there is no indication expiration will be an issue…
 The salve requires: bee’s wax + water taken from holy ground + 4 hours downtime to imbue with minor restoration (DC12 WIS check for success). Multiple batches can be attempted at a time.
 
-A Vistani cleric is willing to sell holy water for 5gp, enough for three batches. He believes the only one capable of a more permanent cure would be the abbot at Krezk.
+A Vistani cleric is willing to sell holy water for 5gp, enough for three batches. He believes the only one capable of a more permanent cure would be the abbot at [[Krezk]].
 
 {Reactions}
 boudicca 
@@ -204,7 +204,7 @@ boudicca
 @varian  @arlo  In search of details about your strange surroundings, you find yourself directed towards the camp elders. From them you find,
 -    The Vistani people have always called Barovia their home, their ancestors once helped Strahd when he was still human, lost and injured in their valley. It is for this past kindness that he offers the Vistani temporary leave from the mists. Their deal now is for protection, and in return they draw more souls to Barovia.
 -    The Martikov family are worth seeking out in Vallaki, they are good people. The mayor on the other hand is an unhinged man, his best intentions twisted by fear. There is a great deal of unrest in the city.
--    Avoid the wildlife, period. The zombies in Barovia are infused with a greater evil than those created by traditional necromancy, this is the work of the witches in Berez to the south.
+-    Avoid the wildlife, period. The zombies in Barovia are infused with a greater evil than those created by traditional necromancy, this is the work of the witches in [[Berez]] to the south.
 -    If you’re on the lookout for poisons, Corpse Flowers grow down by the water, the kids know not to touch them. "Poison is the least of our worries these days though, many children have gone missing over the last month. Distressingly there are many possible culprits, a small hunting party is out investigating the cause, they were due back yesterday…"
 
 {Reactions}
@@ -225,7 +225,7 @@ Varian tries to find out more about the missing children. Who are the other poss
 👍 
 
 [06-Jun-21 06:08 PM] Jeremiah Templeton (he/him)
-Priority one: where in the nine hells is krezk? This will tell me how much holy water I need.
+Priority one: where in the nine hells is [[krezk]]? This will tell me how much holy water I need.
 Side note how many days per batch?
 
 
@@ -246,7 +246,7 @@ That's just for Jeremiah btw
 
 
 [06-Jun-21 06:31 PM] TenderstDM
-3-4 days ride west of Vallaki! (Vallaki itself is about 3-4 days ride from the Vistani camp)
+3-4 days ride west of Vallaki! (Vallaki itself is about 3-4 days ride from the [[Vistani camp]])
 
 
 [06-Jun-21 06:32 PM] Magdalena de Luna (she/her)
@@ -411,7 +411,7 @@ I realise how that sounds now 😅
 
 [10-Jun-21 08:16 PM] Varian Lo'Gosh (he/him)
 Varian goes looking for Magda, Jeremiah, Arlo and Ireena.
-"I have some information I need to share with you. There seems to be a serious threat to the Vistani people south of this camp. Their children have started to go missing, and like the elders said, they've sent a small hunting party to investigate this, but they have not returned. I've met one of the missing children's mother and she believes the culprits are night hags. She mentioned a windmill and a place called Berez. We need to help them!"
+"I have some information I need to share with you. There seems to be a serious threat to the Vistani people south of this camp. Their children have started to go missing, and like the elders said, they've sent a small hunting party to investigate this, but they have not returned. I've met one of the missing children's mother and she believes the culprits are night hags. She mentioned a windmill and a place called [[Berez]]. We need to help them!"
 
 
 [10-Jun-21 08:20 PM] Varian Lo'Gosh (he/him)
@@ -468,7 +468,7 @@ Varian looks uncomfortable for a bit but tries to sound calm and not show emotio
 
 
 [19-Jun-21 01:25 PM] TenderstDM
-During your last night at the Vistani camp there is further commotion. Three of the hunting party have returned, but not as they left. They stare blankly at their old friends – the three seem only to be shells of the people they once were. Tied to one, a bag of pastries and a note: 
+During your last night at the [[Vistani camp]] there is further commotion. Three of the hunting party have returned, but not as they left. They stare blankly at their old friends – the three seem only to be shells of the people they once were. Tied to one, a bag of pastries and a note: 
 *Dreams are for the living my dears, so do make the most of yours. 
 Bella, Ofelia & Mother Mog.*
 
@@ -490,7 +490,7 @@ Curse of Strahd - Game - downtime [848603337732522034].txt_Files\tenor-8F09B.png
 
 “I admit I wronged you – I do what I need to keep going out here, and in all honesty, I’d do it again. That said, you look to aid us now, at great risk to your own.” Radu presents, and returns, a small lock of Magda’s hair, “I’m afraid I no longer have the others”.
 
-“If you do go, don’t think you can win in a straight fight. Sometimes you gotta fight dirty. If you can disrupt that mill – we still know it as the Old Bonegrinder – you might buy us time to put up our wards, and send warning to Barovia Town and Vallaki.”
+“If you do go, don’t think you can win in a straight fight. Sometimes you gotta fight dirty. If you can disrupt that mill – we still know it as the Old Bonegrinder – you might buy us time to put up our wards, and send warning to [[Barovia Town]] and Vallaki.”
 
 He rummages around in his pocket, “take this too, break the glass and it has a good shot at holding back anyone – or any hag – nearby.” He hands you a thin chain with a glass bead, clear but with flashes of purple when it catches the light. “I’ve been saving it for a sticky situation.”
 
@@ -671,7 +671,7 @@ And also to speak to father Lucian about the abbot at kresk
 
 [15-Jul-21 09:17 PM] TenderstDM
 Both excellent rolls :boudicca: 
-In the heart of town you find a busy blacksmith signposted ‘The Authors of Iron’. The prices and craftsmanship appear reasonable but as you’re hanging back observing the wares you overhear two dwarves sniggering amongst themselves. To you Arlo it sounds like drunken ramblings, but Varian, you pick up on the true conversation spoken in Thieve’s Cant!
+In the heart of town you find a busy blacksmith signposted ‘The [[Authors of Iron]]’. The prices and craftsmanship appear reasonable but as you’re hanging back observing the wares you overhear two dwarves sniggering amongst themselves. To you Arlo it sounds like drunken ramblings, but Varian, you pick up on the true conversation spoken in Thieve’s Cant!
 “Can you believe the city guards wear this scrap? Probably looks alright to them, poor bastards…”
 Subtly you let it be known that you have understood their discussion. Now usually one rogue would welcome another, but these two, they stand uneasy as they size you up, “I don’t recognise the face, but I’ll be damned if I ain’t staring into the eyes of the guard captain. Who are you Drow, and what business do you have with us here?”
 
@@ -1336,7 +1336,7 @@ The Dragonborn cannot cry, but the pain is clear in Prince Rupert’s eyes.
 
 Nobody seems keen to stay inside for long, and soon you are alone in the broken hall. A faint blue glow emanates from an amulet in the ash where Fiona’s body lay, the same you saw her clutching before she was overcome by shadows.
 
-Blinksy remains at the door, staring out. The church grounds are a mess of rubble and embers, no trace of the vampire spawn remains. In the dim light of the afternoon, the Eye of the Watcher manor gazes down over the town. Able townsfolk and the remaining guards tend to the wounded and start clearing the streets.
+Blinksy remains at the door, staring out. The church grounds are a mess of rubble and embers, no trace of the vampire spawn remains. In the dim light of the afternoon, the Eye of the [[Watcher manor]] gazes down over the town. Able townsfolk and the remaining guards tend to the wounded and start clearing the streets.
 
 *In the direction of the Baron’s home, wisps of smoke can be seen in the distance.*
 
@@ -1837,7 +1837,7 @@ Magda is still casting Find Familiar outside, drawing her wee chalk circle and l
 
 With a start, she looks back up, “That said, fate’s a funny thing!”
 
-“I’ve been thinking too. I’m going to come with you when you head out for Berez. I know you’ve not been asked to go yet, but once you have, I’ll be there.”
+“I’ve been thinking too. I’m going to come with you when you head out for [[Berez]]. I know you’ve not been asked to go yet, but once you have, I’ll be there.”
 She stands looking pleased with her decision for a moment, before turning about on the spot, “Now, time for breakfast! Who wants eggs? Nom nom, only the best from my hens.”
 
 
