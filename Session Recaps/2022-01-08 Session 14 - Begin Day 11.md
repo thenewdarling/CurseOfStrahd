@@ -39,7 +39,7 @@ Magda prepares a salve for Jeremiah from the holy water, beeswax, etc. Arlo attu
 
 Father Lucian chaps the door. He has a conversation with Jeremiah about more holy water, and asks Jeremiah if he can contact the Abbot of Krezk, and rekindle his faith. After the conversation with Strahd, and losing the bones of Saint Andreal, he has lost his faith that the Morning Lord is still watching over them.
 
-Dargos is still bullish about making the armour -- Jacob's greatest work. The party pays him 500gp, and agrees to stop by the winery to find out what the status with his children, who left with Danika Martikov when the fighting broke out.
+Dargos is still bullish about making the armour -- [[Jakob]]'s greatest work. The party pays him 500gp, and agrees to stop by the winery to find out what the status with his children, who left with Danika Martikov when the fighting broke out.
 
 Later in the day, we arrive at the town centre to hear the speech by the surviving Vallakoviches and the Watchers.
 

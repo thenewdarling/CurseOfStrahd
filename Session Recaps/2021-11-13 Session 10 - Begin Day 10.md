@@ -12,7 +12,7 @@ Lady Watcher is likely in alignment with Strahd. The vampire spawn answer only t
 
 Sasha comes out, having been hiding on the ceiling as a bat. She informs us that Ireena has gone north in vain -- the Watchers have already retrieved the bones of Saint Andreal. If we can steal the bones from the Watcher Manor, we can use them to turn the church into a safe haven from the vampire hordes.
 
-Jacob and Dargos arrive, and Prince Rupert goes to sort silvered weapons for a defence, and Lifehunter weapons to provide to Arlo and Varian.
+[[Jakob]] and Dargos arrive, and Prince Rupert goes to sort silvered weapons for a defence, and Lifehunter weapons to provide to Arlo and Varian.
 
 The Watcher's party is tonight which provides an ideal time to break in -- Magda will use the invitation to bypass the need to be invited in and try to get the key to Stella's room. The others will sneak in through the back to get the bones.
 

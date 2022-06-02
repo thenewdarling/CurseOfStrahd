@@ -586,7 +586,7 @@ Ireena scoffs, “It will take more than games and shadows to get the better of 
 *****
 By the time you head downstairs, the commotion in the hallway has past and Ireena has already left for the Baron’s manor. Danika greets you and offers a simple breakfast of oats and berries.
 
-- Alek, the guard that met you and Victor at the wall, came by late last night. He has left directions to the home of Freek and Myrtle, along with 50gp as thanks from the children’s fathers.
+- Alek, the guard that met you and Victor at the wall, came by late last night. He has left directions to the home of [[Freek and Myrtle]], along with 50gp as thanks from the children’s fathers.
 - Urwin sits with you awhile. He speculates more about the fate of his cousin over at the vineyard, perhaps he shall investigate himself. Business has been slow, they currently only have one other staying guest, although a well-paying one. Danton, the Great Performer. He’s here from Kresk to help with the Baron’s upcoming Festival of the Blazing Sun, and has become quite the local celebrity. He’s hard to pin down, but seems to frequent the toy maker Blinksy’s store - maybe you’re familiar with his wares?
 - Danika suggests stopping by the church, Father Lucian knows everyone about town and could tell you Barovia’s history better than most. She also points you towards the markets, there are many stalls in the town square and shops squirrelled away down Vallaki’s cobbled streets. “Just yous be careful not to lose your feet, there’s no knowing where you might get swept off to!”
 
@@ -1026,7 +1026,7 @@ It was about 600GP total, right? Selfishly, I only wrote down that Varian's woul
 
 
 [09-Aug-21 05:50 PM] Magdalena de Luna (she/her)
-I think so yeah, that was to cover everyone's including Myrtle and Freek's das
+I think so yeah, that was to cover everyone's including [[Freek and Myrtle]]'s das
 
 
 [09-Aug-21 05:50 PM] Magdalena de Luna (she/her)
@@ -1080,7 +1080,7 @@ We should move this to #player-huddle now that i think of it haha
 👀 
 
 [18-Aug-21 12:56 PM] TenderstDM
-At breakfast Urwin comes over to you and puts a small envelope on your table, “Almost forgot in all the chaos this morning, Jacob came by with this. I hope it's good news."
+At breakfast Urwin comes over to you and puts a small envelope on your table, “Almost forgot in all the chaos this morning, [[Jakob]] came by with this. I hope it's good news."
 
 The letter reads:
 

@@ -13,18 +13,18 @@ Jeremiah goes to a magic store and buys The Little Book of Necromancy, containin
 
 Jeremiah and Magda run into each other outside the church and investigate the history of the Abbot of Krezk with Father Lucian. The Church is grander than in Barovia Town, though desolate. The symbology is the same though, and the window which overlooks Castle Ravenloft in the background. Apparently he will heal people of a zombie curse, a handful of people a year.
 
-They go to Blinksy's. (IS NO FUN? IS NO BLINKSY!) And buy toys for Freek and Myrtle. Blinksy recognises Arlo, he has been crafting a doll in the likeness of Arlo and Alessandra - after receiving a message from her, to let Arlo know he's ok and she's thinking of him.
+They go to Blinksy's. (IS NO FUN? IS NO BLINKSY!) And buy toys for [[Freek and Myrtle]]. Blinksy recognises Arlo, he has been crafting a doll in the likeness of Arlo and Alessandra - after receiving a message from her, to let Arlo know he's ok and she's thinking of him.
 
 Magda pays Varian back for the room cost the night before, and decides now is the time to tell Jeremiah, Arlo and Varian about her curse.
 
 
 ## Vallaki - Day 9 since Arrival in Barovia
 
-The party plan to go to the Baron's after dropping off the toys. Freek and Myrtle's dads - Jacob and Dargos.
+The party plan to go to the Baron's after dropping off the toys. [[Freek and Myrtle]]'s dads - [[Jakob]] and Dargos.
 
 Ireena mentions in passing that the Baron and Baroness Vallakovich are "interesting", that the Vallakoviches founded Vallaki, and the Watchers are this other ancient family that guarded the wall. (They're like the Uchihas.) The Vallakoviches don't tolerate despair within the walls.
 
-Jacob entertains the idea of escaping Barovia, and tells us how a generation ago there was a travelling wizard who led a revolt, but failed and everyone was punished. As such the Vallakoviches and Vallaki residents discourage further attempts at escape, seeing it as futile. They also discuss new armours they can craft.
+[[Jakob]] entertains the idea of escaping Barovia, and tells us how a generation ago there was a travelling wizard who led a revolt, but failed and everyone was punished. As such the Vallakoviches and Vallaki residents discourage further attempts at escape, seeing it as futile. They also discuss new armours they can craft.
 
 On the way to the Baron's, we see a sign for the Festival of the Burning Sun - it has been defaced so it says (ALL WILL BE W̶ HELL). A bunch of kids set fire to it with a firework.
 

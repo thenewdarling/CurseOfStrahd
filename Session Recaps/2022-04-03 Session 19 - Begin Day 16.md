@@ -21,7 +21,7 @@ Varian and Magda have a heart-to-heart about the book, after which Varian helps 
 
 There is an... altercation with the horses in the stable yard. Magda probably should've asked permission. It's fine. I won't go into detail. It's fine. Everything is fine.
 
-Meanwhile, Freek and Myrtle are told Urwin has died, and Adrianna recounts a story to them -- the Spirit of the Wild Rose. Through the story, we find out about Eliza Day, who haunts the rose garden on Yester Hill. The person who killed her was buried alive by the Village People. (Before or after recording YMCA, we are not sure...) 
+Meanwhile, [[Freek and Myrtle]] are told Urwin has died, and Adrianna recounts a story to them -- the Spirit of the Wild Rose. Through the story, we find out about Eliza Day, who haunts the rose garden on Yester Hill. The person who killed her was buried alive by the Village People. (Before or after recording YMCA, we are not sure...) 
 
 She is why the vineyards hadn't been rotting despite the lack of sunlight in Barovia. But something has happened recently to the tree where the man was buried -- it's split down the middle. We put the pieces together that he is the man who stole the sword from Yalom.
 
