@@ -25,7 +25,7 @@ She also uses Divination to ask Asmodeus where they might find the hilt of the s
 
 ## Day 21, leaving the Winery
 
-Arabelle joins the party as they head to the Tower. Notably we allow the Keepers of the Feather to organise retrieving Dargos and bringing him back to the Winery and his kids by themselves.
+Arabelle joins the party as they head to the Tower. Notably we allow [[the Keepers of the Feather]] to organise retrieving Dargos and bringing him back to the Winery and his kids by themselves.
 
 ## Day 22, arrival at the Tower
 

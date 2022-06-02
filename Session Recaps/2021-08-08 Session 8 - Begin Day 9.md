@@ -10,7 +10,7 @@ We learn information from him:
 
 The first name of Lady Watcher is Fiona. 
 
-There are no official Thieves' Guilds in Vallaki due to the Vallakoviches, but there are uncoordinated ventures. Izek is the main force that keeps it under wraps.
+There are no official Thieves' Guilds in Vallaki due to the [[Vallakoviches]], but there are uncoordinated ventures. Izek is the main force that keeps it under wraps.
 
 The prison Izek is kept in is a simple building with a few guards and one inside. It is not big enough for long-term confinement, usually short term or death row. The cell windows are merely slits to let air and light circulate.
 
@@ -18,7 +18,7 @@ They leave, and Varian swoons randomly, as if he will pass out.
 
 *
 
-Meanwhile, Arlo and Jeremiah go on a stakeout of the Watchers' Manor. There is a lower fence they can break a hole in, or jump over. There's a hedge at the back with an opening leading to a small wooden door. There's windows looking out on the garden (dark at the moment).
+Meanwhile, Arlo and Jeremiah go on a stakeout of the [[Watchers]]' Manor. There is a lower fence they can break a hole in, or jump over. There's a hedge at the back with an opening leading to a small wooden door. There's windows looking out on the garden (dark at the moment).
 
 They overhear two male voices -- one almost hysterical, one firm. Peering through the gap in the fence, they see the cellar door open -- the two Watcher brothers chuck an elderly man out, tell him not to come back. The elderly man is a bit drunk.
 
@@ -26,9 +26,9 @@ Jeremiah hides from the man, Arlo pretends to be looking for a place of shelter 
 
 Henrik tells the story of what happened to him:
 
-He was approached by the Watcher brothers. He's the local coffin maker and runs the morgue. He didn't have any prior affiliation with the Watchers but the money was good. He was instructed to make some coffins but not to take them to the burial grounds, instead to keep them in the upper floor of his house. Just a few to start, but the numbers started to tick up.
+He was approached by the Watcher brothers. He's the local coffin maker and runs the morgue. He didn't have any prior affiliation with the [[Watchers]] but the money was good. He was instructed to make some coffins but not to take them to the burial grounds, instead to keep them in the upper floor of his house. Just a few to start, but the numbers started to tick up.
 
-Eventually he notices that some of the bodies in the coffins are having small movements. He goes to the Watchers, tries to back out. They put him in a hotel -- the Pale Horse Inn. He tried to back out again, and they threatened him. They forced him to exhume the remains of St Andreal from the church and hide them outside the city.
+Eventually he notices that some of the bodies in the coffins are having small movements. He goes to the [[Watchers]], tries to back out. They put him in a hotel -- the Pale Horse Inn. He tried to back out again, and they threatened him. They forced him to exhume the remains of St Andreal from the church and hide them outside the city.
 
 He is distraught and ashamed. A few hours before this conversation, the Brothers Watcher retrieved the key to the room with the bodies from the morgue.
 
@@ -40,7 +40,7 @@ They arrive back at the Blue Water Inn and discover Jeremiah and Arlo's situatio
 
 We have a toast to Rose's memory, and Ireena finds them and asks what's going on. Magda tells them about the vision of Rose. Ireena is troubled by this. We don't tell her we know where the bones of St Andreal are yet -- we're going to go to Lady Watcher's first.
 
-**10pm** -- we arrive at the Watchers' Manor. Magda takes the opportunity to rub the invite in the tiefling guard's face this time, who refuses to look at her.
+**10pm** -- we arrive at the [[Watchers]]' Manor. Magda takes the opportunity to rub the invite in the tiefling guard's face this time, who refuses to look at her.
 
 The manor is grand, with marble pillars and red carpets. They are led to Lady Watcher's study -- a grand room with a mirror wall. Magda attempts to hide in the group so it's not as visible that she has no reflection, but Lady Watcher spots it.
 

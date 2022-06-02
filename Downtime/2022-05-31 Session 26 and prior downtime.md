@@ -452,7 +452,7 @@ He looks at Jeremiah now, with a snigger.
 [12-Jun-21 10:06 AM] TenderstDM
 Ireena steps forward, “Listen, I appreciate your desire to help - motivations aside. I am indeed eager to move on to Vallaki, but I have also sworn to protect those in need, and I honour this vow. Where I do take issue is with Night Hags.”
 
-“Varian, I believe you have misunderstood, if the witches of Berez were involved the whole camp would be in grave danger. They are known for attracting people to their cause, but rarely children. Hags are a different matter, but no less sinister. These are not people but monstrosities. A Night Hag may take human form to walk amongst us, but only to torment its prey. A single Hag, *maybe*, we could handle. If there is a full coven, then it would be a short rescue, and a painful eternity in which to regret it. This would be an evil beyond any of us.”
+“Varian, I believe you have misunderstood, if the [[witches of Berez]] were involved the whole camp would be in grave danger. They are known for attracting people to their cause, but rarely children. Hags are a different matter, but no less sinister. These are not people but monstrosities. A Night Hag may take human form to walk amongst us, but only to torment its prey. A single Hag, *maybe*, we could handle. If there is a full coven, then it would be a short rescue, and a painful eternity in which to regret it. This would be an evil beyond any of us.”
 
 “How did you come to be certain that Hags are at work here?”
 
@@ -530,13 +530,13 @@ Magda starts her first evening of downtime sitting in the tap room . She takes h
 [04-Jul-21 03:33 PM] TenderstDM
 After sitting for a few minutes, a woman arrives at your table with a small goblet of wine, “Welcome to Vallaki my dear, I am Danika, Urwin’s wife.”
 
-Shortly after Danika leaves the two men at the next table call out to you, “New to town, are we? And what pray tell earns you special treatment from the Martikovs?”
+Shortly after Danika leaves the two men at the next table call out to you, “New to town, are we? And what pray tell earns you special treatment from the [[Martikovs]]?”
 
 
 [04-Jul-21 04:29 PM] Magdalena de Luna (she/her)
 I thank Danika for her kindness before she goes.
 
-To the two men: "News travels fast here for such a big city, it seems. I'm afraid I don't know much about the Martikovs, but we helped the young Victor out of a sticky situation this afternoon. He found himself outside of the walls and the local... wildlife didn't seem to agree he should be there. We disagreed." She raises the goblet with a nod.
+To the two men: "News travels fast here for such a big city, it seems. I'm afraid I don't know much about the [[Martikovs]], but we helped the young Victor out of a sticky situation this afternoon. He found himself outside of the walls and the local... wildlife didn't seem to agree he should be there. We disagreed." She raises the goblet with a nod.
 
 {Reactions}
 boudicca 
@@ -645,7 +645,7 @@ Once Brom and Bray hear you are looking for toys they insist you stop by Blinksy
 
 
 [13-Jul-21 10:22 PM] Magdalena de Luna (she/her)
-“Thank you, friend. I will keep that in mind. I’m no stranger to old families, they collect grudges like misers hoard pennies. But I suspect we can be of use to them, and if we can do so without angering the Vallakoviches, I think it would be in all of our interests. But if it is as you say… perhaps we should reunite with our young friend Viktor first, hm? 😉”
+“Thank you, friend. I will keep that in mind. I’m no stranger to old families, they collect grudges like misers hoard pennies. But I suspect we can be of use to them, and if we can do so without angering the [[Vallakoviches]], I think it would be in all of our interests. But if it is as you say… perhaps we should reunite with our young friend Viktor first, hm? 😉”
 
 
 [14-Jul-21 04:45 AM] Varian Lo'Gosh (he/him)
@@ -958,7 +958,7 @@ Just a little quote from this book I bought
 
 
 [18-Jul-21 07:53 PM] Magdalena de Luna (she/her)
-**NEW DOWNTIME STARTS HERE** - pre-Watchers Manor
+**NEW DOWNTIME STARTS HERE** - pre-[[Watcher Manor]]
 
 
 [30-Jul-21 04:24 PM] Magdalena de Luna (she/her)
@@ -1034,7 +1034,7 @@ we only have 300 of it right now, but I WOULD like to use it as a big "hey who d
 
 
 [09-Aug-21 05:50 PM] Magdalena de Luna (she/her)
-since it kind of seems like even the Vallakoviches don't have that kind of money lying around
+since it kind of seems like even the [[Vallakoviches]] don't have that kind of money lying around
 
 
 [09-Aug-21 05:55 PM] Varian Lo'Gosh (he/him)
@@ -1228,7 +1228,7 @@ Oh I have many, just need to decide what Varian would say…  I’m glad we’re
 boudicca 
 
 [31-Dec-21 03:49 PM] pettypierrot#6397
-“I’m not sure what kinda effects this bloodlust thing has on you, Magda, but what I do know is that I’d much rather Lady Watchers neck be on the line than those poor buggers down there”
+“I’m not sure what kinda effects this bloodlust thing has on you, Magda, but what I do know is that I’d much rather [[Lady Watcher]]'s neck be on the line than those poor buggers down there”
 
 
 [31-Dec-21 03:50 PM] pettypierrot#6397

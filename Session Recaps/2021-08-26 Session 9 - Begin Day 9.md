@@ -4,7 +4,7 @@
 
 The session opens with the party stealthing to the Baron's manor. Jeremiah uses his ability to move through the city at speed while making Arlo and Henrick invisible.
 
-We are trailed on the way by someone who we suspect works for the Watchers, and split up -- Arlo and Henrick invisibly going to the manor to wait for us. Varian and Magda regroup after shaking off the person, while Jeremiah ends up going all the way to Blinksy's.
+We are trailed on the way by someone who we suspect works for the [[Watchers]], and split up -- Arlo and Henrick invisibly going to the manor to wait for us. Varian and Magda regroup after shaking off the person, while Jeremiah ends up going all the way to Blinksy's.
 
 Jeremiah discovers Blinksy has been broken into the previous night, by someone who left all his priceless toys but instead elected to steal his supply of silver paint. Blinksy was out drinking last night (not a usual thing for him to do) and he didn't notice the door had been broken in when he arrived back. Jeremiah also discovers Blinksy was brought here as a child, and that his parents died shortly after that. He notes that Danton's monkey is still in the shop.
 
@@ -26,7 +26,7 @@ He gives us an invitation to the Watcher's dance, and a detailed, beautiful map 
 
 *"The devil is watching Vallaki. Though you are only rats in a maze, he does seem to enjoy watching you."*
 
-The person who is following us reaches us, and Danton pulls out a fucking gun and kills him. He implies Blinksy made it for him. He is confirmed to be the person who gave Magda and Varian the letter of invitation to the Watchers.
+The person who is following us reaches us, and Danton pulls out a fucking gun and kills him. He implies Blinksy made it for him. He is confirmed to be the person who gave Magda and Varian the letter of invitation to the [[Watchers]].
 
 We decide to go to the morgue. On the way, we see many mercantile shops which also look like they've been broken into. All their silver paint has been stolen.
 
@@ -44,7 +44,7 @@ He asks Varian if he did indeed kill Izek. Varian, thinking there is no way he'l
 
 Prince Rupert still trusts us and understands, but wished we'd chosen a better time to do it. He asks us to leave the vampire spawn to their sleep and leads us back to the Blue Water.
 
-Blinksy, Piccolo, Alec, Father Lucian and the Martikovs all sit round a table.
+Blinksy, Piccolo, Alec, Father Lucian and the [[Martikovs]] all sit round a table.
 
 *"You know why we're here. Lady Watcher wants to bring the city to its knees. We're not going to let them."*
 

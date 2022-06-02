@@ -2,7 +2,7 @@
 
 ## Vallaki - Day 10 since Arrival in Barovia
 
-The session opens with the secret meeting in the Blue Water Inn, as the party meet Father Lucian, the Martikovs, Blinksy, Alec and Viktor Vallakovich.
+The session opens with the secret meeting in the Blue Water Inn, as the party meet Father Lucian, the [[Martikovs]], Blinksy, Alec and Viktor Vallakovich.
 
 Danika Martikov opens by telling them about the investigation on the mystery regarding Blinksy's shop being ransacked after someone got him drunk and the silver paint all being nicked. 
 
@@ -10,7 +10,7 @@ They also mention how they have information that by noon tomorrow (ie. the festi
 
 Lady Watcher is likely in alignment with Strahd. The vampire spawn answer only to him, and she presumably has some kind of deal with him that any house with the seal on it will be untouched -- she plans to blame the Baron's weakness for the attack.
 
-Sasha comes out, having been hiding on the ceiling as a bat. She informs us that Ireena has gone north in vain -- the Watchers have already retrieved the bones of Saint Andreal. If we can steal the bones from the Watcher Manor, we can use them to turn the church into a safe haven from the vampire hordes.
+Sasha comes out, having been hiding on the ceiling as a bat. She informs us that Ireena has gone north in vain -- the [[Watchers]] have already retrieved the bones of Saint Andreal. If we can steal the bones from the Watcher Manor, we can use them to turn the church into a safe haven from the vampire hordes.
 
 [[Jakob]] and Dargos arrive, and Prince Rupert goes to sort silvered weapons for a defence, and Lifehunter weapons to provide to Arlo and Varian.
 

@@ -3,9 +3,9 @@
 
 *(Out of character -- Kate is group treasurer now.)*
 
-After discovering the Vallakoviches' Manor has been burned down by Karl Watcher, we escort Viktor, his mother, and the newly recovered Stella to the Watcher Manor, where they can stay for now while the town is in chaos. Viktor explains that they were able to escape to safety through the Teleportation Circle Viktor was testing that made Stella a cat to begin with, and thus they were at Alec's when the house actually began to burn down.
+After discovering the [[Vallakoviches]]' Manor has been burned down by Karl Watcher, we escort Viktor, his mother, and the newly recovered Stella to the Watcher Manor, where they can stay for now while the town is in chaos. Viktor explains that they were able to escape to safety through the Teleportation Circle Viktor was testing that made Stella a cat to begin with, and thus they were at Alec's when the house actually began to burn down.
 
-On the way to the Watchers' Manor, there is looting in the streets, and the party happen to run into Alec, who doesn't know what happened to Nikolai and Lady Watcher.
+On the way to the [[Watchers]]' Manor, there is looting in the streets, and the party happen to run into Alec, who doesn't know what happened to Nikolai and Lady Watcher.
 
 We split up to help the relief effort -- Team Edgy (Varian and Magda) go to help the hurt people in the battle, and Team Cool (Arlo and Jeremiah) go to help the church deal with the wreckage.
 
@@ -41,9 +41,9 @@ Father Lucian chaps the door. He has a conversation with Jeremiah about more hol
 
 Dargos is still bullish about making the armour -- [[Jakob]]'s greatest work. The party pays him 500gp, and agrees to stop by the winery to find out what the status with his children, who left with Danika Martikov when the fighting broke out.
 
-Later in the day, we arrive at the town centre to hear the speech by the surviving Vallakoviches and the Watchers.
+Later in the day, we arrive at the town centre to hear the speech by the surviving [[Vallakoviches]] and the [[Watchers]].
 
-Viktor speaks about how the two families were once allies, and he would like them to be again. The Watchers built these walls to keep evils out of the city, but that they also need to be aware of evils inside the city at the same time.
+Viktor speaks about how the two families were once allies, and he would like them to be again. The [[Watchers]] built these walls to keep evils out of the city, but that they also need to be aware of evils inside the city at the same time.
 
 He names Alec as the new captain of the city guard.
 
@@ -51,11 +51,11 @@ He asks the people of Vallaki to give thanks to us, remembering yesterday as the
 
 Finally, Father Lucian reveals to Jeremiah that to his memory, there was a holy water source at the winery.
 
-We go to the Watcher Manor, where the Vallakoviches now live with Stella. It doesn't carry the same air it once did. Magda chooses to remain downstairs, not wishing to see them -- whether she feels guilt about entreating the devil to save Viktor's life, or for killing and drinking the blood of Stella's mother, she does not say.
+We go to the Watcher Manor, where the [[Vallakoviches]] now live with Stella. It doesn't carry the same air it once did. Magda chooses to remain downstairs, not wishing to see them -- whether she feels guilt about entreating the devil to save Viktor's life, or for killing and drinking the blood of Stella's mother, she does not say.
 
 The party ask about Sasha. Lydia says that Sasha has her sympathies, but she chose this life. The party also reveal that Lady Watcher was killed "by Strahd" -- Arlo and Jeremiah specifically speak over Varian revealing that Magda gave the killing blow.
 
-The night ends with a party -- Blinksy asking the party to donate some of the wine they nicked from the Watchers. He unleashes a mighty firework display and the town of Vallaki seems happier than it has for a while. Magda goes to bed early, trying to minimise temptation.
+The night ends with a party -- Blinksy asking the party to donate some of the wine they nicked from the [[Watchers]]. He unleashes a mighty firework display and the town of Vallaki seems happier than it has for a while. Magda goes to bed early, trying to minimise temptation.
 
 Arlo reminds Viktor and Stella that they have a strong support network, and to not take the full burden of what's to come on their shoulders. They also ask them to help Dargos finish the armour if possible.
 

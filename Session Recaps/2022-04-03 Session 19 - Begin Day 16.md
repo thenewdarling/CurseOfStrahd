@@ -11,7 +11,7 @@ On our first watch, Jeremiah receives a visit from the shadowy horseman who hove
 
 We pass whole fields of wilting flowers, and reach a fork in the road. South leads to Yester Hill, and to our right are the vineyards.
 
-We press on, and it seems like the Winery is being guarded by ravens, and a wolf. Shapeshifters, among them Danika Martikov. They are the Keepers of the Feather: Adrianna, Benjy, Davian and Elver. Adrianna is a werewolf, and the others transform into ravens. Davian is Urwin's older brother, and Benjy and Elver are partners, with Elver expecting a child. We learn that Urwin was also one of their number, and it's likely he was the one who gave Jeremiah his coin, and led us from Mother Mog's grasp.
+We press on, and it seems like the Winery is being guarded by ravens, and a wolf. Shapeshifters, among them Danika Martikov. They are [[the Keepers of the Feather]]: Adrianna, Benjy, Davian and Elver. Adrianna is a werewolf, and the others transform into ravens. Davian is Urwin's older brother, and Benjy and Elver are partners, with Elver expecting a child. We learn that Urwin was also one of their number, and it's likely he was the one who gave Jeremiah his coin, and led us from Mother Mog's grasp.
 
 The kids don't know Urwin is dead yet.
 
@@ -31,7 +31,7 @@ Adrianna is perplexed by Magda's decision to feast on the horse in the barn but 
 
 There is a funeral service for Urwin.
 
-We find out the Morninglord and the Night Mother looked over Barovia until the mists came. The Night Mother appears to be gone. (The Keepers of the Feather are followers of hers.) They think the Morninglord is also gone, but don't have the power to challenge the Church in Krezk. They try and warn people from Berez, and think the witches are likely the ones who broke the tree. (They guess.)
+We find out the Morninglord and the Night Mother looked over Barovia until the mists came. The Night Mother appears to be gone. ([[The Keepers of the Feather]] are followers of hers.) They think the Morninglord is also gone, but don't have the power to challenge the Church in Krezk. They try and warn people from Berez, and think the witches are likely the ones who broke the tree. (They guess.)
 
 Arabelle's brother went to Berez in the hope they would help him. The witches have links to Mother Night, and are the ones who Gertruda went looking for all the way back in Barovia Town. 
 
