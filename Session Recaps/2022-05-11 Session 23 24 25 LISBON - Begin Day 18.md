@@ -37,7 +37,7 @@ Jerry does a dance to unlock a chest, and it opens, giving them a bunch of loot 
 
 They also find two rings that make the wearers swap souls. Arlo and [[Arabelle]] hang onto them after some hijinks.
 
-Jerry befriends [[Van Richten]]'s (now blinded) tiger, puts a leash on it, and then [[Arabelle]] uses Beast Speech to befriend it. Its name is Drusilla. (sp?)
+Jerry befriends [[Van Richten]]'s (now blinded) tiger, puts a leash on it, and then [[Arabelle]] uses Beast Speech to befriend it. Its name is [[Drasilla]].
 
 Leaving the Tower behind with no new information, they decide to head to Vallaki, in the hopes that maybe [[Viktor]] will have some information about portals that could lead them to saving [[Ezmerelda]].
 
