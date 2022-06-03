@@ -1,4 +1,4 @@
-# Downtime - Arabelle's House
+# Downtime - [[Arabelle]]'s House
 
 ## Magda gathers the supplies to re-summon Eden
 
@@ -24,7 +24,7 @@ Sorry, thought I sent this : can I look for a sewing kit and maybe try practice 
 [19-Mar-22 10:51 PM] TenderstDM
 You sure can! Upstairs you come across what looks like it might be [[Arabelle]]'s parent's room. She's told you to make yourself at home, and you find some thread and needles in the bedside drawer.
 
-## Arabelle's vision
+## [[Arabelle]]'s vision
 
 [19-Mar-22 10:55 PM] TenderstDM
 
@@ -52,7 +52,7 @@ The rapier falls to the ground, and [[Arabelle]] awakes. Kasa is there, nuzzling
 I think [[Arabelle]] will pass on her vision in the morning! Night for now guys x
 
 
-## Conversation after Arabelle's vision is relayed to the party
+## Conversation after [[Arabelle]]'s vision is relayed to the party
 
 [20-Mar-22 12:57 PM] Varian Lo'Gosh (he/him)
 Once Varian hears [[Arabelle]]’s vision he asks “Do you have visions come to you often? I think the people you saw were [[Danton]], [[Ireena]] and Ezmeralda. We were meant to meet them at the tower by the lake, just East of here. Can you tell if this is a vision of the past, present or a premonition of the future?”

@@ -3,4 +3,4 @@ A ̶y̶o̶u̶n̶g̶ ̶w̶o̶m̶a̶n̶ ̶w̶h̶o̶ ̶r̶u̶n̶s̶ ̶a̶ ̶f̶a̶r
 Ascended to Player Character after Varian leaves the party.
 [#TAASNEAK]
 
-tags: [[Krezk]]
+tags: [[Krezk]], [[Party]]
