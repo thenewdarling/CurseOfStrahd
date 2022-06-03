@@ -1,4 +1,3 @@
-#### **NEW DOWNTIME STARTS HERE** - pre-[[Watcher Manor]]
 
 [30-Jul-21 04:24 PM] Magdalena de Luna (she/her)
 If possible at night Magda would like to go find an unguarded chicken 👀
