@@ -18,11 +18,11 @@ They leave, and Varian swoons randomly, as if he will pass out.
 
 *
 
-Meanwhile, Arlo and Jeremiah go on a stakeout of the [[Watchers]]' Manor. There is a lower fence they can break a hole in, or jump over. There's a hedge at the back with an opening leading to a small wooden door. There's windows looking out on the garden (dark at the moment).
+Meanwhile, [[Arlo]] and Jeremiah go on a stakeout of the [[Watchers]]' Manor. There is a lower fence they can break a hole in, or jump over. There's a hedge at the back with an opening leading to a small wooden door. There's windows looking out on the garden (dark at the moment).
 
 They overhear two male voices -- one almost hysterical, one firm. Peering through the gap in the fence, they see the cellar door open -- the two Watcher brothers chuck an elderly man out, tell him not to come back. The elderly man is a bit drunk.
 
-Jeremiah hides from the man, Arlo pretends to be looking for a place of shelter to light his cigar. They talk, and agree to help him. Jeremiah makes this man invisible, and they lead him back to the [[Blue Water Inn]]. His name is [[Henrick]] van der Voort.
+Jeremiah hides from the man, [[Arlo]] pretends to be looking for a place of shelter to light his cigar. They talk, and agree to help him. Jeremiah makes this man invisible, and they lead him back to the [[Blue Water Inn]]. His name is [[Henrick]] van der Voort.
 
 Henrik tells the story of what happened to him:
 
@@ -36,7 +36,7 @@ Varian has a vision which shows the [[hags]] seemingly consuming [[Rose]]'s soul
 
 A man with a lantern approaches them and gives them an envelope with the [[Lady Watcher]]'s seal, in the shape of an eye. She wishes to speak with them in two hours (10pm).
 
-They arrive back at the [[Blue Water Inn]] and discover Jeremiah and Arlo's situation. Magda tips [[Danika]] Martikov 2gp, lets them know that there is an additional person in their room, and asks for discretion. (She doesn't say who it is when prompted.)
+They arrive back at the [[Blue Water Inn]] and discover Jeremiah and [[Arlo]]'s situation. Magda tips [[Danika]] Martikov 2gp, lets them know that there is an additional person in their room, and asks for discretion. (She doesn't say who it is when prompted.)
 
 We have a toast to [[Rose]]'s memory, and [[Ireena]] finds them and asks what's going on. Magda tells them about the vision of [[Rose]]. [[Ireena]] is troubled by this. We don't tell her we know where the bones of St Andreal are yet -- we're going to go to [[Lady Watcher]]'s first.
 
@@ -54,7 +54,7 @@ Varian doesn't need to kill [[Izek]] now since [[Rose]] is dead anyway, but neve
 
 ## Vallaki - Day 10 since Arrival in Barovia
 
-**12am (midnight)** - Varian and Arlo go in to the prison, Jeremiah and Magda make their way round the side of the building.
+**12am (midnight)** - Varian and [[Arlo]] go in to the prison, Jeremiah and Magda make their way round the side of the building.
 
 The guard, paid off by [[Lady Watcher]], gives them a key. "Cell 17."
 
@@ -92,4 +92,4 @@ We talk to [[Ireena]], who insists she has more important problems than Vallaki 
 
 She is going to go and reclaim the bones, while the party go to investigate the bodies in [[Henrick]]'s home, Magda volunteering because of her experience with the undead. (It's unclear if some of the party are going with [[Ireena]] yet.)
 
-**The party ends the session with the same HP as they began: Magda on 32HP, Jeremiah on 22HP, Arlo on 43HP, Varian on 25HP.**
+**The party ends the session with the same HP as they began: Magda on 32HP, Jeremiah on 22HP, [[Arlo]] on 43HP, Varian on 25HP.**

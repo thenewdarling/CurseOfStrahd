@@ -31,11 +31,11 @@ She also uses Divination to ask [[Asmodeus]] where they might find the hilt of t
 
 It appears to be in ruins. After solving the anagram puzzle on the door, 'HARKS AT DEATH' = '[[TASHA]] THE DARK' the tower proper appears.
 
-Arlo duels an enchanted suit of armour and kicks its head miles away. He also finds a book on the history of Barovia that lists the Amber Temple in its contents page, but notably that chapter has been ripped out.
+[[Arlo]] duels an enchanted suit of armour and kicks its head miles away. He also finds a book on the history of Barovia that lists the Amber Temple in its contents page, but notably that chapter has been ripped out.
 
 Jerry does a dance to unlock a chest, and it opens, giving them a bunch of loot including a spider-themed rapier (Magda: "Mine."), a snazzy pair of magic boots which Jerry takes, and an Alchemy Jug which Jerry offers to [[Arabelle]].
 
-They also find two rings that make the wearers swap souls. Arlo and [[Arabelle]] hang onto them after some hijinks.
+They also find two rings that make the wearers swap souls. [[Arlo]] and [[Arabelle]] hang onto them after some hijinks.
 
 Jerry befriends [[Van Richten]]'s (now blinded) tiger, puts a leash on it, and then [[Arabelle]] uses Beast Speech to befriend it. Its name is [[Drasilla]].
 
@@ -45,4 +45,4 @@ Leaving the Tower behind with no new information, they decide to head to Vallaki
 
 A roll on a random encounter table later, we see a crowd of goblins attacking a hill giant and two humans unconscious by an overturned cart. Jerry tries to talk to one of the goblins and go into the fight...
 
-The party ends with everyone on full health except possibly Arlo but also like, I'm amazed we managed to keep track of hit points at all. 🇵🇹
+The party ends with everyone on full health except possibly [[Arlo]] but also like, I'm amazed we managed to keep track of hit points at all. 🇵🇹

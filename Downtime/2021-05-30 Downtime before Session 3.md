@@ -18,19 +18,19 @@ If time is no issue, I will make a point of preparing a balm to cast Lesser Rest
 
 
 [02-Jun-21 01:05 PM] TenderstDM
-The morning after [[Madame Eva]]’s reading, Varian and Jeremiah awake with an extra hit dice of temporary hit points (as these are acquired during your long rest, they will carry into the following days). [[Ireena]] introduces the group to Arlo, and explains that her prophecy from [[Madame Eva]]’s, includes the four of you. As such [[Ireena]] wants you to prepare yourself as best you can. “Go acquire whatever you may need to travel, it is three days ride to Vallaki, and the roads in Barovia are always treacherous.” She hands each of you 25gp.
+The morning after [[Madame Eva]]’s reading, Varian and Jeremiah awake with an extra hit dice of temporary hit points (as these are acquired during your long rest, they will carry into the following days). [[Ireena]] introduces the group to [[Arlo]], and explains that her prophecy from [[Madame Eva]]’s, includes the four of you. As such [[Ireena]] wants you to prepare yourself as best you can. “Go acquire whatever you may need to travel, it is three days ride to Vallaki, and the roads in Barovia are always treacherous.” She hands each of you 25gp.
 
 @thenewdarling  Nobody in the camp knows of where you might acquire a diamond outside of Vallaki, thankfully this is where you are heading. Although most of the Vistani carry arms, it takes you a while to find someone willing to trade a rapier. A young woman has recently acquired some wares, she has a silvered rapier and dagger, worth 40gp and 25gp to her respectively – or an item of suitable worth to trade!
 
 [02-Jun-21 01:14 PM] Magdalena de Luna (she/her)
-(Magda makes sure to say hello to Arlo before going to the young woman - presumably quite business-like about the whole thing)
+(Magda makes sure to say hello to [[Arlo]] before going to the young woman - presumably quite business-like about the whole thing)
 Valuing her shortsword at 15gp, she offers to trade both it and the 25gp from [[Madame Eva]] for the silvered rapier
 
-[02-Jun-21 01:26 PM] Arlo de León (he/him)
-Arlo greets everyone cheerfully, with a bow. He’s still not entirely clicked that here’s stuck here, and is enjoying the ambiance. He seeks someone out to tell him about the Vistani and Boravia in general
+[02-Jun-21 01:26 PM] [[Arlo]] de León (he/him)
+[[Arlo]] greets everyone cheerfully, with a bow. He’s still not entirely clicked that here’s stuck here, and is enjoying the ambiance. He seeks someone out to tell him about the Vistani and Boravia in general
 
 [02-Jun-21 01:42 PM] Jeremiah Templeton (he/him)
-Jeremiah at first flinches at Arlo's greeting, then realising that he's just bending, and not shooting arrows, he also greets Arlo
+Jeremiah at first flinches at [[Arlo]]'s greeting, then realising that he's just bending, and not shooting arrows, he also greets [[Arlo]]
 
 [02-Jun-21 01:57 PM] TenderstDM
 She's happy to receive your interest, but has no need for your sword. She stumbled into these items, maybe if you offered to take both the dagger and rapier of her hands she could do you a deal?
@@ -57,7 +57,7 @@ A Vistani cleric is willing to sell holy water for 5gp, enough for three batches
 
 @UsernameOfRassilon  Asking around you find the Vistani people do have a little magic in their blood. An animal friendship spell is widely known, and teachable to friendly strangers that know how to dance. Some of the camp elders know how to bestow curses upon less friendly travellers - it would take a great gesture of trust before they’d consider teaching this to an outsider.
 
-@varian  @arlo  In search of details about your strange surroundings, you find yourself directed towards the camp elders. From them you find,
+@varian  @[[arlo]]  In search of details about your strange surroundings, you find yourself directed towards the camp elders. From them you find,
 -    The Vistani people have always called Barovia their home, their ancestors once helped [[Strahd]] when he was still human, lost and injured in their valley. It is for this past kindness that he offers the Vistani temporary leave from the mists. Their deal now is for protection, and in return they draw more souls to Barovia.
 -    The Martikov family are worth seeking out in Vallaki, they are good people. The mayor on the other hand is an unhinged man, his best intentions twisted by fear. There is a great deal of unrest in the city.
 -    Avoid the wildlife, period. The zombies in Barovia are infused with a greater evil than those created by traditional necromancy, this is the work of the witches in [[Berez]] to the south.
@@ -96,20 +96,20 @@ Does 1 batch of balm do you for 1 day? I had a memory the one [[rurick]] gave us
 [06-Jun-21 06:39 PM] TenderstDM
 Yeah, by batch, I mean enough for a single day 🙂 [[Rurick]] gave you around 5 batches worth
 
-[06-Jun-21 09:43 PM] Arlo de León (he/him)
-A sucker for silver, zombie cleaving, and chivalry, Arlo offers to pool his resources and get Magdalena the dagger "I have 29gp to my name currently, would that suffice? It would be a shame to let such a pretty weapon go to waste, and Allessandra is sure to reimburse me once we are reunited"
+[06-Jun-21 09:43 PM] [[Arlo]] de León (he/him)
+A sucker for silver, zombie cleaving, and chivalry, [[Arlo]] offers to pool his resources and get Magdalena the dagger "I have 29gp to my name currently, would that suffice? It would be a shame to let such a pretty weapon go to waste, and Allessandra is sure to reimburse me once we are reunited"
 
 [06-Jun-21 09:51 PM] Magdalena de Luna (she/her)
 "I don't actually need the dagger, the deal for getting them both at the same time is just hard to pass up on! I'll tell you what, lover boy. If you loan me 18gp, I can cover the cost of both. I'll pay you back when more gold flows in, and you can hang onto the dagger in the meantime. And if you can put it in the back of an undead, all the better for all of us."
 
-[06-Jun-21 09:57 PM] Arlo de León (he/him)
+[06-Jun-21 09:57 PM] [[Arlo]] de León (he/him)
 "How diplomatic of you, and incredibly sweet. No need to pay me back, my dear, the dagger is payment alone - and if we are to be travelling together for a bit, i assure you it will be most effective in my hands." [i hand you 18gp]
 
 [06-Jun-21 10:01 PM] Magdalena de Luna (she/her)
 "Much appreciated. It seems chivalry isn't dead after all. Or.... undead?"
 
 [06-Jun-21 10:04 PM] Magdalena de Luna (she/her)
-@Liam With Magda's 32gp and Arlo's 18gp, we buy the rapier and the dagger!! 👍 (Jeremiah's gonna do an Identify before we equip them tho in case they're cursed or whatever lol)
+@Liam With Magda's 32gp and [[Arlo]]'s 18gp, we buy the rapier and the dagger!! 👍 (Jeremiah's gonna do an Identify before we equip them tho in case they're cursed or whatever lol)
 
 [06-Jun-21 10:10 PM] Jeremiah Templeton (he/him)
 I spend 15gp on the holy water and cast identify on them and the weapons and the coin
@@ -148,14 +148,14 @@ I realise how that sounds now 😅
 "Don't flatter yourself 😉"
 
 [10-Jun-21 08:16 PM] Varian Lo'Gosh (he/him)
-Varian goes looking for Magda, Jeremiah, Arlo and [[Ireena]].
+Varian goes looking for Magda, Jeremiah, [[Arlo]] and [[Ireena]].
 "I have some information I need to share with you. There seems to be a serious threat to the Vistani people south of this camp. Their children have started to go missing, and like the elders said, they've sent a small hunting party to investigate this, but they have not returned. I've met one of the missing children's mother and she believes the culprits are night [[hags]]. She mentioned a windmill and a place called [[Berez]]. We need to help them!"
 
 [10-Jun-21 08:20 PM] Varian Lo'Gosh (he/him)
 To [[Ireena]] Varian says:
 "I know you are in a rush to part to Vallaki and find [[Van Richten]], but these people need our help and there is so much information here we could get to help us in our mutual goal. Help me find these missing children and then maybe the Vistani people will help us even further."
 
-To Magda, Jeremiah and Arlo Varian says:
+To Magda, Jeremiah and [[Arlo]] Varian says:
 "I truly believe it will be in our best interests to help these children. Will you come with me? And if so, we should prepare ourselves for the worst."
 
 [10-Jun-21 10:30 PM] Magdalena de Luna (she/her)

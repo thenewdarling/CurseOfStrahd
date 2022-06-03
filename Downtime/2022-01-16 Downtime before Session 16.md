@@ -83,7 +83,7 @@ Varian looks warily at Magda.
 Varian laughs. "I wouldn't want to make it easier to whoever She recruits next."
 
 [17-Jan-22 06:14 PM] Magdalena de Luna (she/her)
-"If we see any other drow with red eyes, I'll be on the lookout." She looks over her shoulder at Jeremiah and Arlo talking quietly in the back. ".... what do you think they talk about?" she says quietly.
+"If we see any other drow with red eyes, I'll be on the lookout." She looks over her shoulder at Jeremiah and [[Arlo]] talking quietly in the back. ".... what do you think they talk about?" she says quietly.
 
 [17-Jan-22 06:30 PM] Varian Lo'Gosh (he/him)
 Varian looks back and shrugs. "I wouldn't have a clue. Do you?"
@@ -96,7 +96,7 @@ Varian looks back and shrugs. "I wouldn't have a clue. Do you?"
 
 “Wait five minutes, they’ll start comparing sizes.”
 
-[17-Jan-22 06:51 PM] Arlo de León (he/him)
+[17-Jan-22 06:51 PM] [[Arlo]] de León (he/him)
 “I can imagine no other reality where I am not happily marrying, “”shagging”” and killing for my Allessandra, Jeremiah. I don’t understand this game”
 
 “But out of interest…. What would your answer to this hypothetical be?”
@@ -107,7 +107,7 @@ Varian looks back and shrugs. "I wouldn't have a clue. Do you?"
 [17-Jan-22 06:52 PM] Jeremiah Templeton (he/him)
 Like Allesandra has told you to
 
-[17-Jan-22 06:53 PM] Arlo de León (he/him)
+[17-Jan-22 06:53 PM] [[Arlo]] de León (he/him)
 Ah I see! I think I’m starting to get the game now!
 
 [17-Jan-22 08:32 PM] Varian Lo'Gosh (he/him)

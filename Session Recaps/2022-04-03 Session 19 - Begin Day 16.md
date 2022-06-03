@@ -41,4 +41,4 @@ Varian gives the [[Rose]] ring to [[Adrianna]], as [[Rose]] wishes to stay with 
 
 With heavy hearts but full bellies, the party make for [[Yester Hill]].
 
-**The party ends the session with Magda on 52 HP, Jeremiah on 26 HP, Arlo on 65 HP, and Varian on 28 HP.**
+**The party ends the session with Magda on 52 HP, Jeremiah on 26 HP, [[Arlo]] on 65 HP, and Varian on 28 HP.**

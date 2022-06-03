@@ -7,11 +7,11 @@ Varian charges, wanting to get the attention of the vampire slashing at [[Urwin]
 Jeremiah, seizing his opportunity to inflict maximum damage to our enemies, casts fireball, engulfing all three vampire spawns, the troll and [[Prince Rupert]] in deadly flames! 
 The troll advances and slams his chain in a powerful line in front of him, knocking Magda prone and badly hurting her and Jeremiah.
 Magda’s Spirit Guardians are still up, a cloud of bats surrounding us, continuing to cause riot and damaging our enemies. She stands up, reading herself to help her companions and stabilizes [[Urwin]].
-Arlo jumps straight into the thick of it, wielding Wife Hunt fiercely and protecting [[Urwin]]’s fallen figure.
+[[Arlo]] jumps straight into the thick of it, wielding Wife Hunt fiercely and protecting [[Urwin]]’s fallen figure.
 Jeremiah finishes off one of the vampire spawns, blasting a ray of sickness at him and stealing his life force for himself, then runs behind a tombstone for cover.
 Varian runs towards [[Prince Rupert]], helping him kill another spawn, and disengages back to safety.
 The troll swings again, this time in a sweeping arch all around him, finishing off one of the vampire spawns.
-Seeing Arlo badly hurt, Magda runs towards him and cures his wounds. Arlo, feeling some strength return, madly hacks at the troll’s ankles, forcing him down. With a last blast of force, Arlo drives Wife Hunt into the troll’s head, killing him!
+Seeing [[Arlo]] badly hurt, Magda runs towards him and cures his wounds. [[Arlo]], feeling some strength return, madly hacks at the troll’s ankles, forcing him down. With a last blast of force, [[Arlo]] drives Wife Hunt into the troll’s head, killing him!
 With only one enemy left, Varian runs in, leaps forward and digs his dagger into the vampire spawn's back, killing him. 
 
 No more enemies immediately pressuring them, the party runs inside the church with [[Prince Rupert]] carrying [[Urwin]]. As we get in, [[Sasha]] slams the door behind us, securing it with a wooden beam. Inside, we see all the windows boarded up but can still hear the clamouring of the vampires outside. [[Prince Rupert]], [[Urwin]] and [[Sasha]] run down to the catacombs, while [[Father Lucian]] kneels in front of the altar with the bones of St. Andreal softly glowing, prying. Blinky stands close to him, holding some kind of device.
@@ -22,11 +22,11 @@ Finally, the explosives go off, causing the windows to burst in, sending splinte
 
 Suddenly there’s a different chill in the air. As mists tumble in through the broken windows, we see bats flying in, turning into the form of a man no other than [[Strahd]] von Zarovich!
 
-He glides towards Arlo, introducing himself and kissing his hand. He seems to be assumed, wanting to rewards us for our efforts. Seeing [[Father Lucian]] unconscious by the altar, he heals him. He admires [[Father Lucian]]’s devotion to the [[Morning Lord]], even though he claims to have killed him centuries ago, ripping his heart out of his chest. As he talks, he hovers his hand over the bones of St. Andreal, slowing destroying them into dust.
+He glides towards [[Arlo]], introducing himself and kissing his hand. He seems to be assumed, wanting to rewards us for our efforts. Seeing [[Father Lucian]] unconscious by the altar, he heals him. He admires [[Father Lucian]]’s devotion to the [[Morning Lord]], even though he claims to have killed him centuries ago, ripping his heart out of his chest. As he talks, he hovers his hand over the bones of St. Andreal, slowing destroying them into dust.
 He sets the dust on fire and in the flames we see Lady [[Fiona]] Watcher in her study, surrounded by the vampire spawns, holding an amulet with the notable Watcher family Eye on it. She looks scared, a blue light glowing around her. But lamps flicker and shadows creep from the corners of the room, eventually involving her completely. The flames on the altar flare up, replacing the image by [[Lady Watcher]]’s body, trembling and at death’s door.
 We hear screams of terror and pain from downstairs and people banging on the door, but [[Strahd]] is keeping it tightly shut. He tells us that, regrettably, with the bones of St. Andreal gone, our dear friend [[Sasha]] has gone into quite a frenzy. But we have an option. He looks at Magdalena and tells her that, if she feeds on [[Fiona]] Watcher’s blood, he will assuage [[Sasha]]’s thirst. With this proposition, he leaves. 
 
-**The party ends with Magda on 29 HP, Jeremiah on 6 HP, Arlo on 5 HP, and Varian on 11 HP).**
+**The party ends with Magda on 29 HP, Jeremiah on 6 HP, [[Arlo]] on 5 HP, and Varian on 11 HP).**
 
 # Session 13 Post-Credits Sequence - 3rd January 2022
 ## Vallaki - Day 11 since Arrival in Barovia
@@ -35,11 +35,11 @@ Magda hovers over the [[Lady Watcher]]’s body. “What do I do?” she asks th
 
 ___
 
-Jeremiah's pacing the room, lost in thought, when Arlo speaks first, he mutters, annoyed, "Drink [[Lady Watcher]]'s blood, obviously..." then goes back to deep thought and pacing, increasingly panicked.
+Jeremiah's pacing the room, lost in thought, when [[Arlo]] speaks first, he mutters, annoyed, "Drink [[Lady Watcher]]'s blood, obviously..." then goes back to deep thought and pacing, increasingly panicked.
 
 ___
 
-Arlo:  “I’m not sure what kinda effects this bloodlust thing has on you, Magda, but what I do know is that I’d much rather [[Lady Watcher]]'s neck be on the line than those poor buggers down there. I think it would be wise to play Mr [[Strahd]]'s game for a while, until we’re ready to pay him back his dues."
+[[Arlo]]:  “I’m not sure what kinda effects this bloodlust thing has on you, Magda, but what I do know is that I’d much rather [[Lady Watcher]]'s neck be on the line than those poor buggers down there. I think it would be wise to play Mr [[Strahd]]'s game for a while, until we’re ready to pay him back his dues."
 
 ___
 
@@ -75,9 +75,9 @@ Like she’s still hungry.
 
 ___
 
-Arlo removes a handkerchief from his sleeve, and holds it out to Magda. “Red is your colour, my dear."
+[[Arlo]] removes a handkerchief from his sleeve, and holds it out to Magda. “Red is your colour, my dear."
 
-Magda twitches, looks at the handkerchief, and grabs Arlo by the wrist. But it’s like when you have too much sugar at once and your muscles suddenly go weak, and it gives her a second to think. Her eyes return to normal. “Arlo.”
+Magda twitches, looks at the handkerchief, and grabs [[Arlo]] by the wrist. But it’s like when you have too much sugar at once and your muscles suddenly go weak, and it gives her a second to think. Her eyes return to normal. “[[Arlo]].”
 
 She rips the handkerchief out of his hand. “That was very misguided of you.”
 
@@ -106,7 +106,7 @@ In the direction of the [[Baron]]’s home, wisps of smoke can be seen in the di
 
 ___
 
-**With the '[[Battle of Burning Sun]]' concluded, the party continues in downtime with Magda on 29 HP, Jeremiah on 6 HP, Arlo on 5 HP, and Varian on 11 HP.**
+**With the '[[Battle of Burning Sun]]' concluded, the party continues in downtime with Magda on 29 HP, Jeremiah on 6 HP, [[Arlo]] on 5 HP, and Varian on 11 HP.**
 
 # Credit
 

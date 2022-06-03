@@ -57,10 +57,10 @@ By the time you head downstairs, the commotion in the hallway has past and [[Ire
 [13-Jul-21 12:36 AM] Magdalena de Luna (she/her)
 "[[Urwin]], did you mention how far away your cousin's home is? Perhaps if we can organise arrangements for [[Danton]], we can get some time and help you investigate."
 
-[13-Jul-21 12:08 PM] Arlo de León (he/him)
+[13-Jul-21 12:08 PM] [[Arlo]] de León (he/him)
 "I second that - seems a crime that a lovely establishment such as this be deprived of it's wine stock. Plus it's been a while since my last gander around a vineyard"
 
-Arlo asks about the markets, and whether there's anyone there who he could commission to make adjustments to his handaxes. He seems in need of some silver.
+[[Arlo]] asks about the markets, and whether there's anyone there who he could commission to make adjustments to his handaxes. He seems in need of some silver.
 
 [13-Jul-21 10:12 PM] TenderstDM
 @jeremiah [[Urwin]] notices you looking somewhat unsatisfied with a simple breakfast of oats, he slips you a plate of glistening crisped bacon – “You look a little pale son, best be keeping some meat on those bones!”
@@ -70,10 +70,10 @@ Jeremiah with a happy stomach, thanks [[Urwin]] and says he is off to look for s
 
 And also to speak to [[father Lucian]] about the [[abbot]] at [[Krezk]].
 
-## Varian and Arlo go weapon shopping and meet Prince Rupert
+## Varian and [[Arlo]] go weapon shopping and meet Prince Rupert
 
 [13-Jul-21 07:50 PM] Varian Lo'Gosh (he/him)
-Varian will tag along Arlo and look for a way to silver his weapons. While walking around the market he looks for a gift for the weens, a small toy or plushie, something with a rose theme would catch his eyes!
+Varian will tag along [[Arlo]] and look for a way to silver his weapons. While walking around the market he looks for a gift for the weens, a small toy or plushie, something with a rose theme would catch his eyes!
 He’ll also try to find out if there’s a thieves’ guild and how he can access it.
 
 [13-Jul-21 10:09 PM] TenderstDM
@@ -88,7 +88,7 @@ Once Brom and Bray hear you are looking for toys they insist you stop by [[Blink
 
 [15-Jul-21 09:17 PM] TenderstDM
 
-In the heart of town you find a busy blacksmith signposted ‘The [[Authors of Iron]]’. The prices and craftsmanship appear reasonable but as you’re hanging back observing the wares you overhear two dwarves sniggering amongst themselves. To you Arlo it sounds like drunken ramblings, but Varian, you pick up on the true conversation spoken in Thieve’s Cant!
+In the heart of town you find a busy blacksmith signposted ‘The [[Authors of Iron]]’. The prices and craftsmanship appear reasonable but as you’re hanging back observing the wares you overhear two dwarves sniggering amongst themselves. To you [[Arlo]] it sounds like drunken ramblings, but Varian, you pick up on the true conversation spoken in Thieve’s Cant!
 “Can you believe the city guards wear this scrap? Probably looks alright to them, poor bastards…”
 Subtly you let it be known that you have understood their discussion. Now usually one rogue would welcome another, but these two, they stand uneasy as they size you up, “I don’t recognise the face, but I’ll be damned if I ain’t staring into the eyes of the guard captain. Who are you Drow, and what business do you have with us here?”
 
@@ -104,7 +104,7 @@ Clever Varian, it seems so!
 ___
 
 [17-Jul-21 11:51 AM] TenderstDM
-@arlo @varian 
+@[[arlo]] @varian 
 After a pause, one dwarf turns to the other, “Seems genuinely clueless to me, suppose there wouldn’t be any harm in sending them over to The Prince!
 “If your new in town and looking for gear you won’t find finer than at [[Prince Rupert]]’s.” The two point you along your way before returning to their business.
 

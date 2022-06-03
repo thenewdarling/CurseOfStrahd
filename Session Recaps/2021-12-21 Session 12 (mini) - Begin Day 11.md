@@ -8,4 +8,4 @@ We fight a first wave of vampire spawn. Jeremiah casts Levitate on himself to ra
 
 [[Karl]] kills the [[Baron]]. [[Sasha]] arrives to help. We push forward through the crowd to a barricade forming at the front, preventing people from reaching the Church, finding an enormous troll stepping out to attack the townsfolk.
 
-**The party ends with Magda on 37 HP, Jeremiah on 22 HP, Arlo on 31 HP, and Varian on 26HP(+5 temp HP).**
+**The party ends with Magda on 37 HP, Jeremiah on 22 HP, [[Arlo]] on 31 HP, and Varian on 26HP(+5 temp HP).**

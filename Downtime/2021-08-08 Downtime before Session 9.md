@@ -31,7 +31,7 @@ Don't be impressed til we do it!
 [09-Aug-21 10:25 PM] Magdalena de Luna (she/her)
 I honestly think we might just all be killed 😆
 
-[10-Aug-21 10:07 AM] Arlo de León (he/him)
+[10-Aug-21 10:07 AM] [[Arlo]] de León (he/him)
 Do you have zone of truth @thenewdarling ?
 
 [10-Aug-21 10:07 AM] Magdalena de Luna (she/her)

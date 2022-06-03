@@ -6,9 +6,9 @@
 Magda hovers over the [[Lady Watcher]]’s body. “What do I do?” she asks the party. “I know what I want to do, what my blood is screaming for constantly, but I’ve learned to ignore it. So what’s the right thing to do? And why would he do this?”
 
 [31-Dec-21 07:15 PM] Jeremiah Templeton (he/him)
-Jeremiah's pacing the room, lost in thought, when Arlo speaks first, he mutters, annoyed, "drink [[lady watcher]]'s blood, obviously" then goes back to deep thought and pacing, increasingly panicked
+Jeremiah's pacing the room, lost in thought, when [[Arlo]] speaks first, he mutters, annoyed, "drink [[lady watcher]]'s blood, obviously" then goes back to deep thought and pacing, increasingly panicked
 
-[31-Dec-21 03:49 PM] Arlo de León (he/him)
+[31-Dec-21 03:49 PM] [[Arlo]] de León (he/him)
 “I’m not sure what kinda effects this bloodlust thing has on you, Magda, but what I do know is that I’d much rather [[Lady Watcher]]'s neck be on the line than those poor buggers down there”
 
 “I think it would be wise to play Mr Strahds game for a while, until we’re ready to pay him back his dues”
@@ -46,21 +46,21 @@ Magda opens her eyes. She’s looking at the party now. Like she’s still lost 
 
 Like she’s still hungry.
 
-[31-Dec-21 04:12 PM] Arlo de León (he/him)
-Arlo removes a handkerchief from his sleeve, and holds it out to Magda
+[31-Dec-21 04:12 PM] [[Arlo]] de León (he/him)
+[[Arlo]] removes a handkerchief from his sleeve, and holds it out to Magda
 
 “Red is your colour, my dear”
 
 [31-Dec-21 04:15 PM] Magdalena de Luna (she/her)
-She twitches, looks at the handkerchief, and grabs Arlo by the wrist. But it’s like when you have too much sugar at once and your muscles suddenly go weak, and it gives her a second to think. Her eyes return to normal. “Arlo.”
+She twitches, looks at the handkerchief, and grabs [[Arlo]] by the wrist. But it’s like when you have too much sugar at once and your muscles suddenly go weak, and it gives her a second to think. Her eyes return to normal. “[[Arlo]].”
 
 [31-Dec-21 04:15 PM] Magdalena de Luna (she/her)
 She rips the handkerchief out of his hand. “That was very misguided of you.”
 *dab dab dab*
 (it’s doing nothing)
 
-[04-Jan-22 01:10 PM] Arlo de León (he/him)
-(Just to add to this bit as I forgot to reply!) Arlo flinches when Magda grabs his wrist, but quickly recovers and levels her with an earnest look. “I wouldn’t have become who I am without dancing with darkness occasionally. You have that darkness, but also a lot of light. Life is about balance” he looks at Magdas blood drenched form, and then meets her eyes meaningfully, “and moderation”
+[04-Jan-22 01:10 PM] [[Arlo]] de León (he/him)
+(Just to add to this bit as I forgot to reply!) [[Arlo]] flinches when Magda grabs his wrist, but quickly recovers and levels her with an earnest look. “I wouldn’t have become who I am without dancing with darkness occasionally. You have that darkness, but also a lot of light. Life is about balance” he looks at Magdas blood drenched form, and then meets her eyes meaningfully, “and moderation”
 
 ## The Outcome of the Battle
 
@@ -102,8 +102,8 @@ As we run to the Manor, I'm casting message frantically at where [[Viktor]] woul
 
 Basically running along muttering "[[Viktor]], where are you?" the whole way
 
-[04-Jan-22 01:11 PM] Arlo de León (he/him)
-Arlo also joins the party in heading to the manor!
+[04-Jan-22 01:11 PM] [[Arlo]] de León (he/him)
+[[Arlo]] also joins the party in heading to the manor!
 
 [08-Jan-22 03:16 PM] TenderstDM
 As you approach the [[Baron]]’s manor, you can hear the fire hissing violently in the rain. The whole place is ablaze, and the front of the house has been completely blown to pieces. Nobody inside could still be alive.

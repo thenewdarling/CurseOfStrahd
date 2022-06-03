@@ -54,11 +54,11 @@ Jeremiah Templeton (he/him): *The morning, Jeremiah is waiting downstairs for th
 
 [17:34] Jeremiah Templeton (he/him): "I don't think any of us stand alone, ever. You're a cleric, you've got someone to catch you when you from the ultimate fall, not many can say that. I don't feel kinship, I don't think any could after 3 weeks, but I have enough affection that I don't want anyone else to leave without us at least talking about it."
 
-[17:36] Jeremiah Templeton (he/him): "I assume Varian didn't feel safe enough to give us reasons when he left, so much that he attacked Arlo of all people. Do you feel the same? Is there anything you want so much that you'd leave us all without a second thought?"
+[17:36] Jeremiah Templeton (he/him): "I assume Varian didn't feel safe enough to give us reasons when he left, so much that he attacked [[Arlo]] of all people. Do you feel the same? Is there anything you want so much that you'd leave us all without a second thought?"
 
 [17:59] Magdalena de Luna (she/her): "I've been nothing but open, the only thing I've ever wanted was Strahd's head on a stick. So long as you continue to help me with that, I would have no reason to leave." She sighs. "Though you do test my patience sometimes, as I've made clear."
 
-[18:03] Magdalena de Luna (she/her): "I'm not a touchy-feely person, Jerry. I don't particularly care what Varian's reasons were. We helped him do horrible things, we killed Izek with... very little understanding of that situation, because we all understood our group was going to look out for each other. And look where that got us. Arlo bleeding out on the floor."
+[18:03] Magdalena de Luna (she/her): "I'm not a touchy-feely person, Jerry. I don't particularly care what Varian's reasons were. We helped him do horrible things, we killed Izek with... very little understanding of that situation, because we all understood our group was going to look out for each other. And look where that got us. [[Arlo]] bleeding out on the floor."
 
 [18:08] Magdalena de Luna (she/her): "The worst bit? I nearly finished the job. My curse is getting worse, as I'm sure you've noticed."
 
@@ -68,7 +68,7 @@ Jeremiah Templeton (he/him): *The morning, Jeremiah is waiting downstairs for th
 
 [19:11] Jeremiah Templeton (he/him): He tries to attach a paralyzing tentacle to a stick to put above the burrow
 
-[19:55] Magdalena de Luna (she/her): "No. I almost killed Arlo. I'm not as resilient as I have been. The blood, it's changing me. I warned you, Lady Watcher would not be an exception. The mere smell of blood, I need to fight it constantly."
+[19:55] Magdalena de Luna (she/her): "No. I almost killed [[Arlo]]. I'm not as resilient as I have been. The blood, it's changing me. I warned you, Lady Watcher would not be an exception. The mere smell of blood, I need to fight it constantly."
 
 [08:59] TenderstDM: During a lull, a twitching nose appears from the burrow, drawn by a strange scent. It seems wary, but brushes the tentacle, miniscule barbs latch on and moments later the paralysing venom has taken effect. The rabbit flops down, exposed to the forest... ☠️ 🐇
 

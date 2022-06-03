@@ -15,4 +15,4 @@ Magda agrees, a lie. He tells us the location, and she uses Turn Undead to destr
 
 She looks at her unholy symbol, and says under her breath. "He was a murderer, right?" She can't tell if it's a trick of the light, or the skull on the symbol winks at her.
 
-**The party ends the session with Magda on 33 HP, Jeremiah on 26 HP, Arlo on 30 HP, and Varian on 19 HP.**
+**The party ends the session with Magda on 33 HP, Jeremiah on 26 HP, [[Arlo]] on 30 HP, and Varian on 19 HP.**

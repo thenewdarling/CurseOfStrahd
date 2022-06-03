@@ -8,16 +8,16 @@ Magda is led down to the main hall, offered a small goblet of some dark red swee
 
 Downstairs, [[Nikolai]]'s body continues to be eaten by spiders. Varian is stabilised, and Jeremiah animates the skeleton of [[Nikolai]].
 
-Also, this wasn't noted in previous recaps but Arlo's Lifehunt weapon has been dubbed Wife Hunt. *Magnifique.*
+Also, this wasn't noted in previous recaps but [[Arlo]]'s Lifehunt weapon has been dubbed Wife Hunt. *Magnifique.*
 
 They successfully end the battle with one pyromancer escaping, and get an occult book.
 
 Jeremiah leafs through it: "We should collect some blood for this..."
-Arlo lifts the arm he cut off the pyromancer in a salute: "Way ahead of you."
+[[Arlo]] lifts the arm he cut off the pyromancer in a salute: "Way ahead of you."
 
 They open the box. Within the Ethereal Plane, the unconscious Varian sees a blinding light. Within the box are the bones of St. Andreal.
 
-With Varian on Arlo's back, they escape with their quarry.
+With Varian on [[Arlo]]'s back, they escape with their quarry.
 
 Magda sneaks back up the stairs towards the bathroom again, and unlocks [[Stella]]'s room. She locks the door behind her and pockets the key. The Cat Currently Known As [[Stella]] sleeps in the bed, and [[Sasha]] floats outside the room. Magda is still visibly high off whatever was in that goblet.
 
@@ -45,7 +45,7 @@ Magda casts Lesser Restoration on Jeremiah in the morning. -- I'm going to start
 
 Irwin has gone to try and get people to evacuate. Alec has distributed the blades [[Prince Rupert]] was able to make. The guards are now at the gates preventing entry and exit from Vallaki. [[Sasha]] has gone to the church.
 
-The party goes to [[Francis]]' apothecary to try and get some health potions at the last minute. Magda gives Arlo the 300gp she got from [[Lady Watcher]]'s desk, and he gives 50 of them to [[Francis]] as a good will gesture.
+The party goes to [[Francis]]' apothecary to try and get some health potions at the last minute. Magda gives [[Arlo]] the 300gp she got from [[Lady Watcher]]'s desk, and he gives 50 of them to [[Francis]] as a good will gesture.
 
 They try one last time to get into the [[Baron]]'s manor and get an audience with [[Viktor]].
 
@@ -67,4 +67,4 @@ From where the party is, they can't make out what's happening, but they are sure
 
 [[Jakob]] Weerdo.
 
-**The party ends the session with Magda on 35HP, Varian on 26HP(+5 temporary HP), Arlo on 54HP and Jeremiah on 21HP.**
+**The party ends the session with Magda on 35HP, Varian on 26HP(+5 temporary HP), [[Arlo]] on 54HP and Jeremiah on 21HP.**
