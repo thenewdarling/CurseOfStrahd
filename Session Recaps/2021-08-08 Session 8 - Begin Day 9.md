@@ -2,9 +2,9 @@
 
 ## Vallaki - Day 9 since Arrival in Barovia
 
-(In downtime, [[Jeremiah]] inquired about a sleeping draught, and Magda went to feed on a chicken to sate the vampire curse.)
+(In downtime, [[Jeremiah]] inquired about a sleeping draught, and [[Magda]] went to feed on a chicken to sate the vampire curse.)
 
-Varian and Magda visit the apothecarist [[Francis]], who had previously identified the [[hags]]' potions.
+Varian and [[Magda]] visit the apothecarist [[Francis]], who had previously identified the [[hags]]' potions.
 
 We learn information from him: 
 
@@ -32,17 +32,17 @@ Eventually he notices that some of the bodies in the coffins are having small mo
 
 He is distraught and ashamed. A few hours before this conversation, the Brothers Watcher retrieved the key to the room with the bodies from the morgue.
 
-Varian has a vision which shows the [[hags]] seemingly consuming [[Rose]]'s soul, turning it into some kind of hellhound. Magda consults her notebooks. Hellhounds are fiends, not a pushover but not individually more dangerous than the [[hags]] themselves. Notably, she has never heard of hellhounds being created in this way. However, she knows that with Varian's scent, they will be able to chase him anywhere.
+Varian has a vision which shows the [[hags]] seemingly consuming [[Rose]]'s soul, turning it into some kind of hellhound. [[Magda]] consults her notebooks. Hellhounds are fiends, not a pushover but not individually more dangerous than the [[hags]] themselves. Notably, she has never heard of hellhounds being created in this way. However, she knows that with Varian's scent, they will be able to chase him anywhere.
 
 A man with a lantern approaches them and gives them an envelope with the [[Lady Watcher]]'s seal, in the shape of an eye. She wishes to speak with them in two hours (10pm).
 
-They arrive back at the [[Blue Water Inn]] and discover [[Jeremiah]] and [[Arlo]]'s situation. Magda tips [[Danika]] Martikov 2gp, lets them know that there is an additional person in their room, and asks for discretion. (She doesn't say who it is when prompted.)
+They arrive back at the [[Blue Water Inn]] and discover [[Jeremiah]] and [[Arlo]]'s situation. [[Magda]] tips [[Danika]] Martikov 2gp, lets them know that there is an additional person in their room, and asks for discretion. (She doesn't say who it is when prompted.)
 
-We have a toast to [[Rose]]'s memory, and [[Ireena]] finds them and asks what's going on. Magda tells them about the vision of [[Rose]]. [[Ireena]] is troubled by this. We don't tell her we know where the bones of St Andreal are yet -- we're going to go to [[Lady Watcher]]'s first.
+We have a toast to [[Rose]]'s memory, and [[Ireena]] finds them and asks what's going on. [[Magda]] tells them about the vision of [[Rose]]. [[Ireena]] is troubled by this. We don't tell her we know where the bones of St Andreal are yet -- we're going to go to [[Lady Watcher]]'s first.
 
-**10pm** -- we arrive at the [[Watchers]]' Manor. Magda takes the opportunity to rub the invite in the tiefling guard's face this time, who refuses to look at her.
+**10pm** -- we arrive at the [[Watchers]]' Manor. [[Magda]] takes the opportunity to rub the invite in the tiefling guard's face this time, who refuses to look at her.
 
-The manor is grand, with marble pillars and red carpets. They are led to [[Lady Watcher]]'s study -- a grand room with a mirror wall. Magda attempts to hide in the group so it's not as visible that she has no reflection, but [[Lady Watcher]] spots it.
+The manor is grand, with marble pillars and red carpets. They are led to [[Lady Watcher]]'s study -- a grand room with a mirror wall. [[Magda]] attempts to hide in the group so it's not as visible that she has no reflection, but [[Lady Watcher]] spots it.
 
 Lady. Watcher. Knows. Everything. 
 
@@ -54,11 +54,11 @@ Varian doesn't need to kill [[Izek]] now since [[Rose]] is dead anyway, but neve
 
 ## Vallaki - Day 10 since Arrival in Barovia
 
-**12am (midnight)** - Varian and [[Arlo]] go in to the prison, [[Jeremiah]] and Magda make their way round the side of the building.
+**12am (midnight)** - Varian and [[Arlo]] go in to the prison, [[Jeremiah]] and [[Magda]] make their way round the side of the building.
 
 The guard, paid off by [[Lady Watcher]], gives them a key. "Cell 17."
 
-Varian casts Darkness on [[Rose]]'s ring, projecting a sphere of 15 foot darkness around them that not even his own darkvision can see through. That way the prisoners won't be able to corroborate who did it. Magda and [[Jeremiah]] can use this darkness coming out of the window/wall to work out which cell [[Izek]] is in.
+Varian casts Darkness on [[Rose]]'s ring, projecting a sphere of 15 foot darkness around them that not even his own darkvision can see through. That way the prisoners won't be able to corroborate who did it. [[Magda]] and [[Jeremiah]] can use this darkness coming out of the window/wall to work out which cell [[Izek]] is in.
 
 Varian enters the cell. They speak briefly, ending with Varian telling him, "You tried."
 
@@ -66,7 +66,7 @@ Varian enters the cell. They speak briefly, ending with Varian telling him, "You
 
 And those are his final words as Varian assassinates him.
 
-Magda scales the wall of a building as they're escaping, casting Spider Climb and with [[Jeremiah]] making her invisible. She stashes the prison cell key in a chimney. She makes note of where she did this so she can come back and get it if she needs to.
+[[Magda]] scales the wall of a building as they're escaping, casting Spider Climb and with [[Jeremiah]] making her invisible. She stashes the prison cell key in a chimney. She makes note of where she did this so she can come back and get it if she needs to.
 
 They arrive back at the Blue Water, and -- (Liam rolls) -- no one is up.
 
@@ -90,6 +90,6 @@ Varian (being a drow with Trance) wakes up first.
 
 We talk to [[Ireena]], who insists she has more important problems than Vallaki politics. We tell her about [[Henrick]] in [[Jeremiah]]'s room, and about the remains of St. Andreal.
 
-She is going to go and reclaim the bones, while the party go to investigate the bodies in [[Henrick]]'s home, Magda volunteering because of her experience with the undead. (It's unclear if some of the party are going with [[Ireena]] yet.)
+She is going to go and reclaim the bones, while the party go to investigate the bodies in [[Henrick]]'s home, [[Magda]] volunteering because of her experience with the undead. (It's unclear if some of the party are going with [[Ireena]] yet.)
 
-**The party ends the session with the same HP as they began: Magda on 32HP, [[Jeremiah]] on 22HP, [[Arlo]] on 43HP, Varian on 25HP.**
+**The party ends the session with the same HP as they began: [[Magda]] on 32HP, [[Jeremiah]] on 22HP, [[Arlo]] on 43HP, Varian on 25HP.**

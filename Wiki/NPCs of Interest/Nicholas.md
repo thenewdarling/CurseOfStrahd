@@ -1,1 +1,1 @@
-Buried under the tree of [[Yester Hill]] after allegedly murdering [[Eliza Day]] and stealing a piece of the sun sword. Something broke out of the tree and trapped him between life and death, before he was killed for good by Magda.
+Buried under the tree of [[Yester Hill]] after allegedly murdering [[Eliza Day]] and stealing a piece of the sun sword. Something broke out of the tree and trapped him between life and death, before he was killed for good by [[Magda]].

@@ -14,19 +14,19 @@ They also mention how they have information that by noon tomorrow (ie. the festi
 
 [[Jakob]] and [[Dargos]] arrive, and [[Prince Rupert]] goes to sort silvered weapons for a defence, and Lifehunter weapons to provide to [[Arlo]] and Varian.
 
-The Watcher's party is tonight which provides an ideal time to break in -- Magda will use the invitation to bypass the need to be invited in and try to get the key to [[Stella]]'s room. The others will sneak in through the back to get the bones.
+The Watcher's party is tonight which provides an ideal time to break in -- [[Magda]] will use the invitation to bypass the need to be invited in and try to get the key to [[Stella]]'s room. The others will sneak in through the back to get the bones.
 
 The party split on the hill. 
 
 ___
 
-#### MAGDA POV
+#### [[MAGDA]] POV
 
-Magda enters the castle, with the help of Luc (I'm spelling it like this). He then introduces her to his friends Celeste and Anthony, all of whom say things like "the riff-raff" and aren't sure how the [[Baron]] will be overthrown but are pro-Watcher. He then nudges her drink so it spills on him to get them alone.
+[[Magda]] enters the castle, with the help of Luc (I'm spelling it like this). He then introduces her to his friends Celeste and Anthony, all of whom say things like "the riff-raff" and aren't sure how the [[Baron]] will be overthrown but are pro-Watcher. He then nudges her drink so it spills on him to get them alone.
 
-The [[Lady Watcher]] gives a speech to the congregation. Magda excuses herself to the bathroom and sneaks up to the study. She is spotted by the two women, and pretends it's a 'Come Dine With Me' nosy through the fancy house. She convinces them to join her in the study.
+The [[Lady Watcher]] gives a speech to the congregation. [[Magda]] excuses herself to the bathroom and sneaks up to the study. She is spotted by the two women, and pretends it's a 'Come Dine With Me' nosy through the fancy house. She convinces them to join her in the study.
 
-It's dark enough that they potentially don't notice that she casts no reflection in the giant mirror, and Magda opens the fancy globe and pours them a drink from the fancy whisky bottle inside it. She then casts Charm Person on them, and convinces them it's time to go, but then breaks her heel to give her an excuse to stick around and rifle through the drawers. She gets the key to the door and the remaining 300gp for her troubles, but leaves the locked drawer untouched.
+It's dark enough that they potentially don't notice that she casts no reflection in the giant mirror, and [[Magda]] opens the fancy globe and pours them a drink from the fancy whisky bottle inside it. She then casts Charm Person on them, and convinces them it's time to go, but then breaks her heel to give her an excuse to stick around and rifle through the drawers. She gets the key to the door and the remaining 300gp for her troubles, but leaves the locked drawer untouched.
 
 She changes into flats and sneaks out of the study to the bathroom to dispose of her shoes. While in the queue, Luc spots her from the bottom of the stairs and is confused, and she pretends the queue's just been really long. She needs to work out a way to get into [[Stella]]'s room, off the balcony of the main hall, without being spotted.
 
@@ -40,4 +40,4 @@ There is a door which requires the password "Let the dead remain at rest" every 
 
 They ambush [[Nikolai]] Watcher from around the corner. There is also a pyromancer and the [[Lady Watcher]]'s imp familiar. Varian is knocked unconscious, but [[Arlo]] lands the killing blow and takes out Nik. Once defeated, Nik's skin ripples as if being eaten by something invisible and tiny and he immediately begins to rot and decay into nothing. The session ends with Varian unconscious, the pyromancer still attacking, and the imp disappearing presumably to fetch his mistress...
 
-**The party ends the session with Magda on 35HP, [[Jeremiah]] on 22HP, [[Arlo]] on 54HP, Varian on 0HP and requiring stabilisation.**
+**The party ends the session with [[Magda]] on 35HP, [[Jeremiah]] on 22HP, [[Arlo]] on 54HP, Varian on 0HP and requiring stabilisation.**

@@ -1,16 +1,16 @@
 # **NEW DOWNTIME STARTS HERE - VALLAKI**
 
 
-## Magda meets the Martikov brothers while the others go to bed
+## [[Magda]] meets the Martikov brothers while the others go to bed
 
-Magda starts her first evening of downtime sitting in the tap room . She takes her cloak off and sits at a table by herself and catches her breath, looking up at the ceiling.
+[[Magda]] starts her first evening of downtime sitting in the tap room . She takes her cloak off and sits at a table by herself and catches her breath, looking up at the ceiling.
 
 [04-Jul-21 03:33 PM] TenderstDM
 After sitting for a few minutes, a woman arrives at your table with a small goblet of wine, “Welcome to Vallaki my dear, I am [[Danika]], [[Urwin]]’s wife.”
 
 Shortly after [[Danika]] leaves the two men at the next table call out to you, “New to town, are we? And what pray tell earns you special treatment from the [[Martikovs]]?”
 
-[04-Jul-21 04:29 PM] Magdalena de Luna (she/her)
+[04-Jul-21 04:29 PM] [[Magdalena]] de Luna (she/her)
 I thank [[Danika]] for her kindness before she goes.
 
 To the two men: "News travels fast here for such a big city, it seems. I'm afraid I don't know much about the [[Martikovs]], but we helped the young [[Viktor]] out of a sticky situation this afternoon. He found himself outside of the walls and the local... wildlife didn't seem to agree he should be there. We disagreed." She raises the goblet with a nod.
@@ -20,7 +20,7 @@ One turns to the other, “Barely in town a night, and already local heroes!”
 “Perhaps you will join us for a hunt someday, you'll find all manner of interesting creatures in Barovia. Better be careful though, word from the Vistani is that [[hags]] roam our valley once more. It would be a terrible thing to find yourselves the ones being hunted...”
 At this the two get up to leave, “I am [[Karl]], and this is my brother [[Nikolai]], sons of [[Lady Watcher]]. We’ll be seeing you again, I’m sure.”
 
-[05-Jul-21 10:06 PM] Magdalena de Luna (she/her)
+[05-Jul-21 10:06 PM] [[Magdalena]] de Luna (she/her)
 “[[Hags]] you say? We live in dangerous times indeed…”
 
 I reach my hand out to shake theirs as they leave. “A pleasure to meet you both, gentlemen, and my regards to [[Lady Watcher]].”
@@ -28,8 +28,8 @@ I reach my hand out to shake theirs as they leave. “A pleasure to meet you bot
 [09-Jul-21 06:22 PM] [[Jeremiah]] Templeton (he/him)
 [[Jeremiah]] heads to bed straight away, and gets up in the morning looking for a hearty breakfast
 
-[09-Jul-21 07:09 PM] Magdalena de Luna (she/her)
-I think Magda would probably go to bed after finishing her wine, if only cos she can feel herself falling asleep now she's in a warm building. She says goodnight to [[Danika]] and [[Urwin]] on the way if she passes them
+[09-Jul-21 07:09 PM] [[Magdalena]] de Luna (she/her)
+I think [[Magda]] would probably go to bed after finishing her wine, if only cos she can feel herself falling asleep now she's in a warm building. She says goodnight to [[Danika]] and [[Urwin]] on the way if she passes them
 
 [12-Jul-21 08:40 AM] Varian Lo'Gosh (he/him)
 Varian has gone straight to his room as well
@@ -54,7 +54,7 @@ By the time you head downstairs, the commotion in the hallway has past and [[Ire
 - [[Urwin]] sits with you awhile. He speculates more about the fate of his cousin over at the vineyard, perhaps he shall investigate himself. Business has been slow, they currently only have one other staying guest, although a well-paying one. [[Danton]], the Great Performer. He’s here from Kresk to help with the [[Baron]]’s upcoming Festival of the Blazing Sun, and has become quite the local celebrity. He’s hard to pin down, but seems to frequent the toy maker [[Blinksy]]’s store - maybe you’re familiar with his wares?
 - [[Danika]] suggests stopping by the church, [[Father Lucian]] knows everyone about town and could tell you Barovia’s history better than most. She also points you towards the markets, there are many stalls in the town square and shops squirrelled away down Vallaki’s cobbled streets. “Just yous be careful not to lose your feet, there’s no knowing where you might get swept off to!”
 
-[13-Jul-21 12:36 AM] Magdalena de Luna (she/her)
+[13-Jul-21 12:36 AM] [[Magdalena]] de Luna (she/her)
 "[[Urwin]], did you mention how far away your cousin's home is? Perhaps if we can organise arrangements for [[Danton]], we can get some time and help you investigate."
 
 [13-Jul-21 12:08 PM] [[Arlo]] de León (he/him)
@@ -126,15 +126,15 @@ At least you couldn't go lower than 5! I wouldn't have you mugged for an 8!
 That said, the magic store you do come across seems to sell mostly trinkets. There are dusty old books, simple charms for sale - although nothing past 1st level, and a small row of potions that look to be overpriced. By far worst of all however, is the plaque on the wall, "Fantastical Billowing Cloak: Wonder of [[Vallaki]]!"
 In the cloak's place, instead a sign hangs, "SOLD".
 
-## Magda stops by the Watcher Manor
+## [[Magda]] stops by the Watcher Manor
 
-[13-Jul-21 07:54 PM] Magdalena de Luna (she/her)
+[13-Jul-21 07:54 PM] [[Magdalena]] de Luna (she/her)
 I would like to seek out [[Karl]] and [[Nikolai]] again and [[Lady Watcher]] if possible (if it’s a downtime-accessible activity) — if not, I wouldn’t mind seeing what [[Ireena]] is up to
 
 [13-Jul-21 10:09 PM] TenderstDM
-Turning to @magdalena, “Now if you are looking to engage with [[Lady Watcher]], I can point you her way. Word to the wise though, there has long been tension between the Watcher and Vallakovich families, I would do my best to stay clear of that hornet’s nest.”
+Turning to @[[magdalena]], “Now if you are looking to engage with [[Lady Watcher]], I can point you her way. Word to the wise though, there has long been tension between the Watcher and Vallakovich families, I would do my best to stay clear of that hornet’s nest.”
 
-[13-Jul-21 10:22 PM] Magdalena de Luna (she/her)
+[13-Jul-21 10:22 PM] [[Magdalena]] de Luna (she/her)
 “Thank you, friend. I will keep that in mind. I’m no stranger to old families, they collect grudges like misers hoard pennies. But I suspect we can be of use to them, and if we can do so without angering the [[Vallakoviches]], I think it would be in all of our interests. But if it is as you say… perhaps we should reunite with our young friend [[Viktor]] first, hm? 😉”
 
 [15-Jul-21 09:18 PM] TenderstDM
@@ -142,8 +142,8 @@ Turning to @magdalena, “Now if you are looking to engage with [[Lady Watcher]]
 …
 Sure enough, you find the house without trouble - identifiable by its tower with a brass framed window, shaped like an eye watching over the town below. Lavishly dressed guests appear to be arriving, but a Tiefling woman stops you at the gates, “The Lady doesn’t care for you commonfolk standing and gawking – off with you now.”
 
-[15-Jul-21 11:28 PM] Magdalena de Luna (she/her)
-Magda snorts. "My goodness, it's been several lifetimes since anyone called me 'commonfolk'. 😆 Thank you for that, darling. That's made my day."
+[15-Jul-21 11:28 PM] [[Magdalena]] de Luna (she/her)
+[[Magda]] snorts. "My goodness, it's been several lifetimes since anyone called me 'commonfolk'. 😆 Thank you for that, darling. That's made my day."
 
 She peers over the guard's shoulder past the gates. "Tell me, is there some kind of event going on? If it's not a good time, I can come back later. I was hoping to catch [[Karl]] and [[Nikolai]], they mentioned something about a hunt to me last night? "
 
@@ -153,17 +153,17 @@ The Tiefling woman doesn’t look kindly towards being called darling,
 As for hunting, an activity I feel far better suited to your sorts, there is a notice board in the town square where outings are advertised. [[Nikolai]] and [[Karl]] usually run with the wolf-catchers, but you’ll find all sorts on there. Good hunting to you.
 With this she makes a show of dismissing you and returning to her post.
 
-[17-Jul-21 03:45 PM] Magdalena de Luna (she/her)
-With a shrug, Magda starts making her way back down the road.
+[17-Jul-21 03:45 PM] [[Magdalena]] de Luna (she/her)
+With a shrug, [[Magda]] starts making her way back down the road.
 ...
 Later on in the day I’d like to meet up with the others and see if we can go see [[Viktor]]
 
-Magda is gonna have pub food for din dins once yous are all done 👀 and a wee 🍷
+[[Magda]] is gonna have pub food for din dins once yous are all done 👀 and a wee 🍷
 
 “Oh. Before I forget.” She puts 2 gp on the desk and slides it over to Varian for paying for the room. “With interest. Thank you for your kindness yesterday.”
 
 
-## [[Jerry]] and Magda go to the church and [[Jerry]] buys The Little Book of Necromancy
+## [[Jerry]] and [[Magda]] go to the church and [[Jerry]] buys The Little Book of Necromancy
 
 [17-Jul-21 09:34 PM] [[Jeremiah]] Templeton (he/him)
 Do I find any first level necromancy spells? 👀
@@ -177,10 +177,10 @@ False Life,
 & Cause Fear.
 The book itself is only 1gp, but copying the spells into your own book will require the usual time and monetary cost!
 
-[18-Jul-21 12:56 PM] Magdalena de Luna (she/her)
+[18-Jul-21 12:56 PM] [[Magdalena]] de Luna (she/her)
 THE LITTLE BOOK OF NECROMANCY!! 😭😭❤️
 
-[18-Jul-21 12:56 PM] Magdalena de Luna (she/her)
+[18-Jul-21 12:56 PM] [[Magdalena]] de Luna (she/her)
 (Btw inflict wounds isn’t a wizard spell)
 
 [18-Jul-21 12:57 PM] TenderstDM
@@ -192,10 +192,10 @@ At the church you see a familiar woman, [[Sasha]] from your travels here, talkin
 [18-Jul-21 01:50 PM] [[Jeremiah]] Templeton (he/him)
 I buy the little book of necromancy
 
-Shortly after, Magda returns round the corner from [[Lady Watcher]]’s manor and sees you, @[[jeremiah]]. The two of you together are free to approach the church, although we can pick up here in game!
+Shortly after, [[Magda]] returns round the corner from [[Lady Watcher]]’s manor and sees you, @[[jeremiah]]. The two of you together are free to approach the church, although we can pick up here in game!
 
-[18-Jul-21 02:19 PM] Magdalena de Luna (she/her)
-“[[Jeremiah]]!” Magda looks flustered and distracted. “How long have you been standing there?”
+[18-Jul-21 02:19 PM] [[Magdalena]] de Luna (she/her)
+“[[Jeremiah]]!” [[Magda]] looks flustered and distracted. “How long have you been standing there?”
 
 
 [18-Jul-21 02:24 PM] [[Jeremiah]] Templeton (he/him)
@@ -203,5 +203,5 @@ Shortly after, Magda returns round the corner from [[Lady Watcher]]’s manor an
 
 Just a little quote from this book I bought
 
-[18-Jul-21 02:27 PM] Magdalena de Luna (she/her)
-“That’s nice.” Magda relaxes. Slightly. “You know, I’ve met a few necromancers. You don’t seem like like a power-mad dictator. Why are you so interested in raising the dead anyway?”
+[18-Jul-21 02:27 PM] [[Magdalena]] de Luna (she/her)
+“That’s nice.” [[Magda]] relaxes. Slightly. “You know, I’ve met a few necromancers. You don’t seem like like a power-mad dictator. Why are you so interested in raising the dead anyway?”

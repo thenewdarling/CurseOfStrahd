@@ -11,8 +11,8 @@ His name is [[Nicholas]] -- 'Nick if you like'. He confirms when we question him
 
 The tree has been sundered, as we can see. A huge gash, and something appears to have climbed out of it. He offers us a trade: the location of the sword pointed out on our map, for destroying the tree and setting him free.
 
-Magda agrees, a lie. He tells us the location, and she uses Turn Undead to destroy him on the spot. The party express... discontent lmao. "I've let many undead live for your benefit. But I have one purpose. He was a murderer. But even if he wasn't, he shouldn't be here."
+[[Magda]] agrees, a lie. He tells us the location, and she uses Turn Undead to destroy him on the spot. The party express... discontent lmao. "I've let many undead live for your benefit. But I have one purpose. He was a murderer. But even if he wasn't, he shouldn't be here."
 
 She looks at her unholy symbol, and says under her breath. "He was a murderer, right?" She can't tell if it's a trick of the light, or the skull on the symbol winks at her.
 
-**The party ends the session with Magda on 33 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 30 HP, and Varian on 19 HP.**
+**The party ends the session with [[Magda]] on 33 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 30 HP, and Varian on 19 HP.**

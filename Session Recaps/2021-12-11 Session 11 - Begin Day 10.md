@@ -2,9 +2,9 @@
 
 ## Vallaki - Day 10 since Arrival in Barovia
 
-The session opens with the party still separated, Varian bleeding out on the floor while Magda is upstairs at the masquerade.
+The session opens with the party still separated, Varian bleeding out on the floor while [[Magda]] is upstairs at the masquerade.
 
-Magda is led down to the main hall, offered a small goblet of some dark red sweet port which has a vaguely iron-y tint but doesn't seem to be blood. She doesn't see a way to avoid drinking it in this crowd, so she Partakes™️. It has an effect like a party drug.
+[[Magda]] is led down to the main hall, offered a small goblet of some dark red sweet port which has a vaguely iron-y tint but doesn't seem to be blood. She doesn't see a way to avoid drinking it in this crowd, so she Partakes™️. It has an effect like a party drug.
 
 Downstairs, [[Nikolai]]'s body continues to be eaten by spiders. Varian is stabilised, and [[Jeremiah]] animates the skeleton of [[Nikolai]].
 
@@ -19,13 +19,13 @@ They open the box. Within the Ethereal Plane, the unconscious Varian sees a blin
 
 With Varian on [[Arlo]]'s back, they escape with their quarry.
 
-Magda sneaks back up the stairs towards the bathroom again, and unlocks [[Stella]]'s room. She locks the door behind her and pockets the key. The Cat Currently Known As [[Stella]] sleeps in the bed, and [[Sasha]] floats outside the room. Magda is still visibly high off whatever was in that goblet.
+[[Magda]] sneaks back up the stairs towards the bathroom again, and unlocks [[Stella]]'s room. She locks the door behind her and pockets the key. The Cat Currently Known As [[Stella]] sleeps in the bed, and [[Sasha]] floats outside the room. [[Magda]] is still visibly high off whatever was in that goblet.
 
 She knocks the sleeping catgirl out and bundles her in the duvet as the door rattles.
 
 While she's passing the duvet out the window to [[Stella]], the door unlocks and opens, revealing [[Karl]] Watcher standing in the door.
 
-As [[Sasha]] flies away, Magda waves to him and uses Misty Escape to teleport out the window to the ground beneath.
+As [[Sasha]] flies away, [[Magda]] waves to him and uses Misty Escape to teleport out the window to the ground beneath.
 
 ___
 
@@ -41,15 +41,15 @@ Dejected they return to the [[Blue Water Inn]]. We learn that [[Danika]] has tak
 
 ## Vallaki - Day 11 since Arrival in Barovia - The Day of the Parade
 
-Magda casts Lesser Restoration on [[Jeremiah]] in the morning. -- I'm going to start explicitly noting these when they happen to be sure.
+[[Magda]] casts Lesser Restoration on [[Jeremiah]] in the morning. -- I'm going to start explicitly noting these when they happen to be sure.
 
 Irwin has gone to try and get people to evacuate. Alec has distributed the blades [[Prince Rupert]] was able to make. The guards are now at the gates preventing entry and exit from Vallaki. [[Sasha]] has gone to the church.
 
-The party goes to [[Francis]]' apothecary to try and get some health potions at the last minute. Magda gives [[Arlo]] the 300gp she got from [[Lady Watcher]]'s desk, and he gives 50 of them to [[Francis]] as a good will gesture.
+The party goes to [[Francis]]' apothecary to try and get some health potions at the last minute. [[Magda]] gives [[Arlo]] the 300gp she got from [[Lady Watcher]]'s desk, and he gives 50 of them to [[Francis]] as a good will gesture.
 
 They try one last time to get into the [[Baron]]'s manor and get an audience with [[Viktor]].
 
-Though turned away by the guards again, the Lady Vallakovitch lets the party in and takes them to [[Viktor]], who is bedridden, his body covered in welts and bruises. He is unconscious and it's unclear whether he'll make it. Magda casts Lesser Restoration and a 3rd level Cure Wounds on him, and his wounds appear to heal somewhat, and he regains consciousness.
+Though turned away by the guards again, the Lady Vallakovitch lets the party in and takes them to [[Viktor]], who is bedridden, his body covered in welts and bruises. He is unconscious and it's unclear whether he'll make it. [[Magda]] casts Lesser Restoration and a 3rd level Cure Wounds on him, and his wounds appear to heal somewhat, and he regains consciousness.
 
 After allowing his mother a moment, Varian questions the boy. (I don't have notes of what he asked, but from memory it was just what had happened to him and [[Jakob]] of which he didn't know. Also to tell him that Cat![[Stella]] is in the [[Blue Water Inn]]). It's clear the [[Vallakoviches]] are completely unaware of the Watcher's vampire plot, and will not listen to reason.
 
@@ -67,4 +67,4 @@ From where the party is, they can't make out what's happening, but they are sure
 
 [[Jakob]] Weerdo.
 
-**The party ends the session with Magda on 35HP, Varian on 26HP(+5 temporary HP), [[Arlo]] on 54HP and [[Jeremiah]] on 21HP.**
+**The party ends the session with [[Magda]] on 35HP, Varian on 26HP(+5 temporary HP), [[Arlo]] on 54HP and [[Jeremiah]] on 21HP.**

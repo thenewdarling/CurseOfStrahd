@@ -1,7 +1,7 @@
 # Session 18 -- 18th February 2022
 ## [[Krezk]] -- crossing midnight into Day 16 since the party arrived in Barovia
 
-As Magda and [[Jeremiah]] are roused from their Life Drain sleep, the party consider their options -- inside the Krezkov's home.
+As [[Magda]] and [[Jeremiah]] are roused from their Life Drain sleep, the party consider their options -- inside the Krezkov's home.
 
 Varian scouts upstairs, hearing the Krezkovs imbibing some kind of smoke (likely the Alanatis plant we were told about), and some kind of torture happening to a half-elven woman. The party don't think they're in a position for a fight, and are just looking for the [[Abbot]], so they go south -- which [[Arlo]] scouts using the ring of [[Lady Watcher]].
 
@@ -42,4 +42,4 @@ She gives us a reading, and in the beginning, the cards reading of history match
 
 We leave the party in [[Arabelle]]'s home, unsure of what comes next -- but absolutely soaking in vibes.
 
-**The party ends the session with Magda on 7 HP, [[Jeremiah]] on 8 HP, [[Arlo]] on 8 HP, and Varian on 21 HP. The exhaustion has passed, thank god.**
+**The party ends the session with [[Magda]] on 7 HP, [[Jeremiah]] on 8 HP, [[Arlo]] on 8 HP, and Varian on 21 HP. The exhaustion has passed, thank god.**

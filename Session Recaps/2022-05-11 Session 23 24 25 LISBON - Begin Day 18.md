@@ -19,7 +19,7 @@ As the party sleep outside, [[Jerry]] spots on his watch a procession of ghosts,
 
 The party wake and take the day off in a long rest.
 
-Come evening, when her spell slots return, Magda attempts to contact [[Ezmerelda]], who appears to be in another dimension -- in total darkness, unable to escape after the events of [[Arabelle]]'s vision.
+Come evening, when her spell slots return, [[Magda]] attempts to contact [[Ezmerelda]], who appears to be in another dimension -- in total darkness, unable to escape after the events of [[Arabelle]]'s vision.
 
 She also uses Divination to ask [[Asmodeus]] where they might find the hilt of the sword, and is told a cryptic phrase about the Amber Temple.
 
@@ -33,7 +33,7 @@ It appears to be in ruins. After solving the anagram puzzle on the door, 'HARKS 
 
 [[Arlo]] duels an enchanted suit of armour and kicks its head miles away. He also finds a book on the history of Barovia that lists the Amber Temple in its contents page, but notably that chapter has been ripped out.
 
-[[Jerry]] does a dance to unlock a chest, and it opens, giving them a bunch of loot including a spider-themed rapier (Magda: "Mine."), a snazzy pair of magic boots which [[Jerry]] takes, and an Alchemy Jug which [[Jerry]] offers to [[Arabelle]].
+[[Jerry]] does a dance to unlock a chest, and it opens, giving them a bunch of loot including a spider-themed rapier ([[Magda]]: "Mine."), a snazzy pair of magic boots which [[Jerry]] takes, and an Alchemy Jug which [[Jerry]] offers to [[Arabelle]].
 
 They also find two rings that make the wearers swap souls. [[Arlo]] and [[Arabelle]] hang onto them after some hijinks.
 

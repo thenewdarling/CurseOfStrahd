@@ -1,19 +1,19 @@
 # Downtime - [[Arabelle]]'s House
 
-## Magda gathers the supplies to re-summon Eden
+## [[Magda]] gathers the supplies to re-summon Eden
 
-[10-Mar-22 04:35 PM] Magdalena de Luna (she/her)
-(Can I have Magda gather the materials for Find Familiar in the wee house?)
+[10-Mar-22 04:35 PM] [[Magdalena]] de Luna (she/her)
+(Can I have [[Magda]] gather the materials for Find Familiar in the wee house?)
 
 [19-Mar-22 03:55 PM] TenderstDM
 [[Arabelle]] drags a stool over by the kitchen table, she hops up and starts rummaging around the top shelves. She comes back down with a few sage leaves and then scoops some charcoal out from the back of the stove. For a moment it looks as if she's forgotten something, before she reaches into her apron pocket, pulling out a handful of little incense cones.
 "That do you?"
 
-[19-Mar-22 09:06 PM] Magdalena de Luna (she/her)
-Magda smiles wickedly. “I can make do in a pinch.” She takes them out into the back garden and starts carving a pentacle into the ground with a stick.
+[19-Mar-22 09:06 PM] [[Magdalena]] de Luna (she/her)
+[[Magda]] smiles wickedly. “I can make do in a pinch.” She takes them out into the back garden and starts carving a pentacle into the ground with a stick.
 
-[30-Mar-22 07:49 AM] Magdalena de Luna (she/her)
-Magda is still casting Find Familiar outside, drawing her wee chalk circle and lighting the incense in her brazier. It flashes, and becomes a familiar large yellow snake.
+[30-Mar-22 07:49 AM] [[Magdalena]] de Luna (she/her)
+[[Magda]] is still casting Find Familiar outside, drawing her wee chalk circle and lighting the incense in her brazier. It flashes, and becomes a familiar large yellow snake.
 “Hello, my dear,” she smiles. It rattles angrily and she picks a few owl feathers out of its neck. “Oh, I knowww, I’m sorry.”
 
 ## [[Jeremiah]] looks for a sewing kit
