@@ -76,11 +76,11 @@ By the time you head downstairs, the commotion in the hallway has past and [[Ire
 Magda also makes a mental note that we should appoint a party treasurer 😆
 
 
-[13-Jul-21 12:08 PM] pettypierrot#6397
+[13-Jul-21 12:08 PM] Arlo de León (he/him)
 "I second that - seems a crime that a lovely establishment such as this be deprived of it's wine stock. Plus it's been a while since my last gander around a vineyard"
 
 
-[13-Jul-21 12:10 PM] pettypierrot#6397
+[13-Jul-21 12:10 PM] Arlo de León (he/him)
 Arlo asks about the markets, and whether there's anyone there who he could commission to make adjustments to his handaxes. He seems in need of some silver.
 
 {Reactions}
@@ -134,7 +134,7 @@ Curse of [[Strahd]] - Game - downtime [848603337732522034].txt_Files\image0-4E30
 {Reactions}
 boudicca 
 
-[14-Jul-21 03:03 PM] pettypierrot#6397
+[14-Jul-21 03:03 PM] Arlo de León (he/him)
 i rolled a 15!
 
 
@@ -542,7 +542,7 @@ Don't be impressed til we do it!
 I honestly think we might just all be killed 😆
 
 
-[10-Aug-21 10:07 AM] pettypierrot#6397
+[10-Aug-21 10:07 AM] Arlo de León (he/him)
 Do you have zone of truth @thenewdarling ?
 
 
@@ -704,11 +704,11 @@ Oh I have many, just need to decide what Varian would say…  I’m glad we’re
 {Reactions}
 boudicca 
 
-[31-Dec-21 03:49 PM] pettypierrot#6397
+[31-Dec-21 03:49 PM] Arlo de León (he/him)
 “I’m not sure what kinda effects this bloodlust thing has on you, Magda, but what I do know is that I’d much rather [[Lady Watcher]]'s neck be on the line than those poor buggers down there”
 
 
-[31-Dec-21 03:50 PM] pettypierrot#6397
+[31-Dec-21 03:50 PM] Arlo de León (he/him)
 “I think it would be wise to play Mr Strahds game for a while, until we’re ready to pay him back his dues”
 
 
@@ -760,11 +760,11 @@ Like she’s still hungry.
 {Reactions}
 🩸 (2) boudicca (2) 🧛‍♀️ (2) 
 
-[31-Dec-21 04:12 PM] pettypierrot#6397
+[31-Dec-21 04:12 PM] Arlo de León (he/him)
 Arlo removes a handkerchief from his sleeve, and holds it out to Magda
 
 
-[31-Dec-21 04:13 PM] pettypierrot#6397
+[31-Dec-21 04:13 PM] Arlo de León (he/him)
 “Red is your colour, my dear”
 
 {Reactions}
@@ -859,13 +859,13 @@ As we run to the Manor, I'm casting message frantically at where [[Viktor]] woul
 Basically running along muttering "[[Viktor]], where are you?" the whole way
 
 
-[04-Jan-22 01:10 PM] pettypierrot#6397
+[04-Jan-22 01:10 PM] Arlo de León (he/him)
 (Just to add to this bit as I forgot to reply!) Arlo flinches when Magda grabs his wrist, but quickly recovers and levels her with an earnest look. “I wouldn’t have become who I am without dancing with darkness occasionally. You have that darkness, but also a lot of light. Life is about balance” he looks at Magdas blood drenched form, and then meets her eyes meaningfully, “and moderation”
 
 {Reactions}
 ❤️ (3) 
 
-[04-Jan-22 01:11 PM] pettypierrot#6397
+[04-Jan-22 01:11 PM] Arlo de León (he/him)
 Arlo also joins the party in heading to the manor!
 
 {Reactions}
@@ -1101,13 +1101,13 @@ Varian looks back and shrugs. "I wouldn't have a clue. Do you?"
 “Wait five minutes, they’ll start comparing sizes.”
 
 
-[17-Jan-22 06:51 PM] pettypierrot#6397
+[17-Jan-22 06:51 PM] Arlo de León (he/him)
 “I can imagine no other reality where I am not happily marrying, “”shagging”” and killing for my Allessandra, Jeremiah. I don’t understand this game”
 
 {Reactions}
 🥺 
 
-[17-Jan-22 06:51 PM] pettypierrot#6397
+[17-Jan-22 06:51 PM] Arlo de León (he/him)
 “But out of interest…. What would your answer to this hypothetical be?”
 
 
@@ -1119,7 +1119,7 @@ Varian looks back and shrugs. "I wouldn't have a clue. Do you?"
 Like Allesandra has told you to
 
 
-[17-Jan-22 06:53 PM] pettypierrot#6397
+[17-Jan-22 06:53 PM] Arlo de León (he/him)
 Ah I see! I think I’m starting to get the game now!
 
 
