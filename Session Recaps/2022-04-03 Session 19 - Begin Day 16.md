@@ -15,9 +15,9 @@ We press on, and it seems like [[the Winery]] is being guarded by ravens, and a 
 
 The kids don't know [[Urwin]] is dead yet.
 
-Varian shows them a book he has, which he has been keeping in secret. It is magical in nature, and seems to fill with his thoughts and dreams each night. We find out it once belonged to [[Tasha]].
+[[Varian]] shows them a book he has, which he has been keeping in secret. It is magical in nature, and seems to fill with his thoughts and dreams each night. We find out it once belonged to [[Tasha]].
 
-Varian and [[Magda]] have a heart-to-heart about the book, after which Varian helps [[Magda]] find a wild animal, since this is the last day before the last of [[Lady Watcher]]'s blood is spent.
+[[Varian]] and [[Magda]] have a heart-to-heart about the book, after which [[Varian]] helps [[Magda]] find a wild animal, since this is the last day before the last of [[Lady Watcher]]'s blood is spent.
 
 There is an... altercation with the horses in the stable yard. [[Magda]] probably should've asked permission. It's fine. I won't go into detail. It's fine. Everything is fine.
 
@@ -35,10 +35,10 @@ We find out the [[Morning Lord|Morninglord]] and the Night Mother looked over Ba
 
 [[Arabelle]]'s brother went to [[Berez]] in the hope they would help him. The witches have links to [[Mother Night]], and are the ones who [[Gertruda]] went looking for all the way back in [[Barovia Town]]. 
 
-Varian gives the [[Rose]] ring to [[Adrianna]], as [[Rose]] wishes to stay with the other children, and away from the danger for now.
+[[Varian]] gives the [[Rose]] ring to [[Adrianna]], as [[Rose]] wishes to stay with the other children, and away from the danger for now.
 
 ## Morning of Day 18 since the party arrived in Barovia
 
 With heavy hearts but full bellies, the party make for [[Yester Hill]].
 
-**The party ends the session with [[Magda]] on 52 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 65 HP, and Varian on 28 HP.**
+**The party ends the session with [[Magda]] on 52 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 65 HP, and [[Varian]] on 28 HP.**

@@ -4,7 +4,7 @@
 
 (In downtime, [[Jeremiah]] inquired about a sleeping draught, and [[Magda]] went to feed on a chicken to sate the vampire curse.)
 
-Varian and [[Magda]] visit the apothecarist [[Francis]], who had previously identified the [[hags]]' potions.
+[[Varian]] and [[Magda]] visit the apothecarist [[Francis]], who had previously identified the [[hags]]' potions.
 
 We learn information from him: 
 
@@ -14,7 +14,7 @@ There are no official Thieves' Guilds in Vallaki due to the [[Vallakoviches]], b
 
 The prison [[Izek]] is kept in is a simple building with a few guards and one inside. It is not big enough for long-term confinement, usually short term or death row. The cell windows are merely slits to let air and light circulate.
 
-They leave, and Varian swoons randomly, as if he will pass out.
+They leave, and [[Varian]] swoons randomly, as if he will pass out.
 
 *
 
@@ -32,7 +32,7 @@ Eventually he notices that some of the bodies in the coffins are having small mo
 
 He is distraught and ashamed. A few hours before this conversation, the Brothers Watcher retrieved the key to the room with the bodies from the morgue.
 
-Varian has a vision which shows the [[hags]] seemingly consuming [[Rose]]'s soul, turning it into some kind of hellhound. [[Magda]] consults her notebooks. Hellhounds are fiends, not a pushover but not individually more dangerous than the [[hags]] themselves. Notably, she has never heard of hellhounds being created in this way. However, she knows that with Varian's scent, they will be able to chase him anywhere.
+[[Varian]] has a vision which shows the [[hags]] seemingly consuming [[Rose]]'s soul, turning it into some kind of hellhound. [[Magda]] consults her notebooks. Hellhounds are fiends, not a pushover but not individually more dangerous than the [[hags]] themselves. Notably, she has never heard of hellhounds being created in this way. However, she knows that with [[Varian]]'s scent, they will be able to chase him anywhere.
 
 A man with a lantern approaches them and gives them an envelope with the [[Lady Watcher]]'s seal, in the shape of an eye. She wishes to speak with them in two hours (10pm).
 
@@ -50,21 +50,21 @@ Everything the entire party has done in the city since we've gotten here. She's 
 
 She has tipped off the prison guards, and offers us 600gp to kill [[Izek]] at midnight when the guards change shift. 300 now, 300 upon completion.
 
-Varian doesn't need to kill [[Izek]] now since [[Rose]] is dead anyway, but nevertheless we accept the mission.
+[[Varian]] doesn't need to kill [[Izek]] now since [[Rose]] is dead anyway, but nevertheless we accept the mission.
 
 ## Vallaki - Day 10 since Arrival in Barovia
 
-**12am (midnight)** - Varian and [[Arlo]] go in to the prison, [[Jeremiah]] and [[Magda]] make their way round the side of the building.
+**12am (midnight)** - [[Varian]] and [[Arlo]] go in to the prison, [[Jeremiah]] and [[Magda]] make their way round the side of the building.
 
 The guard, paid off by [[Lady Watcher]], gives them a key. "Cell 17."
 
-Varian casts Darkness on [[Rose]]'s ring, projecting a sphere of 15 foot darkness around them that not even his own darkvision can see through. That way the prisoners won't be able to corroborate who did it. [[Magda]] and [[Jeremiah]] can use this darkness coming out of the window/wall to work out which cell [[Izek]] is in.
+[[Varian]] casts Darkness on [[Rose]]'s ring, projecting a sphere of 15 foot darkness around them that not even his own darkvision can see through. That way the prisoners won't be able to corroborate who did it. [[Magda]] and [[Jeremiah]] can use this darkness coming out of the window/wall to work out which cell [[Izek]] is in.
 
-Varian enters the cell. They speak briefly, ending with Varian telling him, "You tried."
+[[Varian]] enters the cell. They speak briefly, ending with [[Varian]] telling him, "You tried."
 
 "I failed."
 
-And those are his final words as Varian assassinates him.
+And those are his final words as [[Varian]] assassinates him.
 
 [[Magda]] scales the wall of a building as they're escaping, casting Spider Climb and with [[Jeremiah]] making her invisible. She stashes the prison cell key in a chimney. She makes note of where she did this so she can come back and get it if she needs to.
 
@@ -72,24 +72,24 @@ They arrive back at the Blue Water, and -- (Liam rolls) -- no one is up.
 
 [[Henrick]] is asleep in [[Jeremiah]]'s room.
 
-We go to bed. Varian has contact with the Dark Powers during the night.
+We go to bed. [[Varian]] has contact with the Dark Powers during the night.
 
 ___
 
-## Varian Dreams...
+## [[Varian]] Dreams...
 
 (Details were never shared to the Session Recap channel.)
 
 ___
 
-Varian (being a drow with Trance) wakes up first.
+[[Varian]] (being a drow with Trance) wakes up first.
 
 [[Danton]] and [[Danika]] are talking -- news of [[Izek]]'s death is already out.
 
-[[Danika]] is suspicious as they didn't get home until late. Lots of fingers will be pointing at us as they knew [[Izek]] and Varian had beef.
+[[Danika]] is suspicious as they didn't get home until late. Lots of fingers will be pointing at us as they knew [[Izek]] and [[Varian]] had beef.
 
 We talk to [[Ireena]], who insists she has more important problems than Vallaki politics. We tell her about [[Henrick]] in [[Jeremiah]]'s room, and about the remains of St. Andreal.
 
 She is going to go and reclaim the bones, while the party go to investigate the bodies in [[Henrick]]'s home, [[Magda]] volunteering because of her experience with the undead. (It's unclear if some of the party are going with [[Ireena]] yet.)
 
-**The party ends the session with the same HP as they began: [[Magda]] on 32HP, [[Jeremiah]] on 22HP, [[Arlo]] on 43HP, Varian on 25HP.**
+**The party ends the session with the same HP as they began: [[Magda]] on 32HP, [[Jeremiah]] on 22HP, [[Arlo]] on 43HP, [[Varian]] on 25HP.**

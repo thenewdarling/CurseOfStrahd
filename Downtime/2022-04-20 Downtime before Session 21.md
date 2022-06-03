@@ -2,8 +2,8 @@
 
 *The following is appended to that story in downtime chat.*
 
-[22-Apr-22 11:58 AM] Varian Lo'Gosh (he/him)
-After [[Magda]] says she can't keep going with horses and chickens, Varian nods at her and says "We all have our trials to overcome. Hold on to what you believe in and you'll restore what is rightfully yours."
+[22-Apr-22 11:58 AM] [[Varian]] Lo'Gosh (he/him)
+After [[Magda]] says she can't keep going with horses and chickens, [[Varian]] nods at her and says "We all have our trials to overcome. Hold on to what you believe in and you'll restore what is rightfully yours."
 
 
 [22-Apr-22 12:02 PM] [[Magdalena]] de Luna (she/her)

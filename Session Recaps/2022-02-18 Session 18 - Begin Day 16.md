@@ -3,9 +3,9 @@
 
 As [[Magda]] and [[Jeremiah]] are roused from their Life Drain sleep, the party consider their options -- inside the Krezkov's home.
 
-Varian scouts upstairs, hearing the Krezkovs imbibing some kind of smoke (likely the Alanatis plant we were told about), and some kind of torture happening to a half-elven woman. The party don't think they're in a position for a fight, and are just looking for the [[Abbot]], so they go south -- which [[Arlo]] scouts using the ring of [[Lady Watcher]].
+[[Varian]] scouts upstairs, hearing the Krezkovs imbibing some kind of smoke (likely the Alanatis plant we were told about), and some kind of torture happening to a half-elven woman. The party don't think they're in a position for a fight, and are just looking for the [[Abbot]], so they go south -- which [[Arlo]] scouts using the ring of [[Lady Watcher]].
 
-The find a little square room with a man working on something in the corner, and Varian sneaks up and tries to cover his mouth.
+The find a little square room with a man working on something in the corner, and [[Varian]] sneaks up and tries to cover his mouth.
 
 The man grabs his hand without even looking up, and proceeds to force a combat, summoning a huge greatsword. The party make multiple attempts to deescalate, but the fighting only stops when a ghost next door is roused from his slumber -- [[Sergei]].
 
@@ -13,7 +13,7 @@ He reveals the [[Abbot]]'s name, [[Yalom]], and stops the fight. We find out wha
 
 We find out [[Yalom]] also invented the zombie curse at [[Strahd]]'s behest, right as [[Jeremiah]]'s hand falls off. [[Yalom]] and [[Sergei]] have been trapped in this room for hundreds of years.
 
-[[Sergei]] asks for permission to tell his story, to which Taanit (maybe also Varian?) says "Hell yeah!"
+[[Sergei]] asks for permission to tell his story, to which Taanit (maybe also [[Varian]]?) says "Hell yeah!"
 
 He was [[Strahd]]'s mentor, best friend, and brother-in-law. He has died, but nothing leaves Barovia, even in death. He tells us of his love, Tatiana -- [[Strahd]]'s sister. At some point in her life she became ill and was meant to die naturally, but made some kind of dark pact. At first she started feeling better and recovering from that illness, but soon started having cravings - she seems to have been made a vampire by that pact. She tried to contain the urges and was struggling, so her and [[Sergei]] went away to hide and protect other people. Eventually Tatiana succumbed and killed [[Sergei]]. He never told us how Tatiana herself died, only that the world caught up and killed her? After that first death she seems to keep reincarnating, although without memory of her past lives, or at least at first. She is now cursed to fall ill, to die, and turn to vampirism over and over again. But we likely know her under another name -- he shows us a locket containing the face of [[Ireena]]. (GASP!) 
 
@@ -42,4 +42,4 @@ She gives us a reading, and in the beginning, the cards reading of history match
 
 We leave the party in [[Arabelle]]'s home, unsure of what comes next -- but absolutely soaking in vibes.
 
-**The party ends the session with [[Magda]] on 7 HP, [[Jeremiah]] on 8 HP, [[Arlo]] on 8 HP, and Varian on 21 HP. The exhaustion has passed, thank god.**
+**The party ends the session with [[Magda]] on 7 HP, [[Jeremiah]] on 8 HP, [[Arlo]] on 8 HP, and [[Varian]] on 21 HP. The exhaustion has passed, thank god.**

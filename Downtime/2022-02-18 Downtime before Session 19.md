@@ -54,8 +54,8 @@ I think [[Arabelle]] will pass on her vision in the morning! Night for now guys 
 
 ## Conversation after [[Arabelle]]'s vision is relayed to the party
 
-[20-Mar-22 12:57 PM] Varian Lo'Gosh (he/him)
-Once Varian hears [[Arabelle]]’s vision he asks “Do you have visions come to you often? I think the people you saw were [[Danton]], [[Ireena]] and Ezmeralda. We were meant to meet them at the tower by the lake, just East of here. Can you tell if this is a vision of the past, present or a premonition of the future?”
+[20-Mar-22 12:57 PM] [[Varian]] Lo'Gosh (he/him)
+Once [[Varian]] hears [[Arabelle]]’s vision he asks “Do you have visions come to you often? I think the people you saw were [[Danton]], [[Ireena]] and Ezmeralda. We were meant to meet them at the tower by the lake, just East of here. Can you tell if this is a vision of the past, present or a premonition of the future?”
 
 [30-Mar-22 09:42 PM] TenderstDM
 “I’m afraid I don’t know, but it’s been my experience that the truth usually takes the form you would least like it to…” [[Arabelle]] stares at the ground and shuffles her feet.

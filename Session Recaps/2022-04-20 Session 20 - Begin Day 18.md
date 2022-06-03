@@ -1,7 +1,7 @@
 # Session 20 -- 20th April 2022
 ## Day 18 since the party arrived in Barovia - the path to [[Yester Hill]]
 
-Investigating the scarecrows proved to be a bad idea. In the middle of dispatching them, we find they explode if hit with fire damage. Varian and [[Jeremiah]] investigate their remains, and discover they were animated by some kind of tethered demon.
+Investigating the scarecrows proved to be a bad idea. In the middle of dispatching them, we find they explode if hit with fire damage. [[Varian]] and [[Jeremiah]] investigate their remains, and discover they were animated by some kind of tethered demon.
 
 We continue on the path up the hill, and find a handsome-looking man with dirty clothes that are nevertheless smart and an attempt has been made to keep them clean.
 
@@ -15,4 +15,4 @@ The tree has been sundered, as we can see. A huge gash, and something appears to
 
 She looks at her unholy symbol, and says under her breath. "He was a murderer, right?" She can't tell if it's a trick of the light, or the skull on the symbol winks at her.
 
-**The party ends the session with [[Magda]] on 33 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 30 HP, and Varian on 19 HP.**
+**The party ends the session with [[Magda]] on 33 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 30 HP, and [[Varian]] on 19 HP.**

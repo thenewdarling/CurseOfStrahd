@@ -3,7 +3,7 @@
 
 ## Day 18, [[Yester Hill]]
 
-Reeling from the betrayal by Varian, the party regroups and escapes back to [[the Winery]].
+Reeling from the betrayal by [[Varian]], the party regroups and escapes back to [[the Winery]].
 
 ## Day 19, [[The Winery]] 
 

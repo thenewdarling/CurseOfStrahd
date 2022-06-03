@@ -3,7 +3,7 @@
 ## Downtime Day - Vallaki - Day 8 since Arrival in Barovia
 
 The party eats breakfast in the [[Blue Water Inn]].
-Varian and [[Arlo]] go to find a blacksmith - The [[Authors of Iron]]. Varian overhears two thieves dissing the place, and suggest the two go to Prince Ruper's -- a dragonborn blacksmith who crafts magical weapons imbued with dragon flame, can silver existing weapons, and makes "Lifehunter" weapons that appear like blown glass.
+[[Varian]] and [[Arlo]] go to find a blacksmith - The [[Authors of Iron]]. [[Varian]] overhears two thieves dissing the place, and suggest the two go to Prince Ruper's -- a dragonborn blacksmith who crafts magical weapons imbued with dragon flame, can silver existing weapons, and makes "Lifehunter" weapons that appear like blown glass.
 
 [[Magda]] goes to investigate the [[Lady Watcher]]'s manor, but achieves nothing but pissing off the guard with her haughtiness.
 
@@ -15,7 +15,7 @@ Varian and [[Arlo]] go to find a blacksmith - The [[Authors of Iron]]. Varian ov
 
 They go to [[Blinksy]]'s. (IS NO FUN? IS NO BLINKSY!) And buy toys for [[Freek and Myrtle]]. [[Blinksy]] recognises [[Arlo]], he has been crafting a doll in the likeness of [[Arlo]] and [[Alessandra]] - after receiving a message from her, to let [[Arlo]] know he's ok and she's thinking of him.
 
-[[Magda]] pays Varian back for the room cost the night before, and decides now is the time to tell [[Jeremiah]], [[Arlo]] and Varian about her curse.
+[[Magda]] pays [[Varian]] back for the room cost the night before, and decides now is the time to tell [[Jeremiah]], [[Arlo]] and [[Varian]] about her curse.
 
 
 ## Vallaki - Day 9 since Arrival in Barovia
@@ -28,13 +28,13 @@ The party plan to go to the [[Baron]]'s after dropping off the toys. [[Freek and
 
 On the way to the [[Baron]]'s, we see a sign for the Festival of the Burning Sun - it has been defaced so it says (ALL WILL BE W̶ HELL). A bunch of kids set fire to it with a firework.
 
-The town captain, [[Izek]], shows up with guards -- and immediately attacks Varian. Varian is repeatedly knocked out and revived in the ensuing battle. After [[Danton]] shows up with a cat-like beast who subdues him, he pacifies the crowd and promises to take [[Izek]] to the authorities.
+The town captain, [[Izek]], shows up with guards -- and immediately attacks [[Varian]]. [[Varian]] is repeatedly knocked out and revived in the ensuing battle. After [[Danton]] shows up with a cat-like beast who subdues him, he pacifies the crowd and promises to take [[Izek]] to the authorities.
 
-[[Magda]], who had charmed [[Izek]] during the fight, interrogates [[Izek]] briefly. She finds out he had been told some prophecy by [[Madame Eva]], and referred to Varian as "Leadrin".
+[[Magda]], who had charmed [[Izek]] during the fight, interrogates [[Izek]] briefly. She finds out he had been told some prophecy by [[Madame Eva]], and referred to [[Varian]] as "[[Leadrin]]".
 
-Making their way towards the [[Baron]]'s keep, [[Magda]] asks Varian if the name means anything to him. He is silent, then says he's not ready to talk about it yet.
+Making their way towards the [[Baron]]'s keep, [[Magda]] asks [[Varian]] if the name means anything to him. He is silent, then says he's not ready to talk about it yet.
 
-**The party ends the session with [[Magda]] on 32HP, [[Jeremiah]] on 18HP, [[Arlo]] on 30HP, and Varian on 10HP.**
+**The party ends the session with [[Magda]] on 32HP, [[Jeremiah]] on 18HP, [[Arlo]] on 30HP, and [[Varian]] on 10HP.**
 
 ## Addendum
 

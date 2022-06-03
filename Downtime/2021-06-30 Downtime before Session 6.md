@@ -31,8 +31,8 @@ I reach my hand out to shake theirs as they leave. “A pleasure to meet you bot
 [09-Jul-21 07:09 PM] [[Magdalena]] de Luna (she/her)
 I think [[Magda]] would probably go to bed after finishing her wine, if only cos she can feel herself falling asleep now she's in a warm building. She says goodnight to [[Danika]] and [[Urwin]] on the way if she passes them
 
-[12-Jul-21 08:40 AM] Varian Lo'Gosh (he/him)
-Varian has gone straight to his room as well
+[12-Jul-21 08:40 AM] [[Varian]] Lo'Gosh (he/him)
+[[Varian]] has gone straight to his room as well
 
 ## Downtime itinerary
 
@@ -70,10 +70,10 @@ By the time you head downstairs, the commotion in the hallway has past and [[Ire
 
 And also to speak to [[father Lucian]] about the [[abbot]] at [[Krezk]].
 
-## Varian and [[Arlo]] go weapon shopping and meet Prince Rupert
+## [[Varian]] and [[Arlo]] go weapon shopping and meet Prince Rupert
 
-[13-Jul-21 07:50 PM] Varian Lo'Gosh (he/him)
-Varian will tag along [[Arlo]] and look for a way to silver his weapons. While walking around the market he looks for a gift for the weens, a small toy or plushie, something with a rose theme would catch his eyes!
+[13-Jul-21 07:50 PM] [[Varian]] Lo'Gosh (he/him)
+[[Varian]] will tag along [[Arlo]] and look for a way to silver his weapons. While walking around the market he looks for a gift for the weens, a small toy or plushie, something with a rose theme would catch his eyes!
 He’ll also try to find out if there’s a thieves’ guild and how he can access it.
 
 [13-Jul-21 10:09 PM] TenderstDM
@@ -88,23 +88,23 @@ Once Brom and Bray hear you are looking for toys they insist you stop by [[Blink
 
 [15-Jul-21 09:17 PM] TenderstDM
 
-In the heart of town you find a busy blacksmith signposted ‘The [[Authors of Iron]]’. The prices and craftsmanship appear reasonable but as you’re hanging back observing the wares you overhear two dwarves sniggering amongst themselves. To you [[Arlo]] it sounds like drunken ramblings, but Varian, you pick up on the true conversation spoken in Thieve’s Cant!
+In the heart of town you find a busy blacksmith signposted ‘The [[Authors of Iron]]’. The prices and craftsmanship appear reasonable but as you’re hanging back observing the wares you overhear two dwarves sniggering amongst themselves. To you [[Arlo]] it sounds like drunken ramblings, but [[Varian]], you pick up on the true conversation spoken in Thieve’s Cant!
 “Can you believe the city guards wear this scrap? Probably looks alright to them, poor bastards…”
 Subtly you let it be known that you have understood their discussion. Now usually one rogue would welcome another, but these two, they stand uneasy as they size you up, “I don’t recognise the face, but I’ll be damned if I ain’t staring into the eyes of the guard captain. Who are you Drow, and what business do you have with us here?”
 
-[16-Jul-21 10:50 AM] Varian Lo'Gosh (he/him)
-“My name is Varian and I have just recently, and unexpectedly, gotten into Barovia. It feels odd not knowing anyone about, as you probably understand. It’s a relief to hear the cant, tho! It’d be a pleasure to make your proper acquaintances and get more familiar without city. I just overheard you speaking of the low quality of this blacksmith. Would you recommend somewhere else?”
+[16-Jul-21 10:50 AM] [[Varian]] Lo'Gosh (he/him)
+“My name is [[Varian]] and I have just recently, and unexpectedly, gotten into Barovia. It feels odd not knowing anyone about, as you probably understand. It’s a relief to hear the cant, tho! It’d be a pleasure to make your proper acquaintances and get more familiar without city. I just overheard you speaking of the low quality of this blacksmith. Would you recommend somewhere else?”
 ___
-[16-Jul-21 10:59 AM] Varian Lo'Gosh (he/him)
+[16-Jul-21 10:59 AM] [[Varian]] Lo'Gosh (he/him)
 Does the guard captain have red eyes too? *gasp*
 
 
 [16-Jul-21 11:32 AM] TenderstDM
-Clever Varian, it seems so!
+Clever [[Varian]], it seems so!
 ___
 
 [17-Jul-21 11:51 AM] TenderstDM
-@[[arlo]] @varian 
+@[[arlo]] @[[varian]] 
 After a pause, one dwarf turns to the other, “Seems genuinely clueless to me, suppose there wouldn’t be any harm in sending them over to The Prince!
 “If your new in town and looking for gear you won’t find finer than at [[Prince Rupert]]’s.” The two point you along your way before returning to their business.
 
@@ -116,7 +116,7 @@ Without letting you get a word in edgewise; he excitedly brings you over to his 
 “And these, these here’d be the best you’ll find in all Barovia, or elsewhere!” He unfurls a roll of baldes and axe heads each forged out of deep red glass. It’s taken me years to get the tempering right, but undoubtedly, they’re my finest work. The blades themselves thirst for combat; the glass edge only gets sharper with use. I call them Lifehunters.”
 - Lifehunt weapons are +1 magic weapons, they go for 20gp + three times the normal weapon price. Upon hitting a target, the following attack made with the weapon gains an additional +1 to hit.
 
-[17-Jul-21 01:27 PM] Varian Lo'Gosh (he/him)
+[17-Jul-21 01:27 PM] [[Varian]] Lo'Gosh (he/him)
 Daggers are so cheap! A Lifehunt one would be 26gp?
 I wanted to buy a standard shortsword and silver my dagger, but what’s a third of 2gp? And I might as well save for that sweet sweet Lifehunt dagger
 I really think we can get [[Viktor]] to sponsor us! He could get us some of those magic weapons 🙂
@@ -160,7 +160,7 @@ Later on in the day I’d like to meet up with the others and see if we can go s
 
 [[Magda]] is gonna have pub food for din dins once yous are all done 👀 and a wee 🍷
 
-“Oh. Before I forget.” She puts 2 gp on the desk and slides it over to Varian for paying for the room. “With interest. Thank you for your kindness yesterday.”
+“Oh. Before I forget.” She puts 2 gp on the desk and slides it over to [[Varian]] for paying for the room. “With interest. Thank you for your kindness yesterday.”
 
 
 ## [[Jerry]] and [[Magda]] go to the church and [[Jerry]] buys The Little Book of Necromancy

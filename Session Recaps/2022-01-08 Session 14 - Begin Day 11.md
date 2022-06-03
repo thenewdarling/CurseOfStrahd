@@ -7,7 +7,7 @@ After discovering the [[Vallakoviches]]' Manor has been burned down by [[Karl]] 
 
 On the way to the [[Watchers]]' Manor, there is looting in the streets, and the party happen to run into Alec, who doesn't know what happened to [[Nikolai]] and [[Lady Watcher]].
 
-We split up to help the relief effort -- Team Edgy (Varian and [[Magda]]) go to help the hurt people in the battle, and Team Cool ([[Arlo]] and [[Jeremiah]]) go to help the church deal with the wreckage.
+We split up to help the relief effort -- Team Edgy ([[Varian]] and [[Magda]]) go to help the hurt people in the battle, and Team Cool ([[Arlo]] and [[Jeremiah]]) go to help the church deal with the wreckage.
 
 [[Arlo]] lifts a door back into place while [[Jeremiah]] tries to work out how to fix it with magic. [[Arlo]]: "I'm not a magic man! I just hold the doors!"
 
@@ -15,16 +15,16 @@ We split up to help the relief effort -- Team Edgy (Varian and [[Magda]]) go to 
 
 Team Edgy are waylaid when they come across people looting [[Francis]]' apothecary. After failing to intimidate them into leaving, one of them breaks open a box under [[Francis]]' desk, smashing the potion of cackle fever he had confiscated from the party.
 
-Remembering that this is highly contagious, Varian and [[Magda]] quarantine the looters in the room with them, and Varian gags them all. 
+Remembering that this is highly contagious, [[Varian]] and [[Magda]] quarantine the looters in the room with them, and [[Varian]] gags them all. 
 
-[[Arlo]] and Varian walk past on the way to [[Blinksy]]'s, and [[Magda]] uses Thaumaturgy to pass a message out to them. 
+[[Arlo]] and [[Varian]] walk past on the way to [[Blinksy]]'s, and [[Magda]] uses Thaumaturgy to pass a message out to them. 
 
 [[Arlo]]: "Back in my day we used to walk it off if we got sick."
 [[Magda]]: "I'm two hundred years older than you!"
 
 They go out and find [[Francis]], who comes back to get the antidote he had been creating in the back of the shop. [[Magda]] casts Silence as a ritual around them all to prevent them giving him the cackle fever.
 
-Using tongs to pass in the antidote, they all drink from the potion. It doesn't prevent the exhaustion, but it does stop the laughing, which prevents them from spreading it around. By the end of the session, both Varian and [[Magda]] succeed on one saving throw of two required to remove the point of exhaustion. [[Magda]] pockets a Potion of Squeaky Voice (roll 1d8, the result is the amount of hours of squeaky voice inflicted on the drinker).
+Using tongs to pass in the antidote, they all drink from the potion. It doesn't prevent the exhaustion, but it does stop the laughing, which prevents them from spreading it around. By the end of the session, both [[Varian]] and [[Magda]] succeed on one saving throw of two required to remove the point of exhaustion. [[Magda]] pockets a Potion of Squeaky Voice (roll 1d8, the result is the amount of hours of squeaky voice inflicted on the drinker).
 
 The party arrive at [[Blinksy]]'s, and find him with his little monkey Piccolo. He gives them the key to the Blue Water, and also gives [[Arlo]] the toys he crafted of him and [[Alessandra]]. [[Arlo]] puts the Alessandra toy in his breast pocket over his heart.
 
@@ -53,7 +53,7 @@ Finally, [[Father Lucian]] reveals to [[Jeremiah]] that to his memory, there was
 
 We go to the [[Watcher Manor]], where the [[Vallakoviches]] now live with [[Stella]]. It doesn't carry the same air it once did. [[Magda]] chooses to remain downstairs, not wishing to see them -- whether she feels guilt about entreating the devil to save [[Viktor]]'s life, or for killing and drinking the blood of [[Stella]]'s mother, she does not say.
 
-The party ask about [[Sasha]]. [[Lydia]] says that [[Sasha]] has her sympathies, but she chose this life. The party also reveal that [[Lady Watcher]] was killed "by [[Strahd]]" -- [[Arlo]] and [[Jeremiah]] specifically speak over Varian revealing that [[Magda]] gave the killing blow.
+The party ask about [[Sasha]]. [[Lydia]] says that [[Sasha]] has her sympathies, but she chose this life. The party also reveal that [[Lady Watcher]] was killed "by [[Strahd]]" -- [[Arlo]] and [[Jeremiah]] specifically speak over [[Varian]] revealing that [[Magda]] gave the killing blow.
 
 The night ends with a party -- [[Blinksy]] asking the party to donate some of the wine they nicked from the [[Watchers]]. He unleashes a mighty firework display and the town of Vallaki seems happier than it has for a while. [[Magda]] goes to bed early, trying to minimise temptation.
 
@@ -65,14 +65,14 @@ With that the party concludes their long rest, unlocking their full 6th level ab
 
 [[Magda]] prepares more salve. The party ride out towards the tower on the road to [[Krezk]].
 
-Varian notices they are being followed throughout the day. As night falls, and the Barovian mists begin to roll in, they suppose that whoever is following them will likely not be able to see them either, and they stop to rest for the evening.
+[[Varian]] notices they are being followed throughout the day. As night falls, and the Barovian mists begin to roll in, they suppose that whoever is following them will likely not be able to see them either, and they stop to rest for the evening.
 
 ## On the Road to the Tower at [[Krezk]] -- Day 14 since the party arrived in Barovia
 
 As midnight passes, [[Magda]] takes first watch, and when she hears snarling out in the fog, she sends her new familiar Eden to have a look.
 
-Varian has a nightmare of being chased by a hell hound, [[Rose]]'s captor. He awakes in a cold sweat.
+[[Varian]] has a nightmare of being chased by a hell hound, [[Rose]]'s captor. He awakes in a cold sweat.
 
 [[Magda]] rouses the party, as zombies and the hell hound draw close...
 
-**The party ends the session with [[Magda]] on 52 HP with one save remaining to remove her point of exhaustion, [[Jeremiah]] on 26 HP, [[Arlo]] on 65 HP, and Varian on 28 HP with one save remaining to remove his point of exhaustion.**
+**The party ends the session with [[Magda]] on 52 HP with one save remaining to remove her point of exhaustion, [[Jeremiah]] on 26 HP, [[Arlo]] on 65 HP, and [[Varian]] on 28 HP with one save remaining to remove his point of exhaustion.**

@@ -36,7 +36,7 @@
 
 [17:07] [[Jeremiah]] Templeton (he/him): "Yeah, just reminds me I'm not who I want to be, who I left home to become"
 
-[17:08] [[Jeremiah]] Templeton (he/him): "how are you doing with Varian's departure?"
+[17:08] [[Jeremiah]] Templeton (he/him): "how are you doing with [[Varian]]'s departure?"
 
 [17:12] [[Magdalena]] de Luna (she/her): "Take it from an old lady. You never know what decisions will lead to the person you become. But with the benefit of hindsight... you see how inevitable everything was. It's quite freeing when you embrace it."
 
@@ -46,7 +46,7 @@
 
 [21:18] [[Magdalena]] de Luna (she/her): [[Magda]] leans in, like she's trying to read his face. "Are you... trying to bond with me, [[Jerry]]?" She scoffs. "Is that what this is about?" She sighs. "I... I don't know. I haven't had many friends in my life. And I opened up when I got here, because the world was small now, and we seemed to have each others' backs. And it was a terrible mistake."
 
-[21:21] [[Jeremiah]] Templeton (he/him): "[[Magda]], without Varian we would have died many times over. Not least in that house in Barovia. If living to see today is a terrible mistake I don't want to be right"
+[21:21] [[Jeremiah]] Templeton (he/him): "[[Magda]], without [[Varian]] we would have died many times over. Not least in that house in Barovia. If living to see today is a terrible mistake I don't want to be right"
 
 [21:26] [[Magdalena]] de Luna (she/her): "No, I agree. We needed to work together. And we work well together... as colleagues. But that's all." She smiles. "I have big plans. And I can't do them alone. But I will keep in mind that, at the end of the day, I stand alone. No-one will catch me when I fall. Most of you probably won't even notice."
 
@@ -54,11 +54,11 @@
 
 [17:34] [[Jeremiah]] Templeton (he/him): "I don't think any of us stand alone, ever. You're a cleric, you've got someone to catch you when you from the ultimate fall, not many can say that. I don't feel kinship, I don't think any could after 3 weeks, but I have enough affection that I don't want anyone else to leave without us at least talking about it."
 
-[17:36] [[Jeremiah]] Templeton (he/him): "I assume Varian didn't feel safe enough to give us reasons when he left, so much that he attacked [[Arlo]] of all people. Do you feel the same? Is there anything you want so much that you'd leave us all without a second thought?"
+[17:36] [[Jeremiah]] Templeton (he/him): "I assume [[Varian]] didn't feel safe enough to give us reasons when he left, so much that he attacked [[Arlo]] of all people. Do you feel the same? Is there anything you want so much that you'd leave us all without a second thought?"
 
 [17:59] [[Magdalena]] de Luna (she/her): "I've been nothing but open, the only thing I've ever wanted was Strahd's head on a stick. So long as you continue to help me with that, I would have no reason to leave." She sighs. "Though you do test my patience sometimes, as I've made clear."
 
-[18:03] [[Magdalena]] de Luna (she/her): "I'm not a touchy-feely person, [[Jerry]]. I don't particularly care what Varian's reasons were. We helped him do horrible things, we killed Izek with... very little understanding of that situation, because we all understood our group was going to look out for each other. And look where that got us. [[Arlo]] bleeding out on the floor."
+[18:03] [[Magdalena]] de Luna (she/her): "I'm not a touchy-feely person, [[Jerry]]. I don't particularly care what [[Varian]]'s reasons were. We helped him do horrible things, we killed Izek with... very little understanding of that situation, because we all understood our group was going to look out for each other. And look where that got us. [[Arlo]] bleeding out on the floor."
 
 [18:08] [[Magdalena]] de Luna (she/her): "The worst bit? I nearly finished the job. My curse is getting worse, as I'm sure you've noticed."
 

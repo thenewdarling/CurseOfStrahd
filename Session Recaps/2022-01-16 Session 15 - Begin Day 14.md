@@ -7,36 +7,36 @@ A wave of zombies approach, with the hellhound in tow. The three [[hags]] -- Bel
 
 The first casualty is poor Eden, but the party are firing on all cylinders, all the tricks are coming out. [[Jeremiah]] is raising the zombies we're taking out, and sending them back to fight. [[Arlo]] is throwing Sentinel axes on other people's turns. [[Magda]]'s cloud of bats returns with Spirit Guardians. 
 
-Varian calls out "Mog is mine!" and fights back to back with [[Magda]] as the scrum starts to converge.
+[[Varian]] calls out "Mog is mine!" and fights back to back with [[Magda]] as the scrum starts to converge.
 
 [[Arlo]] finishes the first of the three [[hags]], a day we've been waiting for for seven months of real time. A flurry of blades, living laughing and loving.
 
-The fight is going well, and then [[Magda]] is too slow with the self-healing and goes down. She rolls a death save: success. Mog steps on her head to make sure she's dead -- two automatic failed death saves. Varian, unsure whether or not it'll work due to not knowing the result of the first death save, pours his potion down [[Magda]]'s throat... and she coughs back into life, barely clinging on.
+The fight is going well, and then [[Magda]] is too slow with the self-healing and goes down. She rolls a death save: success. Mog steps on her head to make sure she's dead -- two automatic failed death saves. [[Varian]], unsure whether or not it'll work due to not knowing the result of the first death save, pours his potion down [[Magda]]'s throat... and she coughs back into life, barely clinging on.
 
 Before they can move again, the hellhound's breath weapon recharges, and blasts [[Arlo]] and [[Magda]] -- she nearly goes down AGAIN but saved the Dex check, and with the reduced damage is on a SINGLE hit point. Then it's her turn -- vampire Regeneration burning five hit dice at once, she shouts a warning to [[Jeremiah]] to stand clear, and casts Silence centered on Mog, killing all spellcasting in the area.
 
-[[Jeremiah]] is bringing his zombies down on the enemies, getting into flanking positions for everyone. Varian casts Lolth's Fire, allowing the party to strike the [[hags]] in the Ethereal Plane. Her location revealed, [[Arlo]] finishes off Ofelia. Mog, escaping the silence, disappears into the Ethereal Plane and for a moment, all is still...
+[[Jeremiah]] is bringing his zombies down on the enemies, getting into flanking positions for everyone. [[Varian]] casts Lolth's Fire, allowing the party to strike the [[hags]] in the Ethereal Plane. Her location revealed, [[Arlo]] finishes off Ofelia. Mog, escaping the silence, disappears into the Ethereal Plane and for a moment, all is still...
 
 The party regroup, waiting for her to strike.
 
 Mog reappears, hurling a lightning bolt across the battlefield at the group. 
 
-Varian charges, bloodlust rising. [[Jeremiah]] rushes in down one side to dagger Mog, softening her up. [[Arlo]] rushes the other side and grapples her, and [[Magda]] comes in from behind with a hand on Varian's shoulder, casting Cure Wounds. The four of them together, and Varian delivers the killing blow.
+[[Varian]] charges, bloodlust rising. [[Jeremiah]] rushes in down one side to dagger Mog, softening her up. [[Arlo]] rushes the other side and grapples her, and [[Magda]] comes in from behind with a hand on [[Varian]]'s shoulder, casting Cure Wounds. The four of them together, and [[Varian]] delivers the killing blow.
 
-Next, Varian sees an image of scuttling legs, and clicking mandibles. The spectral form of Lolth starts to devour Mog's body. Varian calls out to stop, and a voice implies he has no right to command Lolth. But, nevertheless, the spider stops its feast.
+Next, [[Varian]] sees an image of scuttling legs, and clicking mandibles. The spectral form of Lolth starts to devour Mog's body. [[Varian]] calls out to stop, and a voice implies he has no right to command Lolth. But, nevertheless, the spider stops its feast.
 
 Mog offers [[Rose]]'s soul back. "In this cursed land, it seems even my sisters and I must fear what lurks in the dark.
 I release the child to you, passing from one monster to another."
 
-The soul re-emerges, and in a moment of triumph, re-enters the ring that Varian still wears.
+The soul re-emerges, and in a moment of triumph, re-enters the ring that [[Varian]] still wears.
 
-Mog starts to shuffle off, mostly-dead, into the night, when Varian says: "Not so fast." And slays the defenseless hag where she stands.
+Mog starts to shuffle off, mostly-dead, into the night, when [[Varian]] says: "Not so fast." And slays the defenseless hag where she stands.
 
 As the real world re-asserts, [[Magda]] heals the rest of the team to full health with Aura of Vitality, when another wave of zombies start to shamble in, hearing the [[hags]]' screaming. 
 
 A beautiful woman on a horse canters in, slicing them down, pulling a flintlock pistol like [[Danton]]'s and shooting a few of them (including [[Jeremiah]]'s unfortunately).
 
-She's impressed, says we fight like demons, and seems to know who we are. She introduces herself as [[Ezmerelda]]. (Varian immediately puts the pieces together: The Vistani Wanderer!)
+She's impressed, says we fight like demons, and seems to know who we are. She introduces herself as [[Ezmerelda]]. ([[Varian]] immediately puts the pieces together: The Vistani Wanderer!)
 
 She gives us a variety of information -- she reveals that she travelled over the area where we claim the Tower is, and didn't see it. She also reveals that [[Danton]] was actually the mythical vampire hunter [[Van Richten]] all along!
 
@@ -62,4 +62,4 @@ She also seems to immediately clock [[Jeremiah]] and [[Magda]]'s 'situation's. [
 
 We lead our horses by foot up the thin hill to the abbey, and leave them with a stable hand for a few gold pieces, joining a queue to see the [[Abbot]].
 
-**The party ends the session with [[Magda]] on 46 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 65 HP, and Varian on 28 HP. (If I'm remembering right) the entire party have a point of exhaustion, either from travelling through the night, or from the cackle fever.**
+**The party ends the session with [[Magda]] on 46 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 65 HP, and [[Varian]] on 28 HP. (If I'm remembering right) the entire party have a point of exhaustion, either from travelling through the night, or from the cackle fever.**

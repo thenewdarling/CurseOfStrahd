@@ -9,7 +9,7 @@ While [[Magda]] is preparing the campfire, surreptitiously: "You're not looking 
 [[Jeremiah]] rolls out his bed and climbs in "Goodnight [[Magda]]"
 
 [10-Jan-22 05:28 PM] [[Magdalena]] de Luna (she/her)
-[[Magda]] waits for Varian to go past before whispering into the bedroll. "Does [[Arlo]] look like he's wasting away? Does Varian? And there's..." She groans. "Listen, just trust me. I'm a cleric. I can sense something off with you. It's getting worse."
+[[Magda]] waits for [[Varian]] to go past before whispering into the bedroll. "Does [[Arlo]] look like he's wasting away? Does [[Varian]]? And there's..." She groans. "Listen, just trust me. I'm a cleric. I can sense something off with you. It's getting worse."
 
 [10-Jan-22 05:36 PM] [[Jeremiah]] Templeton (he/him)
 "I'm just not as strong as them, you've all been going out adventuring for years, I've been mopping floors all my life" He turns over in his bed roll. "How do you even know what I'm supposed to be like? Have you ever even met another half-goblin?"
@@ -18,7 +18,7 @@ While [[Magda]] is preparing the campfire, surreptitiously: "You're not looking 
 "If I'm going to be honest with you, I didn't know they existed until I met you." She takes a deep breath. "Ninth Circle, you're going to make me say it." She makes sure no-one is listening.
 
 [10-Jan-22 05:41 PM] [[Magdalena]] de Luna (she/her)
-"[[Jeremiah]], I can see people's heartbeats. I can hear their blood pounding. Ever since [[Lady Watcher]], I have to keep reminding myself that you're all still people, that you're not just bags of blood to drain. Even my friends." She looks up at [[Arlo]] and Varian across the campsite. "But not you. There's something wrong with your blood, I can smell it. Like you'd give me food poisoning. And it's getting worse."
+"[[Jeremiah]], I can see people's heartbeats. I can hear their blood pounding. Ever since [[Lady Watcher]], I have to keep reminding myself that you're all still people, that you're not just bags of blood to drain. Even my friends." She looks up at [[Arlo]] and [[Varian]] across the campsite. "But not you. There's something wrong with your blood, I can smell it. Like you'd give me food poisoning. And it's getting worse."
 
 "You can't keep pretending it's not happening. I've seen it before. Someone buries their head in the sand until they're growing fangs. I don't want to kill you [[Jeremiah]]. We have to deal with this."
 

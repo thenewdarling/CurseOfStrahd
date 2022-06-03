@@ -1,13 +1,13 @@
 #### *The party have stopped in the [[Vistani camp]] to take a long rest of 24 hours*
 
-[01-Jun-21 02:08 PM] Varian Lo'Gosh (he/him)
-After failing to get his lock of hair back from [[Radu]] and the enigmatic readings of [[Madame Eva]], Varian feels frustrated and trapped. [[Rose]], now a constant voice in his mind prompting him to go and live a little, encourages him to rest and make the most out of this time, which to him means one thing only - gather as much intel as possible. With [[Rose]] as a second pair of eyes, Varian explores the camp and tries to talk with people.
+[01-Jun-21 02:08 PM] [[Varian]] Lo'Gosh (he/him)
+After failing to get his lock of hair back from [[Radu]] and the enigmatic readings of [[Madame Eva]], [[Varian]] feels frustrated and trapped. [[Rose]], now a constant voice in his mind prompting him to go and live a little, encourages him to rest and make the most out of this time, which to him means one thing only - gather as much intel as possible. With [[Rose]] as a second pair of eyes, [[Varian]] explores the camp and tries to talk with people.
 The first and most obvious piece of information he is looking for is  on the wondering Vistani the cards told us to look for. What is her name, who is the mentor she looks for, if anyone has an idea on how to find her.
 Secondly, if someone has any knowledge of a wizard’s tower on a lake, and any history associated to it.
 Thirdly, he looks for any advice on surviving this new landscape. What herbs, berries, wildlife to avoid and what could be helpful.
 And finally, if people have ever seen a ghostly knight on a horse roaming around, or if there are legends of one.
 
-As Varian explores the [[Vistani camp]], he spots [[Radu]]. Still bitter about him rigging the game, he sends [[Rose]], in her invisible form, to spy on him for a couple of games and see if she can tell how [[Radu]] tricks people. After that, once [[Radu]] retires for the night, she'll follow him and try to find out where he'd keep Varian's and [[Magda]]'s hair strands.
+As [[Varian]] explores the [[Vistani camp]], he spots [[Radu]]. Still bitter about him rigging the game, he sends [[Rose]], in her invisible form, to spy on him for a couple of games and see if she can tell how [[Radu]] tricks people. After that, once [[Radu]] retires for the night, she'll follow him and try to find out where he'd keep [[Varian]]'s and [[Magda]]'s hair strands.
 
 [01-Jun-21 08:59 PM] [[Jeremiah]] Templeton (he/him)
 [[Jeremiah]] seeks out [[Magda]] after a good sleep to discuss infusing a balm with lesser restoration. After, he mulls around the camp chatting with people and asking if they know anywhere he could learn magic or anyone he could learn it from.
@@ -18,7 +18,7 @@ If time is no issue, I will make a point of preparing a balm to cast Lesser Rest
 
 
 [02-Jun-21 01:05 PM] TenderstDM
-The morning after [[Madame Eva]]’s reading, Varian and [[Jeremiah]] awake with an extra hit dice of temporary hit points (as these are acquired during your long rest, they will carry into the following days). [[Ireena]] introduces the group to [[Arlo]], and explains that her prophecy from [[Madame Eva]]’s, includes the four of you. As such [[Ireena]] wants you to prepare yourself as best you can. “Go acquire whatever you may need to travel, it is three days ride to Vallaki, and the roads in Barovia are always treacherous.” She hands each of you 25gp.
+The morning after [[Madame Eva]]’s reading, [[Varian]] and [[Jeremiah]] awake with an extra hit dice of temporary hit points (as these are acquired during your long rest, they will carry into the following days). [[Ireena]] introduces the group to [[Arlo]], and explains that her prophecy from [[Madame Eva]]’s, includes the four of you. As such [[Ireena]] wants you to prepare yourself as best you can. “Go acquire whatever you may need to travel, it is three days ride to Vallaki, and the roads in Barovia are always treacherous.” She hands each of you 25gp.
 
 @thenewdarling  Nobody in the camp knows of where you might acquire a diamond outside of Vallaki, thankfully this is where you are heading. Although most of the Vistani carry arms, it takes you a while to find someone willing to trade a rapier. A young woman has recently acquired some wares, she has a silvered rapier and dagger, worth 40gp and 25gp to her respectively – or an item of suitable worth to trade!
 
@@ -57,7 +57,7 @@ A Vistani cleric is willing to sell holy water for 5gp, enough for three batches
 
 @UsernameOfRassilon  Asking around you find the Vistani people do have a little magic in their blood. An animal friendship spell is widely known, and teachable to friendly strangers that know how to dance. Some of the camp elders know how to bestow curses upon less friendly travellers - it would take a great gesture of trust before they’d consider teaching this to an outsider.
 
-@varian  @[[arlo]]  In search of details about your strange surroundings, you find yourself directed towards the camp elders. From them you find,
+@[[varian]]  @[[arlo]]  In search of details about your strange surroundings, you find yourself directed towards the camp elders. From them you find,
 -    The Vistani people have always called Barovia their home, their ancestors once helped [[Strahd]] when he was still human, lost and injured in their valley. It is for this past kindness that he offers the Vistani temporary leave from the mists. Their deal now is for protection, and in return they draw more souls to Barovia.
 -    The Martikov family are worth seeking out in Vallaki, they are good people. The mayor on the other hand is an unhinged man, his best intentions twisted by fear. There is a great deal of unrest in the city.
 -    Avoid the wildlife, period. The zombies in Barovia are infused with a greater evil than those created by traditional necromancy, this is the work of the witches in [[Berez]] to the south.
@@ -68,8 +68,8 @@ A Vistani cleric is willing to sell holy water for 5gp, enough for three batches
 
 “I don’t suppose you have a spell in that book of yours that summons bees?”
 
-[05-Jun-21 11:12 PM] Varian Lo'Gosh (he/him)
-Varian tries to find out more about the missing children. Who are the other possible culprits? Where did the hunting party leave for? Wouldn’t it be in [[Strahd]]’s best interest to keep the children safe, even if only for keeping those who leave Barovia liable to come back? So does he offer any help?
+[05-Jun-21 11:12 PM] [[Varian]] Lo'Gosh (he/him)
+[[Varian]] tries to find out more about the missing children. Who are the other possible culprits? Where did the hunting party leave for? Wouldn’t it be in [[Strahd]]’s best interest to keep the children safe, even if only for keeping those who leave Barovia liable to come back? So does he offer any help?
 
 [06-Jun-21 06:08 PM] [[Jeremiah]] Templeton (he/him)
 Priority one: where in the nine hells is [[krezk]]? This will tell me how much holy water I need.
@@ -147,22 +147,22 @@ I realise how that sounds now 😅
 [10-Jun-21 07:37 PM] [[Magdalena]] de Luna (she/her)
 "Don't flatter yourself 😉"
 
-[10-Jun-21 08:16 PM] Varian Lo'Gosh (he/him)
-Varian goes looking for [[Magda]], [[Jeremiah]], [[Arlo]] and [[Ireena]].
+[10-Jun-21 08:16 PM] [[Varian]] Lo'Gosh (he/him)
+[[Varian]] goes looking for [[Magda]], [[Jeremiah]], [[Arlo]] and [[Ireena]].
 "I have some information I need to share with you. There seems to be a serious threat to the Vistani people south of this camp. Their children have started to go missing, and like the elders said, they've sent a small hunting party to investigate this, but they have not returned. I've met one of the missing children's mother and she believes the culprits are night [[hags]]. She mentioned a windmill and a place called [[Berez]]. We need to help them!"
 
-[10-Jun-21 08:20 PM] Varian Lo'Gosh (he/him)
-To [[Ireena]] Varian says:
+[10-Jun-21 08:20 PM] [[Varian]] Lo'Gosh (he/him)
+To [[Ireena]] [[Varian]] says:
 "I know you are in a rush to part to Vallaki and find [[Van Richten]], but these people need our help and there is so much information here we could get to help us in our mutual goal. Help me find these missing children and then maybe the Vistani people will help us even further."
 
-To [[Magda]], [[Jeremiah]] and [[Arlo]] Varian says:
+To [[Magda]], [[Jeremiah]] and [[Arlo]] [[Varian]] says:
 "I truly believe it will be in our best interests to help these children. Will you come with me? And if so, we should prepare ourselves for the worst."
 
 [10-Jun-21 10:30 PM] [[Magdalena]] de Luna (she/her)
-“I’m noticing a theme, Varian. A small child bats its eyes at you and your heart melts like an ice cream. 😒 However, you did save my life, and I’m not one to leave a debt unpaid. I’ll help you. [[Ireena]], please don’t leave without us — this shouldn’t take too long if we all put our steel to it.”
+“I’m noticing a theme, [[Varian]]. A small child bats its eyes at you and your heart melts like an ice cream. 😒 However, you did save my life, and I’m not one to leave a debt unpaid. I’ll help you. [[Ireena]], please don’t leave without us — this shouldn’t take too long if we all put our steel to it.”
 
-[11-Jun-21 08:14 AM] Varian Lo'Gosh (he/him)
-Varian flinches at that remark and glares at [[Magda]] for a split second.
+[11-Jun-21 08:14 AM] [[Varian]] Lo'Gosh (he/him)
+[[Varian]] flinches at that remark and glares at [[Magda]] for a split second.
 
 “Surely you can see this goes beyond helping a child. It is to my understanding that they are already dead, so I would say it’s not so much about the children as it is about gaining the Vistani’s respect. There is so much more we need to learn from them. Have you even tried learning more about what [[Madame Eva]] told us?”
 
@@ -170,7 +170,7 @@ He looks at [[Jeremiah]] now, with a snigger.
 “Isn’t knowledge your business? Gain their respect and I’m sure they would be happy to teach you more tricks.”
 
 [11-Jun-21 09:11 AM] [[Magdalena]] de Luna (she/her)
-"Varian, with all due respect, I came here for one reason and one reason only. To kill that monster from the church. The direct path to that, in my mind, lies with [[Van Richten]]. The respect of the Vistani would warm my heart but that would mean very little if that devil rips it out of my chest. I hope you understand that my willingness to divert from the path at all is not something I would even consider under normal circumstances. But I owe you a life debt, and I intend to make good."
+"[[Varian]], with all due respect, I came here for one reason and one reason only. To kill that monster from the church. The direct path to that, in my mind, lies with [[Van Richten]]. The respect of the Vistani would warm my heart but that would mean very little if that devil rips it out of my chest. I hope you understand that my willingness to divert from the path at all is not something I would even consider under normal circumstances. But I owe you a life debt, and I intend to make good."
 
 "What are the deaths of a few night [[hags]]? There will always be more monsters, they multiply like cockroaches. But if we were to kill Him, I might make a difference."
 
@@ -179,12 +179,12 @@ He looks at [[Jeremiah]] now, with a snigger.
 [12-Jun-21 10:06 AM] TenderstDM
 [[Ireena]] steps forward, “Listen, I appreciate your desire to help - motivations aside. I am indeed eager to move on to Vallaki, but I have also sworn to protect those in need, and I honour this vow. Where I do take issue is with Night [[Hags]].”
 
-“Varian, I believe you have misunderstood, if the [[witches of Berez]] were involved the whole camp would be in grave danger. They are known for attracting people to their cause, but rarely children. [[Hags]] are a different matter, but no less sinister. These are not people but monstrosities. A Night Hag may take human form to walk amongst us, but only to torment its prey. A single Hag, *maybe*, we could handle. If there is a full coven, then it would be a short rescue, and a painful eternity in which to regret it. This would be an evil beyond any of us.”
+“[[Varian]], I believe you have misunderstood, if the [[witches of Berez]] were involved the whole camp would be in grave danger. They are known for attracting people to their cause, but rarely children. [[Hags]] are a different matter, but no less sinister. These are not people but monstrosities. A Night Hag may take human form to walk amongst us, but only to torment its prey. A single Hag, *maybe*, we could handle. If there is a full coven, then it would be a short rescue, and a painful eternity in which to regret it. This would be an evil beyond any of us.”
 
 “How did you come to be certain that [[Hags]] are at work here?”
 
-[12-Jun-21 12:35 PM] Varian Lo'Gosh (he/him)
-Varian looks uncomfortable for a bit but tries to sound calm and not show emotions.
+[12-Jun-21 12:35 PM] [[Varian]] Lo'Gosh (he/him)
+[[Varian]] looks uncomfortable for a bit but tries to sound calm and not show emotions.
 
 “I dreamt of this woman. In my dream, I was her child and she was embracing me. When I recognised her earlier I approached her and told her of it. She didn’t react well. She believes this means the night [[hags]] are back to the windmill on the road to Vallaki. She also believes I stole her child’s dream. I don’t understand how that could be, but I never intended it.”
 
@@ -211,7 +211,7 @@ With that, he turns to leave.
 When no-one laughs; “It was a joke. Laugh now.”
 
 [19-Jun-21 07:18 PM] [[Jeremiah]] Templeton (he/him)
-[[Jeremiah]] laughs and calls after [[Radu]] saying "hey, if you want to know another trick, I'll trade you for Varian's hair!"
+[[Jeremiah]] laughs and calls after [[Radu]] saying "hey, if you want to know another trick, I'll trade you for [[Varian]]'s hair!"
 
 Once [[Radu]] is out of sight, I cast identify on the exploding necklace
 

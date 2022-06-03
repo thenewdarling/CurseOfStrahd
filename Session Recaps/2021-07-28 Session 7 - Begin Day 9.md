@@ -18,6 +18,6 @@ We learn [[Izek]] is in prison getting medical attention. Normally he would be p
 
 [[Jeremiah]] still wishes to go to [[Krezk]] soon to see about his illness.
 
-We leave the manor, with plans for downtime. Varian is going to try and visit [[Izek]] in prison against the wishes of the [[Baron]], and [[Magda]] will assist if needed. She also needs to find a beast to feed on relatively soon it seems. [[Jeremiah]] and [[Arlo]] are going to do recon for the break-in to the [[Watchers]]' manor to rescue [[Stella]]'s body.
+We leave the manor, with plans for downtime. [[Varian]] is going to try and visit [[Izek]] in prison against the wishes of the [[Baron]], and [[Magda]] will assist if needed. She also needs to find a beast to feed on relatively soon it seems. [[Jeremiah]] and [[Arlo]] are going to do recon for the break-in to the [[Watchers]]' manor to rescue [[Stella]]'s body.
 
-**The party ends the session with the same HP as they began: [[Magda]] on 32HP, [[Jeremiah]] on 18HP, [[Arlo]] on 30HP, Varian on 10HP.**
+**The party ends the session with the same HP as they began: [[Magda]] on 32HP, [[Jeremiah]] on 18HP, [[Arlo]] on 30HP, [[Varian]] on 10HP.**

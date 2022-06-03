@@ -12,4 +12,4 @@
 - #rollinitiative
 
 
-**The party ends the session with [[Magda]] on 41 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 63 HP, and Varian on 27 HP.**
+**The party ends the session with [[Magda]] on 41 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 63 HP, and [[Varian]] on 27 HP.**

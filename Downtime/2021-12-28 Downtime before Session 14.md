@@ -18,7 +18,7 @@
 
 “Why do I get the feeling this is the bait….. and there’s a hook coming?”
 
-[31-Dec-21 03:55 PM] Varian Lo'Gosh (he/him)
+[31-Dec-21 03:55 PM] [[Varian]] Lo'Gosh (he/him)
 “Exactly my thoughts. If [[Strahd]] has this kind of power over [[Sasha]], what’s to say he won’t have it over you once you drink [[Lady Watcher]]’s blood? Is this a risk we can take?”
 
 “But those are innocent people dying downstairs. Is [[Lady Watcher]]’s life worth more than theirs?”
@@ -28,8 +28,8 @@
 
 “…. we couldn’t take her at our current skill level. It would folly to try…” She thinks about it. “Would it?”
 
-[31-Dec-21 04:03 PM] Varian Lo'Gosh (he/him)
-“Take [[Sasha]] out?” Varian looks at the party, noticing everyone’s wounds, “I don’t think we could.”
+[31-Dec-21 04:03 PM] [[Varian]] Lo'Gosh (he/him)
+“Take [[Sasha]] out?” [[Varian]] looks at the party, noticing everyone’s wounds, “I don’t think we could.”
 
 [31-Dec-21 04:06 PM] [[Magdalena]] de Luna (she/her)
 [[Magda]] looks around the room, at each of them in turn. “This is such a bad idea….” But she gets up.
@@ -93,9 +93,9 @@ I'd like to give it a quick visual inspection
 [03-Jan-22 06:36 PM] [[Jeremiah]] Templeton (he/him)
 When I have time to do it as a ritual, I cast Identify on it
 
-[04-Jan-22 06:41 AM] Varian Lo'Gosh (he/him)
-Varian gives Blinky’s shoulder a squeeze and smiles tentatively at him, “You did well, [[Blinksy]].”
-Seeing the wisps of smoke in the distance, Varian curses under his breath, “[[Viktor]]!” and urges the party to come quickly.
+[04-Jan-22 06:41 AM] [[Varian]] Lo'Gosh (he/him)
+[[Varian]] gives Blinky’s shoulder a squeeze and smiles tentatively at him, “You did well, [[Blinksy]].”
+Seeing the wisps of smoke in the distance, [[Varian]] curses under his breath, “[[Viktor]]!” and urges the party to come quickly.
 
 [04-Jan-22 11:07 AM] [[Jeremiah]] Templeton (he/him)
 As we run to the Manor, I'm casting message frantically at where [[Viktor]] would be
