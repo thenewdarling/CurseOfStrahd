@@ -1,1 +1,1 @@
-An area south of Vallaki, Jeremiah found a coin from there. Inscribed "The light that watches over the darkness." 
+An area south of Vallaki, [[Jeremiah]] found a coin from there. Inscribed "The light that watches over the darkness." 

@@ -5,13 +5,13 @@ During downtime, [[Arabelle]] has a vision of the Tower falling, of [[Danton]] u
 
 The session opens with Magda casting Sending to send a message to try and confirm their survival. After receiving a reply, confirming the events of [[Arabelle]]'s vision happened, the party set out on the two day journey to [[the Winery]].
 
-On our first watch, Jeremiah receives a visit from the shadowy horseman who hovered around the party when they first entered Barovia. He gifts Jeremiah a bow blessed with Halfling's Luck.
+On our first watch, [[Jeremiah]] receives a visit from the shadowy horseman who hovered around the party when they first entered Barovia. He gifts [[Jeremiah]] a bow blessed with Halfling's Luck.
 
 ## Day 17 since the party arrived in Barovia
 
 We pass whole fields of wilting flowers, and reach a fork in the road. South leads to [[Yester Hill]], and to our right are the vineyards.
 
-We press on, and it seems like [[the Winery]] is being guarded by ravens, and a wolf. Shapeshifters, among them [[Danika]] Martikov. They are [[the Keepers of the Feather]]: [[Adrianna]], [[Benjy]], [[Davian]] and [[Elver]]. [[Adrianna]] is a werewolf, and the others transform into ravens. [[Davian]] is [[Urwin]]'s older brother, and [[Benjy]] and [[Elver]] are partners, with [[Elver]] expecting a child. We learn that [[Urwin]] was also one of their number, and it's likely he was the one who gave Jeremiah his coin, and led us from Mother Mog's grasp.
+We press on, and it seems like [[the Winery]] is being guarded by ravens, and a wolf. Shapeshifters, among them [[Danika]] Martikov. They are [[the Keepers of the Feather]]: [[Adrianna]], [[Benjy]], [[Davian]] and [[Elver]]. [[Adrianna]] is a werewolf, and the others transform into ravens. [[Davian]] is [[Urwin]]'s older brother, and [[Benjy]] and [[Elver]] are partners, with [[Elver]] expecting a child. We learn that [[Urwin]] was also one of their number, and it's likely he was the one who gave [[Jeremiah]] his coin, and led us from Mother Mog's grasp.
 
 The kids don't know [[Urwin]] is dead yet.
 
@@ -41,4 +41,4 @@ Varian gives the [[Rose]] ring to [[Adrianna]], as [[Rose]] wishes to stay with 
 
 With heavy hearts but full bellies, the party make for [[Yester Hill]].
 
-**The party ends the session with Magda on 52 HP, Jeremiah on 26 HP, [[Arlo]] on 65 HP, and Varian on 28 HP.**
+**The party ends the session with Magda on 52 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 65 HP, and Varian on 28 HP.**

@@ -9,8 +9,8 @@ And finally, if people have ever seen a ghostly knight on a horse roaming around
 
 As Varian explores the [[Vistani camp]], he spots [[Radu]]. Still bitter about him rigging the game, he sends [[Rose]], in her invisible form, to spy on him for a couple of games and see if she can tell how [[Radu]] tricks people. After that, once [[Radu]] retires for the night, she'll follow him and try to find out where he'd keep Varian's and Magda's hair strands.
 
-[01-Jun-21 08:59 PM] Jeremiah Templeton (he/him)
-Jeremiah seeks out Magda after a good sleep to discuss infusing a balm with lesser restoration. After, he mulls around the camp chatting with people and asking if they know anywhere he could learn magic or anyone he could learn it from.
+[01-Jun-21 08:59 PM] [[Jeremiah]] Templeton (he/him)
+[[Jeremiah]] seeks out Magda after a good sleep to discuss infusing a balm with lesser restoration. After, he mulls around the camp chatting with people and asking if they know anywhere he could learn magic or anyone he could learn it from.
 
 [01-Jun-21 09:06 PM] Magdalena de Luna (she/her)
 Do we know how long the balm keeps for? If you have five days worth of balm, it might be almost a week before you actually touch the next batch
@@ -18,7 +18,7 @@ If time is no issue, I will make a point of preparing a balm to cast Lesser Rest
 
 
 [02-Jun-21 01:05 PM] TenderstDM
-The morning after [[Madame Eva]]’s reading, Varian and Jeremiah awake with an extra hit dice of temporary hit points (as these are acquired during your long rest, they will carry into the following days). [[Ireena]] introduces the group to [[Arlo]], and explains that her prophecy from [[Madame Eva]]’s, includes the four of you. As such [[Ireena]] wants you to prepare yourself as best you can. “Go acquire whatever you may need to travel, it is three days ride to Vallaki, and the roads in Barovia are always treacherous.” She hands each of you 25gp.
+The morning after [[Madame Eva]]’s reading, Varian and [[Jeremiah]] awake with an extra hit dice of temporary hit points (as these are acquired during your long rest, they will carry into the following days). [[Ireena]] introduces the group to [[Arlo]], and explains that her prophecy from [[Madame Eva]]’s, includes the four of you. As such [[Ireena]] wants you to prepare yourself as best you can. “Go acquire whatever you may need to travel, it is three days ride to Vallaki, and the roads in Barovia are always treacherous.” She hands each of you 25gp.
 
 @thenewdarling  Nobody in the camp knows of where you might acquire a diamond outside of Vallaki, thankfully this is where you are heading. Although most of the Vistani carry arms, it takes you a while to find someone willing to trade a rapier. A young woman has recently acquired some wares, she has a silvered rapier and dagger, worth 40gp and 25gp to her respectively – or an item of suitable worth to trade!
 
@@ -29,8 +29,8 @@ Valuing her shortsword at 15gp, she offers to trade both it and the 25gp from [[
 [02-Jun-21 01:26 PM] [[Arlo]] de León (he/him)
 [[Arlo]] greets everyone cheerfully, with a bow. He’s still not entirely clicked that here’s stuck here, and is enjoying the ambiance. He seeks someone out to tell him about the Vistani and Boravia in general
 
-[02-Jun-21 01:42 PM] Jeremiah Templeton (he/him)
-Jeremiah at first flinches at [[Arlo]]'s greeting, then realising that he's just bending, and not shooting arrows, he also greets [[Arlo]]
+[02-Jun-21 01:42 PM] [[Jeremiah]] Templeton (he/him)
+[[Jeremiah]] at first flinches at [[Arlo]]'s greeting, then realising that he's just bending, and not shooting arrows, he also greets [[Arlo]]
 
 [02-Jun-21 01:57 PM] TenderstDM
 She's happy to receive your interest, but has no need for your sword. She stumbled into these items, maybe if you offered to take both the dagger and rapier of her hands she could do you a deal?
@@ -40,8 +40,8 @@ She's happy to receive your interest, but has no need for your sword. She stumbl
 
 (If anyone else is nearby who's interested in the dagger:) "Perhaps we could pool our resources? I don't know if any of you are particularly interested in this butter knife - shiny though it may be. Hm, I suppose it could cleave a zombie skull if thrown hard enough. It is tipped with silver, after all."
 
-[02-Jun-21 02:29 PM] Jeremiah Templeton (he/him)
-Is the dagger silvered too? Jeremiah already has a dagger, but a silvered one would be an upgrade
+[02-Jun-21 02:29 PM] [[Jeremiah]] Templeton (he/him)
+Is the dagger silvered too? [[Jeremiah]] already has a dagger, but a silvered one would be an upgrade
 
 [02-Jun-21 04:14 PM] TenderstDM
 It is! They're both pretty ornate, the dagger has a small red gem stone embedded in its handle and the rapier has an intricate gold hand guard
@@ -71,7 +71,7 @@ A Vistani cleric is willing to sell holy water for 5gp, enough for three batches
 [05-Jun-21 11:12 PM] Varian Lo'Gosh (he/him)
 Varian tries to find out more about the missing children. Who are the other possible culprits? Where did the hunting party leave for? Wouldn’t it be in [[Strahd]]’s best interest to keep the children safe, even if only for keeping those who leave Barovia liable to come back? So does he offer any help?
 
-[06-Jun-21 06:08 PM] Jeremiah Templeton (he/him)
+[06-Jun-21 06:08 PM] [[Jeremiah]] Templeton (he/him)
 Priority one: where in the nine hells is [[krezk]]? This will tell me how much holy water I need.
 Side note how many days per batch?
 
@@ -109,36 +109,36 @@ A sucker for silver, zombie cleaving, and chivalry, [[Arlo]] offers to pool his 
 "Much appreciated. It seems chivalry isn't dead after all. Or.... undead?"
 
 [06-Jun-21 10:04 PM] Magdalena de Luna (she/her)
-@Liam With Magda's 32gp and [[Arlo]]'s 18gp, we buy the rapier and the dagger!! 👍 (Jeremiah's gonna do an Identify before we equip them tho in case they're cursed or whatever lol)
+@Liam With Magda's 32gp and [[Arlo]]'s 18gp, we buy the rapier and the dagger!! 👍 ([[Jeremiah]]'s gonna do an Identify before we equip them tho in case they're cursed or whatever lol)
 
-[06-Jun-21 10:10 PM] Jeremiah Templeton (he/him)
+[06-Jun-21 10:10 PM] [[Jeremiah]] Templeton (he/him)
 I spend 15gp on the holy water and cast identify on them and the weapons and the coin
 
 [10-Jun-21 07:18 PM] TenderstDM
-"Sold!" The Vistani woman happily parts with her silvered weapons, even watching with interest as Jeremiah checks them for curses. Both are safe - and razor sharp.
+"Sold!" The Vistani woman happily parts with her silvered weapons, even watching with interest as [[Jeremiah]] checks them for curses. Both are safe - and razor sharp.
 
-[10-Jun-21 07:19 PM] Jeremiah Templeton (he/him)
+[10-Jun-21 07:19 PM] [[Jeremiah]] Templeton (he/him)
 I'm identifying hidden in my tent!
 
 [10-Jun-21 07:20 PM] TenderstDM
 "Good luck with the grave ill that troubles you", the man solemnly passes you the holy water.
 
-[10-Jun-21 07:21 PM] Jeremiah Templeton (he/him)
+[10-Jun-21 07:21 PM] [[Jeremiah]] Templeton (he/him)
 Ta, any idea where I can get beeswax?
 
 [10-Jun-21 07:23 PM] TenderstDM
 Oh, he rummages around in his pack, "here you go lad, it's the least I can offer". He gives you the requisite wax free of charge.
 
-[10-Jun-21 07:25 PM] Jeremiah Templeton (he/him)
+[10-Jun-21 07:25 PM] [[Jeremiah]] Templeton (he/him)
 Oh thank you so much! I toss him another gold
 
 [10-Jun-21 07:29 PM] Magdalena de Luna (she/her)
 "Good to see you found what you were looking for -- do you need me to make it still?"
 
-[10-Jun-21 07:30 PM] Jeremiah Templeton (he/him)
+[10-Jun-21 07:30 PM] [[Jeremiah]] Templeton (he/him)
 If there's time, yes, if not, it can wait until we bed down on the road
 
-[10-Jun-21 07:36 PM] Jeremiah Templeton (he/him)
+[10-Jun-21 07:36 PM] [[Jeremiah]] Templeton (he/him)
 I realise how that sounds now 😅
 
 [10-Jun-21 07:36 PM] Magdalena de Luna (she/her)
@@ -148,14 +148,14 @@ I realise how that sounds now 😅
 "Don't flatter yourself 😉"
 
 [10-Jun-21 08:16 PM] Varian Lo'Gosh (he/him)
-Varian goes looking for Magda, Jeremiah, [[Arlo]] and [[Ireena]].
+Varian goes looking for Magda, [[Jeremiah]], [[Arlo]] and [[Ireena]].
 "I have some information I need to share with you. There seems to be a serious threat to the Vistani people south of this camp. Their children have started to go missing, and like the elders said, they've sent a small hunting party to investigate this, but they have not returned. I've met one of the missing children's mother and she believes the culprits are night [[hags]]. She mentioned a windmill and a place called [[Berez]]. We need to help them!"
 
 [10-Jun-21 08:20 PM] Varian Lo'Gosh (he/him)
 To [[Ireena]] Varian says:
 "I know you are in a rush to part to Vallaki and find [[Van Richten]], but these people need our help and there is so much information here we could get to help us in our mutual goal. Help me find these missing children and then maybe the Vistani people will help us even further."
 
-To Magda, Jeremiah and [[Arlo]] Varian says:
+To Magda, [[Jeremiah]] and [[Arlo]] Varian says:
 "I truly believe it will be in our best interests to help these children. Will you come with me? And if so, we should prepare ourselves for the worst."
 
 [10-Jun-21 10:30 PM] Magdalena de Luna (she/her)
@@ -166,7 +166,7 @@ Varian flinches at that remark and glares at Magda for a split second.
 
 “Surely you can see this goes beyond helping a child. It is to my understanding that they are already dead, so I would say it’s not so much about the children as it is about gaining the Vistani’s respect. There is so much more we need to learn from them. Have you even tried learning more about what [[Madame Eva]] told us?”
 
-He looks at Jeremiah now, with a snigger.
+He looks at [[Jeremiah]] now, with a snigger.
 “Isn’t knowledge your business? Gain their respect and I’m sure they would be happy to teach you more tricks.”
 
 [11-Jun-21 09:11 AM] Magdalena de Luna (she/her)
@@ -210,8 +210,8 @@ Magda looks at her hair as he leaves. “What did he do with the rest of my hair
 
 When no-one laughs; “It was a joke. Laugh now.”
 
-[19-Jun-21 07:18 PM] Jeremiah Templeton (he/him)
-Jeremiah laughs and calls after [[Radu]] saying "hey, if you want to know another trick, I'll trade you for Varian's hair!"
+[19-Jun-21 07:18 PM] [[Jeremiah]] Templeton (he/him)
+[[Jeremiah]] laughs and calls after [[Radu]] saying "hey, if you want to know another trick, I'll trade you for Varian's hair!"
 
 Once [[Radu]] is out of sight, I cast identify on the exploding necklace
 

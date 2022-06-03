@@ -16,9 +16,9 @@ Magda smiles wickedly. “I can make do in a pinch.” She takes them out into t
 Magda is still casting Find Familiar outside, drawing her wee chalk circle and lighting the incense in her brazier. It flashes, and becomes a familiar large yellow snake.
 “Hello, my dear,” she smiles. It rattles angrily and she picks a few owl feathers out of its neck. “Oh, I knowww, I’m sorry.”
 
-## Jeremiah looks for a sewing kit
+## [[Jeremiah]] looks for a sewing kit
 
-[19-Mar-22 09:51 PM] Jeremiah Templeton (he/him)
+[19-Mar-22 09:51 PM] [[Jeremiah]] Templeton (he/him)
 Sorry, thought I sent this : can I look for a sewing kit and maybe try practice making some gloves ans a longer hood
 
 [19-Mar-22 10:51 PM] TenderstDM

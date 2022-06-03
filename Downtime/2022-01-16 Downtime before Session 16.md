@@ -83,12 +83,12 @@ Varian looks warily at Magda.
 Varian laughs. "I wouldn't want to make it easier to whoever She recruits next."
 
 [17-Jan-22 06:14 PM] Magdalena de Luna (she/her)
-"If we see any other drow with red eyes, I'll be on the lookout." She looks over her shoulder at Jeremiah and [[Arlo]] talking quietly in the back. ".... what do you think they talk about?" she says quietly.
+"If we see any other drow with red eyes, I'll be on the lookout." She looks over her shoulder at [[Jeremiah]] and [[Arlo]] talking quietly in the back. ".... what do you think they talk about?" she says quietly.
 
 [17-Jan-22 06:30 PM] Varian Lo'Gosh (he/him)
 Varian looks back and shrugs. "I wouldn't have a clue. Do you?"
 
-[17-Jan-22 06:33 PM] Jeremiah Templeton (he/him)
+[17-Jan-22 06:33 PM] [[Jeremiah]] Templeton (he/him)
 **"Shag Lolth, Kill Tallus, Marry Gruumsh"**
 
 [17-Jan-22 06:38 PM] Magdalena de Luna (she/her)
@@ -97,14 +97,14 @@ Varian looks back and shrugs. "I wouldn't have a clue. Do you?"
 “Wait five minutes, they’ll start comparing sizes.”
 
 [17-Jan-22 06:51 PM] [[Arlo]] de León (he/him)
-“I can imagine no other reality where I am not happily marrying, “”shagging”” and killing for my Allessandra, Jeremiah. I don’t understand this game”
+“I can imagine no other reality where I am not happily marrying, “”shagging”” and killing for my Allessandra, [[Jeremiah]]. I don’t understand this game”
 
 “But out of interest…. What would your answer to this hypothetical be?”
 
-[17-Jan-22 06:52 PM] Jeremiah Templeton (he/him)
+[17-Jan-22 06:52 PM] [[Jeremiah]] Templeton (he/him)
 "That was my answer!" "also, it's if you had to"
 
-[17-Jan-22 06:52 PM] Jeremiah Templeton (he/him)
+[17-Jan-22 06:52 PM] [[Jeremiah]] Templeton (he/him)
 Like Allesandra has told you to
 
 [17-Jan-22 06:53 PM] [[Arlo]] de León (he/him)
@@ -114,7 +114,7 @@ Ah I see! I think I’m starting to get the game now!
 Varian rolls his eyes and looks back at Magda.
 “You remind me of my people. Males are merely tolerated, useful primarily for physical and skilled labour, and breeding purposes.”
 
-[17-Jan-22 08:35 PM] Jeremiah Templeton (he/him)
+[17-Jan-22 08:35 PM] [[Jeremiah]] Templeton (he/him)
 "You breed Porpoises Varian?"
 
 [17-Jan-22 08:37 PM] Magdalena de Luna (she/her)
@@ -136,4 +136,4 @@ She sighs like she doesn't even have the energy to put it into words.
 
 "Trust me. Most men on the surface think your brain is going to overheat at any moment, it's exhausting."
 
-She smiles at Jeremiah, changing the subject. "You were saying about porpoises, darling."
+She smiles at [[Jeremiah]], changing the subject. "You were saying about porpoises, darling."

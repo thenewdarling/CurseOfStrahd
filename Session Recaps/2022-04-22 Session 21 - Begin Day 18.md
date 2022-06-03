@@ -3,7 +3,7 @@
 
 
 #### Further summary to come
-- [[Arlo]] and Jerry grave dig
+- [[Arlo]] and [[Jerry]] grave dig
 - Team Edgy go exploring a hole under the ground
 - Magda falls in a hole, and runs into what remains of [[Nicholas]]. 
 - There's some monster in a labyrinth under the earth.
@@ -12,4 +12,4 @@
 - #rollinitiative
 
 
-**The party ends the session with Magda on 41 HP, Jeremiah on 26 HP, [[Arlo]] on 63 HP, and Varian on 27 HP.**
+**The party ends the session with Magda on 41 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 63 HP, and Varian on 27 HP.**

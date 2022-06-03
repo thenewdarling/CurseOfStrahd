@@ -7,15 +7,15 @@ Varian and [[Arlo]] go to find a blacksmith - The [[Authors of Iron]]. Varian ov
 
 Magda goes to investigate the [[Lady Watcher]]'s manor, but achieves nothing but pissing off the guard with her haughtiness.
 
-Jeremiah goes to a magic store and buys The Little Book of Necromancy, containing first-level necromancy spells. He then goes to the church.
+[[Jeremiah]] goes to a magic store and buys The Little Book of Necromancy, containing first-level necromancy spells. He then goes to the church.
 
 *(Magdalena whisper)* Magda runs into [[Sasha]] outside the church, who says she knows what she is, and gives her notes on vampirism -- implying that [[Asmodeus]]' pact alone will not be able to hold back her curse.
 
-Jeremiah and Magda run into each other outside the church and investigate the history of the [[Abbot]] of [[Krezk]] with [[Father Lucian]]. The Church is grander than in [[Barovia Town]], though desolate. The symbology is the same though, and the window which overlooks Castle Ravenloft in the background. Apparently he will heal people of a zombie curse, a handful of people a year.
+[[Jeremiah]] and Magda run into each other outside the church and investigate the history of the [[Abbot]] of [[Krezk]] with [[Father Lucian]]. The Church is grander than in [[Barovia Town]], though desolate. The symbology is the same though, and the window which overlooks Castle Ravenloft in the background. Apparently he will heal people of a zombie curse, a handful of people a year.
 
 They go to [[Blinksy]]'s. (IS NO FUN? IS NO BLINKSY!) And buy toys for [[Freek and Myrtle]]. [[Blinksy]] recognises [[Arlo]], he has been crafting a doll in the likeness of [[Arlo]] and [[Alessandra]] - after receiving a message from her, to let [[Arlo]] know he's ok and she's thinking of him.
 
-Magda pays Varian back for the room cost the night before, and decides now is the time to tell Jeremiah, [[Arlo]] and Varian about her curse.
+Magda pays Varian back for the room cost the night before, and decides now is the time to tell [[Jeremiah]], [[Arlo]] and Varian about her curse.
 
 
 ## Vallaki - Day 9 since Arrival in Barovia
@@ -34,12 +34,12 @@ Magda, who had charmed [[Izek]] during the fight, interrogates [[Izek]] briefly.
 
 Making their way towards the [[Baron]]'s keep, Magda asks Varian if the name means anything to him. He is silent, then says he's not ready to talk about it yet.
 
-**The party ends the session with Magda on 32HP, Jeremiah on 18HP, [[Arlo]] on 30HP, and Varian on 10HP.**
+**The party ends the session with Magda on 32HP, [[Jeremiah]] on 18HP, [[Arlo]] on 30HP, and Varian on 10HP.**
 
 ## Addendum
 
 Fighting [[Izek]] also levelled the party up to level 5.
 
-The night the party arrives at Vallaki, Jeremiah forgets to apply the balm once and moves into the first stage of zombification. 
+The night the party arrives at Vallaki, [[Jeremiah]] forgets to apply the balm once and moves into the first stage of zombification. 
 
-Before going to find a magic shop Jeremiah goes to see [[Blinksy]], he purchases a pack of playing cards and gives [[Blinksy]] some extra money to buy a toy for a child who can't afford it.
+Before going to find a magic shop [[Jeremiah]] goes to see [[Blinksy]], he purchases a pack of playing cards and gives [[Blinksy]] some extra money to buy a toy for a child who can't afford it.

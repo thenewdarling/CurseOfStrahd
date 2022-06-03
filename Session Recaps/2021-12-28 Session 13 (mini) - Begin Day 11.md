@@ -4,11 +4,11 @@
 With [[Sasha]] leading the way, we reach the Church and are faced with a troll and three vampire spawns. [[Urwin]] and [[Prince Rupert]] are already there fighting them, and just as we arrive [[Urwin]] falls unconscious by the hands of one of the vampire spawns. [[Sasha]] runs towards the front of the Church, ushering people inside.
 
 Varian charges, wanting to get the attention of the vampire slashing at [[Urwin]], but misses his attack. Unable to carry [[Urwin]] back to safety, Varian disengages and runs back to his companions.
-Jeremiah, seizing his opportunity to inflict maximum damage to our enemies, casts fireball, engulfing all three vampire spawns, the troll and [[Prince Rupert]] in deadly flames! 
-The troll advances and slams his chain in a powerful line in front of him, knocking Magda prone and badly hurting her and Jeremiah.
+[[Jeremiah]], seizing his opportunity to inflict maximum damage to our enemies, casts fireball, engulfing all three vampire spawns, the troll and [[Prince Rupert]] in deadly flames! 
+The troll advances and slams his chain in a powerful line in front of him, knocking Magda prone and badly hurting her and [[Jeremiah]].
 Magda’s Spirit Guardians are still up, a cloud of bats surrounding us, continuing to cause riot and damaging our enemies. She stands up, reading herself to help her companions and stabilizes [[Urwin]].
 [[Arlo]] jumps straight into the thick of it, wielding Wife Hunt fiercely and protecting [[Urwin]]’s fallen figure.
-Jeremiah finishes off one of the vampire spawns, blasting a ray of sickness at him and stealing his life force for himself, then runs behind a tombstone for cover.
+[[Jeremiah]] finishes off one of the vampire spawns, blasting a ray of sickness at him and stealing his life force for himself, then runs behind a tombstone for cover.
 Varian runs towards [[Prince Rupert]], helping him kill another spawn, and disengages back to safety.
 The troll swings again, this time in a sweeping arch all around him, finishing off one of the vampire spawns.
 Seeing [[Arlo]] badly hurt, Magda runs towards him and cures his wounds. [[Arlo]], feeling some strength return, madly hacks at the troll’s ankles, forcing him down. With a last blast of force, [[Arlo]] drives Wife Hunt into the troll’s head, killing him!
@@ -17,8 +17,8 @@ With only one enemy left, Varian runs in, leaps forward and digs his dagger into
 No more enemies immediately pressuring them, the party runs inside the church with [[Prince Rupert]] carrying [[Urwin]]. As we get in, [[Sasha]] slams the door behind us, securing it with a wooden beam. Inside, we see all the windows boarded up but can still hear the clamouring of the vampires outside. [[Prince Rupert]], [[Urwin]] and [[Sasha]] run down to the catacombs, while [[Father Lucian]] kneels in front of the altar with the bones of St. Andreal softly glowing, prying. Blinky stands close to him, holding some kind of device.
 
 As we stand there, the vampire spawns encircle the Church’s grounds, not quite coming forward at first, but suddenly rushing in with gurgling and piercing screams of pain as they start disintegrating by approaching the holy ground. [[Sasha]], hearing this, ushes the last people downstairs and closes the door. The party stands with [[Father Lucian]] and [[Blinksy]].
-[[Blinksy]] tries to set of his traps, set all around the church, but the rush of vampire spawn’s has the wire torn and now he can’t pull the triggering pin out. We can see the little device 60 feet away, a throng of vampire spawns in the way. Jeremiah, eager to help, casts catapult, making the pin fly and setting the trap off. The party runs towards the altar, having 12 seconds to find cover.
-Finally, the explosives go off, causing the windows to burst in, sending splinters and broken glass flying everywhere. With a ringing in her ears, Magda quickly gets up, tending to the wounded. She stabilizes [[Father Lucian]] and bring Jeremiah back to consciousness. 
+[[Blinksy]] tries to set of his traps, set all around the church, but the rush of vampire spawn’s has the wire torn and now he can’t pull the triggering pin out. We can see the little device 60 feet away, a throng of vampire spawns in the way. [[Jeremiah]], eager to help, casts catapult, making the pin fly and setting the trap off. The party runs towards the altar, having 12 seconds to find cover.
+Finally, the explosives go off, causing the windows to burst in, sending splinters and broken glass flying everywhere. With a ringing in her ears, Magda quickly gets up, tending to the wounded. She stabilizes [[Father Lucian]] and bring [[Jeremiah]] back to consciousness. 
 
 Suddenly there’s a different chill in the air. As mists tumble in through the broken windows, we see bats flying in, turning into the form of a man no other than [[Strahd]] von Zarovich!
 
@@ -26,7 +26,7 @@ He glides towards [[Arlo]], introducing himself and kissing his hand. He seems t
 He sets the dust on fire and in the flames we see Lady [[Fiona]] Watcher in her study, surrounded by the vampire spawns, holding an amulet with the notable Watcher family Eye on it. She looks scared, a blue light glowing around her. But lamps flicker and shadows creep from the corners of the room, eventually involving her completely. The flames on the altar flare up, replacing the image by [[Lady Watcher]]’s body, trembling and at death’s door.
 We hear screams of terror and pain from downstairs and people banging on the door, but [[Strahd]] is keeping it tightly shut. He tells us that, regrettably, with the bones of St. Andreal gone, our dear friend [[Sasha]] has gone into quite a frenzy. But we have an option. He looks at Magdalena and tells her that, if she feeds on [[Fiona]] Watcher’s blood, he will assuage [[Sasha]]’s thirst. With this proposition, he leaves. 
 
-**The party ends with Magda on 29 HP, Jeremiah on 6 HP, [[Arlo]] on 5 HP, and Varian on 11 HP).**
+**The party ends with Magda on 29 HP, [[Jeremiah]] on 6 HP, [[Arlo]] on 5 HP, and Varian on 11 HP).**
 
 # Session 13 Post-Credits Sequence - 3rd January 2022
 ## Vallaki - Day 11 since Arrival in Barovia
@@ -35,7 +35,7 @@ Magda hovers over the [[Lady Watcher]]’s body. “What do I do?” she asks th
 
 ___
 
-Jeremiah's pacing the room, lost in thought, when [[Arlo]] speaks first, he mutters, annoyed, "Drink [[Lady Watcher]]'s blood, obviously..." then goes back to deep thought and pacing, increasingly panicked.
+[[Jeremiah]]'s pacing the room, lost in thought, when [[Arlo]] speaks first, he mutters, annoyed, "Drink [[Lady Watcher]]'s blood, obviously..." then goes back to deep thought and pacing, increasingly panicked.
 
 ___
 
@@ -106,7 +106,7 @@ In the direction of the [[Baron]]’s home, wisps of smoke can be seen in the di
 
 ___
 
-**With the '[[Battle of Burning Sun]]' concluded, the party continues in downtime with Magda on 29 HP, Jeremiah on 6 HP, [[Arlo]] on 5 HP, and Varian on 11 HP.**
+**With the '[[Battle of Burning Sun]]' concluded, the party continues in downtime with Magda on 29 HP, [[Jeremiah]] on 6 HP, [[Arlo]] on 5 HP, and Varian on 11 HP.**
 
 # Credit
 

@@ -32,12 +32,12 @@ She changes into flats and sneaks out of the study to the bathroom to dispose of
 
 ___
 
-#### JEREMIAH, VARIAN, [[ARLO]] POV
+#### [[JEREMIAH]], VARIAN, [[ARLO]] POV
 
-Guards are patrolling the wall but they manage to climb the wall and get past them. Varian lays his spidery alarm spell on the door and they find themselves in a wine cellar. [[Arlo]] takes a bottle of wine and Jeremiah fills the portable hole with bottles. They stealth through the corridor. 
+Guards are patrolling the wall but they manage to climb the wall and get past them. Varian lays his spidery alarm spell on the door and they find themselves in a wine cellar. [[Arlo]] takes a bottle of wine and [[Jeremiah]] fills the portable hole with bottles. They stealth through the corridor. 
 
 There is a door which requires the password "Let the dead remain at rest" every time you walk across it or the ground shakes and some kind of bone creature seems to come out of the floor.
 
 They ambush [[Nikolai]] Watcher from around the corner. There is also a pyromancer and the [[Lady Watcher]]'s imp familiar. Varian is knocked unconscious, but [[Arlo]] lands the killing blow and takes out Nik. Once defeated, Nik's skin ripples as if being eaten by something invisible and tiny and he immediately begins to rot and decay into nothing. The session ends with Varian unconscious, the pyromancer still attacking, and the imp disappearing presumably to fetch his mistress...
 
-**The party ends the session with Magda on 35HP, Jeremiah on 22HP, [[Arlo]] on 54HP, Varian on 0HP and requiring stabilisation.**
+**The party ends the session with Magda on 35HP, [[Jeremiah]] on 22HP, [[Arlo]] on 54HP, Varian on 0HP and requiring stabilisation.**

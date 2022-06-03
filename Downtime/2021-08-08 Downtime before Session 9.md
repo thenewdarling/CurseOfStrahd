@@ -25,7 +25,7 @@ You're right
 [09-Aug-21 10:24 PM] Magdalena de Luna (she/her)
 here if we get out of this, I'm gonna be so impressed by us?
 
-[09-Aug-21 10:25 PM] Jeremiah Templeton (he/him)
+[09-Aug-21 10:25 PM] [[Jeremiah]] Templeton (he/him)
 Don't be impressed til we do it!
 
 [09-Aug-21 10:25 PM] Magdalena de Luna (she/her)

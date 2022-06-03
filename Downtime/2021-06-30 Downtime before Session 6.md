@@ -25,8 +25,8 @@ At this the two get up to leave, “I am [[Karl]], and this is my brother [[Niko
 
 I reach my hand out to shake theirs as they leave. “A pleasure to meet you both, gentlemen, and my regards to [[Lady Watcher]].”
 
-[09-Jul-21 06:22 PM] Jeremiah Templeton (he/him)
-Jeremiah heads to bed straight away, and gets up in the morning looking for a hearty breakfast
+[09-Jul-21 06:22 PM] [[Jeremiah]] Templeton (he/him)
+[[Jeremiah]] heads to bed straight away, and gets up in the morning looking for a hearty breakfast
 
 [09-Jul-21 07:09 PM] Magdalena de Luna (she/her)
 I think Magda would probably go to bed after finishing her wine, if only cos she can feel herself falling asleep now she's in a warm building. She says goodnight to [[Danika]] and [[Urwin]] on the way if she passes them
@@ -63,10 +63,10 @@ By the time you head downstairs, the commotion in the hallway has past and [[Ire
 [[Arlo]] asks about the markets, and whether there's anyone there who he could commission to make adjustments to his handaxes. He seems in need of some silver.
 
 [13-Jul-21 10:12 PM] TenderstDM
-@jeremiah [[Urwin]] notices you looking somewhat unsatisfied with a simple breakfast of oats, he slips you a plate of glistening crisped bacon – “You look a little pale son, best be keeping some meat on those bones!”
+@[[jeremiah]] [[Urwin]] notices you looking somewhat unsatisfied with a simple breakfast of oats, he slips you a plate of glistening crisped bacon – “You look a little pale son, best be keeping some meat on those bones!”
 
-[14-Jul-21 05:29 PM] Jeremiah Templeton (he/him)
-Jeremiah with a happy stomach, thanks [[Urwin]] and says he is off to look for someone that could teach him some magic to ward off enemies
+[14-Jul-21 05:29 PM] [[Jeremiah]] Templeton (he/him)
+[[Jeremiah]] with a happy stomach, thanks [[Urwin]] and says he is off to look for someone that could teach him some magic to ward off enemies
 
 And also to speak to [[father Lucian]] about the [[abbot]] at [[Krezk]].
 
@@ -163,9 +163,9 @@ Magda is gonna have pub food for din dins once yous are all done 👀 and a wee 
 “Oh. Before I forget.” She puts 2 gp on the desk and slides it over to Varian for paying for the room. “With interest. Thank you for your kindness yesterday.”
 
 
-## Jerry and Magda go to the church and Jerry buys The Little Book of Necromancy
+## [[Jerry]] and Magda go to the church and [[Jerry]] buys The Little Book of Necromancy
 
-[17-Jul-21 09:34 PM] Jeremiah Templeton (he/him)
+[17-Jul-21 09:34 PM] [[Jeremiah]] Templeton (he/him)
 Do I find any first level necromancy spells? 👀
 
 [18-Jul-21 12:53 PM] TenderstDM
@@ -189,16 +189,16 @@ Neither it is! Perhaps not so useful that one...
 [18-Jul-21 01:45 PM] TenderstDM
 At the church you see a familiar woman, [[Sasha]] from your travels here, talking with what looks to be the priest. They are standing just outside the church, speaking somewhat discreetly. [[Sasha]] looks far more nervous than when you met her previously, and she rushes off after handing something to the man.
 
-[18-Jul-21 01:50 PM] Jeremiah Templeton (he/him)
+[18-Jul-21 01:50 PM] [[Jeremiah]] Templeton (he/him)
 I buy the little book of necromancy
 
-Shortly after, Magda returns round the corner from [[Lady Watcher]]’s manor and sees you, @jeremiah. The two of you together are free to approach the church, although we can pick up here in game!
+Shortly after, Magda returns round the corner from [[Lady Watcher]]’s manor and sees you, @[[jeremiah]]. The two of you together are free to approach the church, although we can pick up here in game!
 
 [18-Jul-21 02:19 PM] Magdalena de Luna (she/her)
-“Jeremiah!” Magda looks flustered and distracted. “How long have you been standing there?”
+“[[Jeremiah]]!” Magda looks flustered and distracted. “How long have you been standing there?”
 
 
-[18-Jul-21 02:24 PM] Jeremiah Templeton (he/him)
+[18-Jul-21 02:24 PM] [[Jeremiah]] Templeton (he/him)
 "Be on the lookout for things that make you want to raise the dead, if you don't see it, pretend you see it, then raise the dead"
 
 Just a little quote from this book I bought

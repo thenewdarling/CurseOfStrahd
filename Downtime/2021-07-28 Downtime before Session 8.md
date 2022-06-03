@@ -1,9 +1,9 @@
 # DOWNTIME - VALLAKI
 
-## Jeremiah procures a sleeping draught
+## [[Jeremiah]] procures a sleeping draught
 
-[30-Jul-21 04:33 PM] Jeremiah Templeton (he/him)
-Jeremiah would also like to look for a sleeping draught as he's not been sleeping well since he arrived here
+[30-Jul-21 04:33 PM] [[Jeremiah]] Templeton (he/him)
+[[Jeremiah]] would also like to look for a sleeping draught as he's not been sleeping well since he arrived here
 
 [08-Aug-21 10:21 AM] TenderstDM
 You would be able to find such a thing at the same apothecary that Varian visited to identify his potions! (although on your own you wouldn't be aware of the under the table poison trade going on)

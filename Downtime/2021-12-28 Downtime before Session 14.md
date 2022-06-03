@@ -5,8 +5,8 @@
 [30-Dec-21 11:44 AM] Magdalena de Luna (she/her)
 Magda hovers over the [[Lady Watcher]]’s body. “What do I do?” she asks the party. “I know what I want to do, what my blood is screaming for constantly, but I’ve learned to ignore it. So what’s the right thing to do? And why would he do this?”
 
-[31-Dec-21 07:15 PM] Jeremiah Templeton (he/him)
-Jeremiah's pacing the room, lost in thought, when [[Arlo]] speaks first, he mutters, annoyed, "drink [[lady watcher]]'s blood, obviously" then goes back to deep thought and pacing, increasingly panicked
+[31-Dec-21 07:15 PM] [[Jeremiah]] Templeton (he/him)
+[[Jeremiah]]'s pacing the room, lost in thought, when [[Arlo]] speaks first, he mutters, annoyed, "drink [[lady watcher]]'s blood, obviously" then goes back to deep thought and pacing, increasingly panicked
 
 [31-Dec-21 03:49 PM] [[Arlo]] de León (he/him)
 “I’m not sure what kinda effects this bloodlust thing has on you, Magda, but what I do know is that I’d much rather [[Lady Watcher]]'s neck be on the line than those poor buggers down there”
@@ -90,14 +90,14 @@ Well, first -- I pull the amulet from the [[Lady Watcher]]'s henry hoover bag
 
 I'd like to give it a quick visual inspection
 
-[03-Jan-22 06:36 PM] Jeremiah Templeton (he/him)
+[03-Jan-22 06:36 PM] [[Jeremiah]] Templeton (he/him)
 When I have time to do it as a ritual, I cast Identify on it
 
 [04-Jan-22 06:41 AM] Varian Lo'Gosh (he/him)
 Varian gives Blinky’s shoulder a squeeze and smiles tentatively at him, “You did well, [[Blinksy]].”
 Seeing the wisps of smoke in the distance, Varian curses under his breath, “[[Viktor]]!” and urges the party to come quickly.
 
-[04-Jan-22 11:07 AM] Jeremiah Templeton (he/him)
+[04-Jan-22 11:07 AM] [[Jeremiah]] Templeton (he/him)
 As we run to the Manor, I'm casting message frantically at where [[Viktor]] would be
 
 Basically running along muttering "[[Viktor]], where are you?" the whole way
