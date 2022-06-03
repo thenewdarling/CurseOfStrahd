@@ -1,4 +1,3 @@
-
 [21-Nov-21 10:50 AM] Jeremiah Templeton (he/him)
 Hey, uh @thenewdarling you've ticked off a spell slot for my lesser restoration right?
 
