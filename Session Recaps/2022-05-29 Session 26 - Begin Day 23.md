@@ -29,4 +29,4 @@ We arrive at the gate, and the guards recognise us and let us through -- though 
  
 We arrive back at the Bluewater Inn, and find [[Danika]] and [[Blinksy]] sitting having a drink when we open the door.
 
-**The party ends the session with [[Magda]] on 46 HP, [[Jeremiah]] on 31 HP, [[Arlo]] on 36 HP, and [[Arabelle]] on 52 HP.**
+**The party ends the session with [[Magda]] on 46 HP, [[Jeremiah]] on 23 HP, [[Arlo]] on 36 HP, and [[Arabelle]] on 52 HP.**
