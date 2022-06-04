@@ -47,7 +47,7 @@ Later in the day, we arrive at the town centre to hear the speech by the survivi
 
 He names Alec as the new captain of the city guard.
 
-He asks the people of Vallaki to give thanks to us, remembering yesterday as the Feast of [[Saint Andreal]], and dubbing us "the Heroes of Burning Sun" (yo party name??)
+He asks the people of Vallaki to give thanks to us, remembering yesterday as the Feast of [[Saint Andreal]], and dubbing us "the [[Heroes of Burning Sun]]" (yo party name??)
 
 Finally, [[Father Lucian]] reveals to [[Jeremiah]] that to his memory, there was a holy water source at [[the winery]].
 

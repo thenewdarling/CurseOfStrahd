@@ -50,13 +50,13 @@ But old dreams still clung to me. To survive in the wilds of the Underdark, one 
 “I sold my soul for power and am now bound to a new force, and one much harder to ran from."
 
 [17-Jan-22 05:01 PM] [[Magdalena]] de Luna (she/her)
-[[Magda]] thinks of the battlefield, sparkling with Lolth's Fire. "What price will you pay for that favour? What cost would it extract?"
+[[Magda]] thinks of the battlefield, sparkling with [[Lolth]]'s Fire. "What price will you pay for that favour? What cost would it extract?"
 
 [17-Jan-22 05:07 PM] [[Varian]] Lo'Gosh (he/him)
 "Servitude and loyalty."
 
 [17-Jan-22 05:15 PM] [[Magdalena]] de Luna (she/her)
-"I thought I knew you better than that, [[Varian]]. We are in the arsehole of the planar system. We can serve no-one but ourselves if we want to get out alive." She stops. "Lolth... A dark queen of the gods. A dangerous thing. The gods and monsters I've met, all men. Scheming men, lying men, but... in the end, simple. Stupid. A matriarch... she must be truly terrifying. But you can tell her you already have a queen." She scratches behind her horse's ears. "Isn't that right, Icarus?"
+"I thought I knew you better than that, [[Varian]]. We are in the arsehole of the planar system. We can serve no-one but ourselves if we want to get out alive." She stops. "[[Lolth]]... A dark queen of the gods. A dangerous thing. The gods and monsters I've met, all men. Scheming men, lying men, but... in the end, simple. Stupid. A matriarch... she must be truly terrifying. But you can tell her you already have a queen." She scratches behind her horse's ears. "Isn't that right, Icarus?"
 
 🐴: *pfpfpf*
 
@@ -65,12 +65,12 @@ She looks at [[Varian]] over her shoulder. "Do you want her favour? Would it bri
 [17-Jan-22 05:32 PM] [[Varian]] Lo'Gosh (he/him)
 [[Varian]] chuckles and his eyes twinkle impishly.
 "I am sorry to add to the stack of stupid men you've met.  
-No, Lolth will bring me no joy. Lolth watches, Lolth tests and, above all, Lolth consumes. I don’t know what Her plans are, but at least for now our goals are aligned.”
+No, [[Lolth]] will bring me no joy. [[Lolth]] watches, [[Lolth]] tests and, above all, [[Lolth]] consumes. I don’t know what Her plans are, but at least for now our goals are aligned.”
 
 [17-Jan-22 05:36 PM] [[Magdalena]] de Luna (she/her)
 She shrugs. "It's just your nature. Though, you are neither a god nor a monster." She looks at his red eyes. "That I know of."
 
-"When you find that Lolth's goals do not align with your own anymore, let me know. Whatever your Spider Queen wants with you here, it cannot be good."
+"When you find that [[Lolth]]'s goals do not align with your own anymore, let me know. Whatever your Spider Queen wants with you here, it cannot be good."
 
 [17-Jan-22 05:54 PM] [[Varian]] Lo'Gosh (he/him)
 [[Varian]] looks warily at [[Magda]].
@@ -89,7 +89,7 @@ She shrugs. "It's just your nature. Though, you are neither a god nor a monster.
 [[Varian]] looks back and shrugs. "I wouldn't have a clue. Do you?"
 
 [17-Jan-22 06:33 PM] [[Jeremiah]] Templeton (he/him)
-**"Shag Lolth, Kill Tallus, Marry Gruumsh"**
+**"Shag [[Lolth]], Kill Tallus, Marry Gruumsh"**
 
 [17-Jan-22 06:38 PM] [[Magdalena]] de Luna (she/her)
 “See?” [[Magda]] says to [[Varian]]. “It’s their nature.”

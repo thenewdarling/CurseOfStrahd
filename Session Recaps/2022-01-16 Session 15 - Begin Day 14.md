@@ -15,7 +15,7 @@ The fight is going well, and then [[Magda]] is too slow with the self-healing an
 
 Before they can move again, the hellhound's breath weapon recharges, and blasts [[Arlo]] and [[Magda]] -- she nearly goes down AGAIN but saved the Dex check, and with the reduced damage is on a SINGLE hit point. Then it's her turn -- vampire Regeneration burning five hit dice at once, she shouts a warning to [[Jeremiah]] to stand clear, and casts Silence centered on Mog, killing all spellcasting in the area.
 
-[[Jeremiah]] is bringing his zombies down on the enemies, getting into flanking positions for everyone. [[Varian]] casts Lolth's Fire, allowing the party to strike the [[hags]] in the Ethereal Plane. Her location revealed, [[Arlo]] finishes off Ofelia. Mog, escaping the silence, disappears into the Ethereal Plane and for a moment, all is still...
+[[Jeremiah]] is bringing his zombies down on the enemies, getting into flanking positions for everyone. [[Varian]] casts [[Lolth]]'s Fire, allowing the party to strike the [[hags]] in the Ethereal Plane. Her location revealed, [[Arlo]] finishes off Ofelia. Mog, escaping the silence, disappears into the Ethereal Plane and for a moment, all is still...
 
 The party regroup, waiting for her to strike.
 
@@ -23,7 +23,7 @@ Mog reappears, hurling a lightning bolt across the battlefield at the group.
 
 [[Varian]] charges, bloodlust rising. [[Jeremiah]] rushes in down one side to dagger Mog, softening her up. [[Arlo]] rushes the other side and grapples her, and [[Magda]] comes in from behind with a hand on [[Varian]]'s shoulder, casting Cure Wounds. The four of them together, and [[Varian]] delivers the killing blow.
 
-Next, [[Varian]] sees an image of scuttling legs, and clicking mandibles. The spectral form of Lolth starts to devour Mog's body. [[Varian]] calls out to stop, and a voice implies he has no right to command Lolth. But, nevertheless, the spider stops its feast.
+Next, [[Varian]] sees an image of scuttling legs, and clicking mandibles. The spectral form of [[Lolth]] starts to devour Mog's body. [[Varian]] calls out to stop, and a voice implies he has no right to command [[Lolth]]. But, nevertheless, the spider stops its feast.
 
 Mog offers [[Rose]]'s soul back. "In this cursed land, it seems even my sisters and I must fear what lurks in the dark.
 I release the child to you, passing from one monster to another."
