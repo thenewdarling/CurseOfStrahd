@@ -3,8 +3,13 @@
 ## Days 1 to 6 (not properly tracked)
 
 ### Sessions 1 to 5
-- The party arrive in Barovia, meet Ireena, and head to Vallaki.
-(more summary to come)
+- The party arrive in Barovia, meet the residents of Barovia Town and Ireena.
+- They save Rose and Thorn from the Death House, and Rose remains in a ring of Varian's.
+- They meet Strahd in the church after the death of the burgomaster.
+- They travel to the Vistani camp, and receive a reading from Madame Eva.
+- They meet Sasha.
+- They fall afoul of the hags and their dream pastries, saving Freek and Myrtle Weerdo from them, but fail to kill them.
+- They travel with Ireena to Vallaki, bringing the children back to their fathers.
 
 ## Day 7 
 - As the party enters Vallaki, they save Viktor Vallakovich from a monster on the road.
