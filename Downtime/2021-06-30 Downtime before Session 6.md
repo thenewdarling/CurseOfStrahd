@@ -42,11 +42,11 @@ The room is still dark when [[Ireena]] awakes – it has been another restless n
 
 To freeze now might reveal that she had heard them. Instead, without breaking stride, she draws a blade, concealing it along the inside of her arm. With her free hand, she pushes open the door and steps forward. The corridor is long and dim, filled only with shadows. For a moment there is stillness, and then from above they are upon her. [[Ireena]] dives, rolling to the side in time to deflect a blow with her dagger. She kicks back with force throwing off her assailant. In the same moment, the door behind bursts open, a black bag is thrust over her head and the world goes dark. Heart racing, [[Ireena]] grabs out, and with considerable effort throws forward her would-be captor. She tosses aside the hood, revealing two figures ready to lunge at her once more. [[Ireena]] mutters beneath her breath, and two swords come crashing into a cloud of silvery mist. She is behind them now, her sword and dagger in hand. “You’re beaten, yield, or I will cut you down.”
 
-The three remain still, breathing heavily, and then, without warning, the shorter of the two attackers falls forward giggling. [[Ireena]], smirks, still catching her breath. “Brom and Bray Martikov, must we do this every time I am to visit?”
+The three remain still, breathing heavily, and then, without warning, the shorter of the two attackers falls forward giggling. [[Ireena]], smirks, still catching her breath. “[[Brom]] and [[Bray]] Martikov, must we do this every time I am to visit?”
 “Every time until we best Barovia’s Silver Knight!” the older of the two brothers says, turning to face her, “Mother reckoned we might win this time.”
 [[Ireena]] scoffs, “It will take more than games and shadows to get the better of me.”
 
-(Brom appears around 12, and his brother Bray, 14 or so. In moments of excitement there is a childish glee about them, but they speak confidently to you, and work hard at their duties around the Inn.)
+([[Brom]] appears around 12, and his brother [[Bray]], 14 or so. In moments of excitement there is a childish glee about them, but they speak confidently to you, and work hard at their duties around the Inn.)
 
 By the time you head downstairs, the commotion in the hallway has past and [[Ireena]] has already left for the [[Baron]]’s manor. [[Danika]] greets you and offers a simple breakfast of oats and berries.
 
@@ -81,7 +81,7 @@ He’ll also try to find out if there’s a thieves’ guild and how he can acce
 “As for [[Danton]], I suspect he might be heading on his way after the festival.”
 
 [13-Jul-21 10:11 PM] TenderstDM
-Once Brom and Bray hear you are looking for toys they insist you stop by [[Blinksy]]’s, we’ll get to that after the weapons though 😊
+Once [[Brom]] and [[Bray]] hear you are looking for toys they insist you stop by [[Blinksy]]’s, we’ll get to that after the weapons though 😊
 
 [13-Jul-21 10:12 PM] TenderstDM
 @Valdrid Usually, you would easily notice the tell-tale signs and symbols that mark the entrances to a city’s underworld. Vallaki seems strangely absent of such signs, perhaps wandering the streets you will be to hear that secret mix of dialect and jargon used to covey messages in thieves’ circles.
