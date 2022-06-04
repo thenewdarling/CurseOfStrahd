@@ -1,13 +1,23 @@
 # Timeline
 
-## Days 1 to 7 (not properly tracked)
+## Days 1 to 6 (not properly tracked)
 
 ### Sessions 1 to 5
 - The party arrive in Barovia, meet Ireena, and head to Vallaki.
 (more summary to come)
+
+## Day 7 
 - As the party enters Vallaki, they save Viktor Vallakovich from a monster on the road.
 
+Downtime events before Session 6:
+- [[Magda]] meets the Martikov brothers while the others go to bed
+
 ## Day 8
+
+Downtime events before Session 6:
+- [[Varian]] and [[Arlo]] go weapon shopping and meet Prince Rupert
+- [[Magda]] stops by the Watcher Manor
+- [[Jerry]] and [[Magda]] go to the church and [[Jerry]] buys The Little Book of Necromancy
 
 ### Session 6 begins
 - Downtime day in Vallaki.
@@ -25,8 +35,14 @@
 - The party learns of [[Argynvosthold]] and [[Saint Andreal]].
 - The Baron wants the party to lead the parade on Day 11 (two days time).
 
+#### Downtime events before Session 8:
+
+- [[Jeremiah]] procures a sleeping draught
+- Magda feeds on a chicken to sate the vampire curse. (Timer resets Day 16.)
+*Magda's timer will reset Day 16*.
+
 ### Session 8 begins
-- In downtime, Magda feeds on a chicken to sate the vampire curse. (Timer resets Day 16.)
+
 - Varian and Magda meet Francis the apothecarist.
 - Varian has a Dark Vision™️ of the hags consuming Rose's soul.
 - Arlo and Jeremiah stakeout the Watcher Manor. They meet Henrick, and take him back to the Blue Water Inn. They learn his story about the blackmail.
@@ -42,6 +58,9 @@
 - They return to the Blue Water Inn and sleep for the night.
 - Varian wakes up first and discovers from the Martikovs that news of Izek's death is already out.
 - The party tell Ireena about Henrick and she goes off to retrieve the bones of Saint Andreal from where Henrick buried them.
+
+#### Downtime before Session 9
+- Tasha makes herself known.
 
 ### Session 9 begins
 
@@ -96,6 +115,13 @@
 - (Post-credits): After some convincing by the party, Magda agrees.
 - We stumble out into a saved but destroyed Vallaki, to discover the Baron's Manor is being set ablaze by Karl Watcher.
 
+#### Downtime events before Session 14
+
+-- The debate about drinking Lady Watcher's blood (referred to above as 'post-credits')
+-- The outcome of the battle is revealed.
+-- After disposing of Lady Watcher, the party head to the Vallakoviches' Manor, which seems to be on fire.
+-- Lady Watcher is known to be in Strahd's pocket
+
 ### Session 14 begins
 
 - The party escort [[Viktor]], his mother, and the newly recovered [[Stella]] to the [[Watcher Manor]], where they can stay for now while the town is in chaos.
@@ -125,6 +151,10 @@
 - [[Varian]] has a nightmare of being chased by a hell hound, [[Rose]]'s captor. He awakes in a cold sweat.
 - [[Magda]] rouses the party, as zombies and the hell hound draw close...
 
+#### Downtime events before Session 15
+
+- During the night watch before Magda hears the snarling in the fog, [[Magda]] and [[Jeremiah]] discuss his zombification.
+
 ### Session 15 begins
 
 - The battle for [[Rose]]'s soul begins!! Zombies, the hellhound, and the three hags.
@@ -144,6 +174,10 @@
 - In the distance we can see the edge of the world of Barovia where the mists become impenetrably thick.
 - We find a horse in the road with a broken leg, its rider crushed by its fall. The horse belongs to a young woman named Arabelle who lives on the local farm.
 - The party lead their horses by foot up the thin hill to the abbey, and leave them with a stable hand for a few gold pieces, joining a queue to see the [[Abbot]].
+
+#### Downtime before Session 16
+
+- The party have a heart-to-heart on the walk.
 
 ### Session 16 begins
 
@@ -208,6 +242,10 @@
 
 - The party meet the spirit of Nicholas, the supposed killer of Eliza Day. He is the one who stole the Sun Sword, but denies killing Eliza Day. 
 - He asks the party to destroy the tree and set him free, in exchange he'll tell us where the Sun Sword is. Magda agrees (a lie), and exorcises him with Turn Undead when he gives over the information.
+
+#### Downtime before Session 21
+*The events of Magda side-story 'The Horse is Not Enough' happen now.*
+- Appending that story, Varian has a response offering Magda some comfort.
 
 ### Session 21 begins
 
