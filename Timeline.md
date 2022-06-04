@@ -71,7 +71,7 @@
 - Magda gets into Stella's room, locks the door behind her, knocks Stella out and bundles her in a duvet. Karl Watcher enters to discover Magda passing Stella's unconscious body out the window to Sasha. As Sasha flies away, Magda waves and Misty Escapes out the window to the ground below.
 - The party reconvene outside, rush to leave. An illusion of Lady Watcher appears before them with a threat, before dissipating as Dargos runs through her to tell them that Jakob is missing, after he and Viktor were mugged. Viktor was left for dead, the only reason anyone knows what happened.
 - Jeremiah, invisible and with double movement, makes his away alone to drop the bones of Saint Andreal off at the church in time for the parade tomorrow.
-- The rest of the party go to the Vallakoviches Manor but are turned away by the guards.
+- The rest of the party go to the Vallakoviches Manor but are turned away by the guards. They return to the Blue Water Inn for a restless night sleep.
 
 ## Day 11
 
