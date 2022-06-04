@@ -5,7 +5,7 @@ As [[Magda]] and [[Jeremiah]] are roused from their Life Drain sleep, the party 
 
 [[Varian]] scouts upstairs, hearing the Krezkovs imbibing some kind of smoke (likely the Alanatis plant we were told about), and some kind of torture happening to a half-elven woman. The party don't think they're in a position for a fight, and are just looking for the [[Abbot]], so they go south -- which [[Arlo]] scouts using the ring of [[Lady Watcher]].
 
-The find a little square room with a man working on something in the corner, and [[Varian]] sneaks up and tries to cover his mouth.
+They find a little square room with a man working on something in the corner, and [[Varian]] sneaks up and tries to cover his mouth.
 
 The man grabs his hand without even looking up, and proceeds to force a combat, summoning a huge greatsword. The party make multiple attempts to deescalate, but the fighting only stops when a ghost next door is roused from his slumber -- [[Sergei]].
 

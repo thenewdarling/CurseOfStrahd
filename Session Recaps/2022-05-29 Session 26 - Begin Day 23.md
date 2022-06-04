@@ -21,7 +21,7 @@ After the sun goes down, the party pushes on the little bit it takes to get them
 
 ## Crossing midnight into Day 24
 
-We arrive at the gate, and the guards recognise us and let us through -- though they're confused that [[Danton]]'s tiger is with us. They send for Alec, who fills us in on what's going on:
+We arrive at the gate, and the guards recognise us and let us through -- though they're confused that [[Danton]]'s tiger is with us. They send for [[Alek]], who fills us in on what's going on:
 
 - [[Blinksy]] is looking after the Bluewater Inn.
 - [[Father Lucian]] is running a hostel out of the Vallakovich Manor for those made homeless in the fire. (The merchants agree to go there for now.)

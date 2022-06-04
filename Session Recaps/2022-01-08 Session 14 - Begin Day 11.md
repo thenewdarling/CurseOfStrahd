@@ -45,7 +45,7 @@ Later in the day, we arrive at the town centre to hear the speech by the survivi
 
 [[Viktor]] speaks about how the two families were once allies, and he would like them to be again. The [[Watchers]] built these walls to keep evils out of the city, but that they also need to be aware of evils inside the city at the same time.
 
-He names Alec as the new captain of the city guard.
+He names [[Alek]] as the new captain of the city guard.
 
 He asks the people of Vallaki to give thanks to us, remembering yesterday as the Feast of [[Saint Andreal]], and dubbing us "the [[Heroes of Burning Sun]]" (yo party name??)
 

@@ -31,7 +31,7 @@ She is why the vineyards hadn't been rotting despite the lack of sunlight in Bar
 
 There is a funeral service for [[Urwin]].
 
-We find out the [[Morning Lord|Morninglord]] and the Night Mother looked over Barovia until the mists came. The Night Mother appears to be gone. ([[The Keepers of the Feather]] are followers of hers.) They think the [[Morning Lord|Morninglord]] is also gone, but don't have the power to challenge the Church in [[Krezk]]. They try and warn people from [[Berez]], and think the witches are likely the ones who broke the tree. (They guess.)
+We find out the [[Morning Lord]] and the Night Mother looked over Barovia until the mists came. The Night Mother appears to be gone. ([[The Keepers of the Feather]] are followers of hers.) They think the [[Morning Lord]] is also gone, but don't have the power to challenge the Church in [[Krezk]]. They try and warn people from [[Berez]], and think the witches are likely the ones who broke the tree. (They guess.)
 
 [[Arabelle]]'s brother went to [[Berez]] in the hope they would help him. The witches have links to [[Mother Night]], and are the ones who [[Gertruda]] went looking for all the way back in [[Barovia Town]]. 
 

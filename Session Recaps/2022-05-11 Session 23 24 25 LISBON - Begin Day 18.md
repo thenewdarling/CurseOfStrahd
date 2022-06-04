@@ -45,4 +45,4 @@ Leaving the Tower behind with no new information, they decide to head to Vallaki
 
 A roll on a random encounter table later, we see a crowd of goblins attacking a hill giant and two humans unconscious by an overturned cart. [[Jerry]] tries to talk to one of the goblins and go into the fight...
 
-The party ends with everyone on full health except possibly [[Arlo]] but also like, I'm amazed we managed to keep track of hit points at all. 🇵🇹
+**The party ends with everyone on full health except possibly [[Arlo]] but also like, I'm amazed we managed to keep track of hit points at all.** 🇵🇹
