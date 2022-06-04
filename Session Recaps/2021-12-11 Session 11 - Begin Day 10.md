@@ -23,7 +23,7 @@ With [[Varian]] on [[Arlo]]'s back, they escape with their quarry.
 
 She knocks the sleeping catgirl out and bundles her in the duvet as the door rattles.
 
-While she's passing the duvet out the window to [[Stella]], the door unlocks and opens, revealing [[Karl]] Watcher standing in the door.
+While she's passing the duvet out the window to [[Sasha]], the door unlocks and opens, revealing [[Karl]] Watcher standing in the door.
 
 As [[Sasha]] flies away, [[Magda]] waves to him and uses Misty Escape to teleport out the window to the ground beneath.
 

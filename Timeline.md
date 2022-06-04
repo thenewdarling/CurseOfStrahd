@@ -58,13 +58,43 @@
 
 ### Session 10 begins
 
+- The party learn that by noon tomorrow (ie. the festival) anyone who has lost confidence in the [[Baron]] will receive a letter that will burn the Mark of the Watcher family on the door - sparing them from the oncoming attack.
+- Sasha tells us Ireena has gone north in vain -- the bones are back in the Watcher Manor, retrieved this morning.
+
+- Night: the party break into the Watcher Manor while their Ball is ongoing.
+- Magda goes in the front door using the written invitation to get around the vampire need to be invited. She manages to get a key to Stella Watcher's door.
+- The rest of the party break in through the wine cellar, only to be found by Nikolai Watcher. When they defeat him, he seems to rot and decay into nothing, but Varian is unconscious, the battle is still ongoing, and the cleric is upstairs dancing.
+
 ### Session 11 begins
+
+- Arlo and Jeremiah are able to end the battle without Varian dying, and leave, carrying his unconscious body. They retrieve the bones of Saint Andreal.
+- Magda gets into Stella's room, locks the door behind her, knocks Stella out and bundles her in a duvet. Karl Watcher enters to discover Magda passing Stella's unconscious body out the window to Sasha. As Sasha flies away, Magda waves and Misty Escapes out the window to the ground below.
+- The party reconvene outside, rush to leave. An illusion of Lady Watcher appears before them with a threat, before dissipating as Dargos runs through her to tell them that Jakob is missing, after he and Viktor were mugged. Viktor was left for dead, the only reason anyone knows what happened.
+- Jeremiah, invisible and with double movement, makes his away alone to drop the bones of Saint Andreal off at the church in time for the parade tomorrow.
+- The rest of the party go to the Vallakoviches Manor but are turned away by the guards.
 
 ## Day 11
 
+#### The Day of the Parade of Burning Sun
+
+*Session 11 cont'd*
+- The party go back to the Vallakoviches Manor one more time, and are turned away but Baroness Vallakovich lets them through. Magda heals Viktor, saving his life.
+- After allowing his mother a moment, [[Varian]] questions the boy about what happens, and tells him about Stella.
+- The Baron pushes the party to lead the parade as planned. They pass the stocks -- Henrick has been hanged.
+- The parade becomes a mob to fight the Watchers, and then the vampire horde descends. Jakob is killed and turned into a vampire spawn.
+
 ### Session 12 begins
 
+- The Battle of Burning Sun begins.
+
 ### Session 13 begins
+
+- The Battle of Burning Sun continues.
+- The crowd reaches the church and manages to barricade themselves inside. The bones seem to deter the horde.
+- Strahd arrives. He destroys the bones of Saint Andreal with ease.
+- He summons Lady Watcher's unconscious body to the table and offers Magda a choice: feed on her and save Sasha from falling to frenzy. After the battle, we wouldn't have the strength to restrain her ourselves.
+- (Post-credits): After some convincing by the party, Magda agrees.
+- We stumble out into a saved but destroyed Vallaki, to discover the Baron's Manor is being set ablaze by Karl Watcher.
 
 ### Session 14 begins
 
