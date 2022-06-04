@@ -1,3 +1,7 @@
-Also known as **The Spider Queen**.
+The Goddess known as **The Spider Queen**.
 
-A dark goddess who rules over the Drow city of [[Menzoberranzan]] in the world outside Barovia. She has plans for Strahd's domain, and they involve [[Varian]].
+She rules over the Drow city of [[Menzoberranzan]] in the world outside Barovia.
+
+__
+
+She has a counterpart within Barovia known as **Arachne**, who has plans for [[Varian]].
