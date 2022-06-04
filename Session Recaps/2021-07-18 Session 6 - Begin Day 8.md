@@ -3,7 +3,7 @@
 ## Downtime Day - Vallaki - Day 8 since Arrival in Barovia
 
 The party eats breakfast in the [[Blue Water Inn]].
-[[Varian]] and [[Arlo]] go to find a blacksmith - The [[Authors of Iron]]. [[Varian]] overhears two thieves dissing the place, and suggest the two go to Prince Ruper's -- a dragonborn blacksmith who crafts magical weapons imbued with dragon flame, can silver existing weapons, and makes "Lifehunter" weapons that appear like blown glass.
+[[Varian]] and [[Arlo]] go to find a blacksmith - The [[Authors of Iron]]. [[Varian]] overhears two thieves dissing the place, and suggest the two go to [[Prince Rupert]]'s -- a dragonborn blacksmith who crafts magical weapons imbued with dragon flame, can silver existing weapons, and makes "Lifehunter" weapons that appear like blown glass.
 
 [[Magda]] goes to investigate the [[Lady Watcher]]'s manor, but achieves nothing but pissing off the guard with her haughtiness.
 
