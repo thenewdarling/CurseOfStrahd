@@ -299,10 +299,12 @@ Downtime events before Session 6:
 
 - (Midnight:) The party arrives at the gates, and are allowed in by some confused guards. They send for Alek, who fills us in on some goings-on.
 - The party arrives at the Blue Water Inn and finds Blinksy and Danika having a drink, before going to bed.
+- Magda sneaks out that night and feeds on Luca and Shaun before they reach the shelter, leaving their bodies to burn in one of the fires blazing throughout Vallaki.
+*Magda's timer will reset on Day 31.*
 
 #### Downtime before Session 27 begins
 - [[Jeremiah]] and [[Magda]] go hunting for rabbits.
-*Magda's timer will reset on Day 31.*
+*Magda's timer will still reset on Day 31...*
 
 
 ### Session 27 begins
