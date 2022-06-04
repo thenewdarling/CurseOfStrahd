@@ -202,6 +202,8 @@ Downtime events before Session 6:
 - There is a statue to get inside which needs to be filled with water from the pool. After Magda drops into the pool, and discovers immediately that it is all holy water, she's soaked. Upon taking damage, uses Misty Escape to teleport to the woman, wringing her sleeves out and filling the statue's hands. They fill halfway, and this time it sticks.
 - Arlo does the same, soaking his trousers. The statue starts to open, but it takes two turns, and the party is being pelted by the statues. Magda and Jeremiah both go down, entering some kind of Life Drain effect. But with the help of their teammates, they make it inside and regroup (just).
 
+*The events of Magda side-story 'Tomorrow Never Knows' happen now.*
+
 ## Day 16
 
 ### Session 18 begins
@@ -282,6 +284,8 @@ Downtime events before Session 6:
 - Arlo duels a sentient suit of armour and Jerry does a dance to unlock a chest and get loot.
 - Jeremiah and Arabelle befriend Danton's tiger who is now blinded and was left in the Tower after the events of Arabelle's vision.
 - Leaving the Tower behind with no new information, they decide to head to Vallaki, in the hopes that maybe [[Viktor]] will have some information about portals that could lead them to saving [[Ezmerelda]].
+
+*The events of Magda side-story 'The Horse is Not Enough' happen during the long rest at the end of this day.*
 
 ## Day 23
 
