@@ -97,7 +97,7 @@ She shrugs. "It's just your nature. Though, you are neither a god nor a monster.
 “Wait five minutes, they’ll start comparing sizes.”
 
 [17-Jan-22 06:51 PM] [[Arlo]] de León (he/him)
-“I can imagine no other reality where I am not happily marrying, “”shagging”” and killing for my Allessandra, [[Jeremiah]]. I don’t understand this game”
+“I can imagine no other reality where I am not happily marrying, “”shagging”” and killing for my [[Allessandra]], [[Jeremiah]]. I don’t understand this game”
 
 “But out of interest…. What would your answer to this hypothetical be?”
 

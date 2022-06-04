@@ -26,7 +26,7 @@ They go out and find [[Francis]], who comes back to get the antidote he had been
 
 Using tongs to pass in the antidote, they all drink from the potion. It doesn't prevent the exhaustion, but it does stop the laughing, which prevents them from spreading it around. By the end of the session, both [[Varian]] and [[Magda]] succeed on one saving throw of two required to remove the point of exhaustion. [[Magda]] pockets a Potion of Squeaky Voice (roll 1d8, the result is the amount of hours of squeaky voice inflicted on the drinker).
 
-The party arrive at [[Blinksy]]'s, and find him with his little monkey Piccolo. He gives them the key to the Blue Water, and also gives [[Arlo]] the toys he crafted of him and [[Alessandra]]. [[Arlo]] puts the Alessandra toy in his breast pocket over his heart.
+The party arrive at [[Blinksy]]'s, and find him with his little monkey Piccolo. He gives them the key to the Blue Water, and also gives [[Arlo]] the toys he crafted of him and [[Allessandra]]. [[Arlo]] puts the Alessandra toy in his breast pocket over his heart.
 
 Exhausted, the party arrive back at the Blue Water, stock the bar with wine from the portable hole, have a drink, refresh themselves, and get a well-deserved night's sleep.
 

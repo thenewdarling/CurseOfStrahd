@@ -97,7 +97,7 @@ Does 1 batch of balm do you for 1 day? I had a memory the one [[rurick]] gave us
 Yeah, by batch, I mean enough for a single day 🙂 [[Rurick]] gave you around 5 batches worth
 
 [06-Jun-21 09:43 PM] [[Arlo]] de León (he/him)
-A sucker for silver, zombie cleaving, and chivalry, [[Arlo]] offers to pool his resources and get [[Magdalena]] the dagger "I have 29gp to my name currently, would that suffice? It would be a shame to let such a pretty weapon go to waste, and Allessandra is sure to reimburse me once we are reunited"
+A sucker for silver, zombie cleaving, and chivalry, [[Arlo]] offers to pool his resources and get [[Magdalena]] the dagger "I have 29gp to my name currently, would that suffice? It would be a shame to let such a pretty weapon go to waste, and [[Allessandra]] is sure to reimburse me once we are reunited"
 
 [06-Jun-21 09:51 PM] [[Magdalena]] de Luna (she/her)
 "I don't actually need the dagger, the deal for getting them both at the same time is just hard to pass up on! I'll tell you what, lover boy. If you loan me 18gp, I can cover the cost of both. I'll pay you back when more gold flows in, and you can hang onto the dagger in the meantime. And if you can put it in the back of an undead, all the better for all of us."
