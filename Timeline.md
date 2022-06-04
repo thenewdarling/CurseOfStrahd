@@ -285,7 +285,7 @@ Downtime events before Session 6:
 - Jeremiah and Arabelle befriend Danton's tiger who is now blinded and was left in the Tower after the events of Arabelle's vision.
 - Leaving the Tower behind with no new information, they decide to head to Vallaki, in the hopes that maybe [[Viktor]] will have some information about portals that could lead them to saving [[Ezmerelda]].
 
-*The events of Magda side-story 'The Horse is Not Enough' happen during the long rest at the end of this day.*
+*The events of Magda side-story 'Traitor' happen during the long rest at the end of this day.*
 
 ## Day 23
 
