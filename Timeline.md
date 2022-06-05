@@ -314,4 +314,9 @@ Downtime events before Session 6:
 
 ### Session 27 begins
 
-- Morning of Day 24:
+*Morning of Day 24*
+
+**Downtime Day**
+- Arlo and Arabelle go to Dargos'.
+- Magda and Arlo visit the Vallakovich Manor.
+- Shopping: Francis, Shay the Kenku
