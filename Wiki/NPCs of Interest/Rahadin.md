@@ -1,0 +1,1 @@
+The famous wizard assistant to [[Strahd]].
