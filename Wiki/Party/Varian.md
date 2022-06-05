@@ -1,6 +1,6 @@
 **Varian Lo'Gosh** is a Drow Phantom Rogue who was a member of the [[Heroes of Burning Sun]]. 
 
-He stole the hilt of the Sun Sword in Session 22 for [[Lolth]], and left the group under [[Yester Hill]].
+He stole the hilt of the Sun Sword in Session 22 for [[Arachne]], and left the group under [[Yester Hill]].
 
 He was played by Taanit, and is now under the control of the DM.
 
