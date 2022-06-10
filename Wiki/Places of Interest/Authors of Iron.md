@@ -1,3 +1,3 @@
-A blacksmith, inferior to [[Prince Rupert]]'s.
+The **Authors of Iron** is a blacksmith in [[Vallaki]], notably inferior to [[Prince Rupert]]'s.
 
 tags: [[Vallaki]]
