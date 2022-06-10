@@ -1,3 +1,1 @@
-A title bestowed upon the party by [[Baron]] Lito Vallakovitch.
-
-Earned by saving [[Vallaki]]'s population from an army of vampire spawn, unleashed by the [[Watchers]] over the parade of the same name.
+The **Heroes of Burning Sun** is a title bestowed upon the Party by [[Baron]] Lito Vallakovitch, following their efforts in the [[Battle of Burning Sun]].

@@ -1,3 +1,12 @@
-Live at [[The Winery]]. Shapeshifting followers of [[Mother Night]].
+The **Keepers of the Feather** are a group of shapeshifting followers of [[Mother Night]]. Their main base of operations is [[The Winery]].
 
-[[Adrianna]], [[Benjy]], [[Davian]], [[Elver]], and the [[Martikovs]]. [[Adrianna]] is a werewolf, and the others transform into ravens. 
+## Known Members:
+
+- [[Adrianna]]
+- [[Benjy]]
+- [[Davian]]
+- [[Elver]]
+- The [[Martikovs]]
+
+## Other Details
+- [[Adrianna]] is a werewolf, and the others transform into ravens.
