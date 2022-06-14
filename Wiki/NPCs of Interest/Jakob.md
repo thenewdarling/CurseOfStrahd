@@ -1,3 +1,5 @@
-Husband of [[Dargos]], now turned to spawn and killed in the [[Battle of Burning Sun]]. *Deceased.*
+**Jakob Weerdo** was the husband of [[Dargos]].
+
+He was turned to vampire spawn and killed in the [[Battle of Burning Sun]].
 
 tags: [[Vallaki]], [[Weerdos]]

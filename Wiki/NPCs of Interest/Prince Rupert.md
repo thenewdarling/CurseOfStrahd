@@ -1,4 +1,4 @@
-A dragonborn who makes Lifehunter weapons and other magical weapons.
+**Prince Rupert** is a male dragonborn who makes magical weapons, notably including Lifehunters. He runs a shop in [[Vallaki]], and is very well-regarded.
 
 ![[Prince_Rupert.jpg]]
 

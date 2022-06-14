@@ -1,6 +1,10 @@
+*"To survive in the wilds of the Underdark, one must not delay when the Spider Queen bestows her gifts. For with even the slightest hesitation, the briefest moment of doubt, she will snatch back her blessing, depriving her chosen of the wonders of her favour. And I’d waited for her favour for so long." -- Varian Lo'Gosh*
+
+![[varian.jpg]]
+
 **Varian Lo'Gosh** is a Drow Phantom Rogue who was a member of the [[Heroes of Burning Sun]]. 
 
-He stole the hilt of the Sun Sword in Session 22 for [[Arachne]], and left the group under [[Yester Hill]].
+He stole the hilt of the Sun Sword from the rest of the party in Session 22 for [[Arachne]], and left the group for dead under [[Yester Hill]].
 
 He was played by Taanit, and is now under the control of the DM.
 

@@ -1,4 +1,4 @@
-The only daughter of [[Lady Watcher]], she was arranged to be married as a child with [[Viktor]] before the two families became enemies.
+**Stella Watcher** is the only daughter of [[Lady Watcher]]. She was arranged to be married as a child with [[Viktor]] before the two families became enemies.
 
 Following a magical experiment gone wrong by [[Viktor]], her mind was switched with a cat. Her family, thinking her insane, locked her in her room.
 

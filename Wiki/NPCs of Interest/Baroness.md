@@ -1,3 +1,1 @@
-**Baroness [[Lydia]] Vallakovich**
-
-See [[Lydia]]
+**Baroness [[Lydia]] Vallakovich**, See [[Lydia]]

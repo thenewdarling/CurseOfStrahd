@@ -3,7 +3,7 @@
 ## Days 1 to 6 (not properly tracked)
 
 ### Sessions 1 to 5
-- The party arrive in Barovia, meet the residents of Barovia Town and Ireena.
+- The party arrive in Barovia, meet the residents of [[Barovia Town]] and Ireena.
 - They save Rose and Thorn from the Death House, and Rose remains in a ring of Varian's.
 - They meet Strahd in the church after the death of the burgomaster.
 - They travel to the Vistani camp, and receive a reading from Madame Eva.
@@ -76,7 +76,7 @@ Downtime events before Session 6:
 - After they leave, Danton tells the party that he knows about Madame Eva's prophecy, which is why he vouched for them.
 - He gives the party one invitation to the Watcher's Dance and a detailed map of Barovia.
 - The party go to the morgue, and discover Blinksy is not the only one who has had his silver paint stolen.
-- (The crow from Barovia Town is currently also following us here.)
+- (The crow from [[Barovia Town]] is currently also following us here.)
 - After Varian picks the lock, the party discover the Nest of Vampire Spawn, and there's a disagreement about how to deal with it. Before there's a conclusion however, Prince Rupert comes up the stairs and discovers them.
 - Varian admits to Prince Rupert he murdered Izek, and asks us to leave the spawn and return to the Blue Water with him -- where we discover The Secret Vallaki Rebellion.
 
@@ -302,7 +302,7 @@ Downtime events before Session 6:
 
 ## Day 24
 
-- (Midnight:) The party arrives at the gates, and are allowed in by some confused guards. They send for Alek, who fills us in on some goings-on.
+- (Midnight:) The party arrives at the gates, and are allowed in by some confused guards. They send for [[Alek]], who fills us in on some goings-on.
 - The party arrives at the Blue Water Inn and finds Blinksy and Danika having a drink, before going to bed.
 - Magda sneaks out that night and feeds on Luca and Shaun before they reach the shelter, leaving their bodies to burn in one of the fires blazing throughout Vallaki.
 *Magda's timer will reset on Day 31.*

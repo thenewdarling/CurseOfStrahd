@@ -1,3 +1,3 @@
-**Count Strahd von Zarovich**
+**Count Strahd von Zarovich** is the ruler of the valley of [[Barovia]], and the main antagonist of the **Curse of Strahd campaign**.
 
-The big bad.
+More to come...

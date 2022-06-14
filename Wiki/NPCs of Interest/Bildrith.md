@@ -1,3 +1,3 @@
-The owner of Bildrith's Mercantile (presumably -- we haven't met them)
+**Bildrith** is presumably the owner of Bildrith's Mercantile within the [[Vistani Camp]]. The party has never encountered them.
 
 tags: [[Vistani Camp]]

@@ -1,1 +1,3 @@
-Has history with [[Ireena]] and [[Strahd]] both. Used to be [[Strahd]]'s partner. Also has a holy symbol of [[Asmodeus]], similar to [[Magda]]'s.
+**Sasha** is a vampire woman living in Barovia. She has history with [[Ireena]] and [[Strahd]] both, and used to be [[Strahd]]'s partner. 
+
+She also has a holy symbol of [[Asmodeus]], similar to [[Magda]]'s.

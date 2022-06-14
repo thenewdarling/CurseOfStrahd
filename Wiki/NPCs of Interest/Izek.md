@@ -1,5 +1,5 @@
-The town captain. Has some kind of vendetta for [[Varian]] based on a prophecy by [[Madame Eva]]. Known as Dranos as a child. Murdered by [[Varian]].
+**Izek**, known as a child as **Dranos**, was the town captain in [[Vallaki]]. He had some kind of vendetta for [[Varian]] based on a prophecy by [[Madame Eva]]. 
 
-*Deceased.*
+He was murdered by [[Varian]] in Session 8.
 
 tags: [[Vallaki]]

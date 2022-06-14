@@ -8,7 +8,9 @@ Jerry uses (he/him) pronouns.
 
 *see also: [[Jerry]]*
 
-# Background
+
+
+### Background
 
 ----------
 We're almost there mother, hang on just a little longer

@@ -1,3 +1,6 @@
-*The Great Deceiver, whose tongue is molten silver. He rules Acheron, the City of Fear, with an iron fist.*
+"*The Great Deceiver, whose tongue is molten silver. He rules Acheron, the City of Fear, with an iron fist.*" -- The Book of Lies
 
-Patron of both [[Magda]] and [[Sasha]], one of the pantheon in the world outside Barovia. His reach within [[Strahd]]'s domain is limited, but he always seems to have a scheme...
+
+**Asmodeus**, Lord of Hell, is one of the pantheon in the [[Shared World]]. He is the patron of both [[Magda]] and [[Sasha]].
+
+His reach within [[Strahd]]'s domain is limited, but he always seems to have a scheme...
