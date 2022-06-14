@@ -8,7 +8,7 @@ She is a vampire hunter who befell the curse herself over two hundred years ago,
 
 She is played by Luke.
 
-Magda uses (she/her) pronouns.
+[[Magda]] uses (she/her) pronouns.
 
 *see also [[Magda]]*
 

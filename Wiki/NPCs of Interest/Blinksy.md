@@ -1,6 +1,6 @@
 *"Is no fun? Is no Blinksy!" -- the shop sign over Blinksy's*
 
-**Blinksy** runs a toy shop in [[Vallaki]] of impeccable quality. His toys are crafted himself and are famous throughout Barovia -- though some of them have a somewhat morbid theming.
+**Blinksy** runs a toy shop in [[Vallaki]] of impeccable quality. His toys are crafted himself and are famous throughout [[Barovia]] -- though some of them have a somewhat morbid theming.
 
 ## Other Details
 - He is implied to have made [[Danton]]'s gun.

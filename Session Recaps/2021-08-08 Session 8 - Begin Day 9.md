@@ -1,6 +1,6 @@
 # Session 8 - 8th August 2021
 
-## Vallaki - Day 9 since Arrival in Barovia
+## Vallaki - Day 9 since Arrival in [[Barovia]]
 
 (In downtime, [[Jeremiah]] inquired about a sleeping draught, and [[Magda]] went to feed on a chicken to sate the vampire curse.)
 
@@ -52,7 +52,7 @@ She has tipped off the prison guards, and offers us 600gp to kill [[Izek]] at mi
 
 [[Varian]] doesn't need to kill [[Izek]] now since [[Rose]] is dead anyway, but nevertheless we accept the mission.
 
-## Vallaki - Day 10 since Arrival in Barovia
+## Vallaki - Day 10 since Arrival in [[Barovia]]
 
 **12am (midnight)** - [[Varian]] and [[Arlo]] go in to the prison, [[Jeremiah]] and [[Magda]] make their way round the side of the building.
 

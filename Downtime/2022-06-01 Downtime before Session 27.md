@@ -48,7 +48,7 @@
 
 [21:18] [[Magdalena]] de Luna (she/her): [[Magda]] leans in, like she's trying to read his face. "Are you... trying to bond with me, [[Jerry]]?" She scoffs. "Is that what this is about?" She sighs. "I... I don't know. I haven't had many friends in my life. And I opened up when I got here, because the world was small now, and we seemed to have each others' backs. And it was a terrible mistake."
 
-[21:21] [[Jeremiah]] Templeton (he/him): "[[Magda]], without [[Varian]] we would have died many times over. Not least in that house in Barovia. If living to see today is a terrible mistake I don't want to be right"
+[21:21] [[Jeremiah]] Templeton (he/him): "[[Magda]], without [[Varian]] we would have died many times over. Not least in that house in [[Barovia]]. If living to see today is a terrible mistake I don't want to be right"
 
 [21:26] [[Magdalena]] de Luna (she/her): "No, I agree. We needed to work together. And we work well together... as colleagues. But that's all." She smiles. "I have big plans. And I can't do them alone. But I will keep in mind that, at the end of the day, I stand alone. No-one will catch me when I fall. Most of you probably won't even notice."
 
@@ -90,7 +90,7 @@ It sniffs at her. She scrunches her nose up at it.
 
 [11:05] [[Magdalena]] de Luna (she/her): She sighs. "[[Jeremiah]], it's not like food. I am always craving it."
 
-[11:09] [[Jeremiah]] Templeton (he/him): "At least if you feed while you can you save on moments like needing to drain someone's horse to stay sane. It might not be nice but everyone in Barovia would prefer you to be far from the brink as possible."
+[11:09] [[Jeremiah]] Templeton (he/him): "At least if you feed while you can you save on moments like needing to drain someone's horse to stay sane. It might not be nice but everyone in [[Barovia]] would prefer you to be far from the brink as possible."
 
 [11:10] [[Magdalena]] de Luna (she/her): "... Understood." She devours the rabbit with a Bite attack, and drops its corpse to the ground.
 

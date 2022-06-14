@@ -1,6 +1,6 @@
 # Session 9 - 26th August 2021
 
-## Vallaki - Day 10 since Arrival in Barovia
+## Vallaki - Day 10 since Arrival in [[Barovia]]
 
 The session opens with the party stealthing to the [[Baron]]'s manor. [[Jeremiah]] uses his ability to move through the city at speed while making [[Arlo]] and [[Henrick]] invisible.
 
@@ -22,7 +22,7 @@ After leaving and regrouping with [[Jeremiah]], [[Magda]] asks [[Danton]] why he
 
 [[Danton]] is not interested in Vallaki politics, and is thinking of [[Strahd]]. He knows the prophecy we were told by [[Madame Eva]]. He says he will help [[Ireena]], and that there is a tower east of [[Krezk]] -- we should meet him there.
 
-He gives us an invitation to the Watcher's dance, and a detailed, beautiful map of Barovia. We now know where Mafoo Forest is.
+He gives us an invitation to the Watcher's dance, and a detailed, beautiful map of [[Barovia]]. We now know where Mafoo Forest is.
 
 *"The devil is watching Vallaki. Though you are only rats in a maze, he does seem to enjoy watching you."*
 
@@ -30,7 +30,7 @@ The person who is following us reaches us, and [[Danton]] pulls out a fucking gu
 
 We decide to go to the morgue. On the way, we see many mercantile shops which also look like they've been broken into. All their silver paint has been stolen.
 
-A crow is flying overhead -- seemingly the same crow that we saw on entry to Barovia, and that gave [[Jeremiah]] his coin. (We've seen this crow a LOT of times which may have not made it into the recap this far.) It seems to be following us, and waits across from [[Prince Rupert]]'s. We didn't check if it was still there when we left.
+A crow is flying overhead -- seemingly the same crow that we saw on entry to [[Barovia]], and that gave [[Jeremiah]] his coin. (We've seen this crow a LOT of times which may have not made it into the recap this far.) It seems to be following us, and waits across from [[Prince Rupert]]'s. We didn't check if it was still there when we left.
 
 We make a point of stopping by [[Prince Rupert]], who we know works with silvering weapons -- he has not been broken into, however his door is a large stone which is rolled in front of the door. It would be very hard to break into in the night.
 

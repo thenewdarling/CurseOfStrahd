@@ -18,7 +18,7 @@ If time is no issue, I will make a point of preparing a balm to cast Lesser Rest
 
 
 [02-Jun-21 01:05 PM] TenderstDM
-The morning after [[Madame Eva]]’s reading, [[Varian]] and [[Jeremiah]] awake with an extra hit dice of temporary hit points (as these are acquired during your long rest, they will carry into the following days). [[Ireena]] introduces the group to [[Arlo]], and explains that her prophecy from [[Madame Eva]]’s, includes the four of you. As such [[Ireena]] wants you to prepare yourself as best you can. “Go acquire whatever you may need to travel, it is three days ride to Vallaki, and the roads in Barovia are always treacherous.” She hands each of you 25gp.
+The morning after [[Madame Eva]]’s reading, [[Varian]] and [[Jeremiah]] awake with an extra hit dice of temporary hit points (as these are acquired during your long rest, they will carry into the following days). [[Ireena]] introduces the group to [[Arlo]], and explains that her prophecy from [[Madame Eva]]’s, includes the four of you. As such [[Ireena]] wants you to prepare yourself as best you can. “Go acquire whatever you may need to travel, it is three days ride to Vallaki, and the roads in [[Barovia]] are always treacherous.” She hands each of you 25gp.
 
 @thenewdarling  Nobody in the camp knows of where you might acquire a diamond outside of Vallaki, thankfully this is where you are heading. Although most of the Vistani carry arms, it takes you a while to find someone willing to trade a rapier. A young woman has recently acquired some wares, she has a silvered rapier and dagger, worth 40gp and 25gp to her respectively – or an item of suitable worth to trade!
 
@@ -58,9 +58,9 @@ A Vistani cleric is willing to sell holy water for 5gp, enough for three batches
 @UsernameOfRassilon  Asking around you find the Vistani people do have a little magic in their blood. An animal friendship spell is widely known, and teachable to friendly strangers that know how to dance. Some of the camp elders know how to bestow curses upon less friendly travellers - it would take a great gesture of trust before they’d consider teaching this to an outsider.
 
 @[[varian]]  @[[arlo]]  In search of details about your strange surroundings, you find yourself directed towards the camp elders. From them you find,
--    The Vistani people have always called Barovia their home, their ancestors once helped [[Strahd]] when he was still human, lost and injured in their valley. It is for this past kindness that he offers the Vistani temporary leave from the mists. Their deal now is for protection, and in return they draw more souls to Barovia.
+-    The Vistani people have always called [[Barovia]] their home, their ancestors once helped [[Strahd]] when he was still human, lost and injured in their valley. It is for this past kindness that he offers the Vistani temporary leave from the mists. Their deal now is for protection, and in return they draw more souls to [[Barovia]].
 -    The Martikov family are worth seeking out in Vallaki, they are good people. The mayor on the other hand is an unhinged man, his best intentions twisted by fear. There is a great deal of unrest in the city.
--    Avoid the wildlife, period. The zombies in Barovia are infused with a greater evil than those created by traditional necromancy, this is the work of the witches in [[Berez]] to the south.
+-    Avoid the wildlife, period. The zombies in [[Barovia]] are infused with a greater evil than those created by traditional necromancy, this is the work of the witches in [[Berez]] to the south.
 -    If you’re on the lookout for poisons, Corpse Flowers grow down by the water, the kids know not to touch them. "Poison is the least of our worries these days though, many children have gone missing over the last month. Distressingly there are many possible culprits, a small hunting party is out investigating the cause, they were due back yesterday…"
 
 [05-Jun-21 01:39 PM] [[Magdalena]] de Luna (she/her)
@@ -69,7 +69,7 @@ A Vistani cleric is willing to sell holy water for 5gp, enough for three batches
 “I don’t suppose you have a spell in that book of yours that summons bees?”
 
 [05-Jun-21 11:12 PM] [[Varian]] Lo'Gosh (he/him)
-[[Varian]] tries to find out more about the missing children. Who are the other possible culprits? Where did the hunting party leave for? Wouldn’t it be in [[Strahd]]’s best interest to keep the children safe, even if only for keeping those who leave Barovia liable to come back? So does he offer any help?
+[[Varian]] tries to find out more about the missing children. Who are the other possible culprits? Where did the hunting party leave for? Wouldn’t it be in [[Strahd]]’s best interest to keep the children safe, even if only for keeping those who leave [[Barovia]] liable to come back? So does he offer any help?
 
 [06-Jun-21 06:08 PM] [[Jeremiah]] Templeton (he/him)
 Priority one: where in the nine hells is [[krezk]]? This will tell me how much holy water I need.

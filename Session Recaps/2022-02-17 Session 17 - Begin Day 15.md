@@ -1,5 +1,5 @@
 # Session 17 -- 17th February 2022
-## [[Krezk]] -- (the night of) Day 15 since the party arrived in Barovia
+## [[Krezk]] -- (the night of) Day 15 since the party arrived in [[Barovia]]
 
 Having successfully snuck into [[Krezk]] with his invisibility spell, [[Jeremiah]] does a reconnaissance mission, and before the spell runs out, the party enter the food court and attempt to hide him in a corner.
 

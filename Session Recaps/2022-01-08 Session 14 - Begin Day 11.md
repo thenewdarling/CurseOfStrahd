@@ -1,5 +1,5 @@
 # Session 14 -- 8th January 2022
-## Vallaki - Day 11 since Arrival in Barovia
+## Vallaki - Day 11 since Arrival in [[Barovia]]
 
 *(Out of character -- Kate is group treasurer now.)*
 
@@ -33,7 +33,7 @@ Exhausted, the party arrive back at the Blue Water, stock the bar with wine from
 (Note: the events of [[Magda]] backstory "Here, in the Garden" happens now.)
 
 
-## Vallaki -- Day 12 since the party arrived in Barovia
+## Vallaki -- Day 12 since the party arrived in [[Barovia]]
 
 [[Magda]] prepares a salve for [[Jeremiah]] from the holy water, beeswax, etc. [[Arlo]] attunes to the [[Lady Watcher]]'s amulet, and hangs it like a pocket watch in his waistcoat.
 
@@ -61,13 +61,13 @@ The night ends with a party -- [[Blinksy]] asking the party to donate some of th
 
 With that the party concludes their long rest, unlocking their full 6th level abilities. 
 
-## Riding out of Vallaki -- Day 13 since the party arrived in Barovia
+## Riding out of Vallaki -- Day 13 since the party arrived in [[Barovia]]
 
 [[Magda]] prepares more salve. The party ride out towards the tower on the road to [[Krezk]].
 
 [[Varian]] notices they are being followed throughout the day. As night falls, and the Barovian mists begin to roll in, they suppose that whoever is following them will likely not be able to see them either, and they stop to rest for the evening.
 
-## On the Road to the Tower at [[Krezk]] -- Day 14 since the party arrived in Barovia
+## On the Road to the Tower at [[Krezk]] -- Day 14 since the party arrived in [[Barovia]]
 
 As midnight passes, [[Magda]] takes first watch, and when she hears snarling out in the fog, she sends her new familiar Eden to have a look.
 

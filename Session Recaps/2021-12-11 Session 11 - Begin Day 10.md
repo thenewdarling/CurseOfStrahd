@@ -1,6 +1,6 @@
 # Session 11 - 11th December 2021
 
-## Vallaki - Day 10 since Arrival in Barovia
+## Vallaki - Day 10 since Arrival in [[Barovia]]
 
 The session opens with the party still separated, [[Varian]] bleeding out on the floor while [[Magda]] is upstairs at the masquerade.
 
@@ -39,7 +39,7 @@ The rest of the party go to the [[Baron]]'s manor to see [[Viktor]] and return [
 
 Dejected they return to the [[Blue Water Inn]]. We learn that [[Danika]] has taken both the [[Weerdos]] and their own kids to safety. (There may be more here but notetaking brain went brrrrr.) 
 
-## Vallaki - Day 11 since Arrival in Barovia - The Day of the Parade
+## Vallaki - Day 11 since Arrival in [[Barovia]] - The Day of the Parade
 
 [[Magda]] casts Lesser Restoration on [[Jeremiah]] in the morning. -- I'm going to start explicitly noting these when they happen to be sure.
 

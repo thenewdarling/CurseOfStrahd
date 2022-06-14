@@ -1,5 +1,5 @@
 # Session 18 -- 18th February 2022
-## [[Krezk]] -- crossing midnight into Day 16 since the party arrived in Barovia
+## [[Krezk]] -- crossing midnight into Day 16 since the party arrived in [[Barovia]]
 
 As [[Magda]] and [[Jeremiah]] are roused from their Life Drain sleep, the party consider their options -- inside the Krezkov's home.
 
@@ -15,7 +15,7 @@ We find out [[Yalom]] also invented the zombie curse at [[Strahd]]'s behest, rig
 
 [[Sergei]] asks for permission to tell his story, to which Taanit (maybe also [[Varian]]?) says "Hell yeah!"
 
-He was [[Strahd]]'s mentor, best friend, and brother-in-law. He has died, but nothing leaves Barovia, even in death. He tells us of his love, Tatiana -- [[Strahd]]'s sister. At some point in her life she became ill and was meant to die naturally, but made some kind of dark pact. At first she started feeling better and recovering from that illness, but soon started having cravings - she seems to have been made a vampire by that pact. She tried to contain the urges and was struggling, so her and [[Sergei]] went away to hide and protect other people. Eventually Tatiana succumbed and killed [[Sergei]]. He never told us how Tatiana herself died, only that the world caught up and killed her? After that first death she seems to keep reincarnating, although without memory of her past lives, or at least at first. She is now cursed to fall ill, to die, and turn to vampirism over and over again. But we likely know her under another name -- he shows us a locket containing the face of [[Ireena]]. (GASP!) 
+He was [[Strahd]]'s mentor, best friend, and brother-in-law. He has died, but nothing leaves [[Barovia]], even in death. He tells us of his love, Tatiana -- [[Strahd]]'s sister. At some point in her life she became ill and was meant to die naturally, but made some kind of dark pact. At first she started feeling better and recovering from that illness, but soon started having cravings - she seems to have been made a vampire by that pact. She tried to contain the urges and was struggling, so her and [[Sergei]] went away to hide and protect other people. Eventually Tatiana succumbed and killed [[Sergei]]. He never told us how Tatiana herself died, only that the world caught up and killed her? After that first death she seems to keep reincarnating, although without memory of her past lives, or at least at first. She is now cursed to fall ill, to die, and turn to vampirism over and over again. But we likely know her under another name -- he shows us a locket containing the face of [[Ireena]]. (GASP!) 
 
 [[Yalom]] can't heal [[Jeremiah]]'s curse, but he can freeze it in his tracks. He sews [[Jeremiah]]'s hand back on, and gives him a black ooze which prevents the zombification from getting worse. In exchange, he asks us to retrieve a weapon which he was supposed to destroy, but fate seemed to decide it wasn't its time yet... (We gather this is the Sun Sword from [[Madame Eva]]'s reading.)
 

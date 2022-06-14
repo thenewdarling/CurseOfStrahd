@@ -13,7 +13,7 @@ From the corner of his eye, he notices something move in the shadows. He hears s
 
 He stands his ground, holding the sword hilt he’s just pulled out of the tree. As the spider moves and gets closer to the light, those eight eyes seem to focus into two and the giant spider takes a more familiar form - coming out of the shadows is [[Varian]], dagger drawn.
 
-[[Varian]] asks for the sword but [[Arlo]] senses that something is wrong and asks what is going on. [[Varian]] explains that Barovia has been severed from the rest of the world for so long that even the Gods have changed here. And he is being tested by their Spider Queen, Arachne, and that he intends to prove his worth. He is going to bring the sword to where she is bound and free her. Together they will defeat the Devil and remake Barovia in her image. [[Lolth]] has lost her way, wronged so many and caused so much pain. But with Arachne [[Varian]] will start a new order of the Spider Queen, one he can make right.
+[[Varian]] asks for the sword but [[Arlo]] senses that something is wrong and asks what is going on. [[Varian]] explains that [[Barovia]] has been severed from the rest of the world for so long that even the Gods have changed here. And he is being tested by their Spider Queen, Arachne, and that he intends to prove his worth. He is going to bring the sword to where she is bound and free her. Together they will defeat the Devil and remake [[Barovia]] in her image. [[Lolth]] has lost her way, wronged so many and caused so much pain. But with Arachne [[Varian]] will start a new order of the Spider Queen, one he can make right.
 
 [[Arlo]] listens and responds “I will not trade one fascist for another”.
 

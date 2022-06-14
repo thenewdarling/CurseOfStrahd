@@ -5,9 +5,9 @@ During downtime, [[Arabelle]] has a vision of the Tower falling, of [[Danton]] u
 
 The session opens with [[Magda]] casting Sending to send a message to try and confirm their survival. After receiving a reply, confirming the events of [[Arabelle]]'s vision happened, the party set out on the two day journey to [[the Winery]].
 
-On our first watch, [[Jeremiah]] receives a visit from the shadowy horseman who hovered around the party when they first entered Barovia. He gifts [[Jeremiah]] a bow blessed with Halfling's Luck.
+On our first watch, [[Jeremiah]] receives a visit from the shadowy horseman who hovered around the party when they first entered [[Barovia]]. He gifts [[Jeremiah]] a bow blessed with Halfling's Luck.
 
-## Day 17 since the party arrived in Barovia
+## Day 17 since the party arrived in [[Barovia]]
 
 We pass whole fields of wilting flowers, and reach a fork in the road. South leads to [[Yester Hill]], and to our right are the vineyards.
 
@@ -23,7 +23,7 @@ There is an... altercation with the horses in the stable yard. [[Magda]] probabl
 
 Meanwhile, [[Freek and Myrtle]] are told [[Urwin]] has died, and [[Adrianna]] recounts a story to them -- the [[Spirit of the Wild Rose]]. Through the story, we find out about [[Eliza Day]], who haunts the [[rose garden]] on [[Yester Hill]]. The person who killed her was buried alive by the Village People. (Before or after recording YMCA, we are not sure...) 
 
-She is why the vineyards hadn't been rotting despite the lack of sunlight in Barovia. But something has happened recently to the tree where the man was buried -- it's split down the middle. We put the pieces together that he is the man who stole the sword from [[Yalom]].
+She is why the vineyards hadn't been rotting despite the lack of sunlight in [[Barovia]]. But something has happened recently to the tree where the man was buried -- it's split down the middle. We put the pieces together that he is the man who stole the sword from [[Yalom]].
 
 [[Adrianna]] is perplexed by [[Magda]]'s decision to feast on the horse in the barn but tells her not to bother telling the others, and that she would deal with it later. [[Magda]] gets a bucket and a mop to clean the aftermath up.
 
@@ -31,13 +31,13 @@ She is why the vineyards hadn't been rotting despite the lack of sunlight in Bar
 
 There is a funeral service for [[Urwin]].
 
-We find out the [[Morning Lord]] and the Night Mother looked over Barovia until the mists came. The Night Mother appears to be gone. ([[The Keepers of the Feather]] are followers of hers.) They think the [[Morning Lord]] is also gone, but don't have the power to challenge the Church in [[Krezk]]. They try and warn people from [[Berez]], and think the witches are likely the ones who broke the tree. (They guess.)
+We find out the [[Morning Lord]] and the Night Mother looked over [[Barovia]] until the mists came. The Night Mother appears to be gone. ([[The Keepers of the Feather]] are followers of hers.) They think the [[Morning Lord]] is also gone, but don't have the power to challenge the Church in [[Krezk]]. They try and warn people from [[Berez]], and think the witches are likely the ones who broke the tree. (They guess.)
 
 [[Arabelle]]'s brother went to [[Berez]] in the hope they would help him. The witches have links to [[Mother Night]], and are the ones who [[Gertruda]] went looking for all the way back in [[Barovia Town]]. 
 
 [[Varian]] gives the [[Rose]] ring to [[Adrianna]], as [[Rose]] wishes to stay with the other children, and away from the danger for now.
 
-## Morning of Day 18 since the party arrived in Barovia
+## Morning of Day 18 since the party arrived in [[Barovia]]
 
 With heavy hearts but full bellies, the party make for [[Yester Hill]].
 

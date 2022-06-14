@@ -11,7 +11,7 @@ The party arrive back at [[the Winery]], where they discuss what to do next.
 
 They note already the crops at [[the winery]] seem to be rebudding. [[Arabelle]] gives the garden a bit of a helping hand with Plant Growth.
 
-[[Adrianna]] tells the party that like the [[Morning Lord]], [[Mother Night]]'s influence in Barovia is waning (no pun intended) and she's the last werewolf with control over her powers. There are others in the Mafoo Forest, but they haven't learned to tame the transformation. 
+[[Adrianna]] tells the party that like the [[Morning Lord]], [[Mother Night]]'s influence in [[Barovia]] is waning (no pun intended) and she's the last werewolf with control over her powers. There are others in the Mafoo Forest, but they haven't learned to tame the transformation. 
 
 As the party sleep outside, [[Jerry]] spots on his watch a procession of ghosts, leaving the hill and fading away.
 
@@ -31,7 +31,7 @@ She also uses Divination to ask [[Asmodeus]] where they might find the hilt of t
 
 It appears to be in ruins. After solving the anagram puzzle on the door, 'HARKS AT DEATH' = '[[TASHA]] THE DARK' the tower proper appears.
 
-[[Arlo]] duels an enchanted suit of armour and kicks its head miles away. He also finds a book on the history of Barovia that lists the Amber Temple in its contents page, but notably that chapter has been ripped out.
+[[Arlo]] duels an enchanted suit of armour and kicks its head miles away. He also finds a book on the history of [[Barovia]] that lists the Amber Temple in its contents page, but notably that chapter has been ripped out.
 
 [[Jerry]] does a dance to unlock a chest, and it opens, giving them a bunch of loot including a spider-themed rapier ([[Magda]]: "Mine."), a snazzy pair of magic boots which [[Jerry]] takes, and an Alchemy Jug which [[Jerry]] offers to [[Arabelle]].
 

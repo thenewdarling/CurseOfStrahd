@@ -1,6 +1,6 @@
 # Session 7 - 28th July 2021
 
-## Vallaki - Day 9 since Arrival in Barovia
+## Vallaki - Day 9 since Arrival in [[Barovia]]
 
 The party arrive at the [[Vallakoviches]]' Manor. They learn [[Izek]] was called Dranos as a child.
 
@@ -8,7 +8,7 @@ They meet with [[Baron]] Lito Vallakovich and his wife, the [[Baroness]] [[Lydia
 
 Reconvening with [[Viktor]], we learn his once-betrothed [[Stella]] Watcher, (before the two families came into conflict), was altered by a botched Teleportation Circle, and her mind was switched with a cat. The cat with her mind hangs around the Vallakovich's household, while her body is in the Watcher's manor, where they all think she's gone mad. The party agree to help [[Viktor]] save [[Stella]] and hopefully reverse the issue.
 
-We learn of [[Saint Andreal]] of the [[Morning Lord]], who brought the religion to Barovia. Her remains have recently been desecrated but this is not common knowledge, and if it got out it would cause a riot. The [[Vallakoviches]] think this is sabotage by the [[Watchers]].
+We learn of [[Saint Andreal]] of the [[Morning Lord]], who brought the religion to [[Barovia]]. Her remains have recently been desecrated but this is not common knowledge, and if it got out it would cause a riot. The [[Vallakoviches]] think this is sabotage by the [[Watchers]].
 
 We learn of [[Argynvosthold]], where the coin [[Jeremiah]] has comes from -- the inscription mentions it: "We are the Light, that watches over the Dark".
 

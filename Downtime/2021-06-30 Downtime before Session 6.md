@@ -17,7 +17,7 @@ To the two men: "News travels fast here for such a big city, it seems. I'm afrai
 
 [05-Jul-21 09:49 PM] TenderstDM
 One turns to the other, “Barely in town a night, and already local heroes!”
-“Perhaps you will join us for a hunt someday, you'll find all manner of interesting creatures in Barovia. Better be careful though, word from the Vistani is that [[hags]] roam our valley once more. It would be a terrible thing to find yourselves the ones being hunted...”
+“Perhaps you will join us for a hunt someday, you'll find all manner of interesting creatures in [[Barovia]]. Better be careful though, word from the Vistani is that [[hags]] roam our valley once more. It would be a terrible thing to find yourselves the ones being hunted...”
 At this the two get up to leave, “I am [[Karl]], and this is my brother [[Nikolai]], sons of [[Lady Watcher]]. We’ll be seeing you again, I’m sure.”
 
 [05-Jul-21 10:06 PM] [[Magdalena]] de Luna (she/her)
@@ -43,7 +43,7 @@ The room is still dark when [[Ireena]] awakes – it has been another restless n
 To freeze now might reveal that she had heard them. Instead, without breaking stride, she draws a blade, concealing it along the inside of her arm. With her free hand, she pushes open the door and steps forward. The corridor is long and dim, filled only with shadows. For a moment there is stillness, and then from above they are upon her. [[Ireena]] dives, rolling to the side in time to deflect a blow with her dagger. She kicks back with force throwing off her assailant. In the same moment, the door behind bursts open, a black bag is thrust over her head and the world goes dark. Heart racing, [[Ireena]] grabs out, and with considerable effort throws forward her would-be captor. She tosses aside the hood, revealing two figures ready to lunge at her once more. [[Ireena]] mutters beneath her breath, and two swords come crashing into a cloud of silvery mist. She is behind them now, her sword and dagger in hand. “You’re beaten, yield, or I will cut you down.”
 
 The three remain still, breathing heavily, and then, without warning, the shorter of the two attackers falls forward giggling. [[Ireena]], smirks, still catching her breath. “[[Brom]] and [[Bray]] Martikov, must we do this every time I am to visit?”
-“Every time until we best Barovia’s Silver Knight!” the older of the two brothers says, turning to face her, “Mother reckoned we might win this time.”
+“Every time until we best [[Barovia]]’s Silver Knight!” the older of the two brothers says, turning to face her, “Mother reckoned we might win this time.”
 [[Ireena]] scoffs, “It will take more than games and shadows to get the better of me.”
 
 ([[Brom]] appears around 12, and his brother [[Bray]], 14 or so. In moments of excitement there is a childish glee about them, but they speak confidently to you, and work hard at their duties around the Inn.)
@@ -52,7 +52,7 @@ By the time you head downstairs, the commotion in the hallway has past and [[Ire
 
 - [[Alek]], the guard that met you and [[Viktor]] at the wall, came by late last night. He has left directions to the home of [[Freek and Myrtle]], along with 50gp as thanks from the children’s fathers.
 - [[Urwin]] sits with you awhile. He speculates more about the fate of his cousin over at the vineyard, perhaps he shall investigate himself. Business has been slow, they currently only have one other staying guest, although a well-paying one. [[Danton]], the Great Performer. He’s here from Kresk to help with the [[Baron]]’s upcoming Festival of the Blazing Sun, and has become quite the local celebrity. He’s hard to pin down, but seems to frequent the toy maker [[Blinksy]]’s store - maybe you’re familiar with his wares?
-- [[Danika]] suggests stopping by the church, [[Father Lucian]] knows everyone about town and could tell you Barovia’s history better than most. She also points you towards the markets, there are many stalls in the town square and shops squirrelled away down Vallaki’s cobbled streets. “Just yous be careful not to lose your feet, there’s no knowing where you might get swept off to!”
+- [[Danika]] suggests stopping by the church, [[Father Lucian]] knows everyone about town and could tell you [[Barovia]]’s history better than most. She also points you towards the markets, there are many stalls in the town square and shops squirrelled away down Vallaki’s cobbled streets. “Just yous be careful not to lose your feet, there’s no knowing where you might get swept off to!”
 
 [13-Jul-21 12:36 AM] [[Magdalena]] de Luna (she/her)
 "[[Urwin]], did you mention how far away your cousin's home is? Perhaps if we can organise arrangements for [[Danton]], we can get some time and help you investigate."
@@ -93,7 +93,7 @@ In the heart of town you find a busy blacksmith signposted ‘The [[Authors of I
 Subtly you let it be known that you have understood their discussion. Now usually one rogue would welcome another, but these two, they stand uneasy as they size you up, “I don’t recognise the face, but I’ll be damned if I ain’t staring into the eyes of the guard captain. Who are you Drow, and what business do you have with us here?”
 
 [16-Jul-21 10:50 AM] [[Varian]] Lo'Gosh (he/him)
-“My name is [[Varian]] and I have just recently, and unexpectedly, gotten into Barovia. It feels odd not knowing anyone about, as you probably understand. It’s a relief to hear the cant, tho! It’d be a pleasure to make your proper acquaintances and get more familiar without city. I just overheard you speaking of the low quality of this blacksmith. Would you recommend somewhere else?”
+“My name is [[Varian]] and I have just recently, and unexpectedly, gotten into [[Barovia]]. It feels odd not knowing anyone about, as you probably understand. It’s a relief to hear the cant, tho! It’d be a pleasure to make your proper acquaintances and get more familiar without city. I just overheard you speaking of the low quality of this blacksmith. Would you recommend somewhere else?”
 ___
 [16-Jul-21 10:59 AM] [[Varian]] Lo'Gosh (he/him)
 Does the guard captain have red eyes too? *gasp*
@@ -113,7 +113,7 @@ Hidden just off the main streets you find an arched opening in the brick wall, a
 Without letting you get a word in edgewise; he excitedly brings you over to his wares. Rows of blades hang from the walls, each made from a blackened steel. 
 - [[Prince Rupert]]’s weapons sell for standard prices, but imbued with dragon flame, the black steel deals magical damage.
 - He’ll be happy to silver existing weapons for a third of their original price.
-“And these, these here’d be the best you’ll find in all Barovia, or elsewhere!” He unfurls a roll of baldes and axe heads each forged out of deep red glass. It’s taken me years to get the tempering right, but undoubtedly, they’re my finest work. The blades themselves thirst for combat; the glass edge only gets sharper with use. I call them Lifehunters.”
+“And these, these here’d be the best you’ll find in all [[Barovia]], or elsewhere!” He unfurls a roll of baldes and axe heads each forged out of deep red glass. It’s taken me years to get the tempering right, but undoubtedly, they’re my finest work. The blades themselves thirst for combat; the glass edge only gets sharper with use. I call them Lifehunters.”
 - Lifehunt weapons are +1 magic weapons, they go for 20gp + three times the normal weapon price. Upon hitting a target, the following attack made with the weapon gains an additional +1 to hit.
 
 [17-Jul-21 01:27 PM] [[Varian]] Lo'Gosh (he/him)

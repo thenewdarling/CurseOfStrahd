@@ -1,5 +1,5 @@
 # Session 13 (mini) – 28th December 2021
-## Vallaki - Day 11 since Arrival in Barovia
+## Vallaki - Day 11 since Arrival in [[Barovia]]
 
 With [[Sasha]] leading the way, we reach the Church and are faced with a troll and three vampire spawns. [[Urwin]] and [[Prince Rupert]] are already there fighting them, and just as we arrive [[Urwin]] falls unconscious by the hands of one of the vampire spawns. [[Sasha]] runs towards the front of the Church, ushering people inside.
 
@@ -29,7 +29,7 @@ We hear screams of terror and pain from downstairs and people banging on the doo
 **The party ends with [[Magda]] on 29 HP, [[Jeremiah]] on 6 HP, [[Arlo]] on 5 HP, and [[Varian]] on 11 HP).**
 
 # Session 13 Post-Credits Sequence - 3rd January 2022
-## Vallaki - Day 11 since Arrival in Barovia
+## Vallaki - Day 11 since Arrival in [[Barovia]]
 
 [[Magda]] hovers over the [[Lady Watcher]]’s body. “What do I do?” she asks the party. “I know what I want to do, what my blood is screaming for constantly, but I’ve learned to ignore it. So what’s the right thing to do? And why would he do this?”
 

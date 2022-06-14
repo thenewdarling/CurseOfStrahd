@@ -44,7 +44,7 @@ He looks concerned at your remark, almost sad while saying this.
 "I believe peace might start with freedom. And, for as long as I can remember, I've been bound to forces too powerful for me to ran away from. First, it was my family. They worked very hard to find the right skill set that would make me useful, and trained me well in it. If for nothing else, I am grateful to them for that. But the Drow are not concerned with peace.
 And, when I thought I would finally be able to find some freedom, I was taken here.”
 
-“Maybe I could have found peace in Barovia. My family wouldn’t be able to find me and I would be free to carve my own path. 
+“Maybe I could have found peace in [[Barovia]]. My family wouldn’t be able to find me and I would be free to carve my own path. 
 But old dreams still clung to me. To survive in the wilds of the Underdark, one must not delay when the Spider Queen bestows her gifts. For with even the slightest hesitation, the briefest moment of doubt, she will snatch back her blessing, depriving her chosen of the wonders of her favour. And I’d waited for her favour for so long.”
 
 “I sold my soul for power and am now bound to a new force, and one much harder to ran from."
@@ -130,7 +130,7 @@ Ah I see! I think I’m starting to get the game now!
 [17-Jan-22 08:53 PM] [[Magdalena]] de Luna (she/her)
 [[Magda]] puts the pieces together. "Ah. Of course. The drow matriarchy."
 
-"It's funny you mention it actually. Barovia has been... more egalitarian than most of the places I've spent my life. But believe me when I tell you, in my 250 years, I have..."
+"It's funny you mention it actually. [[Barovia]] has been... more egalitarian than most of the places I've spent my life. But believe me when I tell you, in my 250 years, I have..."
 
 She sighs like she doesn't even have the energy to put it into words.
 

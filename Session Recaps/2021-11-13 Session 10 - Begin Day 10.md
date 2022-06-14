@@ -1,6 +1,6 @@
 # Session 10 - 13th November 2021
 
-## Vallaki - Day 10 since Arrival in Barovia
+## Vallaki - Day 10 since Arrival in [[Barovia]]
 
 The session opens with the secret meeting in the [[Blue Water Inn]], as the party meet [[Father Lucian]], the [[Martikovs]], [[Blinksy]], Alec and [[Viktor]] Vallakovich.
 

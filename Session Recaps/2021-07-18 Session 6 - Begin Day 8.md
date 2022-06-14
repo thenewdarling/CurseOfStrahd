@@ -1,6 +1,6 @@
 # Session 6 - 18th July 2021
 
-## Downtime Day - Vallaki - Day 8 since Arrival in Barovia
+## Downtime Day - Vallaki - Day 8 since Arrival in [[Barovia]]
 
 The party eats breakfast in the [[Blue Water Inn]].
 [[Varian]] and [[Arlo]] go to find a blacksmith - The [[Authors of Iron]]. [[Varian]] overhears two thieves dissing the place, and suggest the two go to [[Prince Rupert]]'s -- a dragonborn blacksmith who crafts magical weapons imbued with dragon flame, can silver existing weapons, and makes "Lifehunter" weapons that appear like blown glass.
@@ -18,13 +18,13 @@ They go to [[Blinksy]]'s. (IS NO FUN? IS NO BLINKSY!) And buy toys for [[Freek a
 [[Magda]] pays [[Varian]] back for the room cost the night before, and decides now is the time to tell [[Jeremiah]], [[Arlo]] and [[Varian]] about her curse.
 
 
-## Vallaki - Day 9 since Arrival in Barovia
+## Vallaki - Day 9 since Arrival in [[Barovia]]
 
 The party plan to go to the [[Baron]]'s after dropping off the toys. [[Freek and Myrtle]]'s dads - [[Jakob]] and [[Dargos]].
 
 [[Ireena]] mentions in passing that the [[Baron]] and [[Baroness]] Vallakovich are "interesting", that the [[Vallakoviches]] founded Vallaki, and the [[Watchers]] are this other ancient family that guarded the wall. (They're like the Uchihas.) The [[Vallakoviches]] don't tolerate despair within the walls.
 
-[[Jakob]] entertains the idea of escaping Barovia, and tells us how a generation ago there was a travelling wizard who led a revolt, but failed and everyone was punished. As such the [[Vallakoviches]] and Vallaki residents discourage further attempts at escape, seeing it as futile. They also discuss new armours they can craft.
+[[Jakob]] entertains the idea of escaping [[Barovia]], and tells us how a generation ago there was a travelling wizard who led a revolt, but failed and everyone was punished. As such the [[Vallakoviches]] and Vallaki residents discourage further attempts at escape, seeing it as futile. They also discuss new armours they can craft.
 
 On the way to the [[Baron]]'s, we see a sign for the Festival of the Burning Sun - it has been defaced so it says (ALL WILL BE W̶ HELL). A bunch of kids set fire to it with a firework.
 
