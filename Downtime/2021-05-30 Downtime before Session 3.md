@@ -199,7 +199,7 @@ By the early morning, the whole camp is astir. As [[Ireena]] makes preparations 
 
 “I admit I wronged you – I do what I need to keep going out here, and in all honesty, I’d do it again. That said, you look to aid us now, at great risk to your own.” [[Radu]] presents, and returns, a small lock of [[Magda]]’s hair, “I’m afraid I no longer have the others”.
 
-“If you do go, don’t think you can win in a straight fight. Sometimes you gotta fight dirty. If you can disrupt that mill – we still know it as the Old Bonegrinder – you might buy us time to put up our wards, and send warning to [[Barovia Town]] and Vallaki.”
+“If you do go, don’t think you can win in a straight fight. Sometimes you gotta fight dirty. If you can disrupt that mill – we still know it as the Old [[Bonegrinder]] – you might buy us time to put up our wards, and send warning to [[Barovia Town]] and Vallaki.”
 
 He rummages around in his pocket, “take this too, break the glass and it has a good shot at holding back anyone – or any hag – nearby.” He hands you a thin chain with a glass bead, clear but with flashes of purple when it catches the light. “I’ve been saving it for a sticky situation.”
 

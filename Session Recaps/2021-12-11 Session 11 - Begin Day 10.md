@@ -15,7 +15,7 @@ They successfully end the battle with one pyromancer escaping, and get an occult
 [[Jeremiah]] leafs through it: "We should collect some blood for this..."
 [[Arlo]] lifts the arm he cut off the pyromancer in a salute: "Way ahead of you."
 
-They open the box. Within the Ethereal Plane, the unconscious [[Varian]] sees a blinding light. Within the box are the bones of St. Andreal.
+They open the box. Within the Ethereal Plane, the unconscious [[Varian]] sees a blinding light. Within the box are the bones of [[Saint Andreal]].
 
 With [[Varian]] on [[Arlo]]'s back, they escape with their quarry.
 

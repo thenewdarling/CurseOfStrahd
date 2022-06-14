@@ -1,6 +1,6 @@
 # Downtime - The Night of the Masquerade
 
-## The Debate Over [[Magda]] Drinking Lady Watcher's Blood
+## The Debate Over [[Magda]] Drinking [[Lady Watcher]]'s Blood
 
 [30-Dec-21 11:44 AM] [[Magdalena]] de Luna (she/her)
 [[Magda]] hovers over the [[Lady Watcher]]’s body. “What do I do?” she asks the party. “I know what I want to do, what my blood is screaming for constantly, but I’ve learned to ignore it. So what’s the right thing to do? And why would he do this?”
@@ -83,7 +83,7 @@ Nobody seems keen to stay inside for long, and soon you are alone in the broken 
 
 *In the direction of the [[Baron]]’s home, wisps of smoke can be seen in the distance.*
 
-## After disposing of Lady Watcher, the party head to the Vallakoviches' Manor, which seems to be on fire.
+## After disposing of [[Lady Watcher]], the party head to the [[Vallakoviches]]' Manor, which seems to be on fire.
 
 [03-Jan-22 06:35 PM] [[Magdalena]] de Luna (she/her)
 Well, first -- I pull the amulet from the [[Lady Watcher]]'s henry hoover bag
@@ -116,7 +116,7 @@ As you stand staring, a hand reaches out touching your shoulder. You turn to see
 [[Stella]] shakes a little, and it seems the tremendous weight of the day falls upon each of you.
 Something brushes past your legs, and you look down to see a familiar cat, its rightful mind finally returned.
 
-## Lady Watcher in Strahd's Pocket
+## [[Lady Watcher]] in [[Strahd]]'s Pocket
 
 [08-Jan-22 05:48 PM] TenderstDM
 Dated six months ago

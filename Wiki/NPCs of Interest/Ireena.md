@@ -9,6 +9,6 @@ ___
 
 **Ireena Kolyana**, known in a previous life as **Tatiana**, is a knight the party befriend shortly after arriving in [[Barovia]].
 
-She was [[Strahd]]'s sister and I'm really hoping Taanit will come along and fill this bit in cos Sergei told us a lot.
+She was [[Strahd]]'s sister and I'm really hoping Taanit will come along and fill this bit in cos [[Sergei]] told us a lot.
 
 tags: [[Barovia Town]]

@@ -6,4 +6,4 @@ The **Valley of Barovia** was a region in the [[Shared World]], until it was ban
 
 Entire generations have lived within the mists, and escape is thought of as nearly impossible.
 
-It serves as the main setting of the **Curse of Strahd campaign**.
+It serves as the main setting of the **[[Curse of Strahd campaign]]**.

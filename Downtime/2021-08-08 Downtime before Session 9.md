@@ -38,7 +38,7 @@ Do you have zone of truth @thenewdarling ?
 I don't have it prepared T__T
 We should move this to #player-huddle now that i think of it haha
 
-## Tasha makes herself known
+## [[Tasha]] makes herself known
 
 [18-Aug-21 12:56 PM] TenderstDM
 At breakfast [[Urwin]] comes over to you and puts a small envelope on your table, “Almost forgot in all the chaos this morning, [[Jakob]] came by with this. I hope it's good news."

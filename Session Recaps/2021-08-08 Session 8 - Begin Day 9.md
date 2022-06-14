@@ -28,7 +28,7 @@ Henrik tells the story of what happened to him:
 
 He was approached by the Watcher brothers. He's the local coffin maker and runs the morgue. He didn't have any prior affiliation with the [[Watchers]] but the money was good. He was instructed to make some coffins but not to take them to the burial grounds, instead to keep them in the upper floor of his house. Just a few to start, but the numbers started to tick up.
 
-Eventually he notices that some of the bodies in the coffins are having small movements. He goes to the [[Watchers]], tries to back out. They put him in a hotel -- the [[Pale Horse Inn]]. He tried to back out again, and they threatened him. They forced him to exhume the remains of St Andreal from the church and hide them outside the city.
+Eventually he notices that some of the bodies in the coffins are having small movements. He goes to the [[Watchers]], tries to back out. They put him in a hotel -- the [[Pale Horse Inn]]. He tried to back out again, and they threatened him. They forced him to exhume the remains of [[Saint Andreal]] from the church and hide them outside the city.
 
 He is distraught and ashamed. A few hours before this conversation, the Brothers Watcher retrieved the key to the room with the bodies from the morgue.
 
@@ -38,7 +38,7 @@ A man with a lantern approaches them and gives them an envelope with the [[Lady 
 
 They arrive back at the [[Blue Water Inn]] and discover [[Jeremiah]] and [[Arlo]]'s situation. [[Magda]] tips [[Danika]] Martikov 2gp, lets them know that there is an additional person in their room, and asks for discretion. (She doesn't say who it is when prompted.)
 
-We have a toast to [[Rose]]'s memory, and [[Ireena]] finds them and asks what's going on. [[Magda]] tells them about the vision of [[Rose]]. [[Ireena]] is troubled by this. We don't tell her we know where the bones of St Andreal are yet -- we're going to go to [[Lady Watcher]]'s first.
+We have a toast to [[Rose]]'s memory, and [[Ireena]] finds them and asks what's going on. [[Magda]] tells them about the vision of [[Rose]]. [[Ireena]] is troubled by this. We don't tell her we know where the bones of [[Saint Andreal]] are yet -- we're going to go to [[Lady Watcher]]'s first.
 
 **10pm** -- we arrive at the [[Watchers]]' Manor. [[Magda]] takes the opportunity to rub the invite in the tiefling guard's face this time, who refuses to look at her.
 
@@ -88,7 +88,7 @@ ___
 
 [[Danika]] is suspicious as they didn't get home until late. Lots of fingers will be pointing at us as they knew [[Izek]] and [[Varian]] had beef.
 
-We talk to [[Ireena]], who insists she has more important problems than Vallaki politics. We tell her about [[Henrick]] in [[Jeremiah]]'s room, and about the remains of St. Andreal.
+We talk to [[Ireena]], who insists she has more important problems than Vallaki politics. We tell her about [[Henrick]] in [[Jeremiah]]'s room, and about the remains of [[Saint Andreal]].
 
 She is going to go and reclaim the bones, while the party go to investigate the bodies in [[Henrick]]'s home, [[Magda]] volunteering because of her experience with the undead. (It's unclear if some of the party are going with [[Ireena]] yet.)
 

@@ -1,5 +1,7 @@
 **Malazan** is a world capital citystate of multiple cities within the [[Shared World]].
 
+It has a vaguely Mediterranean, Middle-Eastern vibe?
+
 
 #### il Davaria
 

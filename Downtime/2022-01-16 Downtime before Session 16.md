@@ -1,4 +1,4 @@
-# Downtime - Krezk
+# Downtime - [[Krezk]]
 
 ## Heart-to-heart on the walk to the stables
 

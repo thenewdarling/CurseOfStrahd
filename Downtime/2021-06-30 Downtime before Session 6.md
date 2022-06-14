@@ -70,7 +70,7 @@ By the time you head downstairs, the commotion in the hallway has past and [[Ire
 
 And also to speak to [[father Lucian]] about the [[abbot]] at [[Krezk]].
 
-## [[Varian]] and [[Arlo]] go weapon shopping and meet Prince Rupert
+## [[Varian]] and [[Arlo]] go weapon shopping and meet [[Prince Rupert]]
 
 [13-Jul-21 07:50 PM] [[Varian]] Lo'Gosh (he/him)
 [[Varian]] will tag along [[Arlo]] and look for a way to silver his weapons. While walking around the market he looks for a gift for the weens, a small toy or plushie, something with a rose theme would catch his eyes!
@@ -126,7 +126,7 @@ At least you couldn't go lower than 5! I wouldn't have you mugged for an 8!
 That said, the magic store you do come across seems to sell mostly trinkets. There are dusty old books, simple charms for sale - although nothing past 1st level, and a small row of potions that look to be overpriced. By far worst of all however, is the plaque on the wall, "Fantastical Billowing Cloak: Wonder of [[Vallaki]]!"
 In the cloak's place, instead a sign hangs, "SOLD".
 
-## [[Magda]] stops by the Watcher Manor
+## [[Magda]] stops by the [[Watcher Manor]]
 
 [13-Jul-21 07:54 PM] [[Magdalena]] de Luna (she/her)
 I would like to seek out [[Karl]] and [[Nikolai]] again and [[Lady Watcher]] if possible (if it’s a downtime-accessible activity) — if not, I wouldn’t mind seeing what [[Ireena]] is up to

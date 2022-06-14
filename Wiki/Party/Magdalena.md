@@ -22,7 +22,7 @@ Except now she has succumbed to that curse she sought to scourge. The vampire hu
 
 Immortal, incurable, she will do what she has always done. She will use this power to wipe the land clean. She will be the last vampire, and she will die knowing her good work is complete.
 
-_“They say if you kill a vampire, every person that vampire has turned will also die. And I’ve heard that Strahd von Zarovich was the first vampire.”_
+_“They say if you kill a vampire, every person that vampire has turned will also die. And I’ve heard that [[Strahd]] von Zarovich was the first vampire.”_
 
 ____
 
@@ -32,7 +32,7 @@ Over 200 years ago, Magda was the heir to the throne of a country called [[Iliad
 
 A wave of undead spread through the kingdom, an illness known as the Plague. Over the course of ten years, the entire country fell to anarchy and collapsed. The countries around it basically waited for it to burn itself out, and once it was barren they divided it amongst themselves.
 
-This experience caused Magda to make a faustian pact with Asmodeus to give her the strength to destroy all undead. Asmodeus, a Lawful creature who hates chaos, accepted and granted her a demonic Cleric domain.
+This experience caused Magda to make a faustian pact with [[Asmodeus]] to give her the strength to destroy all undead. Asmodeus, a Lawful creature who hates chaos, accepted and granted her a demonic Cleric domain.
 
 Around 20 years into this pact, she was bitten by a vampire, and turned. Her cleric powers and willpower have stopped her thus far from succumbing to being a mindless ghoul, but she is always teetering on the line.
 

@@ -3,13 +3,13 @@ The **Shared World** is a placeholder name for the world in which the party's Dn
 Places Known:
 
 ## [[Malazan]]
-A major citystate containing multiple smaller cities. It has a vaguely Mediterranean, Middle-Eastern vibe?
+A major citystate containing multiple smaller cities.
 
 #### il Davaria
-*see Malazan*
+*see [[Malazan]]*
 
 ## [[Barovia]]
-A valley where the **Curse of Strahd campaign** takes place. *See main article.*
+A valley where the **[[Curse of Strahd campaign]]** takes place. *See main article.*
 
 ## [[Menzoberranzan]]
 A Drow city in the Underdark. *See main article.*

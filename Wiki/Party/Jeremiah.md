@@ -66,7 +66,7 @@ Yes lad?
 Why don't you leave?
 What?
 Why don't you leave and find a better job? You say you're never paid enough.
-I've always wanted to lad, did I ever tell you how I once robbed the Adventurer's guild in Malazan?
+I've always wanted to lad, did I ever tell you how I once robbed the Adventurer's guild in [[Malazan]]?
 Only several billion times.
 Well, I lost my touch after a while, tried to rob this place, and I was caught. 
 What? You said you were the best rogue this side of the wastes!
@@ -153,7 +153,7 @@ I'm not going to steal an-
 No, keep your voice down, I just meant that you have Nold's stuff right... Well he had a ring he would never have sold...
 
 ----------
-It's 3 Silver to Malazan my good sir, you'll be bunking with a few others mind.
+It's 3 Silver to [[Malazan]] my good sir, you'll be bunking with a few others mind.
 I don't mind thank you. 
 You'll get a good night's sleep mind, clouds are out, it'll be as black as a goblin's arsehole tonight!
 Well, I'd know wouldn't I

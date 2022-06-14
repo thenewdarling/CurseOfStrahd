@@ -1,4 +1,4 @@
-# Yester Hill, between session 20 and 21 - [[Magda]] story "The Horse is Not Enough" is dropped to explain the bloodlust mechanic
+# [[Yester Hill]], between session 20 and 21 - [[Magda]] story "The Horse is Not Enough" is dropped to explain the bloodlust mechanic
 
 *The following is appended to that story in downtime chat.*
 
