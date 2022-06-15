@@ -1,4 +1,4 @@
-# **NEW DOWNTIME STARTS HERE - VALLAKI**
+# **NEW DOWNTIME STARTS HERE - [[VALLAKI]]**
 
 
 ## [[Magda]] meets the Martikov brothers while the others go to bed
@@ -6,7 +6,7 @@
 [[Magda]] starts her first evening of downtime sitting in the tap room . She takes her cloak off and sits at a table by herself and catches her breath, looking up at the ceiling.
 
 [04-Jul-21 03:33 PM] TenderstDM
-After sitting for a few minutes, a woman arrives at your table with a small goblet of wine, “Welcome to Vallaki my dear, I am [[Danika]], [[Urwin]]’s wife.”
+After sitting for a few minutes, a woman arrives at your table with a small goblet of wine, “Welcome to [[Vallaki]] my dear, I am [[Danika]], [[Urwin]]’s wife.”
 
 Shortly after [[Danika]] leaves the two men at the next table call out to you, “New to town, are we? And what pray tell earns you special treatment from the [[Martikovs]]?”
 
@@ -17,7 +17,7 @@ To the two men: "News travels fast here for such a big city, it seems. I'm afrai
 
 [05-Jul-21 09:49 PM] TenderstDM
 One turns to the other, “Barely in town a night, and already local heroes!”
-“Perhaps you will join us for a hunt someday, you'll find all manner of interesting creatures in [[Barovia]]. Better be careful though, word from the Vistani is that [[hags]] roam our valley once more. It would be a terrible thing to find yourselves the ones being hunted...”
+“Perhaps you will join us for a hunt someday, you'll find all manner of interesting creatures in [[Barovia]]. Better be careful though, word from the [[Vistani]] is that [[hags]] roam our valley once more. It would be a terrible thing to find yourselves the ones being hunted...”
 At this the two get up to leave, “I am [[Karl]], and this is my brother [[Nikolai]], sons of [[Lady Watcher]]. We’ll be seeing you again, I’m sure.”
 
 [05-Jul-21 10:06 PM] [[Magdalena]] de Luna (she/her)
@@ -52,7 +52,7 @@ By the time you head downstairs, the commotion in the hallway has past and [[Ire
 
 - [[Alek]], the guard that met you and [[Viktor]] at the wall, came by late last night. He has left directions to the home of [[Freek and Myrtle]], along with 50gp as thanks from the children’s fathers.
 - [[Urwin]] sits with you awhile. He speculates more about the fate of his cousin over at the vineyard, perhaps he shall investigate himself. Business has been slow, they currently only have one other staying guest, although a well-paying one. [[Danton]], the Great Performer. He’s here from Kresk to help with the [[Baron]]’s upcoming Festival of the Blazing Sun, and has become quite the local celebrity. He’s hard to pin down, but seems to frequent the toy maker [[Blinksy]]’s store - maybe you’re familiar with his wares?
-- [[Danika]] suggests stopping by the church, [[Father Lucian]] knows everyone about town and could tell you [[Barovia]]’s history better than most. She also points you towards the markets, there are many stalls in the town square and shops squirrelled away down Vallaki’s cobbled streets. “Just yous be careful not to lose your feet, there’s no knowing where you might get swept off to!”
+- [[Danika]] suggests stopping by the church, [[Father Lucian]] knows everyone about town and could tell you [[Barovia]]’s history better than most. She also points you towards the markets, there are many stalls in the town square and shops squirrelled away down [[Vallaki]]’s cobbled streets. “Just yous be careful not to lose your feet, there’s no knowing where you might get swept off to!”
 
 [13-Jul-21 12:36 AM] [[Magdalena]] de Luna (she/her)
 "[[Urwin]], did you mention how far away your cousin's home is? Perhaps if we can organise arrangements for [[Danton]], we can get some time and help you investigate."
@@ -84,7 +84,7 @@ He’ll also try to find out if there’s a thieves’ guild and how he can acce
 Once [[Brom]] and [[Bray]] hear you are looking for toys they insist you stop by [[Blinksy]]’s, we’ll get to that after the weapons though 😊
 
 [13-Jul-21 10:12 PM] TenderstDM
-@Valdrid Usually, you would easily notice the tell-tale signs and symbols that mark the entrances to a city’s underworld. Vallaki seems strangely absent of such signs, perhaps wandering the streets you will be to hear that secret mix of dialect and jargon used to covey messages in thieves’ circles.
+@Valdrid Usually, you would easily notice the tell-tale signs and symbols that mark the entrances to a city’s underworld. [[Vallaki]] seems strangely absent of such signs, perhaps wandering the streets you will be to hear that secret mix of dialect and jargon used to covey messages in thieves’ circles.
 
 [15-Jul-21 09:17 PM] TenderstDM
 
@@ -114,11 +114,11 @@ Without letting you get a word in edgewise; he excitedly brings you over to his 
 - [[Prince Rupert]]’s weapons sell for standard prices, but imbued with dragon flame, the black steel deals magical damage.
 - He’ll be happy to silver existing weapons for a third of their original price.
 “And these, these here’d be the best you’ll find in all [[Barovia]], or elsewhere!” He unfurls a roll of baldes and axe heads each forged out of deep red glass. It’s taken me years to get the tempering right, but undoubtedly, they’re my finest work. The blades themselves thirst for combat; the glass edge only gets sharper with use. I call them Lifehunters.”
-- Lifehunt weapons are +1 magic weapons, they go for 20gp + three times the normal weapon price. Upon hitting a target, the following attack made with the weapon gains an additional +1 to hit.
+- [[Lifehunt]] weapons are +1 magic weapons, they go for 20gp + three times the normal weapon price. Upon hitting a target, the following attack made with the weapon gains an additional +1 to hit.
 
 [17-Jul-21 01:27 PM] [[Varian]] Lo'Gosh (he/him)
-Daggers are so cheap! A Lifehunt one would be 26gp?
-I wanted to buy a standard shortsword and silver my dagger, but what’s a third of 2gp? And I might as well save for that sweet sweet Lifehunt dagger
+Daggers are so cheap! A [[Lifehunt]] one would be 26gp?
+I wanted to buy a standard shortsword and silver my dagger, but what’s a third of 2gp? And I might as well save for that sweet sweet [[Lifehunt]] dagger
 I really think we can get [[Viktor]] to sponsor us! He could get us some of those magic weapons 🙂
 
 [17-Jul-21 02:01 PM] TenderstDM

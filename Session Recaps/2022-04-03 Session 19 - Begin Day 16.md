@@ -11,7 +11,7 @@ On our first watch, [[Jeremiah]] receives a visit from the shadowy horseman who 
 
 We pass whole fields of wilting flowers, and reach a fork in the road. South leads to [[Yester Hill]], and to our right are the vineyards.
 
-We press on, and it seems like [[the Winery]] is being guarded by ravens, and a wolf. Shapeshifters, among them [[Danika]] Martikov. They are [[the Keepers of the Feather]]: [[Adrianna]], [[Benjy]], [[Davian]] and [[Elver]]. [[Adrianna]] is a werewolf, and the others transform into ravens. [[Davian]] is [[Urwin]]'s older brother, and [[Benjy]] and [[Elver]] are partners, with [[Elver]] expecting a child. We learn that [[Urwin]] was also one of their number, and it's likely he was the one who gave [[Jeremiah]] his coin, and led us from Mother Mog's grasp.
+We press on, and it seems like [[the Winery]] is being guarded by ravens, and a wolf. Shapeshifters, among them [[Danika]] Martikov. They are [[the Keepers of the Feather]]: [[Adrianna]], [[Benjy]], [[Davian]] and [[Elver]]. [[Adrianna]] is a werewolf, and the others transform into ravens. [[Davian]] is [[Urwin]]'s older brother, and [[Benjy]] and [[Elver]] are partners, with [[Elver]] expecting a child. We learn that [[Urwin]] was also one of their number, and it's likely he was the one who gave [[Jeremiah]] his [[Coin of Portable Hole]], and led us from Mother [[Mog]]'s grasp.
 
 The kids don't know [[Urwin]] is dead yet.
 

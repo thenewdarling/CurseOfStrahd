@@ -1,0 +1,1 @@
+The **Hush Potion** is a crystal blue liquid that imposes silence upon the drinker (1 minute to consume) for 1d8 hours.

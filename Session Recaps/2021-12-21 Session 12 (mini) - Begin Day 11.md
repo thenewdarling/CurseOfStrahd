@@ -1,6 +1,6 @@
 # Session 12 (mini) - 21st December 2021
 
-## Vallaki - Day 11 since Arrival in [[Barovia]]
+## [[Vallaki]] - Day 11 since Arrival in [[Barovia]]
 
 The vampire attack begins, ambushing the parade. Everyone jumps into action. [[Urwin]] plunges his axe into [[Jakob]]'s shoulder, overpowering him and staking him.
 

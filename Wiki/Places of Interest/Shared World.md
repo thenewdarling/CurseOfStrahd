@@ -1,15 +1,9 @@
 The **Shared World** is a placeholder name for the world in which the party's DnD campaigns take place.
 
-Places Known:
+## Places Known
 
-## [[Malazan]]
-A major citystate containing multiple smaller cities.
+![[Malazan]]
 
-#### il Davaria
-*see [[Malazan]]*
+![[Barovia]]
 
-## [[Barovia]]
-A valley where the **[[Curse of Strahd campaign]]** takes place. *See main article.*
-
-## [[Menzoberranzan]]
-A Drow city in the Underdark. *See main article.*
+![[Menzoberranzan]]

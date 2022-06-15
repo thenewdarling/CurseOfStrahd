@@ -39,9 +39,9 @@ They also find two rings that make the wearers swap souls. [[Arlo]] and [[Arabel
 
 [[Jerry]] befriends [[Van Richten]]'s (now blinded) tiger, puts a leash on it, and then [[Arabelle]] uses Beast Speech to befriend it. Its name is [[Drasilla]].
 
-Leaving the Tower behind with no new information, they decide to head to Vallaki, in the hopes that maybe [[Viktor]] will have some information about portals that could lead them to saving [[Ezmerelda]].
+Leaving the Tower behind with no new information, they decide to head to [[Vallaki]], in the hopes that maybe [[Viktor]] will have some information about portals that could lead them to saving [[Ezmerelda]].
 
-## Day 23 - en route to Vallaki
+## Day 23 - en route to [[Vallaki]]
 
 A roll on a random encounter table later, we see a crowd of goblins attacking a hill giant and two humans unconscious by an overturned cart. [[Jerry]] tries to talk to one of the goblins and go into the fight...
 

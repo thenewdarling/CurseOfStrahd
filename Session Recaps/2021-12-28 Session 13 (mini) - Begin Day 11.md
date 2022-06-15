@@ -1,5 +1,5 @@
 # Session 13 (mini) – 28th December 2021
-## Vallaki - Day 11 since Arrival in [[Barovia]]
+## [[Vallaki]] - Day 11 since Arrival in [[Barovia]]
 
 With [[Sasha]] leading the way, we reach the Church and are faced with a troll and three vampire spawns. [[Urwin]] and [[Prince Rupert]] are already there fighting them, and just as we arrive [[Urwin]] falls unconscious by the hands of one of the vampire spawns. [[Sasha]] runs towards the front of the Church, ushering people inside.
 
@@ -7,11 +7,11 @@ With [[Sasha]] leading the way, we reach the Church and are faced with a troll a
 [[Jeremiah]], seizing his opportunity to inflict maximum damage to our enemies, casts fireball, engulfing all three vampire spawns, the troll and [[Prince Rupert]] in deadly flames! 
 The troll advances and slams his chain in a powerful line in front of him, knocking [[Magda]] prone and badly hurting her and [[Jeremiah]].
 [[Magda]]’s Spirit Guardians are still up, a cloud of bats surrounding us, continuing to cause riot and damaging our enemies. She stands up, reading herself to help her companions and stabilizes [[Urwin]].
-[[Arlo]] jumps straight into the thick of it, wielding Wife Hunt fiercely and protecting [[Urwin]]’s fallen figure.
+[[Arlo]] jumps straight into the thick of it, wielding [[Wife Hunt]] fiercely and protecting [[Urwin]]’s fallen figure.
 [[Jeremiah]] finishes off one of the vampire spawns, blasting a ray of sickness at him and stealing his life force for himself, then runs behind a tombstone for cover.
 [[Varian]] runs towards [[Prince Rupert]], helping him kill another spawn, and disengages back to safety.
 The troll swings again, this time in a sweeping arch all around him, finishing off one of the vampire spawns.
-Seeing [[Arlo]] badly hurt, [[Magda]] runs towards him and cures his wounds. [[Arlo]], feeling some strength return, madly hacks at the troll’s ankles, forcing him down. With a last blast of force, [[Arlo]] drives Wife Hunt into the troll’s head, killing him!
+Seeing [[Arlo]] badly hurt, [[Magda]] runs towards him and cures his wounds. [[Arlo]], feeling some strength return, madly hacks at the troll’s ankles, forcing him down. With a last blast of force, [[Arlo]] drives [[Wife Hunt]] into the troll’s head, killing him!
 With only one enemy left, [[Varian]] runs in, leaps forward and digs his dagger into the vampire spawn's back, killing him. 
 
 No more enemies immediately pressuring them, the party runs inside the church with [[Prince Rupert]] carrying [[Urwin]]. As we get in, [[Sasha]] slams the door behind us, securing it with a wooden beam. Inside, we see all the windows boarded up but can still hear the clamouring of the vampires outside. [[Prince Rupert]], [[Urwin]] and [[Sasha]] run down to the catacombs, while [[Father Lucian]] kneels in front of the altar with the bones of [[Saint Andreal]] softly glowing, prying. Blinky stands close to him, holding some kind of device.
@@ -29,7 +29,7 @@ We hear screams of terror and pain from downstairs and people banging on the doo
 **The party ends with [[Magda]] on 29 HP, [[Jeremiah]] on 6 HP, [[Arlo]] on 5 HP, and [[Varian]] on 11 HP).**
 
 # Session 13 Post-Credits Sequence - 3rd January 2022
-## Vallaki - Day 11 since Arrival in [[Barovia]]
+## [[Vallaki]] - Day 11 since Arrival in [[Barovia]]
 
 [[Magda]] hovers over the [[Lady Watcher]]’s body. “What do I do?” she asks the party. “I know what I want to do, what my blood is screaming for constantly, but I’ve learned to ignore it. So what’s the right thing to do? And why would he do this?”
 

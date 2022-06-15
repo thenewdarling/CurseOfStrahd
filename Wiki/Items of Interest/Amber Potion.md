@@ -1,0 +1,1 @@
+The **Amber Potion** grants the drinker (1 action to consume) the strength of an ogre (STR21) for 1d4 hours.

@@ -5,7 +5,7 @@ Investigating the scarecrows proved to be a bad idea. In the middle of dispatchi
 
 We continue on the path up the hill, and find a handsome-looking man with dirty clothes that are nevertheless smart and an attempt has been made to keep them clean.
 
-He tells us [[Yester Hill]] is named as such because of its view. He shows us that from on top of the hill, for a moment we can see [[Barovia]] before [[Strahd]]. Vallaki in the distance, a shining city of stone. "Just another form of cruelty", he explains.
+He tells us [[Yester Hill]] is named as such because of its view. He shows us that from on top of the hill, for a moment we can see [[Barovia]] before [[Strahd]]. [[Vallaki]] in the distance, a shining city of stone. "Just another form of cruelty", he explains.
 
 His name is [[Nicholas]] -- 'Nick if you like'. He confirms when we question him that yes, he is the one who stole the sword, but denies murdering [[Eliza Day]].
 

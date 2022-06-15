@@ -1,1 +1,1 @@
-see [[Jeremiah]]
+![[Jeremiah]]

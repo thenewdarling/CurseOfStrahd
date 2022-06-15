@@ -2,4 +2,4 @@
 
 ## Other Details
 
-- [[Jeremiah]] found a coin from there, inscribed "The light that watches over the darkness." 
+- [[Jeremiah]] found a [[Coin of Portable Hole]] from there, inscribed "The light that watches over the darkness." 

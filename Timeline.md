@@ -9,10 +9,10 @@
 - They travel to the [[Vistani camp]], and receive a reading from [[Madame Eva]].
 - They meet [[Sasha]].
 - They fall afoul of the [[hags]] and their dream pastries, saving [[Freek and Myrtle]] Weerdo from them, but fail to kill them.
-- They travel with [[Ireena]] to Vallaki, bringing the children back to their fathers.
+- They travel with [[Ireena]] to [[Vallaki]], bringing the children back to their fathers.
 
 ## Day 7 
-- As the party enters Vallaki, they save [[Viktor]] Vallakovich from a monster on the road.
+- As the party enters [[Vallaki]], they save [[Viktor]] Vallakovich from a monster on the road.
 
 Downtime events before Session 6:
 - [[Magda]] meets the Martikov brothers while the others go to bed
@@ -25,7 +25,7 @@ Downtime events before Session 6:
 - [[Jerry]] and [[Magda]] go to the church and [[Jerry]] buys The Little Book of Necromancy
 
 ### Session 6 begins
-- Downtime day in Vallaki.
+- Downtime day in [[Vallaki]].
 
 ## Day 9
 
@@ -78,7 +78,7 @@ Downtime events before Session 6:
 - The party go to the morgue, and discover [[Blinksy]] is not the only one who has had his silver paint stolen.
 - (The crow from [[Barovia Town]] is currently also following us here.)
 - After [[Varian]] picks the lock, the party discover the Nest of Vampire Spawn, and there's a disagreement about how to deal with it. Before there's a conclusion however, [[Prince Rupert]] comes up the stairs and discovers them.
-- [[Varian]] admits to [[Prince Rupert]] he murdered [[Izek]], and asks us to leave the spawn and return to the Blue Water with him -- where we discover The Secret Vallaki Rebellion.
+- [[Varian]] admits to [[Prince Rupert]] he murdered [[Izek]], and asks us to leave the spawn and return to the Blue Water with him -- where we discover The Secret [[Vallaki]] Rebellion.
 
 ### Session 10 begins
 
@@ -118,7 +118,7 @@ Downtime events before Session 6:
 - [[Strahd]] arrives. He destroys the bones of [[Saint Andreal]] with ease.
 - He summons [[Lady Watcher]]'s unconscious body to the table and offers [[Magda]] a choice: feed on her and save [[Sasha]] from falling to frenzy. After the battle, we wouldn't have the strength to restrain her ourselves.
 - (Post-credits): After some convincing by the party, [[Magda]] agrees.
-- We stumble out into a saved but destroyed Vallaki, to discover the [[Baron]]'s Manor is being set ablaze by [[Karl]] Watcher.
+- We stumble out into a saved but destroyed [[Vallaki]], to discover the [[Baron]]'s Manor is being set ablaze by [[Karl]] Watcher.
 
 #### Downtime events before Session 14
 
@@ -141,13 +141,13 @@ Downtime events before Session 6:
 
 - [[Father Lucian]] asks [[Jeremiah]] if he can contact the [[Abbot]] of [[Krezk]], and rekindle his faith. After the conversation with [[Strahd]], and losing the bones of [[Saint Andreal]], he has lost his faith that the [[Morning Lord]] is still watching over them.
 - The party pay [[Dargos]] 500gp, and agree to stop by [[the winery]] to find out what the status with his children, who left with [[Danika]] Martikov when the fighting broke out.
-- The night ends with a party -- [[Blinksy]] asks the party to donate some of the wine they stole from the [[Watchers]]. He unleashes a mighty firework display and the town of Vallaki seems happier than it has for a while.
+- The night ends with a party -- [[Blinksy]] asks the party to donate some of the wine they stole from the [[Watchers]]. He unleashes a mighty firework display and the town of [[Vallaki]] seems happier than it has for a while.
 - The party conclude their long rest day, unlocking their full 6th level abilities.
 
 ## Day 13
 *Session 14 continued*
 
-- The party rides out of Vallaki towards the Tower at [[Krezk]].
+- The party rides out of [[Vallaki]] towards the Tower at [[Krezk]].
 - [[Varian]] notices they are being followed throughout the day. As night falls, and the Barovian mists begin to roll in, they suppose that whoever is following them will likely not be able to see them either, and they stop to rest for the evening.
 
 ## Day 14
@@ -163,10 +163,10 @@ Downtime events before Session 6:
 ### Session 15 begins
 
 - The battle for [[Rose]]'s soul begins!! Zombies, the hellhound, and the three [[hags]].
-- [[Varian]] calls out "Mog is mine!" and fights back to back with [[Magda]] as the scrum starts to converge.
+- [[Varian]] calls out "[[Mog]] is mine!" and fights back to back with [[Magda]] as the scrum starts to converge.
 - [[Arlo]] finishes the first of the three [[hags]], a day we've been waiting for for seven months of real time. A flurry of blades, living laughing and loving.
 - [[Magda]] goes down and after two failed death saves, [[Varian]] pours a health potion down her throat.
-- Mog is all but dead, and she releases [[Rose]] in an attempt to barter. [[Varian]] slays the hag regardless while she is defenseless.
+- [[Mog]] is all but dead, and she releases [[Rose]] in an attempt to barter. [[Varian]] slays the hag regardless while she is defenseless.
 - A woman on a horse rides in -- the famous [[Vistani Wanderer]], [[Ezmerelda]]. She tells us that we went past the Tower, hidden by magical means. She also tells us the famous vampire hunter [[Van Richten]] was [[Danton]] all along.
 - We agree to travel with her through the night without rest.
 - We reach the crossroads between the Tower and [[Krezk]] itself, and [[Jeremiah]] asks the party to go to [[Krezk]] instead, to seek out the [[Abbot]] to help him with his zombification.
@@ -190,9 +190,9 @@ Downtime events before Session 6:
 - The guards make a small cut in [[Arlo]] and [[Varian]]'s hands to prove they aren't infected, and allow them entry.
 - [[Arlo]] and [[Varian]] meet Genril, an abbey worker who they hand 15gp over to in order to be allowed an audience with him. (This quickly proves to be a pointless gesture.)
 - They meet [[Karloman]], a monk who explains about the blinding initiation ritual all monks here must go through (including him, even though he wasn't accepted). They also learn that the [[Abbot]] doesn't leave the Abbey ever, and very rarely heals people.
-- They also learn about the Krezkovs -- the [[Abbot]] seems to be in their pocket.
+- They also learn about the [[Krezkovs]] -- the [[Abbot]] seems to be in their pocket.
 - [[Magda]] and [[Varian]] are asked by the stable keeper to retrieve scales from the bottom of a pond inside the Abbey, and gives them a key.
-- [[Arlo]] and [[Varian]] meet the Vistani traders, and recognise them from the camp in the first week of their arrival. They come here to sell Alanatis flowers to the Krezkovs, which they retrieve on their trips to the outside world [[Strahd]] permits them.
+- [[Arlo]] and [[Varian]] meet the [[Vistani]] traders, and recognise them from the camp in the first week of their arrival. They come here to sell [[Alanatis]] flowers to the [[Krezkovs]], which they retrieve on their trips to the outside world [[Strahd]] permits them.
 - The group reconvenes outside the main gate and [[Jeremiah]] turns invisible so they can all get through the gate.
 - To take advantage of his invisibility timer, [[Jeremiah]] does a reconnoiter for other entrances to the Abbey.
 
@@ -212,15 +212,15 @@ Downtime events before Session 6:
 ## Day 16
 
 ### Session 18 begins
-- Crossing midnight from previous events: [[Varian]] scouts upstairs, hearing the Krezkovs imbibing some kind of smoke (likely the Alanatis plant we were told about), and some kind of torture happening to a half-elven woman.
+- Crossing midnight from previous events: [[Varian]] scouts upstairs, hearing the [[Krezkovs]] imbibing some kind of smoke (likely the [[Alanatis]] plant we were told about), and some kind of torture happening to a half-elven woman.
 - Looking for the [[Abbot]], the party find a little square room with a man working on something in the corner. The [[Abbot]].
 - [[Varian]] sneaks up and tries to cover his mouth but the [[Abbot]] catches his hand and attempts to force a combat that the party attempts to deescalate, until a ghost appears to end the fighting -- [[Sergei]].
-- The party learn that the [[Abbot]] sacrifices people to give the Krezkovs immortal life.
+- The party learn that the [[Abbot]] sacrifices people to give the [[Krezkovs]] immortal life.
 - A Krezkov woman with a veil covering a more rotten face than even [[Jeremiah]] enters. The party hide, while a platform drops from the ceiling -- revealing the half-elven woman from before. The half-elf woman is drained of her essence, and the Krezkov lady is restored to youthful life.
 - The party find out the [[Abbot]] also invented the zombie curse at [[Strahd]]'s behest. [[Yalom]] and [[Sergei]] have been trapped in this room for hundreds of years.
 - They find out [[Sergei]]'s backstory -- and learn the truth of [[Ireena]].
 - [[Jeremiah]]'s hand falls off. The [[Abbot]] can't heal [[Jeremiah]]'s curse, but he can freeze it in his tracks. He sews [[Jeremiah]]'s hand back on, and gives him a black ooze which prevents the zombification from getting worse.
-- In exchange, the party agree to retrieve the Sun Sword, which he was supposed to have destroyed.
+- In exchange, the party agree to retrieve the [[Sun Sword]], which he was supposed to have destroyed.
 - [[Sergei]] leads us out of the city through a secret tunnel -- we know the Charm effect will have worn off by now and so [[Markug]] will be after us.
 - We arrive at [[Arabelle]]'s home to receive another reading from her.
 
@@ -243,12 +243,12 @@ Downtime events before Session 6:
 
 ## Day 18
 
-- The party begin the journey to [[Yester Hill]] for the hilt of the Sun Sword.
+- The party begin the journey to [[Yester Hill]] for the hilt of the [[Sun Sword]].
 
 ### Session 20 begins
 
-- The party meet the spirit of [[Nicholas]], the supposed killer of [[Eliza Day]]. He is the one who stole the Sun Sword, but denies killing [[Eliza Day]]. 
-- He asks the party to destroy the tree and set him free, in exchange he'll tell us where the Sun Sword is. [[Magda]] agrees (a lie), and exorcises him with Turn Undead when he gives over the information.
+- The party meet the spirit of [[Nicholas]], the supposed killer of [[Eliza Day]]. He is the one who stole the [[Sun Sword]], but denies killing [[Eliza Day]]. 
+- He asks the party to destroy the tree and set him free, in exchange he'll tell us where the [[Sun Sword]] is. [[Magda]] agrees (a lie), and exorcises him with Turn Undead when he gives over the information.
 
 #### Downtime before Session 21
 *The events of [[Magda]] side-story 'The Horse is Not Enough' happen now.*
@@ -256,12 +256,12 @@ Downtime events before Session 6:
 
 ### Session 21 begins
 
-- The party explore a cavern system under the tree to find the Sun Sword.
+- The party explore a cavern system under the tree to find the [[Sun Sword]].
 
 ### Session 22 begins
 
 - Under the tree they are faced with an endless army of shades which has them almost completely out of resources.
-- [[Arlo]] and [[Varian]] find the hilt of the Sun Sword inside the tree's root system, held in the mostly-decomposed form of [[Nicholas]]' body.
+- [[Arlo]] and [[Varian]] find the hilt of the [[Sun Sword]] inside the tree's root system, held in the mostly-decomposed form of [[Nicholas]]' body.
 - [[Varian]] knocks [[Arlo]] out and takes it, fleeing the scene.
 
 ### Session 23-25 begin (Lisbon)
@@ -288,9 +288,9 @@ Downtime events before Session 6:
 - The Tower appears in ruins, until the party solves the anagram on the door. 'HARKS AT DEATH' = '[[TASHA]] THE DARK'.
 - [[Arlo]] duels a sentient suit of armour and [[Jerry]] does a dance to unlock a chest and get loot.
 - [[Jeremiah]] and [[Arabelle]] befriend [[Danton]]'s tiger who is now blinded and was left in the Tower after the events of [[Arabelle]]'s vision.
-- Leaving the Tower behind with no new information, they decide to head to Vallaki, in the hopes that maybe [[Viktor]] will have some information about portals that could lead them to saving [[Ezmerelda]].
+- Leaving the Tower behind with no new information, they decide to head to [[Vallaki]], in the hopes that maybe [[Viktor]] will have some information about portals that could lead them to saving [[Ezmerelda]].
 
-*The events of [[Magda]] side-story 'Traitor' happen during the long rest at the end of this day.*
+*The events of [[Magda]] side-story '[[Traitor]]' happen during the long rest at the end of this day.*
 
 ## Day 23
 
@@ -298,13 +298,13 @@ Downtime events before Session 6:
 
 ### Session 26 begins
 
-- The interlude concludes with the party saving two Elvish merchants from [[Krezk]], [[Luca and Shaun]]. They continue on the road to Vallaki, arriving at around midnight.
+- The interlude concludes with the party saving two Elvish merchants from [[Krezk]], [[Luca and Shaun]]. They continue on the road to [[Vallaki]], arriving at around midnight.
 
 ## Day 24
 
 - (Midnight:) The party arrives at the gates, and are allowed in by some confused guards. They send for [[Alek]], who fills us in on some goings-on.
 - The party arrives at the [[Blue Water Inn]] and finds [[Blinksy]] and [[Danika]] having a drink, before going to bed.
-- [[Magda]] sneaks out that night and feeds on [[Luca and Shaun]] before they reach the shelter, leaving their bodies to burn in one of the fires blazing throughout Vallaki.
+- [[Magda]] sneaks out that night and feeds on [[Luca and Shaun]] before they reach the shelter, leaving their bodies to burn in one of the fires blazing throughout [[Vallaki]].
 *[[Magda]]'s timer will reset on Day 31.*
 
 #### Downtime before Session 27 begins

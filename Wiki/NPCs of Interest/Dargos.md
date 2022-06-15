@@ -1,4 +1,4 @@
-**Dargos Weerdo** is a citizen of Vallaki.
+**Dargos Weerdo** is a citizen of [[Vallaki]].
 
 He knows great knowledge of both armour and local history. He told the party about the history of escaping [[Barovia]], and explained local politics.
 

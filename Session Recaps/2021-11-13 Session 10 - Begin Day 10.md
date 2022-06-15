@@ -1,6 +1,6 @@
 # Session 10 - 13th November 2021
 
-## Vallaki - Day 10 since Arrival in [[Barovia]]
+## [[Vallaki]] - Day 10 since Arrival in [[Barovia]]
 
 The session opens with the secret meeting in the [[Blue Water Inn]], as the party meet [[Father Lucian]], the [[Martikovs]], [[Blinksy]], Alec and [[Viktor]] Vallakovich.
 
@@ -12,7 +12,7 @@ They also mention how they have information that by noon tomorrow (ie. the festi
 
 [[Sasha]] comes out, having been hiding on the ceiling as a bat. She informs us that [[Ireena]] has gone north in vain -- the [[Watchers]] have already retrieved the bones of [[Saint Andreal]]. If we can steal the bones from the [[Watcher Manor]], we can use them to turn the church into a safe haven from the vampire hordes.
 
-[[Jakob]] and [[Dargos]] arrive, and [[Prince Rupert]] goes to sort silvered weapons for a defence, and Lifehunter weapons to provide to [[Arlo]] and [[Varian]].
+[[Jakob]] and [[Dargos]] arrive, and [[Prince Rupert]] goes to sort silvered weapons for a defence, and [[Lifehunt]] weapons to provide to [[Arlo]] and [[Varian]].
 
 The Watcher's party is tonight which provides an ideal time to break in -- [[Magda]] will use the invitation to bypass the need to be invited in and try to get the key to [[Stella]]'s room. The others will sneak in through the back to get the bones.
 

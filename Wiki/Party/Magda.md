@@ -1,1 +1,1 @@
-see [[Magdalena]]
+![[Magdalena]]

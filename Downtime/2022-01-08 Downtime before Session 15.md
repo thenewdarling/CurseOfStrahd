@@ -23,7 +23,7 @@ While [[Magda]] is preparing the campfire, surreptitiously: "You're not looking 
 "You can't keep pretending it's not happening. I've seen it before. Someone buries their head in the sand until they're growing fangs. I don't want to kill you [[Jeremiah]]. We have to deal with this."
 
 [10-Jan-22 05:46 PM] [[Jeremiah]] Templeton (he/him)
-"What do you expect me to do [[Magda]]? We're already going to Kresk, do you want me to lie awake at night worrying? I've followed every lead as best I can, the only thing I could have done better was to abandon the [[bonegrinder]] and Vallaki"
+"What do you expect me to do [[Magda]]? We're already going to Kresk, do you want me to lie awake at night worrying? I've followed every lead as best I can, the only thing I could have done better was to abandon the [[bonegrinder]] and [[Vallaki]]"
 
 [10-Jan-22 05:49 PM] [[Magdalena]] de Luna (she/her)
 "No-one except you knows how bad it's getting. And you just tried to tell me it was just because you were tired. Our current plan is to stop on the way to Kresk. Because you won't communicate. Should we bypass the tower and head straight to Kresk?" She shrugs. "I have no idea. Because you won't talk about it."

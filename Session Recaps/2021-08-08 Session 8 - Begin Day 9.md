@@ -1,6 +1,6 @@
 # Session 8 - 8th August 2021
 
-## Vallaki - Day 9 since Arrival in [[Barovia]]
+## [[Vallaki]] - Day 9 since Arrival in [[Barovia]]
 
 (In downtime, [[Jeremiah]] inquired about a sleeping draught, and [[Magda]] went to feed on a chicken to sate the vampire curse.)
 
@@ -10,7 +10,7 @@ We learn information from him:
 
 The first name of [[Lady Watcher]] is [[Fiona]]. 
 
-There are no official Thieves' Guilds in Vallaki due to the [[Vallakoviches]], but there are uncoordinated ventures. [[Izek]] is the main force that keeps it under wraps.
+There are no official Thieves' Guilds in [[Vallaki]] due to the [[Vallakoviches]], but there are uncoordinated ventures. [[Izek]] is the main force that keeps it under wraps.
 
 The prison [[Izek]] is kept in is a simple building with a few guards and one inside. It is not big enough for long-term confinement, usually short term or death row. The cell windows are merely slits to let air and light circulate.
 
@@ -52,7 +52,7 @@ She has tipped off the prison guards, and offers us 600gp to kill [[Izek]] at mi
 
 [[Varian]] doesn't need to kill [[Izek]] now since [[Rose]] is dead anyway, but nevertheless we accept the mission.
 
-## Vallaki - Day 10 since Arrival in [[Barovia]]
+## [[Vallaki]] - Day 10 since Arrival in [[Barovia]]
 
 **12am (midnight)** - [[Varian]] and [[Arlo]] go in to the prison, [[Jeremiah]] and [[Magda]] make their way round the side of the building.
 
@@ -88,7 +88,7 @@ ___
 
 [[Danika]] is suspicious as they didn't get home until late. Lots of fingers will be pointing at us as they knew [[Izek]] and [[Varian]] had beef.
 
-We talk to [[Ireena]], who insists she has more important problems than Vallaki politics. We tell her about [[Henrick]] in [[Jeremiah]]'s room, and about the remains of [[Saint Andreal]].
+We talk to [[Ireena]], who insists she has more important problems than [[Vallaki]] politics. We tell her about [[Henrick]] in [[Jeremiah]]'s room, and about the remains of [[Saint Andreal]].
 
 She is going to go and reclaim the bones, while the party go to investigate the bodies in [[Henrick]]'s home, [[Magda]] volunteering because of her experience with the undead. (It's unclear if some of the party are going with [[Ireena]] yet.)
 

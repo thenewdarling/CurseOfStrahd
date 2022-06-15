@@ -1,5 +1,5 @@
 # Session 14 -- 8th January 2022
-## Vallaki - Day 11 since Arrival in [[Barovia]]
+## [[Vallaki]] - Day 11 since Arrival in [[Barovia]]
 
 *(Out of character -- Kate is group treasurer now.)*
 
@@ -13,7 +13,7 @@ We split up to help the relief effort -- Team Edgy ([[Varian]] and [[Magda]]) go
 
 [[Prince Rupert]] uses his dragonborn breath weapon to make new stained glass windows for the church. [[Father Lucian]] provides [[Jeremiah]] with some more holy water. They discover [[Blinksy]] likely has the only key to the [[Blue Water Inn]], where they were going to stay for the night.
 
-Team Edgy are waylaid when they come across people looting [[Francis]]' apothecary. After failing to intimidate them into leaving, one of them breaks open a box under [[Francis]]' desk, smashing the potion of cackle fever he had confiscated from the party.
+Team Edgy are waylaid when they come across people looting [[Francis]]' apothecary. After failing to intimidate them into leaving, one of them breaks open a box under [[Francis]]' desk, smashing the [[potion of cackle fever]] he had confiscated from the party.
 
 Remembering that this is highly contagious, [[Varian]] and [[Magda]] quarantine the looters in the room with them, and [[Varian]] gags them all. 
 
@@ -33,7 +33,7 @@ Exhausted, the party arrive back at the Blue Water, stock the bar with wine from
 (Note: the events of [[Magda]] backstory "Here, in the Garden" happens now.)
 
 
-## Vallaki -- Day 12 since the party arrived in [[Barovia]]
+## [[Vallaki]] -- Day 12 since the party arrived in [[Barovia]]
 
 [[Magda]] prepares a salve for [[Jeremiah]] from the holy water, beeswax, etc. [[Arlo]] attunes to the [[Lady Watcher]]'s amulet, and hangs it like a pocket watch in his waistcoat.
 
@@ -47,7 +47,7 @@ Later in the day, we arrive at the town centre to hear the speech by the survivi
 
 He names [[Alek]] as the new captain of the city guard.
 
-He asks the people of Vallaki to give thanks to us, remembering yesterday as the Feast of [[Saint Andreal]], and dubbing us "the [[Heroes of Burning Sun]]" (yo party name??)
+He asks the people of [[Vallaki]] to give thanks to us, remembering yesterday as the Feast of [[Saint Andreal]], and dubbing us "the [[Heroes of Burning Sun]]" (yo party name??)
 
 Finally, [[Father Lucian]] reveals to [[Jeremiah]] that to his memory, there was a holy water source at [[the winery]].
 
@@ -55,13 +55,13 @@ We go to the [[Watcher Manor]], where the [[Vallakoviches]] now live with [[Stel
 
 The party ask about [[Sasha]]. [[Lydia]] says that [[Sasha]] has her sympathies, but she chose this life. The party also reveal that [[Lady Watcher]] was killed "by [[Strahd]]" -- [[Arlo]] and [[Jeremiah]] specifically speak over [[Varian]] revealing that [[Magda]] gave the killing blow.
 
-The night ends with a party -- [[Blinksy]] asking the party to donate some of the wine they nicked from the [[Watchers]]. He unleashes a mighty firework display and the town of Vallaki seems happier than it has for a while. [[Magda]] goes to bed early, trying to minimise temptation.
+The night ends with a party -- [[Blinksy]] asking the party to donate some of the wine they nicked from the [[Watchers]]. He unleashes a mighty firework display and the town of [[Vallaki]] seems happier than it has for a while. [[Magda]] goes to bed early, trying to minimise temptation.
 
 [[Arlo]] reminds [[Viktor]] and [[Stella]] that they have a strong support network, and to not take the full burden of what's to come on their shoulders. They also ask them to help [[Dargos]] finish the armour if possible.
 
 With that the party concludes their long rest, unlocking their full 6th level abilities. 
 
-## Riding out of Vallaki -- Day 13 since the party arrived in [[Barovia]]
+## Riding out of [[Vallaki]] -- Day 13 since the party arrived in [[Barovia]]
 
 [[Magda]] prepares more salve. The party ride out towards the tower on the road to [[Krezk]].
 

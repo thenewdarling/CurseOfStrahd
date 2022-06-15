@@ -1,7 +1,7 @@
 # Session 26 – 29 May 2022
 ## Midnight going into Day 24
 
-Established: during downtime [[Arabelle]] has been foraging during the journey from [[Yester Hill]] to [[the Winery]] and to Vallaki, gathering supplies to make potions. (If Taanit would like to provide details, I didn't write them down, sorry!)
+Established: during downtime [[Arabelle]] has been foraging during the journey from [[Yester Hill]] to [[the Winery]] and to [[Vallaki]], gathering supplies to make potions. (If Taanit would like to provide details, I didn't write them down, sorry!)
 
 The party have arrived at the familiar [[Blue Water Inn]] and met [[Danika]] and [[Blinksy]]. [[Blinksy]] is happy to see [[Drasilla]] and is introduced to [[Arabelle]].
 
@@ -23,7 +23,7 @@ ___
 
 [[Arlo]] wakes up, assuming he's the first to wake, and knocks [[Arabelle]]'s door, offering if she wants to go to [[Dargos]] and get his new armour.
 
-On the way there [[Arlo]] explains what happened with the vampires and [[Lady Watcher]], and why the party are seen as heroes to many in Vallaki.
+On the way there [[Arlo]] explains what happened with the vampires and [[Lady Watcher]], and why the party are seen as heroes to many in [[Vallaki]].
 
 When they arrive at the Weerdo household, there is no response from the door. [[Arlo]] goes round the back and finds the shed, where [[Dargos]] is working.
 
@@ -71,7 +71,7 @@ We infer:
 
 ___
 
-[[Jeremiah]] and [[Arabelle]] arrive at the main plaza in the late afternoon and have a barter with [[Shay]] the Kenku. A few things are traded -- notably, the soul-swapping rings are traded for a golem's eye which could be used to animate an object.
+[[Jeremiah]] and [[Arabelle]] arrive at the main plaza in the late afternoon and have a barter with [[Shay]] the Kenku. A few things are traded -- notably, the soul-swapping rings are traded for a [[golem's eye]] which could be used to animate an object.
 
 In a moment during the barter, [[Jeremiah]] tries on the ring with [[Arlo]] and they swap bodies -- being in a breathing body again is like ecstasy for poor [[Jerry]], who is completely heartbroken when the rings are traded away.
 

@@ -1,4 +1,4 @@
-# Downtime - Vallaki (again)
+# Downtime - [[Vallaki]] (again)
 
 *The following canonically happens on the morning of Day 24, but the beginning of the session cuts back so the party can say hello to [[Danika]] and [[Blinksy]].*
 

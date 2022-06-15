@@ -1,6 +1,6 @@
 # Session 11 - 11th December 2021
 
-## Vallaki - Day 10 since Arrival in [[Barovia]]
+## [[Vallaki]] - Day 10 since Arrival in [[Barovia]]
 
 The session opens with the party still separated, [[Varian]] bleeding out on the floor while [[Magda]] is upstairs at the masquerade.
 
@@ -8,7 +8,7 @@ The session opens with the party still separated, [[Varian]] bleeding out on the
 
 Downstairs, [[Nikolai]]'s body continues to be eaten by spiders. [[Varian]] is stabilised, and [[Jeremiah]] animates the skeleton of [[Nikolai]].
 
-Also, this wasn't noted in previous recaps but [[Arlo]]'s Lifehunt weapon has been dubbed Wife Hunt. *Magnifique.*
+Also, this wasn't noted in previous recaps but [[Arlo]]'s [[Lifehunt]] weapon has been dubbed [[Wife Hunt]]. *Magnifique.*
 
 They successfully end the battle with one pyromancer escaping, and get an occult book.
 
@@ -39,11 +39,11 @@ The rest of the party go to the [[Baron]]'s manor to see [[Viktor]] and return [
 
 Dejected they return to the [[Blue Water Inn]]. We learn that [[Danika]] has taken both the [[Weerdos]] and their own kids to safety. (There may be more here but notetaking brain went brrrrr.) 
 
-## Vallaki - Day 11 since Arrival in [[Barovia]] - The Day of the Parade
+## [[Vallaki]] - Day 11 since Arrival in [[Barovia]] - The Day of the Parade
 
 [[Magda]] casts Lesser Restoration on [[Jeremiah]] in the morning. -- I'm going to start explicitly noting these when they happen to be sure.
 
-Irwin has gone to try and get people to evacuate. Alec has distributed the blades [[Prince Rupert]] was able to make. The guards are now at the gates preventing entry and exit from Vallaki. [[Sasha]] has gone to the church.
+Irwin has gone to try and get people to evacuate. Alec has distributed the blades [[Prince Rupert]] was able to make. The guards are now at the gates preventing entry and exit from [[Vallaki]]. [[Sasha]] has gone to the church.
 
 The party goes to [[Francis]]' apothecary to try and get some health potions at the last minute. [[Magda]] gives [[Arlo]] the 300gp she got from [[Lady Watcher]]'s desk, and he gives 50 of them to [[Francis]] as a good will gesture.
 
@@ -55,7 +55,7 @@ After allowing his mother a moment, [[Varian]] questions the boy. (I don't have 
 
 With that, the [[Baron]] leads the party to go and lead the parade as the original plan dictated. They pass the stocks, and find [[Henrick]], hanged, with the word "TRAITOR" painted across his chest. With guilt in their hearts, they listen to the [[Baron]]'s speech:
 
-*Citizens of Vallaki, last night my son was attacked in our streets, and brought within an inch of death!*
+*Citizens of [[Vallaki]], last night my son was attacked in our streets, and brought within an inch of death!*
 
 *I have dedicated my life to keeping the devil of this land at bay, but it seems I have underestimated the villainy of my own neighbours. It is obvious who did this, today the Watcher household shall fall. We will burn them to ash.*
 

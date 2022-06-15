@@ -3,34 +3,34 @@
 
 The battle for [[Rose]]'s soul begins!!
 
-A wave of zombies approach, with the hellhound in tow. The three [[hags]] -- Bella, Ofelia, and Mog -- aren't far behind.
+A wave of zombies approach, with the hellhound in tow. The three [[hags]] -- [[Bella]], [[Ofelia]], and [[Mog]] -- aren't far behind.
 
 The first casualty is poor Eden, but the party are firing on all cylinders, all the tricks are coming out. [[Jeremiah]] is raising the zombies we're taking out, and sending them back to fight. [[Arlo]] is throwing Sentinel axes on other people's turns. [[Magda]]'s cloud of bats returns with Spirit Guardians. 
 
-[[Varian]] calls out "Mog is mine!" and fights back to back with [[Magda]] as the scrum starts to converge.
+[[Varian]] calls out "[[Mog]] is mine!" and fights back to back with [[Magda]] as the scrum starts to converge.
 
 [[Arlo]] finishes the first of the three [[hags]], a day we've been waiting for for seven months of real time. A flurry of blades, living laughing and loving.
 
-The fight is going well, and then [[Magda]] is too slow with the self-healing and goes down. She rolls a death save: success. Mog steps on her head to make sure she's dead -- two automatic failed death saves. [[Varian]], unsure whether or not it'll work due to not knowing the result of the first death save, pours his potion down [[Magda]]'s throat... and she coughs back into life, barely clinging on.
+The fight is going well, and then [[Magda]] is too slow with the self-healing and goes down. She rolls a death save: success. [[Mog]] steps on her head to make sure she's dead -- two automatic failed death saves. [[Varian]], unsure whether or not it'll work due to not knowing the result of the first death save, pours his potion down [[Magda]]'s throat... and she coughs back into life, barely clinging on.
 
-Before they can move again, the hellhound's breath weapon recharges, and blasts [[Arlo]] and [[Magda]] -- she nearly goes down AGAIN but saved the Dex check, and with the reduced damage is on a SINGLE hit point. Then it's her turn -- vampire Regeneration burning five hit dice at once, she shouts a warning to [[Jeremiah]] to stand clear, and casts Silence centered on Mog, killing all spellcasting in the area.
+Before they can move again, the hellhound's breath weapon recharges, and blasts [[Arlo]] and [[Magda]] -- she nearly goes down AGAIN but saved the Dex check, and with the reduced damage is on a SINGLE hit point. Then it's her turn -- vampire Regeneration burning five hit dice at once, she shouts a warning to [[Jeremiah]] to stand clear, and casts Silence centered on [[Mog]], killing all spellcasting in the area.
 
-[[Jeremiah]] is bringing his zombies down on the enemies, getting into flanking positions for everyone. [[Varian]] casts [[Lolth]]'s Fire, allowing the party to strike the [[hags]] in the Ethereal Plane. Her location revealed, [[Arlo]] finishes off Ofelia. Mog, escaping the silence, disappears into the Ethereal Plane and for a moment, all is still...
+[[Jeremiah]] is bringing his zombies down on the enemies, getting into flanking positions for everyone. [[Varian]] casts [[Lolth]]'s Fire, allowing the party to strike the [[hags]] in the Ethereal Plane. Her location revealed, [[Arlo]] finishes off [[Ofelia]]. [[Mog]], escaping the silence, disappears into the Ethereal Plane and for a moment, all is still...
 
 The party regroup, waiting for her to strike.
 
-Mog reappears, hurling a lightning bolt across the battlefield at the group. 
+[[Mog]] reappears, hurling a lightning bolt across the battlefield at the group. 
 
-[[Varian]] charges, bloodlust rising. [[Jeremiah]] rushes in down one side to dagger Mog, softening her up. [[Arlo]] rushes the other side and grapples her, and [[Magda]] comes in from behind with a hand on [[Varian]]'s shoulder, casting Cure Wounds. The four of them together, and [[Varian]] delivers the killing blow.
+[[Varian]] charges, bloodlust rising. [[Jeremiah]] rushes in down one side to dagger [[Mog]], softening her up. [[Arlo]] rushes the other side and grapples her, and [[Magda]] comes in from behind with a hand on [[Varian]]'s shoulder, casting Cure Wounds. The four of them together, and [[Varian]] delivers the killing blow.
 
-Next, [[Varian]] sees an image of scuttling legs, and clicking mandibles. The spectral form of [[Lolth]] starts to devour Mog's body. [[Varian]] calls out to stop, and a voice implies he has no right to command [[Lolth]]. But, nevertheless, the spider stops its feast.
+Next, [[Varian]] sees an image of scuttling legs, and clicking mandibles. The spectral form of [[Lolth]] starts to devour [[Mog]]'s body. [[Varian]] calls out to stop, and a voice implies he has no right to command [[Lolth]]. But, nevertheless, the spider stops its feast.
 
-Mog offers [[Rose]]'s soul back. "In this cursed land, it seems even my sisters and I must fear what lurks in the dark.
+[[Mog]] offers [[Rose]]'s soul back. "In this cursed land, it seems even my sisters and I must fear what lurks in the dark.
 I release the child to you, passing from one monster to another."
 
 The soul re-emerges, and in a moment of triumph, re-enters the ring that [[Varian]] still wears.
 
-Mog starts to shuffle off, mostly-dead, into the night, when [[Varian]] says: "Not so fast." And slays the defenseless hag where she stands.
+[[Mog]] starts to shuffle off, mostly-dead, into the night, when [[Varian]] says: "Not so fast." And slays the defenseless hag where she stands.
 
 As the real world re-asserts, [[Magda]] heals the rest of the team to full health with Aura of Vitality, when another wave of zombies start to shamble in, hearing the [[hags]]' screaming. 
 

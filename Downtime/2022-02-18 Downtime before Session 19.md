@@ -34,13 +34,13 @@ She walks over and inspects the scorched mark left from the Taroka reading. A gr
 
 Kasa's tail twitches as she watches [[Arabelle]]'s eyes cloud over.
 
-*A vision forms of a small room, scattered with scrolls and arcane trinkets. A knight, clad in silver, and a Vistani woman, are both crouching down by an older man. He looks dazed, clutching an unmarked tome. The knight knocks the book from the man’s hands, wrapping it in cloth before picking it back up.*
+*A vision forms of a small room, scattered with scrolls and arcane trinkets. A knight, clad in silver, and a [[Vistani]] woman, are both crouching down by an older man. He looks dazed, clutching an unmarked tome. The knight knocks the book from the man’s hands, wrapping it in cloth before picking it back up.*
 
 *A raven is perched in the window, its beak wide with distress. The knight lifts the man, carrying him towards a tall mirror. She lights two sconces by the mirror’s side, and the reflection shifts, revealing a passage. They begin their escape.*
 
-*Meanwhile, the Vistani woman has drawn her rapier, and is now pacing the room in wait. An elvish man emerges from the stairway - the Devil’s servant. He sees the mirror passage and steps toward it, he has come with a single purpose. A flash of steel cuts across his face, and he turns to the woman, smiling back at him. There is no time for this. He unsheathes his sword, and with unsettling speed lunges forward.
+*Meanwhile, the [[Vistani]] woman has drawn her rapier, and is now pacing the room in wait. An elvish man emerges from the stairway - the Devil’s servant. He sees the mirror passage and steps toward it, he has come with a single purpose. A flash of steel cuts across his face, and he turns to the woman, smiling back at him. There is no time for this. He unsheathes his sword, and with unsettling speed lunges forward.
 
-His blows are swift and merciless, but the Vistani woman keeps a step ahead. He pulls down a bookcase, knocking her aside, allowing him to move once more towards the mirror. Before he can step through, the glass shatters. He turns to see the smoke trailing from the woman’s pistol. A twitch of anger crosses his face, he sighs and steps back across the broken shards.
+His blows are swift and merciless, but the [[Vistani]] woman keeps a step ahead. He pulls down a bookcase, knocking her aside, allowing him to move once more towards the mirror. Before he can step through, the glass shatters. He turns to see the smoke trailing from the woman’s pistol. A twitch of anger crosses his face, he sighs and steps back across the broken shards.
 
 They each circle the room, knowing now there is no other way for this to end. Together they move forward, and their blades meet again. The two dance back and forth, each step the difference between life and death. With her good leg, the woman kicks out, knocking her foe off balance. With a flurry of blows she manages to disarm the elf and holds her rapier to his neck.
 

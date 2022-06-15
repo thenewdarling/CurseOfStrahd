@@ -1,4 +1,4 @@
-# DOWNTIME - VALLAKI
+# DOWNTIME - [[VALLAKI]]
 
 ## [[Jeremiah]] procures a sleeping draught
 
