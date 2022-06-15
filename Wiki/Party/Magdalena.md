@@ -26,13 +26,13 @@ _“They say if you kill a vampire, every person that vampire has turned will al
 
 ____
 
-Magda is 270 years old.
+[[Magda]] is 270 years old.
 
-Over 200 years ago, Magda was the heir to the throne of a country called [[Iliadvar]], a country which no longer exists.
+Over 200 years ago, [[Magda]] was the heir to the throne of a country called [[Iliadvar]], a country which no longer exists.
 
 A wave of undead spread through the kingdom, an illness known as the Plague. Over the course of ten years, the entire country fell to anarchy and collapsed. The countries around it basically waited for it to burn itself out, and once it was barren they divided it amongst themselves.
 
-This experience caused Magda to make a faustian pact with [[Asmodeus]] to give her the strength to destroy all undead. Asmodeus, a Lawful creature who hates chaos, accepted and granted her a demonic Cleric domain.
+This experience caused [[Magda]] to make a faustian pact with [[Asmodeus]] to give her the strength to destroy all undead. Asmodeus, a Lawful creature who hates chaos, accepted and granted her a demonic Cleric domain.
 
 Around 20 years into this pact, she was bitten by a vampire, and turned. Her cleric powers and willpower have stopped her thus far from succumbing to being a mindless ghoul, but she is always teetering on the line.
 
@@ -42,3 +42,6 @@ Around 20 years into this pact, she was bitten by a vampire, and turned. Her cle
 -   She keeps a diary and has for many years (each one is this thick insert-journal tome lasting like ten years)
 -   Her many names are because of her lineage -- I purposely spread the influences across Europe because in that kind of background your name is also kind of your title, and so represents how all these families were intermarried and the like.
 -   She names all of her weapons.
+
+
+tags: [[Curse of Strahd campaign]]

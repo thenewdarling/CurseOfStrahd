@@ -25,3 +25,6 @@ Now 38 and happily married to [[Allessandra]] (aged 247), Arlo takes regular tri
 
 ![[Arlo_session1.jpg]]
 *Arlo's appearance from the beginning of the campaign until Session 27*
+
+
+tags: [[Curse of Strahd campaign]]

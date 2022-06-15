@@ -4,7 +4,7 @@ Leaving university to make something of himself, he has found himself in [[Barov
 
 He is played by Bearded Liam.
 
-Jerry uses (he/him) pronouns.
+[[Jerry]] uses (he/him) pronouns.
 
 *see also: [[Jerry]]*
 
@@ -165,3 +165,6 @@ Templeton, Jeremiah Templeton
 # Trivia
 
 - Jeremiah has never met another half-goblin.
+
+
+tags: [[Curse of Strahd campaign]]

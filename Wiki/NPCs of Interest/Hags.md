@@ -3,7 +3,7 @@ Bella, Ofelia & Mother Mog.
 -- a message left by the Hags
 
 
-The three Hags, **Mog**, **Bella** and **Ofelia** were the first major antagonists of the campaign. They lived out by the Old [[Bonegrinder]] Mill.
+The three Hags, **Mog**, **Bella** and **Ofelia** were the first major antagonists of the [[Curse of Strahd campaign]]. They lived out by the Old [[Bonegrinder]] Mill.
 
 The party failed to kill any of them when they first fought them in Session 4, and in retaliation Ofelia trapped [[Rose]]'s soul in a hellhound. Once the party reached [[Vallaki]] they were unable to breach its walls to get revenge directly. 
 

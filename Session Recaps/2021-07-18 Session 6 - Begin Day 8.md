@@ -30,7 +30,7 @@ On the way to the [[Baron]]'s, we see a sign for the Festival of the Burning Sun
 
 The town captain, [[Izek]], shows up with guards -- and immediately attacks [[Varian]]. [[Varian]] is repeatedly knocked out and revived in the ensuing battle. After [[Danton]] shows up with a cat-like beast who subdues him, he pacifies the crowd and promises to take [[Izek]] to the authorities.
 
-[[Magda]], who had charmed [[Izek]] during the fight, interrogates [[Izek]] briefly. She finds out he had been told some prophecy by [[Madame Eva]], and referred to [[Varian]] as "[[Leadrin]]".
+[[Magda]], who had charmed [[Izek]] during the fight, interrogates [[Izek]] briefly. She finds out he had been told some prophecy by [[Madame Eva]], and referred to [[Varian]] as "[[Liadrin]]".
 
 Making their way towards the [[Baron]]'s keep, [[Magda]] asks [[Varian]] if the name means anything to him. He is silent, then says he's not ready to talk about it yet.
 
