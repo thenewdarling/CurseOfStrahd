@@ -134,7 +134,7 @@ Downtime events before Session 6:
 - [[Varian]] and [[Magda]] have a run-in with looters in [[Francis]]' Apothecary, which becomes ground zero for an outbreak of cackle fever. With quick action, they manage to prevent the spread, but despite the antidote stopping the spread, they will have a point of exhaustion for days to come.
 - The party arrive back at the Blue Water, stock the bar with wine from the portable hole, have a drink, refresh themselves, and get a well-deserved night's sleep.
 
-*The events of [[Magda]] side-story 'Here, in the Garden' happen now.*
+*The events of [[Magda]] lore document 'Here, in the Garden' happen now.*
 
 ## Day 12
 *Session 14 continued*
@@ -207,7 +207,7 @@ Downtime events before Session 6:
 - There is a statue to get inside which needs to be filled with water from the pool. After [[Magda]] drops into the pool, and discovers immediately that it is all holy water, she's soaked. Upon taking damage, uses Misty Escape to teleport to the woman, wringing her sleeves out and filling the statue's hands. They fill halfway, and this time it sticks.
 - [[Arlo]] does the same, soaking his trousers. The statue starts to open, but it takes two turns, and the party is being pelted by the statues. [[Magda]] and [[Jeremiah]] both go down, entering some kind of Life Drain effect. But with the help of their teammates, they make it inside and regroup (just).
 
-*The events of [[Magda]] side-story 'Tomorrow Never Knows' happen now.*
+*The events of [[Magda]] lore document 'Tomorrow Never Knows' happen now.*
 
 ## Day 16
 
@@ -251,8 +251,8 @@ Downtime events before Session 6:
 - He asks the party to destroy the tree and set him free, in exchange he'll tell us where the [[Sun Sword]] is. [[Magda]] agrees (a lie), and exorcises him with Turn Undead when he gives over the information.
 
 #### Downtime before Session 21
-*The events of [[Magda]] side-story 'The Horse is Not Enough' happen now.*
-- Appending that story, [[Varian]] has a response offering [[Magda]] some comfort.
+*The events of [[Magda]] lore document 'The Horse is Not Enough' happen now.*
+- Appending that, [[Varian]] has a response offering [[Magda]] some comfort.
 
 ### Session 21 begins
 
@@ -290,7 +290,7 @@ Downtime events before Session 6:
 - [[Jeremiah]] and [[Arabelle]] befriend [[Danton]]'s tiger who is now blinded and was left in the Tower after the events of [[Arabelle]]'s vision.
 - Leaving the Tower behind with no new information, they decide to head to [[Vallaki]], in the hopes that maybe [[Viktor]] will have some information about portals that could lead them to saving [[Ezmerelda]].
 
-*The events of [[Magda]] side-story '[[Traitor]]' happen during the long rest at the end of this day.*
+*The events of [[Magda]] lore document '[[Traitor]]' happen during the long rest at the end of this day.*
 
 ## Day 23
 
@@ -304,7 +304,7 @@ Downtime events before Session 6:
 
 - (Midnight:) The party arrives at the gates, and are allowed in by some confused guards. They send for [[Alek]], who fills us in on some goings-on.
 - The party arrives at the [[Blue Water Inn]] and finds [[Blinksy]] and [[Danika]] having a drink, before going to bed.
-- [[Magda]] sneaks out that night and feeds on [[Luca and Shaun]] before they reach the shelter, leaving their bodies to burn in one of the fires blazing throughout [[Vallaki]].
+- [[Magda]] sneaks out that night and feeds on [[Luca and Shaun]] before they reach the shelter, leaving their bodies to burn in one of the fires blazing throughout [[Vallaki]]. *(See lore document 'None Righteous, Not One')*
 *[[Magda]]'s timer will reset on Day 31.*
 
 #### Downtime before Session 27 begins
