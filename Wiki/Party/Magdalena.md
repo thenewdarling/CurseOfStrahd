@@ -4,7 +4,7 @@
 
 **Magdalena Viviana Fortescue Schiaparelli de Luna** is a variant human Cleric of [[Asmodeus]] who is a member of the [[Heroes of Burning Sun]].
 
-She is a vampire hunter who befell the curse herself over two hundred years ago, and in life was the last Queen of Iliadvar -- a country which no longer exists in the modern world.
+She is a vampire hunter who befell the curse herself over two hundred years ago, and in life was the last Queen of [[Iliadvar]] -- a country which no longer exists in the modern world.
 
 She is played by Luke.
 
@@ -12,11 +12,12 @@ She is played by Luke.
 
 *see also [[Magda]]*
 
+
 #### Background
 
-_Asmodeus, who rules hell with an iron fist._ 
+_[[Asmodeus]], who rules hell with an iron fist._ 
 
-Magdalena de Luna has made a Faustian bargain. She will carry Asmodeus' torch, and in return he will give her the power to breathe unholy hellfire on the undead.
+Magdalena de Luna has made a Faustian bargain. She will carry [[Asmodeus]]' torch, and in return he will give her the power to breathe unholy hellfire on the undead.
 
 Except now she has succumbed to that curse she sought to scourge. The vampire hunter has become a vampire herself.
 
@@ -32,7 +33,7 @@ Over 200 years ago, [[Magda]] was the heir to the throne of a country called [[I
 
 A wave of undead spread through the kingdom, an illness known as the Plague. Over the course of ten years, the entire country fell to anarchy and collapsed. The countries around it basically waited for it to burn itself out, and once it was barren they divided it amongst themselves.
 
-This experience caused [[Magda]] to make a faustian pact with [[Asmodeus]] to give her the strength to destroy all undead. Asmodeus, a Lawful creature who hates chaos, accepted and granted her a demonic Cleric domain.
+This experience caused [[Magda]] to make a faustian pact with [[Asmodeus]] to give her the strength to destroy all undead. [[Asmodeus]], a Lawful creature who hates chaos, accepted and granted her a demonic Cleric domain.
 
 Around 20 years into this pact, she was bitten by a vampire, and turned. Her cleric powers and willpower have stopped her thus far from succumbing to being a mindless ghoul, but she is always teetering on the line.
 

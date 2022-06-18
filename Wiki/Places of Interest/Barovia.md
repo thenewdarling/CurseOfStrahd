@@ -2,7 +2,7 @@
 -- [[TenderstDM]]
 
 
-The **Valley of Barovia** was a region in the [[Shared World]], until it was banished into a misty demiplane to serve as the prison of its all-powerful ruler, [[Strahd]] von Zarovich. 
+The **Valley of Barovia** was a region in the [[Prime Material Plane]], until it was banished into a misty demiplane to serve as the prison of its all-powerful ruler, [[Strahd]] von Zarovich. 
 
 ![[Gates_of_Barovia.jpg]]
 *The Gates to enter Barovia*
