@@ -11,7 +11,7 @@ They meet Genril, who's short even for a halfling, and grumpy as fuck. We stan. 
 
 [[Arlo]] also finds out that the [[abbot]] doesn't leave the abbey, and since zombification isn't allowed in the town, he won't heal zombies. (Whether he CAN now seems to be unclear. Many NPCs think not.) He asks about private quarters and [[Karloman]] mentions something about the [[Krezkovs]]... It seems all of the money goes to them, and the [[Abbot]] is in their pocket.
 
-Meanwhile outside the main gate, [[Magda]] casts Find Familiar to summon Eden as an owl. The stable keeper [[Rerakir]] psst's them over and reveals that he has a key to the abbey, that he bought from the [[Vistani]] traders in a move that was definitely not the dungeon master trying to give [[Magda]] and [[Jeremiah]] something to do. 😉
+Meanwhile outside the main gate, [[Magda]] casts Find Familiar to summon [[Eden]] as an owl. The stable keeper [[Rerakir]] psst's them over and reveals that he has a key to the abbey, that he bought from the [[Vistani]] traders in a move that was definitely not the dungeon master trying to give [[Magda]] and [[Jeremiah]] something to do. 😉
 
 [[Rerakir]] has a little crow with a glass eye, called Wes. He can see through the glass eye using a magic item, and so can have the crow fly over the abbey's garden. There's a set of silver scales in a pool, and [[Rerakir]] needs them. If the party will get them for him, he'll give them the key. There are orbs of light that float about ominously but I don't think anyone is sure what they do. We're assuming some kind of sentries.
 
@@ -21,7 +21,7 @@ Back inside the walls, [[Arlo]] and [[Varian]] go to talk to the [[Vistani]] tra
 
 The [[Vistani]] traders come here to sell [[Alanatis]] flowers to the [[Krezkovs]]. They're hallucinogenic drugs they import to [[Barovia]] when [[Strahd]] lets them leave on their trading trips. Also, Shay, who is a kenku wares salesperson??? VERY CUTE WE MUST MEET YOU LITTLE BIRD SHOPKEEP
 
-The group reconvenes outside the main gate, and [[Jeremiah]] turns invisible. He walks past the guards behind everyone else. [[Magda]] has her hand cut. Meanwhile [[Magda]] sends Eden to scout over [[Krezk]] and finds the Abbey garden that [[Rerakir]] had mentioned. Looking through his eyes, she can see the monks milling about and the orb.
+The group reconvenes outside the main gate, and [[Jeremiah]] turns invisible. He walks past the guards behind everyone else. [[Magda]] has her hand cut. Meanwhile [[Magda]] sends [[Eden]] to scout over [[Krezk]] and finds the Abbey garden that [[Rerakir]] had mentioned. Looking through his eyes, she can see the monks milling about and the orb.
 
 [[Jeremiah]] (still invisible) decides to go look for an entrance other than the main doors, and we plan to break in under cover of night.
 

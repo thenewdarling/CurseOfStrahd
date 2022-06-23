@@ -69,7 +69,7 @@ With that the party concludes their long rest, unlocking their full 6th level ab
 
 ## On the Road to the Tower at [[Krezk]] -- Day 14 since the party arrived in [[Barovia]]
 
-As midnight passes, [[Magda]] takes first watch, and when she hears snarling out in the fog, she sends her new familiar Eden to have a look.
+As midnight passes, [[Magda]] takes first watch, and when she hears snarling out in the fog, she sends her new familiar [[Eden]] to have a look.
 
 [[Varian]] has a nightmare of being chased by a hell hound, [[Rose]]'s captor. He awakes in a cold sweat.
 

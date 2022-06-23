@@ -152,7 +152,7 @@ Downtime events before Session 6:
 
 ## Day 14
 
-- Just after midnight: [[Magda]] takes first watch, and when she hears snarling out in the fog, she sends her new familiar Eden to have a look.
+- Just after midnight: [[Magda]] takes first watch, and when she hears snarling out in the fog, she sends her new familiar [[Eden]] to have a look.
 - [[Varian]] has a nightmare of being chased by a hell hound, [[Rose]]'s captor. He awakes in a cold sweat.
 - [[Magda]] rouses the party, as zombies and the hell hound draw close...
 

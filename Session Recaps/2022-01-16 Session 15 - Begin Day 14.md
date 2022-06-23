@@ -5,7 +5,7 @@ The battle for [[Rose]]'s soul begins!!
 
 A wave of zombies approach, with the hellhound in tow. The three [[hags]] -- [[Bella]], [[Ofelia]], and [[Mog]] -- aren't far behind.
 
-The first casualty is poor Eden, but the party are firing on all cylinders, all the tricks are coming out. [[Jeremiah]] is raising the zombies we're taking out, and sending them back to fight. [[Arlo]] is throwing Sentinel axes on other people's turns. [[Magda]]'s cloud of bats returns with Spirit Guardians. 
+The first casualty is poor [[Eden]], but the party are firing on all cylinders, all the tricks are coming out. [[Jeremiah]] is raising the zombies we're taking out, and sending them back to fight. [[Arlo]] is throwing Sentinel axes on other people's turns. [[Magda]]'s cloud of bats returns with Spirit Guardians. 
 
 [[Varian]] calls out "[[Mog]] is mine!" and fights back to back with [[Magda]] as the scrum starts to converge.
 

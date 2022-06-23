@@ -1,6 +1,6 @@
 # Downtime - [[Arabelle]]'s House
 
-## [[Magda]] gathers the supplies to re-summon Eden
+## [[Magda]] gathers the supplies to re-summon [[Eden]]
 
 [10-Mar-22 04:35 PM] [[Magdalena]] de Luna (she/her)
 (Can I have [[Magda]] gather the materials for Find Familiar in the wee house?)
