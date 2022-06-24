@@ -1,4 +1,5 @@
 # Downtime - Vallaki
+*Note: During this downtime, players have limited control over NPCs as it will be a long period between sessions and we can write lore documents.*
 
 ## Stella gives Magda a surprise birthday gift (Day 25)
 
@@ -37,4 +38,9 @@ She eyes Stella, looking for recognition of the event. Gathering some courage, s
 
 [19:10] Magdalena de Luna (she/her): "Please. If you were no-one I would not be speaking to you." She smiles. "Of course." She takes Stella by the hand once more. "Thank you again for the ring. It... shone a light on the events of the last few days."
 
-*One final note from Magda (as I assume the scene is ending): [[Eden]] slithers in through the window, resummoned with Find Familiar.*
+*[[Eden]] slithers in through the window, resummoned with Find Familiar.*
+
+[21:35] Arabelle (she/her): Stella squeezes Magda's hand, smiling. "I am glad you enjoyed the gift." She looks at Arabelle, bows her head in recognition.
+"Although I am Lady Watcher, that name carries a weight that I don't care for. Please, call me Stella.
+"Yes, I have heard of tensions rising in the city. Those who stood with my mother, who either approved of her plans or were too scared to oppose her, are now being targeted. My mother made it easy for them, marking their doors with her sigil.
+"That inn you saw in your vision, I'm sure you mean the Knight's Head. Please, go find Alek and tell him what you saw."
