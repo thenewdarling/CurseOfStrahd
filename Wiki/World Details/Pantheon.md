@@ -25,3 +25,6 @@ What happened to those Gods, and the process by which they became the multiple f
 
 #### Unknown Deity
 - [[Mother Night]] (Barovia)
+
+#### Trivia
+- According to [[Mary]], worship of the deities in [[Barovia]] seems to be manipulated in some way.
