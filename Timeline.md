@@ -316,7 +316,15 @@ Downtime events before Session 6:
 
 *Morning of Day 24*
 
-**Downtime Day**
+**Session 27 Downtime Day Events**
 - [[Arlo]] and [[Arabelle]] go to [[Dargos]]'.
 - [[Magda]] and [[Arlo]] visit the Vallakovich Manor.
-- Shopping: [[Francis]], Shay the Kenku
+- Shopping: [[Francis]], [[Shay]] the Kenku
+
+## Day 25
+
+#### Downtime before Session 28 begins
+- [[Stella]] gifts [[Magda]] a ring emblazoned with the de Luna family emblem.
+- [[Arabelle]] and [[Magda]] investigate the burning building where the fires started on Day 24, accompanied by [[Alek]]. [[Arabelle]] has a vision of a mage, [[Mordesh]], feeding unrest throughout Vallaki. *(See lore document 'Arabelle and Magda's Excellent Adventure')*
+- [[Arabelle]] foresees [[Viktor]] making some kind of deal with [[Strahd]] for the safety of [[Vallaki]] -- [[Magda]] confronts him that night to dissuade him, and suggests he spend his energy trying to find the stolen [[Sun Sword]]. *(See lore document 'Pawn takes Black Knight')*
+- All four members of the party receive an invitation from Strahd in the post, with a first-class stamp... *(See [[Strahd_invitation.jpeg]]*)

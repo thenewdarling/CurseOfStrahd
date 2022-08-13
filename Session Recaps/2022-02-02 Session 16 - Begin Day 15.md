@@ -19,7 +19,7 @@ This is pretty much enough for [[Magda]] but [[Jeremiah]] stops her before she j
 
 Back inside the walls, [[Arlo]] and [[Varian]] go to talk to the [[Vistani]] traders. Panit, and [[Radu]]'s sister Adriana. They are happy to see [[Arlo]] and [[Varian]] and recognise them from the Night of Merriment oh so long ago (Jesus it's only been two weeks).
 
-The [[Vistani]] traders come here to sell [[Alanatis]] flowers to the [[Krezkovs]]. They're hallucinogenic drugs they import to [[Barovia]] when [[Strahd]] lets them leave on their trading trips. Also, Shay, who is a kenku wares salesperson??? VERY CUTE WE MUST MEET YOU LITTLE BIRD SHOPKEEP
+The [[Vistani]] traders come here to sell [[Alanatis]] flowers to the [[Krezkovs]]. They're hallucinogenic drugs they import to [[Barovia]] when [[Strahd]] lets them leave on their trading trips. Also, [[Shay]], who is a kenku wares salesperson??? VERY CUTE WE MUST MEET YOU LITTLE BIRD SHOPKEEP
 
 The group reconvenes outside the main gate, and [[Jeremiah]] turns invisible. He walks past the guards behind everyone else. [[Magda]] has her hand cut. Meanwhile [[Magda]] sends [[Eden]] to scout over [[Krezk]] and finds the Abbey garden that [[Rerakir]] had mentioned. Looking through his eyes, she can see the monks milling about and the orb.
 
