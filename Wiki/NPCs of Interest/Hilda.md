@@ -1,0 +1,1 @@
+**Hilda** is a witch who lives in [[Vallaki]]'s Lower Gallows.

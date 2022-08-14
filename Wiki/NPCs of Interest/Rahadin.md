@@ -1,3 +1,5 @@
-**Rahadin** is the famous wizard assistant to [[Strahd]].
+**Rahadin** is the infamous wizard assistant to [[Strahd]].
 
-The party have not met him yet, but he appeared in [[Arabelle]]'s vision between Session 18 and Session 19, and they learned his name in Session 27.
+The party did not meet him in person until Session 28, but he first appeared in [[Arabelle]]'s vision in downtime before Session 19, and we learned his name in Session 27.
+
+He is an elven man with long hair, and in his eyes [[Arabelle]] can hear the screams of his thousands of victims.
