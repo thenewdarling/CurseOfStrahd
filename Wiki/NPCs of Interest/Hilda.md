@@ -1,6 +1,6 @@
 **Hilda** is an elderly human witch who lives in [[Vallaki]]'s Lower Gallows, as part of the Vallaki Coven. She owns the [[Wicker's Hut]].
 
-She first appeared in the lore document *Title to be confirmed*, where she helped [[Arabelle]] and [[Alek]] deal with [[Mordesh]].
+She first appeared in the lore document *'Placeholder Taanit Title'*, where she helped [[Arabelle]] and [[Alek]] deal with [[Mordesh]].
 
 #### Background
 

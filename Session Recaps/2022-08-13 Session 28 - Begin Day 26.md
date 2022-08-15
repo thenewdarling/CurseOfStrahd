@@ -3,7 +3,7 @@
 
 It seems Vallaki has been holding its breath, as the party return to the mists...
 
-Established during downtime, [[Jeremiah]] has had a moment with [[Father Lucian]] and has realised that his zombification will likely never be cured. He flees [[Vallaki]] and goes to live in the woods in a depressive stupor. *(See events of lore document still to come.)*
+Established during downtime, [[Jeremiah]] has had a moment with [[Father Lucian]] and has realised that his zombification will likely never be cured. He flees [[Vallaki]] and goes to live in the woods in a depressive stupor. *(See events of lore document 'Placeholder Jeremiah Title'.)*
 
 The entire party have received an invitation to [[Strahd]]'s castle, including [[Arabelle]] who has never met him. A carriage will arrive to pick them up at dusk.
 
