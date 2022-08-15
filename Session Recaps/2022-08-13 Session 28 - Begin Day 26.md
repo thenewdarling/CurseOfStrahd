@@ -97,4 +97,4 @@ The spell that the [[Dark Powers]] put on him to hold him in [[Barovia]], also r
 
 The veiled figures arrive to take the food away, and he invites us to the basement, where we will pick up next session.
 
-**The party ends the session with [[Magda]] on 31 HP, [[Jeremiah]] on 31 HP, [[Arlo]] on 78 HP, and [[Arabelle]] on 38 HP.**
+**The party ends the session with [[Magda]] on 31 HP, [[Jeremiah]] on 12 HP, [[Arlo]] on 78 HP, and [[Arabelle]] on 26 HP.**

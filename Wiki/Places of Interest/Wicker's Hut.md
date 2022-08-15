@@ -1,0 +1,1 @@
+The [[Wicker's Hut]] is a tavern within [[Vallaki]]'s Lower Gallows. It is owned and operated by [[Hilda]], who brews the ale herself.
