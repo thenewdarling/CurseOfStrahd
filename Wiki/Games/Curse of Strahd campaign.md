@@ -2,3 +2,5 @@
 -- [[TenderstDM]]
 
 The campaign beginning 22nd May 2021.
+
+![[Party.jpg]]
