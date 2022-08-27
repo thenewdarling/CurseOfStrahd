@@ -1,4 +1,4 @@
-# Curse of [[Strahd]]
+# [[Curse of Strahd campaign]]
 
 For things I worry about losing from the Discord.
 
@@ -9,4 +9,4 @@ To any non-player reading this, the recaps may spoil content of the official Cur
 ## Notes
 
 - Session recaps predating 2022-06-01 have no historical version control, but have had minor changes in the past.
-- Session recaps also are missing spoiler warnings.
+- Session recaps also are missing spoiler warnings they may have had on Discord.

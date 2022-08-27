@@ -4,7 +4,7 @@ She first appeared in the lore document *Witches' Reach*, where she helped [[Ara
 
 #### Background
 
-Disinterested in Vallaki politics, Hilda hadn't ventured out of the Lower Gallows for years. It seems she has only now seen its current state, and has decided not to hide away anymore -- appearing as she did later in Session 28.
+Disinterested in Vallaki politics, Hilda hadn't ventured out of the Lower Gallows for years. It seems she has only now seen its current state, and has decided not to hide away anymore -- appearing as she did later in [[Session 28]].
 
 She knew [[Arabelle]]'s mother well.
 

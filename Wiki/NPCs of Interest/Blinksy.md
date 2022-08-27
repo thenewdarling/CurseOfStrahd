@@ -6,4 +6,4 @@
 - He is implied to have made [[Danton]]'s gun.
 - Notably he made an [[Allessandra]] doll for [[Arlo]] before meeting the party, based on a dream she put into his head.
 - He was a member of the resistance in the [[Battle of Burning Sun]].
-- As of before Session 27, he has lent his shopfront to [[Francis]].
+- As of before [[Session 27]], he has lent his shopfront to [[Francis]].

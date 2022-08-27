@@ -5,6 +5,6 @@
 
 From its borders you can see the edge of [[Barovia]], where the mists go on into seeming infinity. It is the religious capital of the region, home to the famed [[Abbot]] of St. Markovia.
 
-The party first arrived in Krezk at the end of Session 15.
+The party first arrived in Krezk at the end of [[Session 15]].
 
 tags: [[Krezk]]

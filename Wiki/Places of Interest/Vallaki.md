@@ -5,7 +5,7 @@
 
 Originally founded by the [[Vallakoviches]] and the [[Watchers]], it is the closest thing Barovia has to a metropolitan area, being protected from the monsters in the mists by its mighty wall.
 
-The party first reached Vallaki in Session 5.
+The party first reached Vallaki in [[Session 5]].
 
 ### Neighbourhoods
 - The **Lower Gallows** is an area famous for occult offerings and meetings, which [[Arabelle]] had wanted to visit. It appeared in lore document *Witches' Reach*.
