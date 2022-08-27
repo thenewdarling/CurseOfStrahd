@@ -1,4 +1,6 @@
 # Session 13 (mini) – 28th December 2021
+## *Session beginning Day 11*
+
 ## [[Vallaki]] - Day 11 since Arrival in [[Barovia]]
 
 With [[Sasha]] leading the way, we reach the Church and are faced with a troll and three vampire spawns. [[Urwin]] and [[Prince Rupert]] are already there fighting them, and just as we arrive [[Urwin]] falls unconscious by the hands of one of the vampire spawns. [[Sasha]] runs towards the front of the Church, ushering people inside.

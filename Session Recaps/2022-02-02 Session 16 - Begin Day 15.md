@@ -1,4 +1,6 @@
 # Session 16 -- 2nd February 2022
+## *Session beginning Day 15*
+
 ## [[Krezk]] -- Day 15 since the party arrived in [[Barovia]]
 
 We begin with the party standing outside the gate to [[Krezk]], having trekked up the hill and left their horses with [[Rerakir]] the stable keeper. As [[Jeremiah]] won't be allowed entry, [[Magda]] stays outside with him and [[Varian]] and [[Arlo]] go inside.

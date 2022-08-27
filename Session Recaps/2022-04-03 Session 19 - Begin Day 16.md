@@ -1,4 +1,6 @@
 # Session 19 -- 3rd April 2022
+## *Session beginning Day 16*
+
 ## Day 16 - [[Arabelle]]'s house, on the Outskirts of [[Krezk]]
 
 During downtime, [[Arabelle]] has a vision of the Tower falling, of [[Danton]] unconscious, possibly dead.

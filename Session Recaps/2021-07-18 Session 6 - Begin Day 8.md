@@ -1,4 +1,5 @@
 # Session 6 - 18th July 2021
+## *Session beginning Day 8*
 
 ## Downtime Day - [[Vallaki]] - Day 8 since Arrival in [[Barovia]]
 

@@ -1,4 +1,6 @@
 # Session 27 – 4 June 2022
+## *Session beginning Day 24*
+
 ## Midnight going into Day 24
 
 Established: during downtime [[Arabelle]] has been foraging during the journey from [[Yester Hill]] to [[the Winery]] and to [[Vallaki]], gathering supplies to make potions. (If Taanit would like to provide details, I didn't write them down, sorry!)

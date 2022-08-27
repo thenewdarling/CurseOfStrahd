@@ -1,4 +1,6 @@
 # Session 18 -- 18th February 2022
+## *Session beginning Day 16*
+
 ## [[Krezk]] -- crossing midnight into Day 16 since the party arrived in [[Barovia]]
 
 As [[Magda]] and [[Jeremiah]] are roused from their Life Drain sleep, the party consider their options -- inside the Krezkov's home.

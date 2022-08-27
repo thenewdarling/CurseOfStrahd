@@ -1,4 +1,5 @@
 # Session 8 - 8th August 2021
+## *Session beginning Day 9*
 
 ## [[Vallaki]] - Day 9 since Arrival in [[Barovia]]
 

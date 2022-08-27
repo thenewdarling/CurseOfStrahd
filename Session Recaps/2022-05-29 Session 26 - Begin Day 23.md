@@ -1,4 +1,6 @@
 # Session 26 – 29 May 2022
+## *Session beginning Day 23*
+
 ## Day 23 - en route to [[Vallaki]]
 
 [[Jeremiah]] tries to distract the goblins, including an intimidation and teleportation, saying "You should obey me."

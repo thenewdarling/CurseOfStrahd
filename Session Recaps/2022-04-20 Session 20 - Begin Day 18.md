@@ -1,4 +1,6 @@
 # Session 20 -- 20th April 2022
+## *Session beginning Day 18*
+
 ## Day 18 since the party arrived in [[Barovia]] - the path to [[Yester Hill]]
 
 Investigating the scarecrows proved to be a bad idea. In the middle of dispatching them, we find they explode if hit with fire damage. [[Varian]] and [[Jeremiah]] investigate their remains, and discover they were animated by some kind of tethered demon.

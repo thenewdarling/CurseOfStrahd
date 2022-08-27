@@ -1,4 +1,5 @@
 # Session 12 (mini) - 21st December 2021
+## *Session beginning Day 11*
 
 ## [[Vallaki]] - Day 11 since Arrival in [[Barovia]]
 

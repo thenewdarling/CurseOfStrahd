@@ -1,4 +1,6 @@
 # Session 14 -- 8th January 2022
+## *Session beginning Day 11*
+
 ## [[Vallaki]] - Day 11 since Arrival in [[Barovia]]
 
 *(Out of character -- Kate is group treasurer now.)*

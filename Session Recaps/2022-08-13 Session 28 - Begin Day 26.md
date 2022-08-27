@@ -1,4 +1,6 @@
-# Session 28 – 14 Aug 2022
+# Session 28 – 13 Aug 2022
+## *Session beginning Day 26*
+
 ## Day 26 - [[Vallaki]]
 
 It seems Vallaki has been holding its breath, as the party return to the mists...

@@ -1,4 +1,5 @@
 # Session 11 - 11th December 2021
+## *Session beginning Day 10*
 
 ## [[Vallaki]] - Day 10 since Arrival in [[Barovia]]
 

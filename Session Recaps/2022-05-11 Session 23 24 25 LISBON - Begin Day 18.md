@@ -1,5 +1,5 @@
-
 # Session 23, 24, 25 – THE LISBON SPECIAL (11th-16th May 2022)
+## *Session beginning Day 18*
 
 ## Day 18, [[Yester Hill]]
 
