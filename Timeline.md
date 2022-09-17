@@ -345,3 +345,7 @@ _Session 27 Downtime Day Events_
 	- [[Arlo]]'s [[Watcher's Eye]] had been spying on the party until he traded it away.
 	- [[Magda]] murdered [[Luca and Shaun]]. (No one pieces this together though.)
 	- The reason he is immortal is the spell that holds him here -- if they want to kill him, the party will have to remove it. This will also allow him to leave, so he wants them to do it.
+
+### [[Session 29]] begins
+
+(to come)
