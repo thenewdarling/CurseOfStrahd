@@ -323,7 +323,7 @@ _Session 27 Downtime Day Events_
 
 ## Day 25
 
-#### Downtime before Session 28 begins
+#### Downtime before [[Session 28]] begins
 - [[Stella]] gifts [[Magda]] a ring emblazoned with the de Luna family emblem.
 - [[Arabelle]] and [[Magda]] investigate the burning building where the fires started on Day 24, accompanied by [[Alek]]. [[Arabelle]] has a vision of a mage, [[Mordesh]], feeding unrest throughout Vallaki. *(See lore document 'Arabelle and Magda's Excellent Adventure')*
 - [[Arabelle]] foresees [[Viktor]] making some kind of deal with [[Strahd]] for the safety of [[Vallaki]] -- [[Magda]] confronts him that night to dissuade him, and suggests he spend his energy trying to find the stolen [[Sun Sword]]. *(See lore document 'Pawn takes Black Knight')*
@@ -333,7 +333,7 @@ _Session 27 Downtime Day Events_
 - All four members of the party receive an invitation from Strahd in the post, with a first-class stamp... *(See [[Strahd_invitation.jpeg]]*)
 - Jeremiah realises he will likely never be cured of his zombification, and it will continue to degenerate despite [[Yalom]]'s help. It triggers a depressive episode for him.
 
-### Session 28 begins
+### [[Session 28]] begins
 
 *Afternoon*
 - The party search for Jeremiah, who has gone missing following his revelation. Finding him, they convince him to at least follow them for now.
