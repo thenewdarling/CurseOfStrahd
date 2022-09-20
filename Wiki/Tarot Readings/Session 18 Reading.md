@@ -6,6 +6,6 @@
 
 **The ANARCHIST**: An ancient force is biding its time.
 
-**The HORSEMAN**: A lost soul returned, and now she is lost.
+**The HORSEMAN**: A soul returned, and now she is lost.
 
 **The TEMPTER**: Fear not only the Devil, but the Dark itself.
