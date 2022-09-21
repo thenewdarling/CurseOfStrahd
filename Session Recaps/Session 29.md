@@ -25,7 +25,7 @@ In a final gambit of the Krezkov slime monster, it turns into an exact duplicate
 
 Magda casts Hold Person on the slime creature, and it drops Arlo.
 
-Viktor attempts to be chivalrous and raise Stella up so he will burn in the acid first, but they get the door open just before, and Jerry casts Levitate to catch Arlo before he hits the Acid.
+Viktor attempts to be chivalrous and raise Stella up so he will burn in the acid first, but Jerry gets the door open with the key just before. Viktor casts Levitate to catch Arlo before he hits the acid.
 
 With that, the door opens -- Magda sees only a blinding light, but everyone else sees a room decorated in ivory bones, an elephant graveyard from Madame Eva's [[Session 2 Reading]] oh so long ago...
 
