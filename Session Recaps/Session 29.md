@@ -25,11 +25,11 @@ In a final gambit of the Krezkov slime monster, it turns into an exact duplicate
 
 Magda casts Hold Person on the slime creature, and it drops Arlo.
 
-Viktor attempts to be chivalrous and raise Stella up so he will burn in the acid first, but they get the door open just before, and Viktor casts Levitate to catch Arlo before he hits the Acid. (confirm? I think Jerry might have saved him? I can't remember, the fear was too much lmao)
+Viktor attempts to be chivalrous and raise Stella up so he will burn in the acid first, but they get the door open just before, and Jerry casts Levitate to catch Arlo before he hits the Acid.
 
 With that, the door opens -- Magda sees only a blinding light, but everyone else sees a room decorated in ivory bones, an elephant graveyard from Madame Eva's [[Session 2 Reading]] oh so long ago...
 
 *THE ANARCHIST*
 *I see walls of bones, a chandelier of bones, and a table of bones -- all that remains of enemies long forgotten.*
 
-**The party ends the session with [[Magda]] on 36 HP, [[Jeremiah]] on 31 HP, [[Arlo]] on 0? HP, and [[Arabelle]] on 38 HP. Magda retains a point of exhaustion from her time in Ezmerelda's prison.**
+**The party ends the session with [[Magda]] on 36 HP, [[Jeremiah]] on 31 HP, [[Arlo]] on 38 HP, and [[Arabelle]] on 38 HP. Magda retains a point of exhaustion from her time in Ezmerelda's prison.**
