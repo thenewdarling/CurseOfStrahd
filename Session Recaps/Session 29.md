@@ -3,7 +3,7 @@
 
 As [[Strahd]] beckons the party to the basement, he leaves them in the dining room to their own devices, with only his little gremlin [[Cyrus]] to watch over them. They investigate [[Ezmerelda]]'s prison void in the ceiling, [[Magda]] using Spider Climb to walk up the wall and enter, tied with a rope around her waist.
 
-Within the void, it is like swimming in treacle. She takes two points of exhaustion from failed saves, but casts Locate Creature and is able to get a ping - Ezmerelda is *physically* there, but on the very periphery, and with no direction it is difficult to work out where. Arabelle pulls her back, and she falls onto the table. Arabelle whips up some kind of tonic which removes a point of Magda's exhaustion.
+Within the void, it is like swimming in treacle. She takes two points of exhaustion from failed saves, but casts Locate Creature and is able to get a ping - [[Ezmerelda]] is *physically* there, but on the very periphery, and with no direction it is difficult to work out where. Arabelle pulls her back, and she falls onto the table. Arabelle whips up some kind of tonic which removes a point of Magda's exhaustion.
 
 The escape out of the dining room is locked -- another of Strahd's games -- but Cyrus provides a riddle. *"Heart, muscle and mind; behind our name, freedom you'll find."* [[Jeremiah]] works it out: there's a secret door behind the organ.
 
@@ -32,4 +32,4 @@ With that, the door opens -- Magda sees only a blinding light, but everyone else
 *THE ANARCHIST*
 *I see walls of bones, a chandelier of bones, and a table of bones -- all that remains of enemies long forgotten.*
 
-**The party ends the session with [[Magda]] on 36 HP, [[Jeremiah]] on 31 HP, [[Arlo]] on 38 HP, and [[Arabelle]] on 38 HP. Magda retains a point of exhaustion from her time in Ezmerelda's prison.**
+**The party ends the session with [[Magda]] on 36 HP, [[Jeremiah]] on 31 HP, [[Arlo]] on 38 HP, and [[Arabelle]] on 38 HP. Magda retains a point of exhaustion from her time in [[Ezmerelda]]'s prison.**
