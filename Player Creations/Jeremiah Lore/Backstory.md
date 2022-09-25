@@ -1,26 +1,10 @@
-**Jeremiah Templeton** is a half-goblin wizard necromancer and ranger who is a member of the [[Heroes of Burning Sun]].
-
-Leaving university to make something of himself, he has found himself in [[Barovia]] where he quickly succumbs to the bite of a zombie, and now lives in an undead state. The entire campaign will likely be his tragic backstory.
-
-He is played by Bearded Liam.
-
-[[Jeremiah]] uses (he/him) pronouns.
-
-*see also: [[Jerry]]*
-
-
-
-### Background
-
-----------
 We're almost there mother, hang on just a little longer
 Jem, promise me you'll be good.
 Of course I will, and you'll be there to keep me on the right track, won't you?
 ...
 Won't you mum?
-... 
+...
 
-----------
 My mother needs to be buried Sister.
 Do you have a family grave in this town?
 No, we're.. well, she's from across the sea.
@@ -28,14 +12,12 @@ I'm sorry, temple town has reservations on all its graves, we cannot bury anyone
 Please, she always talked of her love for the Thunder god, surely he would want her buried in his shadow?
 Talos is no mere god of Thunder. If you knew that then you would know that the Storm Lord's shadow stretches everywhere. Good day boy, I must attend to my congregation.
 
-----------
 Well I can't have a stinkin corpse in my carriage another day!
 Please, no-one will take her, can't you take us back?
 Boy, it was black as a Goblin's arsehole when I picked you both up... no offence of course lad, I just mean-
 You don't know where my home is...
 All right, I can take you to the edge of town, but no markers mind, I'll be run out of town for an unlisenced burial
 
-----------
 Hey... hey... wake up boy, you're in my way.
 Sorry sir, I must have fallen asleep. 
 Ah no matter young lad, what leaves you sleeping on the street?
@@ -46,7 +28,6 @@ Stop worrying! you're a smart lad, see? WHat's that you've got hidden behind you
 I... I can't take these sir.
 You're not taking them! They belong to you! Come in with me and I'll make sure you get extra rashers on your breakfast, I know the barman y'see.
 
-----------
 What did you get from him Nold? I saw a flick of your wrist when he pushed past but not what you took?
 And what in the seven hells were you doing watching lad? I can't have the professors noticing you.
 Well you didn't see me and You know I can't do magic, so they're never going to spot me either!
@@ -60,13 +41,12 @@ True, but only the ones who treat me as a servant won't notice me stealing. And 
 But-
 Off with you! I'm being summoned to a clogged toilet on the 4th floor
 
-----------
 Nold?
 Yes lad?
 Why don't you leave?
 What?
 Why don't you leave and find a better job? You say you're never paid enough.
-I've always wanted to lad, did I ever tell you how I once robbed the Adventurer's guild in [[Malazan]]?
+I've always wanted to lad, did I ever tell you how I once robbed the Adventurer's guild in Malazan?
 Only several billion times.
 Well, I lost my touch after a while, tried to rob this place, and I was caught. 
 What? You said you were the best rogue this side of the wastes!
@@ -78,7 +58,6 @@ Not while you're with me you're not!
 But-
 Eat your dinner!
 
-----------
 I saw that Jem, you stole from the barkeep
 He wagered that gold fair and square!
 If it was fair he would have won at least once, you can't pull that on people we have to see every day, much less the man who feeds us.
@@ -87,7 +66,6 @@ Well take this as a lesson I'm letting you learn the easy way.
 I'm gonna be the best Rogue! People are going to tremble at the name Jem of Temple Town!
 Here's another lesson Jem, Don't say "of" only nobles do that. That'll be the first sign you're lying. Just go with Templeton.
 
-----------
 Only 6 silver? it should have been seven?
 He thought the quality wasn't good enough. Rabbit of negative euphoria today.
 Eh?
@@ -98,7 +76,6 @@ Ah right. Get to bed, that thee sore uss was under your pillow by the way, it ca
 Nold I-
 Don't worry lad, at least it's not magic.
 
-----------
 You're old enough to leave now lad, go before there's any more reason to stay.
 Nold, you're sick, I'm not leaving.
 I'm not sick lad, I'm dying, and when I die the University will investigate and assume you killed me.
@@ -107,7 +84,6 @@ Don't get locked into this life, leave, have a good life, be who you wanted to b
 I can do that here, my life is good here.
 ...
 
-----------
 Umm, Janitor?
 Oh, sorry, I was reading.
 I didn't know the servants could read.
@@ -119,7 +95,6 @@ Lovely, and why did he try that? Was the toilet clogged?
 No, he uh, read it in a book.
 Well, "he" should read better books. Illiterate folk in this town know that author is an idiot. I'm on my way.
 
-----------
 Well you've got a bounce in your step today young master Jem!
 "Young" is becoming more of an insult to you than a compliment of me these days!
 Well you're the master of words to my young'uns, boy read me a story just last night, amazing what two days of teaching can do!
@@ -131,7 +106,6 @@ No, I'm going to figure out how those students keep their drinks cold in the sum
 You wouldn't be taking classes at the university now?
 Of course not! Just messing about to pass the time.
 
-----------
 Psst, come here.
 I'll have my breakfast alone thanks
 Oh, then I'll just stop fencing those books shall I?
@@ -152,8 +126,7 @@ Maybe, but I could maybe sell an artif-
 I'm not going to steal an-
 No, keep your voice down, I just meant that you have Nold's stuff right... Well he had a ring he would never have sold...
 
-----------
-It's 3 Silver to [[Malazan]] my good sir, you'll be bunking with a few others mind.
+It's 3 Silver to Malazan my good sir, you'll be bunking with a few others mind.
 I don't mind thank you. 
 You'll get a good night's sleep mind, clouds are out, it'll be as black as a goblin's arsehole tonight!
 Well, I'd know wouldn't I
@@ -161,10 +134,3 @@ Oh i meant, I mean-
 Don't worry about it
 Here, I think if you're bunking you should get a silver back mister...
 Templeton, Jeremiah Templeton
-
-# Trivia
-
-- Jeremiah has never met another half-goblin.
-
-
-tags: [[Curse of Strahd campaign]]
