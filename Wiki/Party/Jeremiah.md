@@ -4,7 +4,7 @@ Leaving university to make something of himself, he has found himself in [[Barov
 
 He is played by Bearded Liam.
 
-[[Jeremiah]] uses (he/him) pronouns.
+Jeremiah uses (he/him) pronouns.
 
 *see also: [[Jerry]]*
 
