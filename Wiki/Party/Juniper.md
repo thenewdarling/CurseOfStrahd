@@ -2,7 +2,7 @@
 
 **Juniper Vandross** was a satyr Swords Bard who travelled with [[Prince Rupert]] at some point before his arrival in Barovia.
 
-He is played by Luke.
+He is played by [[Luke]].
 
 Juniper uses (he/him) pronouns.
 

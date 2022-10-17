@@ -2,6 +2,6 @@
 
 His spirit was later found by [[Julian]] in another plane of existence, who didn't realise what it was and traded it to a vendor.
 
-Mango uses (he/him) pronouns. He was played by Bearded Liam.
+Mango uses (he/him) pronouns. He was played by [[Bearded Liam]].
 
 tags: [[Malazan Classic Oneshots]]

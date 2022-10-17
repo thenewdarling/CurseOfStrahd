@@ -7,7 +7,7 @@
 
 He stole the hilt of the [[Sun Sword]] from the rest of the party in [[Session 22]] for [[Arachne]], and left the group for dead under [[Yester Hill]].
 
-He was played by Taanit, and is now under the control of the DM.
+He was played by [[Taanit]], and is now under the control of the DM.
 
 Varian uses (he/him) pronouns.
 

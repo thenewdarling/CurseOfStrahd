@@ -6,4 +6,4 @@ His main character trait was thinking he was a genius strategist going along wit
 
 He had a notable toothy grin when he thought he was getting away with something.
 
-As an NPC, he was played by Taanit.
+As an NPC, he was played by [[Taanit]].

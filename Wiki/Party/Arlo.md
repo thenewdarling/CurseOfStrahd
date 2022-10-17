@@ -6,7 +6,7 @@
 
 Charismatic and easy-going, Arlo is a gravedigger and mortician. His main goal is to leave [[Barovia]] and return to his loving wife, the unparalleled necromancer [[Allessandra]].
 
-He is played by Kate.
+He is played by [[Kate]].
 
 Arlo uses (he/they) pronouns.
 

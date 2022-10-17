@@ -11,6 +11,6 @@ ___
 
 ![[Ireena.jpg]]
 
-She was [[Strahd]]'s sister and I'm really hoping Taanit will come along and fill this bit in cos [[Sergei]] told us a lot.
+She was [[Strahd]]'s sister and I'm really hoping [[Taanit]] will come along and fill this bit in cos [[Sergei]] told us a lot.
 
 tags: [[Barovia Town]]

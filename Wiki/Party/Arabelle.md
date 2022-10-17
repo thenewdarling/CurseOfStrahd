@@ -4,7 +4,7 @@
 
 **Arabelle** is a human warlock with the ability to see the future. She ran a farm outside of [[Krezk]] before joining the [[Heroes of Burning Sun]] on their quest after their destiny was forever altered. 
 
-She is played by Taanit.
+She is played by [[Taanit]].
 
 Arabelle uses (she/her) pronouns.
 
