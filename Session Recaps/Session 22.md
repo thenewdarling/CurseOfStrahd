@@ -46,4 +46,4 @@ Before the light goes out, [[Magda]] sees [[Arlo]] just ahead, lying still, the 
 
 # Credits
 
-Thanks to Taanit for recapping this session!
+Thanks to [[Taanit]] for recapping this session!

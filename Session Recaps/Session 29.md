@@ -32,4 +32,4 @@ With that, the door opens -- Magda sees only a blinding light, but everyone else
 *THE ANARCHIST*
 *I see walls of bones, a chandelier of bones, and a table of bones -- all that remains of enemies long forgotten.*
 
-**The party ends the session with [[Magda]] on 36 HP, [[Jeremiah]] on 31 HP, [[Arlo]] on 38 HP, and [[Arabelle]] on 38 HP. Magda retains a point of exhaustion from her time in Ezmerelda's prison.**
+**The party ends the session with [[Magda]] on 36 HP, [[Jeremiah]] on 12 HP, [[Arlo]] on 38 HP, and [[Arabelle]] on 38 HP. Magda retains a point of exhaustion from her time in Ezmerelda's prison.**

@@ -113,6 +113,6 @@ ___
 # Credit
 
 Thanks to:
-- Taanit for writing the session 13 recap
+- [[Taanit]] for writing the session 13 recap
 - The entire party's downtime chat in "Post-Credits Sequence"
-- Tenderstem for the update at the end.
+- [[Tenderstem]] for the update at the end.

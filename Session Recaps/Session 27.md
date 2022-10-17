@@ -3,7 +3,7 @@
 
 ## Midnight going into Day 24
 
-Established: during downtime [[Arabelle]] has been foraging during the journey from [[Yester Hill]] to [[the Winery]] and to [[Vallaki]], gathering supplies to make potions. (If Taanit would like to provide details, I didn't write them down, sorry!)
+Established: during downtime [[Arabelle]] has been foraging during the journey from [[Yester Hill]] to [[the Winery]] and to [[Vallaki]], gathering supplies to make potions. (If [[Taanit]] would like to provide details, I didn't write them down, sorry!)
 
 The party have arrived at the familiar [[Blue Water Inn]] and met [[Danika]] and [[Blinksy]]. [[Blinksy]] is happy to see [[Drasilla]] and is introduced to [[Arabelle]].
 

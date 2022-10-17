@@ -3,7 +3,7 @@
 
 ## [[Vallaki]] - Day 11 since Arrival in [[Barovia]]
 
-*(Out of character -- Kate is group treasurer now.)*
+*(Out of character -- [[Kate]] is group treasurer now.)*
 
 After discovering the [[Vallakoviches]]' Manor has been burned down by [[Karl]] Watcher, we escort [[Viktor]], his mother, and the newly recovered [[Stella]] to the [[Watcher Manor]], where they can stay for now while the town is in chaos. [[Viktor]] explains that they were able to escape to safety through the Teleportation Circle [[Viktor]] was testing that made [[Stella]] a cat to begin with, and thus they were at Alec's when the house actually began to burn down.
 

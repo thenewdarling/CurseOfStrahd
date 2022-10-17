@@ -24,7 +24,7 @@
 - We are about to go see [[Rurick]] at the church about [[Varian]]'s arm, but we're interrupted by two children who need us to help them. They live on the rundown house on the edge of town. Their names are [[Thorn]] (male) and [[Rose]] (female).
 - The dog was upset by a window in the attic that was rattling. [[Magda]] goes up and closes it. She sees her reflection in the window briefly, and it turns into a corpse and withers away. She doesn't mention this to the rest of the group as it may inadvertently reveal she's a vampire who normally doesn't have a reflection.
 - Dealing with the main problem, [[Jeremiah]] becomes invisible and sneaks into the basement. There is a woman down there surrounded by a pentagram of chalk on the floor. She knew they were in the house from outside the room, and can see through [[Jeremiah]]'s invisibility. 
-- [[Varian]] is almost entranced by some kind of spell. [[Magda]] runs into melee, dealing damage with a sword and Spiritual Weapon - but Luke forgot to actually roll the dice for Cure Wounds, so with 7 HP she immediately goes down.
+- [[Varian]] is almost entranced by some kind of spell. [[Magda]] runs into melee, dealing damage with a sword and Spiritual Weapon - but [[Luke]] forgot to actually roll the dice for Cure Wounds, so with 7 HP she immediately goes down.
 - [[Varian]], who still doesn't have his armour or weapons, picks up [[Magda]]'s sword and pushes back the shade. (With one failed death saving throw, this stopped the shade from getting an auto-crit and immediately killing [[Magda]].)
 - [[Jeremiah]] stabilises [[Magda]] and stands over her body, and as such goes down.
 - With 1 HP left on the last boss, [[Varian]] drops.

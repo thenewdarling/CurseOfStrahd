@@ -15,7 +15,7 @@ He reveals the [[Abbot]]'s name, [[Yalom]], and stops the fight. We find out wha
 
 We find out [[Yalom]] also invented the zombie curse at [[Strahd]]'s behest, right as [[Jeremiah]]'s hand falls off. [[Yalom]] and [[Sergei]] have been trapped in this room for hundreds of years.
 
-[[Sergei]] asks for permission to tell his story, to which Taanit (maybe also [[Varian]]?) says "Hell yeah!"
+[[Sergei]] asks for permission to tell his story, to which [[Taanit]] (maybe also [[Varian]]?) says "Hell yeah!"
 
 He was [[Strahd]]'s mentor, best friend, and brother-in-law. He has died, but nothing leaves [[Barovia]], even in death. He tells us of his love, Tatiana -- [[Strahd]]'s sister. At some point in her life she became ill and was meant to die naturally, but made some kind of dark pact. At first she started feeling better and recovering from that illness, but soon started having cravings - she seems to have been made a vampire by that pact. She tried to contain the urges and was struggling, so her and [[Sergei]] went away to hide and protect other people. Eventually Tatiana succumbed and killed [[Sergei]]. He never told us how Tatiana herself died, only that the world caught up and killed her? After that first death she seems to keep reincarnating, although without memory of her past lives, or at least at first. She is now cursed to fall ill, to die, and turn to vampirism over and over again. But we likely know her under another name -- he shows us a locket containing the face of [[Ireena]]. (GASP!) 
 

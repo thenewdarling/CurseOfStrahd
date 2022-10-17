@@ -69,7 +69,7 @@ And those are his final words as [[Varian]] assassinates him.
 
 [[Magda]] scales the wall of a building as they're escaping, casting Spider Climb and with [[Jeremiah]] making her invisible. She stashes the prison cell key in a chimney. She makes note of where she did this so she can come back and get it if she needs to.
 
-They arrive back at the Blue Water, and -- (Liam rolls) -- no one is up.
+They arrive back at the Blue Water, and -- ([[Tenderstem]] rolls) -- no one is up.
 
 [[Henrick]] is asleep in [[Jeremiah]]'s room.
 

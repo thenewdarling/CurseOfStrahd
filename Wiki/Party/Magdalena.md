@@ -6,7 +6,7 @@
 
 She is a vampire hunter who befell the curse herself over two hundred years ago, and in life was the last Queen of [[Iliadvar]] -- a country which no longer exists in the modern world.
 
-She is played by Luke.
+She is played by [[Luke]].
 
 [[Magda]] uses (she/her) pronouns.
 
