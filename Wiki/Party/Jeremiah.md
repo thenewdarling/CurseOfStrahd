@@ -6,7 +6,9 @@ He is played by Bearded Liam.
 
 [[Jeremiah]] uses (he/him) pronouns.
 
-*see also: [[Jerry]]*
+*see also:*
+*[[Jem]] (given name)*
+*[[Jerry]] (nickname, by the [[Heroes of Burning Sun]])*
 
 Also Known as:
 
