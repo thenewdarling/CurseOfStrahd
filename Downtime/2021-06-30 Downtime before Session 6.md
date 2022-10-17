@@ -84,7 +84,7 @@ He’ll also try to find out if there’s a thieves’ guild and how he can acce
 Once [[Brom]] and [[Bray]] hear you are looking for toys they insist you stop by [[Blinksy]]’s, we’ll get to that after the weapons though 😊
 
 [13-Jul-21 10:12 PM] TenderstDM
-@Valdrid Usually, you would easily notice the tell-tale signs and symbols that mark the entrances to a city’s underworld. [[Vallaki]] seems strangely absent of such signs, perhaps wandering the streets you will be to hear that secret mix of dialect and jargon used to covey messages in thieves’ circles.
+(@ [[Varian]]) Usually, you would easily notice the tell-tale signs and symbols that mark the entrances to a city’s underworld. [[Vallaki]] seems strangely absent of such signs, perhaps wandering the streets you will be to hear that secret mix of dialect and jargon used to covey messages in thieves’ circles.
 
 [15-Jul-21 09:17 PM] TenderstDM
 

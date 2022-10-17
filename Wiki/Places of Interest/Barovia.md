@@ -1,5 +1,5 @@
 *The mists once more are stirring... It's been longer than expected, are we ready to return to Barovia?*
--- [[TenderstDM]]
+-- [[Tenderstem]]
 
 
 The **Valley of Barovia** was a region in the [[Prime Material Plane]], until it was banished into a misty demiplane to serve as the prison of its all-powerful ruler, [[Strahd]] von Zarovich. 
