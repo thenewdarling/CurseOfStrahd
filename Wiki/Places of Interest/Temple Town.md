@@ -1,0 +1,1 @@
+**Temple Town** was a town in the [[Shared World]], with woods to the south where [[Jeremiah]] was born. It is from these woods he gets the surname 'Templeton'.

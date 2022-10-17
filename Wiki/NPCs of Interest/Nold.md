@@ -1,0 +1,1 @@
+[[Nold]] was the Goblin janitor at the [[University of Life]], who took [[Jeremiah]] in. He frowned upon [[Jeremiah]]'s use of magic.

@@ -15,9 +15,9 @@ Magda uses Sacred Flame to burn the cobwebs away, and they progress to a spiral 
 
 Stella and [[Viktor]] have been suspended over a vat of acid in a cage, which is slowly descending over time. The acid begins to bubble up, forming a mass of limbs and faces in groaning terror -- the [[Krezkovs]]. (The players are in shock.)
 
-Magda uses her Spider Climb in effect to run onto the roof and try to pull the chain to stop it descending, which makes the problem worse. There's a key, Cyrus tells us -- and we see a cross-shaped keyhole in the base of the cage. Arabelle and Jeremiah tear up the other rooms around the edge while Arlo and Magda distract the Krezkov creature.
+Magda uses her Spider Climb in effect to run onto the roof and try to pull the chain to stop it descending, which makes the problem worse. There's a key, Cyrus tells us -- and we see a cross-shaped keyhole in the base of the cage. Arabelle and [[Jeremiah]] tear up the other rooms around the edge while Arlo and Magda distract the Krezkov creature.
 
-Jeremiah finds Cyrus fighting back zombies climbing out of a pot, and has an altercation with them, while Arabelle finds several casks of 'Champagne de la Stomp', but no key yet.
+[[Jeremiah]] finds Cyrus fighting back zombies climbing out of a pot, and has an altercation with them, while Arabelle finds several casks of 'Champagne de la Stomp', but no key yet.
 
 Arlo: "For the moment I'm in acid."
 

@@ -331,12 +331,12 @@ _Session 27 Downtime Day Events_
 ## Day 26
 
 - All four members of the party receive an invitation from Strahd in the post, with a first-class stamp... *(See [[Strahd_invitation.jpeg]]*)
-- Jeremiah realises he will likely never be cured of his zombification, and it will continue to degenerate despite [[Yalom]]'s help. It triggers a depressive episode for him.
+- [[Jeremiah]] realises he will likely never be cured of his zombification, and it will continue to degenerate despite [[Yalom]]'s help. It triggers a depressive episode for him.
 
 ### [[Session 28]] begins
 
 *Afternoon*
-- The party search for Jeremiah, who has gone missing following his revelation. Finding him, they convince him to at least follow them for now.
+- The party search for [[Jeremiah]], who has gone missing following his revelation. Finding him, they convince him to at least follow them for now.
 - Strahd's carriage arrives and takes the party, [[Madame Eva]], and [[Ismark]] to [[Castle Ravenloft]].
 - Strahd murders Ismark.
 - Strahd uses his Charm ability on Magda for the first time, revealing her weakness to it.

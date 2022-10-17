@@ -10,11 +10,6 @@ Jeremiah uses (he/him) pronouns.
 *[[Jem]] (given name)*
 *[[Jerry]] (nickname, by the [[Heroes of Burning Sun]])*
 
-Also Known as:
-
-Jem (Given name)
-Jerry (by the [[Heroes of Burning Sun]])
-
 ### Background
 
 Jeremiah was born in the woods south of [[Temple Town]] where he lived with his goblin Mother. 

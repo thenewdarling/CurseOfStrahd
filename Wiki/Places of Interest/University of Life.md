@@ -1,0 +1,1 @@
+The **University of Life** was a College of Necromancy in [[Temple Town]], where [[Jeremiah]] received his initial magical training in secret, before fleeing into the night and changing his name.

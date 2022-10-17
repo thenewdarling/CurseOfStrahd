@@ -8,7 +8,7 @@ Won't you mum?
 My mother needs to be buried Sister.
 Do you have a family grave in this town?
 No, we're.. well, she's from across the sea.
-I'm sorry, temple town has reservations on all its graves, we cannot bury anyone else.
+I'm sorry, [[Temple Town]] has reservations on all its graves, we cannot bury anyone else.
 Please, she always talked of her love for the Thunder god, surely he would want her buried in his shadow?
 Talos is no mere god of Thunder. If you knew that then you would know that the Storm Lord's shadow stretches everywhere. Good day boy, I must attend to my congregation.
 
@@ -28,11 +28,11 @@ Stop worrying! you're a smart lad, see? WHat's that you've got hidden behind you
 I... I can't take these sir.
 You're not taking them! They belong to you! Come in with me and I'll make sure you get extra rashers on your breakfast, I know the barman y'see.
 
-What did you get from him Nold? I saw a flick of your wrist when he pushed past but not what you took?
+What did you get from him [[Nold]]? I saw a flick of your wrist when he pushed past but not what you took?
 And what in the seven hells were you doing watching lad? I can't have the professors noticing you.
 Well you didn't see me and You know I can't do magic, so they're never going to spot me either!
 You're getting cocky, but you spot more than I do these days. I need you to take these books to the fence today. I've got a lot of cleaning to do and I'll be missed.
-Should we really be stealing the books Nold? Isn't it well... wrong?
+Should we really be stealing the books [[Nold]]? Isn't it well... wrong?
 It's also wrong to expect a janitor to be at your call at all hours for barely a silver piece a week!
 Two wrongs don't-
 Lose the university more than a few copper pieces a year. Stop reading those fables of yours.
@@ -41,7 +41,7 @@ True, but only the ones who treat me as a servant won't notice me stealing. And 
 But-
 Off with you! I'm being summoned to a clogged toilet on the 4th floor
 
-Nold?
+[[Nold]]?
 Yes lad?
 Why don't you leave?
 What?
@@ -61,9 +61,9 @@ Eat your dinner!
 I saw that Jem, you stole from the barkeep
 He wagered that gold fair and square!
 If it was fair he would have won at least once, you can't pull that on people we have to see every day, much less the man who feeds us.
-You said I had to practice or I'd never be a rogue Nold!
+You said I had to practice or I'd never be a rogue [[Nold]]!
 Well take this as a lesson I'm letting you learn the easy way.
-I'm gonna be the best Rogue! People are going to tremble at the name Jem of Temple Town!
+I'm gonna be the best Rogue! People are going to tremble at the name Jem of [[Temple Town]]!
 Here's another lesson Jem, Don't say "of" only nobles do that. That'll be the first sign you're lying. Just go with Templeton.
 
 Only 6 silver? it should have been seven?
@@ -73,13 +73,13 @@ Not a Happy bunny.
 Where'd you learn words like that?
 At the bar.
 Ah right. Get to bed, that thee sore uss was under your pillow by the way, it can't be comfy.
-Nold I-
+[[Nold]] I-
 Don't worry lad, at least it's not magic.
 
 You're old enough to leave now lad, go before there's any more reason to stay.
-Nold, you're sick, I'm not leaving.
+[[Nold]], you're sick, I'm not leaving.
 I'm not sick lad, I'm dying, and when I die the University will investigate and assume you killed me.
-You're not dying Nold. Even if you were, students have seen me around and would just assume I was the new janitor.
+You're not dying [[Nold]]. Even if you were, students have seen me around and would just assume I was the new janitor.
 Don't get locked into this life, leave, have a good life, be who you wanted to be, be good.
 I can do that here, my life is good here.
 ...
@@ -124,7 +124,7 @@ Yeah, a caravan or two, what, you want to go with them?
 I don't have enough to get me anywhere and you know it.
 Maybe, but I could maybe sell an artif-
 I'm not going to steal an-
-No, keep your voice down, I just meant that you have Nold's stuff right... Well he had a ring he would never have sold...
+No, keep your voice down, I just meant that you have [[Nold]]'s stuff right... Well he had a ring he would never have sold...
 
 It's 3 Silver to Malazan my good sir, you'll be bunking with a few others mind.
 I don't mind thank you. 
@@ -133,4 +133,4 @@ Well, I'd know wouldn't I
 Oh i meant, I mean-
 Don't worry about it
 Here, I think if you're bunking you should get a silver back mister...
-Templeton, Jeremiah Templeton
+Templeton, [[Jeremiah]] Templeton

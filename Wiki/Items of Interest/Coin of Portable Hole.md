@@ -5,4 +5,4 @@ It was forged in [[Argynvosthold]], and is inscribed with the phrase: *"We are t
 It has the ability to transform into a traditional magical portable hole.
 
 #### Other Details
-- It canonically makes a flash of light when Jeremiah activates it, making it unsuitable for stealth missions.
+- It canonically makes a flash of light when [[Jeremiah]] activates it, making it unsuitable for stealth missions.
