@@ -348,4 +348,23 @@ _Session 27 Downtime Day Events_
 
 ### [[Session 29]] begins
 
-(to come)
+- The party travel through [[Castle Ravenloft]], and fight the monster that became of the [[Krezkovs]].
+
+### [[Session 30]] begins
+
+- The party receive the [[Holy Symbol of Ravenkind]] from [[Strahd]] and are told to travel to [[Berez]] to retrieve the [[Skull of Argynvost]].
+- Before going to sleep, [[Arabelle]] casts *Gaseous Form* and attempts to explore the castle before she enters the anti-magic field set by the gargoyles and is caught by [[Rahadin]], who knocks her out with a poison dart and takes her blood.
+- [[Sasha]] breaks in through the window at night, and fights the party. ([[Arabelle]] is unconscious for all of this.)
+	- [[Jeremiah]] narrowly escapes death.
+- After being destroyed by the [[Holy Symbol of Ravenkind]] and impaled, [[Sasha]] urges "He cannot... be allowed... to leave." 
+
+## Day 27
+
+- [[Cyrus]] rouses the party, and escorts them from the premises.
+- [[Rahadin]] explains to them that the carriage will take them all, including [[Stella]] and [[Viktor]], back to [[Vallaki]], at which point he will accompany them to [[Berez]].
+
+## Day 28
+
+- The party is ambushed, and [[Rahadin]] is forced to engage.
+- [[Ireena]] appears through the magical darkness and urges the party to run with her.
+- [[Jeremiah]], who stops to try and cut the vial of [[Arabelle]]'s blood from [[Rahadin]]'s pouch, is unable to reach the tree before [[Ireena]] closes it, apologising.
