@@ -6,7 +6,7 @@
 - [[Arabelle]] attempts to touch the object, and has a vision of a feathered face, partly humanoid. She is forced back.
 - [[Jeremiah]] attempts to cast *Identify*, and with a nat 20 to maintain grip on the object -- he identifies it as the [[Holy Symbol of Ravenkind]].
 - Arabelle covers the symbol and takes it.
-- Strahd wants us to go to [[Berez]], to retrieve the [[Skull of Argynvost]] from the [[Witches of Berez]]. "The skull is mine by right. I defeated [Luke's notes are scribbled here] Argynvost long ago." 
+- Strahd wants us to go to [[Berez]], to retrieve the [[Skull of Argynvost]] from the [[Witches of Berez]]. "The skull is mine by right. I defeated [[Argynvost]] long ago." 
 	- When asked what he needs it for, he says, "Pride? Glory? Decide for yourself."
 - Strahd leaves, telling us there are beds available.
 - Arabelle gives [[Cyrus]] another mushroom.

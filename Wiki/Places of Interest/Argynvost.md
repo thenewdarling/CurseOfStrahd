@@ -1,1 +1,1 @@
-![[Argynvosthold]]
+**Argynvost** was the leader of the Silver Knights within [[Argynvosthold]]. He was killed many years ago by [[Strahd]] and his skull was kept as a trophy, before falling into the hands of the [[Witches of Berez]]. *See [[Skull of Argynvost]]*
