@@ -2,7 +2,7 @@
 
 ## *Session beginning Day 26*
 
-- Within the Hall of Bones, [[Strahd]] throws a cloth over an object on the table. The light which blinded [[Magda]] to the contents in the room fade.
+- Within the Hall of Bones, [[Strahd]] throws a cloth over an object on the table. The light which blinded [[Magda]] to the the room and its contents fades.
 - [[Arabelle]] attempts to touch the object, and has a vision of a feathered face, partly humanoid. She is forced back.
 - [[Jeremiah]] attempts to cast *Identify*, and with a nat 20 to maintain grip on the object -- he identifies it as the [[Holy Symbol of Ravenkind]].
 - Arabelle covers the symbol and takes it.
@@ -14,7 +14,7 @@
 - The bones in the room come to life, and [[Arlo]] stops Cyrus attacking Jeremiah.
 - Cyrus leads us to a wing of the house with a shared hallway and bedrooms off to one side.
 - Jeremiah tries to pick the lock.
-- Arabelle finds a harp under the bed, which Jeremiah confirms is just a regular harp (from a magical enchantment POV).
+- Arabelle finds a harp under the bed, which Jeremiah confirms is just a regular harp (as far as magical aura is concerned).
 - Arabelle hands the Holy Symbol of Ravenkind to Arlo, saying "I'll be right back," and casts *Gaseous Form* on herself to sneak through the door.
 	- Arlo: "Every woman in my life is a fucking genius."
 - Arabelle meets the creepy doll, [[Pidlwick]] II.
@@ -32,12 +32,13 @@
 
 - The party fight with [[Sasha]].
 - Jeremiah almost drops, falling unconscious and being saved by his *Mirror Image*, while Arlo uses the Holy Symbol of Ravenkind to repel Sasha (The light keeps Magda out of the room, unable to cast healing magic without a line of sight.)
-- Arlo drops the Symbol to allow Magda into the room, who casts *Spare the Dying* before dealing the finishing blow to Sasha. Sasha clutches at her as she dies, "You can't... let him... leave..."
+- Arlo drops the Symbol to allow Magda into the room, who casts *Spare the Dying* before dealing the finishing blow to Sasha. 
+- Sasha clutches at Magda as she dies, "You can't... let him... leave..."
 	- Magda picks up Sasha's holy symbol of Asmodeus out of her ashes, considers it for a moment as she brushes it off... and throws it out the window where it disappears into the mists.
 
 ## Day 27 - [[Castle Ravenloft]]
 
-- The party are awoken by Rahadin, who informs them he has a vial of Arabelle's blood, and will be able to track them as usual.
+- The party are awoken by Rahadin, who informs them he has a vial of Arabelle's blood, and will be able to track them as he does the rest of the party.
 - Strahd's plan is for Rahadin to use the carriage to drop the party, [[Viktor]] and [[Stella]] off at [[Vallaki]], where he will lead the party on foot to [[Berez]].
 - Arriving in Vallaki, the party bid a short farewell to the children, before beginning the journey to Berez.
 	- Magda casts *Find Familiar* on the first night.
@@ -49,9 +50,9 @@
 - Jeremiah's Ranger training tells him someone is following behind them.
 - Arabelle casts *Speak with Animals* and asks a squirrel to go and find out what is happening.
 - Rahadin finally works out someone is following them. "Show yourself."
-- A man tells everyone to drop their weapons. We do, Rahadin doesn't.
-- The man drops some kind of magical darkness on the field, and we see a glint of [[Ireena]], who appears with a gleaming sword and tells us to run!
-- We run, but Jeremiah stops to try and cut Rahadin's bag with the vial of blood, and as a result he's too slow. There is some kind of oak tree with a portal in it that Ireena rushes us all into.
+- A man tells everyone to drop their weapons. We do. Rahadin doesn't.
+- The man drops some kind of magical darkness on the surroundings, and we see a glint of [[Ireena]], who appears with a gleaming sword and tells us to run!
+- We run, but Jeremiah stops to try and cut Rahadin's bag (in order to retrieve the vial of blood). As a result he's too slow to keep up with the others. There is some kind of oak tree with a portal in it that Ireena rushes us all into.
 - Ireena says to him quickly, "I'm sorry", and closes the portal on him, blocking both him and Rahadin off from the rest of the party.
 
 **The party ends the session with [[Magda]] on 31 HP, [[Jeremiah]] on 7 HP, [[Arlo]] on 31 HP, and [[Arabelle]] on 21 HP. (May be off as we took many short rests.)**
