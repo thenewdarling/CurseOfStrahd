@@ -53,6 +53,7 @@
 - A man tells everyone to drop their weapons. We do. Rahadin doesn't.
 - The man drops some kind of magical darkness on the surroundings, and we see a glint of [[Ireena]], who appears with a gleaming sword and tells us to run!
 - We run, but Jeremiah stops to try and cut Rahadin's bag (in order to retrieve the vial of blood). As a result he's too slow to keep up with the others. There is some kind of oak tree with a portal in it that Ireena rushes us all into.
-- Ireena says to him quickly, "I'm sorry", and closes the portal on him, blocking both him and Rahadin off from the rest of the party.
+- Jeremiah overtakes Rahadin, and almost gets into the portal, before Rahadin critical hits him with a rope arrow and pulls him back.
+- Ireena whispers to Jeremiah, "I'm sorry", and closes the portal on him, blocking both him and Rahadin off from the rest of the party.
 
 **The party ends the session with [[Magda]] on 31 HP, [[Jeremiah]] on 7 HP, [[Arlo]] on 31 HP, and [[Arabelle]] on 21 HP. (May be off as we took many short rests.)**
