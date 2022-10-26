@@ -357,6 +357,7 @@ _Session 27 Downtime Day Events_
 - [[Sasha]] breaks in through the window at night, and fights the party. ([[Arabelle]] is unconscious for all of this.)
 	- [[Jeremiah]] narrowly escapes death.
 - After being destroyed by the [[Holy Symbol of Ravenkind]] and impaled, [[Sasha]] urges "He cannot... be allowed... to leave." 
+- *The events of [[Magda]] lore document 'In The Belly of the Beast' happen now.*
 
 ## Day 27
 
