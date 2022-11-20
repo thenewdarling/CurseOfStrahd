@@ -1,0 +1,3 @@
+There was no warning, not a whisper of wind, or murmur of thunder, as the rain filled the river. When the dam broke, the few who screamed were too little and too late. Vacant eyes hung from the gallows, showing neither pleasure nor sorrow, as those who had wronged them were swept from the world. They look to you now. Reflected in the murky whites, a thing of twisted malice is waiting. The witch.
+
+*(Documented 4th July 2022)*
