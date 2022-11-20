@@ -56,4 +56,4 @@
 - Jeremiah overtakes Rahadin, and almost gets into the portal, before Rahadin critical hits him with a rope arrow and pulls him back.
 - Ireena whispers to Jeremiah, "I'm sorry", and closes the portal on him, blocking both him and Rahadin off from the rest of the party.
 
-**The party ends the session with [[Magda]] on 31 HP, [[Jeremiah]] on 7 HP, [[Arlo]] on 31 HP, and [[Arabelle]] on 21 HP. (May be off as we took many short rests.)**
+**The party ends the session with [[Magda]] on 31 HP, [[Jeremiah]] on 7 HP, [[Arlo]] on 31 HP, [[Arabelle]] on 21 HP, and [[The Unnamed Golem]] on full health. (May be off as we took many short rests.)**

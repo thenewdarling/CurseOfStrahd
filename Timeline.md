@@ -277,7 +277,7 @@ Downtime events before Session 6:
 
 - The party wake and take the day off in a long rest.
 - Come evening, when her spell slots return, [[Magda]] attempts to contact [[Ezmerelda]], who appears to be in another dimension -- in total darkness, unable to escape after the events of [[Arabelle]]'s vision.
-- She also uses Divination to ask [[Asmodeus]] where they might find the hilt of the sword, and is told a cryptic phrase about the Amber Temple.
+- She also uses Divination to ask [[Asmodeus]] where they might find the hilt of the sword, and is told a cryptic phrase about the [[Amber Temple]].
 
 ## Day 21
 
@@ -367,5 +367,18 @@ _Session 27 Downtime Day Events_
 ## Day 28
 
 - The party is ambushed, and [[Rahadin]] is forced to engage.
-- [[Ireena]] appears through the magical darkness and urges the party to run with her.
+- [[Ireena]] appears through the magical darkness and urges the party to run with her, opening a portal in a tree.
 - [[Jeremiah]], who stops to try and cut the vial of [[Arabelle]]'s blood from [[Rahadin]]'s pouch, is unable to reach the tree before [[Ireena]] closes it, apologising.
+
+### [[Session 31]] begins
+
+- Without [[Jeremiah]] the rest of the party find themselves in [[Argynvosthold]] on the other side of the portal -- the one place [[Strahd]] can never come himself.
+- They meet [[Van Richten]] and strategise about their next move. He tells them the true purpose of the [[Amber Temple]].
+- [[Arlo]] begins to attune to [[Strahd's diary]] from when he was human.
+- [[Van Richten]] awakens the [[Golem's Eye]] in [[Arlo]]'s bag, introducing the party to [[The Unnamed Golem]].
+
+## Day 29 - on the edge of [[Argynvosthold]]
+
+- The party rest overnight.
+- [[Strahd]] sends [[Ezmerelda]]'s eyeball in a coffin by horseback. [[Magda]] burns it, suspecting surveillance.
+- The party depart to enter [[Argynvosthold]] proper.
