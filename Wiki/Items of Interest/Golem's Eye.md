@@ -1,5 +1,9 @@
 The **Golem's Eye** is a rare artefact containing a demonic entity. One featured in the [[Curse of Strahd campaign]], where it was owned by [[Shay]] the Kenku before being traded to the party.
 
+In [[Session 31]] it was revealed by [[Van Richten]] that it belonged to [[Sasha]] originally, at which point he animates it into **[[The Unnamed Golem]]**.
+
+#### Magic Item Information
+
 *It is thought that sorcerers once knew how to imprison spiritual beings such that they would serve their needs; cloaks that would allow their wearer to step into the ethereal, gauntlets that would lend great strength, orbs that would give agency to the otherwise inanimate. The eye hums with the energy of that trapped within it – attuning to the orb imposes one’s will upon the demon. Once each day, the user may bind the eye with an object, any non-magical substance will give way to the orb and best gather itself into a suitable form.*
 
 The Golem's Eye has the following magical effects:
