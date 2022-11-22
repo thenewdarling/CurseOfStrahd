@@ -1,10 +1,6 @@
-SPOILERS BELOW!
+*SPOILERS BELOW!*
 
-
-_____
-
-
-**Danton** is an alias of the famous vampire hunter, Dr. Rudolph [[Van Richten]].
+**Danton** is an alias of the famous vampire hunter, **Dr. Rudolph [[Van Richten]]**.
 
 The party initially meet him in this guise, as a "Great Performer from [[Krezk]]", who was staying in [[Vallaki]] at the [[Blue Water Inn]].
 
