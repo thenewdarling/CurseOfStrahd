@@ -12,7 +12,7 @@ After [[Strahd]] leaves, the wind dies down but the rain is still heavy. They ha
 
 [[Magda]] creates two stakes, and they go to the apothecary, [[Bildrith]]'s Mercantile -- but do not buy anything.
 
-[[Ireena]] leads them to the [[Vistani camp]]. They travel through the night, and Irina explains she intends to continue on to Velaki afterwards. She is looking for a famous vampire hunter, [[Van Richten]].
+[[Ireena]] leads them to the [[Vistani camp]]. They travel through the night, and Irina explains she intends to continue on to [[Vallaki]] afterwards. She is looking for a famous vampire hunter, [[Van Richten]].
 
 The party pass a gallows, and [[Ireena]] explains with so few resources, the death penalty is often the only way to control crime. [[Jeremiah]] tries to sell [[Ireena]] socialism.
 
