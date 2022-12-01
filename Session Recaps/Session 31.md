@@ -16,7 +16,7 @@
 - [[Arlo]] begins a twenty-four hour attunement process with [[Strahd's diary]].
 - [[Magda]] mentions that she saw [[Ezmerelda]]'s prison. [[Van Richten]] supposes that she is part of the party's foretold fortune. If [[Strahd]] suspects she is part of the prophecy, he will keep her alive.
 - [[Arabelle]] worries that the WIZARD card that burned away in her reading was [[Jerry]] after all.
-- [[Van Richten]] sees the [[Golem's Eye]], and reanimates it as a boon for the party -- introducing us to [[The Unnamed Golem]].
+- [[Van Richten]] sees the [[Golem's Eye]], and reanimates it as a boon for the party -- introducing us to [[Neander]].
 - [[Magda]] sends a message to [[Jeremiah]]: *'Jeremiah. Stay strong. We're coming to get you soon. Where are you?'*
 
 ## Day 29 - [[Argynvosthold]]
@@ -26,4 +26,4 @@
 
 *While Arlo is attuning, [[Ireena]] will be played by [[Kate]] in the sessions within the keep.*
 
-**The party ends the session with [[Magda]] on 27 HP, [[Arlo]] on 31 HP, [[Arabelle]] on 21 HP, and [[The Unnamed Golem]] at full health.**
+**The party ends the session with [[Magda]] on 27 HP, [[Arlo]] on 31 HP, [[Arabelle]] on 21 HP, and [[Neander]] at full health.**

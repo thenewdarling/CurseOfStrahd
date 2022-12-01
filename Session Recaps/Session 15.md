@@ -54,7 +54,7 @@ We wake, and are approaching [[Krezk]]. We notice the fog is thicker out west, a
 
 There is a mountain structure with a path snaking up, and we're walking along the road when we find a horse lying on the ground twitching. It's broken its leg, seemingly having fallen from jumping over the fence. Its rider is underneath it, crushed to death.
 
-A young woman called [[Arabelle]] climbs out of the bushes and puts the horse out of its misery. It's her horse, and the man who had been riding it had been trying to steal it. She is personable, and gives us information about the abbey. She reinforces something that [[Ezmerelda]] also told us -- that the [[Abbot]] doesn't heal many people.
+A young woman called [[Arabelle]] climbs out of the bushes and puts the horse out of its misery. It's her horse, and the man who had been riding it had been trying to steal it. She is personable, and gives us information about the [[abbey]]. She reinforces something that [[Ezmerelda]] also told us -- that the [[Abbot]] doesn't heal many people.
 
 She also seems to immediately clock [[Jeremiah]] and [[Magda]]'s 'situation's. [[Magda]] rankles at this. 
 "You're a very perceptive young girl, aren't you?" 
@@ -62,6 +62,6 @@ She also seems to immediately clock [[Jeremiah]] and [[Magda]]'s 'situation's. [
 "Perhaps you should learn to keep your nose out of other people's business."
 [[Arabelle]] seems generally unflustered by this, and wishes us well.
 
-We lead our horses by foot up the thin hill to the abbey, and leave them with a stable hand for a few gold pieces, joining a queue to see the [[Abbot]].
+We lead our horses by foot up the thin hill to the [[abbey]], and leave them with a stable hand for a few gold pieces, joining a queue to see the [[Abbot]].
 
 **The party ends the session with [[Magda]] on 46 HP, [[Jeremiah]] on 26 HP, [[Arlo]] on 65 HP, and [[Varian]] on 28 HP. (If I'm remembering right) the entire party have a point of exhaustion, either from travelling through the night, or from the cackle fever.**

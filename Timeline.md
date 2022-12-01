@@ -178,7 +178,7 @@ Downtime events before Session 6:
 
 - In the distance we can see the edge of the world of [[Barovia]] where the mists become impenetrably thick.
 - We find a horse in the road with a broken leg, its rider crushed by its fall. The horse belongs to a young woman named [[Arabelle]] who lives on the local farm.
-- The party lead their horses by foot up the thin hill to the abbey, and leave them with a stable hand for a few gold pieces, joining a queue to see the [[Abbot]].
+- The party lead their horses by foot up the thin hill to the [[abbey]], and leave them with a stable hand for a few gold pieces, joining a queue to see the [[Abbot]].
 
 #### Downtime before Session 16
 
@@ -188,20 +188,20 @@ Downtime events before Session 6:
 
 - As [[Jeremiah]] won't be able to get in, [[Magda]] stays with him outside the boundary.
 - The guards make a small cut in [[Arlo]] and [[Varian]]'s hands to prove they aren't infected, and allow them entry.
-- [[Arlo]] and [[Varian]] meet Genril, an abbey worker who they hand 15gp over to in order to be allowed an audience with him. (This quickly proves to be a pointless gesture.)
-- They meet [[Karloman]], a monk who explains about the blinding initiation ritual all monks here must go through (including him, even though he wasn't accepted). They also learn that the [[Abbot]] doesn't leave the Abbey ever, and very rarely heals people.
+- [[Arlo]] and [[Varian]] meet Genril, an [[abbey]] worker who they hand 15gp over to in order to be allowed an audience with him. (This quickly proves to be a pointless gesture.)
+- They meet [[Karloman]], a monk who explains about the blinding initiation ritual all monks here must go through (including him, even though he wasn't accepted). They also learn that the [[Abbot]] doesn't leave the [[Abbey]] ever, and very rarely heals people.
 - They also learn about the [[Krezkovs]] -- the [[Abbot]] seems to be in their pocket.
-- [[Magda]] and [[Varian]] are asked by the stable keeper to retrieve scales from the bottom of a pond inside the Abbey, and gives them a key.
+- [[Magda]] and [[Varian]] are asked by the stable keeper to retrieve scales from the bottom of a pond inside the [[Abbey]], and gives them a key.
 - [[Arlo]] and [[Varian]] meet the [[Vistani]] traders, and recognise them from the camp in the first week of their arrival. They come here to sell [[Alanatis]] flowers to the [[Krezkovs]], which they retrieve on their trips to the outside world [[Strahd]] permits them.
 - The group reconvenes outside the main gate and [[Jeremiah]] turns invisible so they can all get through the gate.
-- To take advantage of his invisibility timer, [[Jeremiah]] does a reconnoiter for other entrances to the Abbey.
+- To take advantage of his invisibility timer, [[Jeremiah]] does a reconnoiter for other entrances to the [[Abbey]].
 
 ### Session 17 begins
 
 - After checking the place out, [[Jeremiah]] uses the last of his invisibility so they can all sneak into the food court. The party attempt to hide him in a corner. They introduce him to [[Karloman]], who is attempting to be friendly but is clearly terrified.
 - [[Markug]] spots the extra person in our group, and is on his way over, when [[Magda]] interposes herself between them. When it's clear he's not going to leave her, she uses her new vampire Charm ability and enthralls him, leading him away.
 - [[Varian]] questions him -- he doesn't know the guard shifts but his sister, [[Areti]], will.
-- That night, they sneak into the Abbey.
+- That night, they sneak into the [[Abbey]].
 - [[Jeremiah]] flies down into the pool to retrieve the scales on the bottom, not needing to breathe in his current state. It doesn't damage him, but he is immune to poison so we don't know much more.
 - Jumping into the pool seemed to alert the orbs, which start to attack. 
 - There is a statue to get inside which needs to be filled with water from the pool. After [[Magda]] drops into the pool, and discovers immediately that it is all holy water, she's soaked. Upon taking damage, uses Misty Escape to teleport to the woman, wringing her sleeves out and filling the statue's hands. They fill halfway, and this time it sticks.
@@ -375,10 +375,14 @@ _Session 27 Downtime Day Events_
 - Without [[Jeremiah]] the rest of the party find themselves in [[Argynvosthold]] on the other side of the portal -- the one place [[Strahd]] can never come himself.
 - They meet [[Van Richten]] and strategise about their next move. He tells them the true purpose of the [[Amber Temple]].
 - [[Arlo]] begins to attune to [[Strahd's diary]] from when he was human.
-- [[Van Richten]] awakens the [[Golem's Eye]] in [[Arlo]]'s bag, introducing the party to [[The Unnamed Golem]].
+- [[Van Richten]] awakens the [[Golem's Eye]] in [[Arlo]]'s bag, introducing the party to [[Neander]].
 
 ## Day 29 - on the edge of [[Argynvosthold]]
 
 - The party rest overnight.
 - [[Strahd]] sends [[Ezmerelda]]'s eyeball in a coffin by horseback. [[Magda]] burns it, suspecting surveillance.
 - The party depart to enter [[Argynvosthold]] proper.
+
+### [[Session 32]] begins
+
+- The party traverse [[Argynvosthold]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks something in the [[Amber Temple]].

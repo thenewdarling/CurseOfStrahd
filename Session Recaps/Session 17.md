@@ -11,7 +11,7 @@ They introduce him to [[Karloman]], who attempts to be friendly but is clearly t
 
 [[Varian]] questions him -- he doesn't know the guard shifts but his sister, [[Areti]], will.
 
-Once it goes dark, they sneak into the Abbey -- [[Jeremiah]] flying over the fence, [[Magda]] using Spider Climb, and [[Varian]] throwing a rope over for [[Arlo]]. The shining orbs seem to pay them no mind, and the Monk praying at the foot of the pool is in some kind of trance.
+Once it goes dark, they sneak into the [[Abbey]] -- [[Jeremiah]] flying over the fence, [[Magda]] using Spider Climb, and [[Varian]] throwing a rope over for [[Arlo]]. The shining orbs seem to pay them no mind, and the Monk praying at the foot of the pool is in some kind of trance.
 
 The secret entrance is guarded by a statue with the inscription: "We bring water in memory of our saint." The statue is a woman holding her hands out. If [[Arlo]] pours his waterskin into the woman's hands it runs through her fingers.
 

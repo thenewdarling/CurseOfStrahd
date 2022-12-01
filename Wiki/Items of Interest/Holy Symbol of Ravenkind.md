@@ -4,4 +4,6 @@ When not covered, lesser vampires such as [[Sasha]] and [[Magda]] see only a bli
 
 [[Arlo]] used it to destroy [[Sasha]] when she attacked the party in [[Session 30]].
 
+According to [[Ireena]], it is associated with both the [[Morning Lord]] and [[Mother Night]].
+
 ![[Holy_Symbol_of_Ravenkind.jpg]]

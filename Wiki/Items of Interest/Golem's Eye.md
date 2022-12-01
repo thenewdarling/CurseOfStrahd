@@ -1,6 +1,6 @@
 The **Golem's Eye** is a rare artefact containing a demonic entity. One featured in the [[Curse of Strahd campaign]], where it was owned by [[Shay]] the Kenku before being traded to the party.
 
-In [[Session 31]] it was revealed by [[Van Richten]] that it belonged to [[Sasha]] originally, at which point he animates it into **[[The Unnamed Golem]]**.
+In [[Session 31]] it was revealed by [[Van Richten]] that it belonged to [[Sasha]] originally, at which point he animates it into **[[Neander]]**.
 
 #### Magic Item Information
 
