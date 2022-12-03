@@ -11,7 +11,7 @@ Reconvening with [[Viktor]], we learn his once-betrothed [[Stella]] Watcher, (be
 
 We learn of [[Saint Andreal]] of the [[Morning Lord]], who brought the religion to [[Barovia]]. Her remains have recently been desecrated but this is not common knowledge, and if it got out it would cause a riot. The [[Vallakoviches]] think this is sabotage by the [[Watchers]].
 
-We learn of [[Argynvosthold]], where the [[Coin of Portable Hole]] [[Jeremiah]] has comes from -- the inscription mentions it: "We are the Light, that watches over the Dark".
+We learn of [[Argynvostholt]], where the [[Coin of Portable Hole]] [[Jeremiah]] has comes from -- the inscription mentions it: "We are the Light, that watches over the Dark".
 
 The [[Baron]] is either really tight, broke, or both. He wants us to lead the parade that [[Danton]] is running in two days’ time (Day 11).
 

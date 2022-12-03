@@ -1,6 +1,6 @@
-**Argynvosthold** is an area situated between [[Krezk]] and [[Vallaki]] to the south. It is one of the only two places in [[Barovia]] that [[Strahd]] cannot enter, the other being the [[Amber Temple]].
+**Argynvostholt** is an area situated between [[Krezk]] and [[Vallaki]] to the south. It is one of the only two places in [[Barovia]] that [[Strahd]] cannot enter, the other being the [[Amber Temple]].
 
-![[Argynvosthold.jpeg]]
+![[Argynvostholt.jpeg]]
 
 It was once watched over by the [[Silver Knights]], however after being defeated by [[Strahd]] they are undead ghostly husks of their former selves, unable to move on, wandering in a stupor, and slowly forgetting all of their memories.
 
