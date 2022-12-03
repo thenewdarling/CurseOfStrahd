@@ -263,6 +263,7 @@ Downtime events before Session 6:
 - Under the tree they are faced with an endless army of shades which has them almost completely out of resources.
 - [[Arlo]] and [[Varian]] find the hilt of the [[Sun Sword]] inside the tree's root system, held in the mostly-decomposed form of [[Nicholas]]' body.
 - [[Varian]] knocks [[Arlo]] out and takes it, fleeing the scene.
+	- Some time after this, the events of lore document *Darkly I Gaze Into The Days Ahead* occur.
 
 ### Session 23-25 begin (Lisbon)
 
