@@ -2,6 +2,8 @@
 
 ## Magda has a change of heart (Day 29)
 
+*[09:51] Magdalena de Luna (she/her):*
+
 *Previously on Curse of Strahd…*
 
 Magda is unconscious and bleeding out. Arabelle slides down off the roof, holding a life-saving potion, and poises to administer it. Ireena, still fighting off the undead lord Vladimir, reaches across and uses Lay on Hands. The Morning Lord’s righteous light flows through Magda, burning like ice even as it heals, and her eyes snap open. Arabelle stands over her, and Magda sees the fear in her eyes, sees an arrow fly overhead—
@@ -25,3 +27,18 @@ And when she’d dropped this time, there had been nothing. No-one on the other 
 *And now… in downtime:*
 
 Magda turns, and grabs Arabelle in a hug. “I’m sorry. I’m so sorry.”
+
+
+
+*[10:07] Arabelle (she/her):*
+Arabelle is taken by surprise, adrenaline still pumping through her veins after the battle. At first she tenses up, afraid, not knowing what’s happening. Then, hearing the pain and regret in Magda’s voice, she relaxes and hugs her back. “It’s ok. You’re ok. We got you.”
+
+*[18:04] Magdalena de Luna (she/her):*
+
+Magda clutches the back of Arabelle's head in her hug as she catches her breath. "A fool. A fool. A fool," she whispers to herself.
+
+And then she breaks the hug. Her face is stained with tears and muck and blood. She makes no attempt to wipe any of it away. "If Varian hurt me when I left, it's only because he did what I would have done. What I expected we all would do, in that situation. But I was wrong. I think..." She takes a breath, ragged and vulnerable. "I still thought I could do this alone. If I needed you, it was only as a tool. But I was wrong."
+
+She looks down at the empty healing potion in her hand, the sparkling red dregs circling the bottom of the jar. And then... a smirk breaks through. Then a chuckle. Then a laugh, rising in pitch, fuelled by endorphins, unhinged. "My husband used to say to me, a *long* time ago..." She deepens her voice and puffs out her chest in an impression of a very serious man. "*'Magda. Your problem is you never know when you are beaten.'*" She laughs again, a witch's cackle. "I used to think, 'Yeah. I don't. And that's why I'm still standing here and you're in the ground.' But he was right. The old bastard was right." Still laughing, she hurls the healing potion bottle off the roof of the fort, watches it disappear into the mists. "Well. I know now. I am beaten. And bruised. And broken." 
+
+She takes a deep breath like a weight has been lifted from her, and says absently, "We need to find Jeremiah, he's probably being eaten by bears as we speak." And then, she takes Arabelle's hands. "I promise to do better. And to treat you all as the treasures I have been blessed with. Because without you all, I wouldn't be here."
