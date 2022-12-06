@@ -50,3 +50,11 @@ Arabelle looks around at what is left of the once fearsome and noble Silver Knig
 *[08:46] Magdalena de Luna (she/her):*
 
 "That you are. We'd be lost without you." Magda squeezes Arabelle's shoulder, before turning to Ireena. "And thank you for the assist. I would've been a goner. In the interest of my new-found honesty, I think... we need to rest. Hm?" She turns to the whole group. "I don't know about you but I've been running on fumes since before Castle Ravenloft."
+
+*[08:54] Arabelle (she/her):*
+
+“I know you’re tired, but we still have to go find this guy’s tomb. We have the key now, can’t be that hard, right?”
+
+*[09:34] Magdalena de Luna (she/her):*
+
+"Yes, famously the heart of the tomb _doesn't_ hold the most powerful locked-away creatures," Magda snickers, but she's resigned. "Okay. What's once more unto the breach, hm? But I warn you... my strength is spent." But she looks down, as she feels a warmth around her hip. The symbol of Asmodeus on her sword, the hilt of Traitor itself, glows imperceptibly. Only for a moment. She wouldn't even have seen it if it hadn't been so dark on the roof. And she wonders if maybe she's just tapped into a new reserve she hadn't known... "Okay. For you my dears, we ride." And she pulls the sword from her belt.
