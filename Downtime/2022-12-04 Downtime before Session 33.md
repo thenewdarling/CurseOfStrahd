@@ -12,7 +12,7 @@ They move, in perfect sync, back to back, as they unleash powerful cantrips to i
 
 Magda stands, catching her breath, still roiling.
 
-*Sasha, scrabbling at her face as she dies in her arms.*
+*[[Sasha]], scrabbling at her face as she dies in her arms.*
 
 *Varian, standing over Arlo’s body. His words: “We all have our trials to overcome, hold onto what you believe in.”*
 

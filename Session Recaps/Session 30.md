@@ -31,10 +31,10 @@
 # Session 30 – 17 Oct 2022 (part 2)
 
 - The party fight with [[Sasha]].
-- Jeremiah almost drops, falling unconscious and being saved by his *Mirror Image*, while Arlo uses the Holy Symbol of Ravenkind to repel Sasha (The light keeps Magda out of the room, unable to cast healing magic without a line of sight.)
-- Arlo drops the Symbol to allow Magda into the room, who casts *Spare the Dying* before dealing the finishing blow to Sasha. 
-- Sasha clutches at Magda as she dies, "You can't... let him... leave..."
-	- Magda picks up Sasha's holy symbol of Asmodeus out of her ashes, considers it for a moment as she brushes it off... and throws it out the window where it disappears into the mists.
+- Jeremiah almost drops, falling unconscious and being saved by his *Mirror Image*, while Arlo uses the Holy Symbol of Ravenkind to repel [[Sasha]] (The light keeps Magda out of the room, unable to cast healing magic without a line of sight.)
+- Arlo drops the Symbol to allow Magda into the room, who casts *Spare the Dying* before dealing the finishing blow to [[Sasha]]. 
+- [[Sasha]] clutches at Magda as she dies, "You can't... let him... leave..."
+	- Magda picks up [[Sasha]]'s holy symbol of Asmodeus out of her ashes, considers it for a moment as she brushes it off... and throws it out the window where it disappears into the mists.
 
 ## Day 27 - [[Castle Ravenloft]]
 
