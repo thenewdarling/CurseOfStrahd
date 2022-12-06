@@ -42,3 +42,11 @@ And then she breaks the hug. Her face is stained with tears and muck and blood. 
 She looks down at the empty healing potion in her hand, the sparkling red dregs circling the bottom of the jar. And then... a smirk breaks through. Then a chuckle. Then a laugh, rising in pitch, fuelled by endorphins, unhinged. "My husband used to say to me, a *long* time ago..." She deepens her voice and puffs out her chest in an impression of a very serious man. "*'Magda. Your problem is you never know when you are beaten.'*" She laughs again, a witch's cackle. "I used to think, 'Yeah. I don't. And that's why I'm still standing here and you're in the ground.' But he was right. The old bastard was right." Still laughing, she hurls the healing potion bottle off the roof of the fort, watches it disappear into the mists. "Well. I know now. I am beaten. And bruised. And broken." 
 
 She takes a deep breath like a weight has been lifted from her, and says absently, "We need to find Jeremiah, he's probably being eaten by bears as we speak." And then, she takes Arabelle's hands. "I promise to do better. And to treat you all as the treasures I have been blessed with. Because without you all, I wouldn't be here."
+
+*[06:23] Arabelle (she/her):*
+
+Arabelle looks around at what is left of the once fearsome and noble Silver Knights, their fortress crumbling away. The destruction, death and sorrow all around her. “Maybe being away from home, facing danger, seeing my life flash before my eyes… it forces some introspection, doesn’t it?” She smiles, an impish spark in her eyes. “Or maybe I’ve always been this wise, and have been playing you all along. Biding my time. I saw you on the road, knew what you were, what destinies awaits you.” Her eyes glaze over, staring into the distance. “And how you keep defying and changing them.” She focuses back on Magda, her wicked smile back. “And I am now part of it.”
+
+*[08:46] Magdalena de Luna (she/her):*
+
+"That you are. We'd be lost without you." Magda squeezes Arabelle's shoulder, before turning to Ireena. "And thank you for the assist. I would've been a goner. In the interest of my new-found honesty, I think... we need to rest. Hm?" She turns to the whole group. "I don't know about you but I've been running on fumes since before Castle Ravenloft."
