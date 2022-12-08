@@ -1,5 +1,5 @@
 We're almost there mother, hang on just a little longer
-Jem, promise me you'll be good.
+[[Jem]], promise me you'll be good.
 Of course I will, and you'll be there to keep me on the right track, won't you?
 ...
 Won't you mum?
@@ -46,7 +46,7 @@ Yes lad?
 Why don't you leave?
 What?
 Why don't you leave and find a better job? You say you're never paid enough.
-I've always wanted to lad, did I ever tell you how I once robbed the Adventurer's guild in Malazan?
+I've always wanted to lad, did I ever tell you how I once robbed the Adventurer's guild in [[Malazan]]?
 Only several billion times.
 Well, I lost my touch after a while, tried to rob this place, and I was caught. 
 What? You said you were the best rogue this side of the wastes!
@@ -58,13 +58,13 @@ Not while you're with me you're not!
 But-
 Eat your dinner!
 
-I saw that Jem, you stole from the barkeep
+I saw that [[Jem]], you stole from the barkeep
 He wagered that gold fair and square!
 If it was fair he would have won at least once, you can't pull that on people we have to see every day, much less the man who feeds us.
 You said I had to practice or I'd never be a rogue [[Nold]]!
 Well take this as a lesson I'm letting you learn the easy way.
-I'm gonna be the best Rogue! People are going to tremble at the name Jem of [[Temple Town]]!
-Here's another lesson Jem, Don't say "of" only nobles do that. That'll be the first sign you're lying. Just go with Templeton.
+I'm gonna be the best Rogue! People are going to tremble at the name [[Jem]] of [[Temple Town]]!
+Here's another lesson [[Jem]], Don't say "of" only nobles do that. That'll be the first sign you're lying. Just go with Templeton.
 
 Only 6 silver? it should have been seven?
 He thought the quality wasn't good enough. Rabbit of negative euphoria today.
@@ -95,7 +95,7 @@ Lovely, and why did he try that? Was the toilet clogged?
 No, he uh, read it in a book.
 Well, "he" should read better books. Illiterate folk in this town know that author is an idiot. I'm on my way.
 
-Well you've got a bounce in your step today young master Jem!
+Well you've got a bounce in your step today young master [[Jem]]!
 "Young" is becoming more of an insult to you than a compliment of me these days!
 Well you're the master of words to my young'uns, boy read me a story just last night, amazing what two days of teaching can do!
 No one learns that fast, he just told you a story he heard from the sisters, did it have a lot of gods and smiting?
@@ -126,7 +126,7 @@ Maybe, but I could maybe sell an artif-
 I'm not going to steal an-
 No, keep your voice down, I just meant that you have [[Nold]]'s stuff right... Well he had a ring he would never have sold...
 
-It's 3 Silver to Malazan my good sir, you'll be bunking with a few others mind.
+It's 3 Silver to [[Malazan]] my good sir, you'll be bunking with a few others mind.
 I don't mind thank you. 
 You'll get a good night's sleep mind, clouds are out, it'll be as black as a goblin's arsehole tonight!
 Well, I'd know wouldn't I

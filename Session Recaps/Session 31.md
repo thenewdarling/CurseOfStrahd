@@ -17,13 +17,13 @@
 - [[Magda]] mentions that she saw [[Ezmerelda]]'s prison. [[Van Richten]] supposes that she is part of the party's foretold fortune. If [[Strahd]] suspects she is part of the prophecy, he will keep her alive.
 - [[Arabelle]] worries that the WIZARD card that burned away in her reading was [[Jerry]] after all.
 - [[Van Richten]] sees the [[Golem's Eye]], and reanimates it as a boon for the party -- introducing us to [[Neander]].
-- [[Magda]] sends a message to [[Jeremiah]]: *'Jeremiah. Stay strong. We're coming to get you soon. Where are you?'*
+- [[Magda]] sends a message to [[Jeremiah]]: *'[[Jeremiah]]. Stay strong. We're coming to get you soon. Where are you?'*
 
 ## Day 29 - [[Argynvostholt]]
 
 - [[Strahd]] sends [[Ezmerelda]]'s eyeball in a coffin to the hold, towed by the undead horse. [[Magda]] burns it, suspecting surveillance again.
 - The party wake, and prepare to enter the hold proper.
 
-*While Arlo is attuning, [[Ireena]] will be played by [[Kate]] in the sessions within the keep.*
+*While [[Arlo]] is attuning, [[Ireena]] will be played by [[Kate]] in the sessions within the keep.*
 
 **The party ends the session with [[Magda]] on 27 HP, [[Arlo]] on 31 HP, [[Arabelle]] on 21 HP, and [[Neander]] at full health.**

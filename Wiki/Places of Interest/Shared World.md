@@ -9,5 +9,5 @@ Like most universes in Dungeons and Dragons, it consists of a '[[Prime Material 
 ![[Menzoberranzan]]
 
 
-## Barovia
+## [[Barovia]]
 ![[Barovia]]

@@ -2,7 +2,7 @@
 
 ## *Session beginning Day 29*
 
-- Between sessions, [[Jerry]] replies to [[Magda]]'s message: *Near Berez. Five miles north of the road. I am followed. Not much chance of survival. Will move towards Vallaki soon as possible.* He is alive. For now.
+- Between sessions, [[Jerry]] replies to [[Magda]]'s message: *Near [[Berez]]. Five miles north of the road. I am followed. Not much chance of survival. Will move towards [[Vallaki]] soon as possible.* He is alive. For now.
 - [[Arabelle]] asks [[Arlo]] if [[Ireena]] can carry the [[Holy Symbol of Ravenkind]].
 - The party formally agree to refer to the golem as [[Neander]].
 - Outside the keep, there is a statue of [[Saint Markovia]], sporting a similarity to the [[Holy Symbol of Ravenkind]].

@@ -326,7 +326,7 @@ _Session 27 Downtime Day Events_
 
 #### Downtime before [[Session 28]] begins
 - [[Stella]] gifts [[Magda]] a ring emblazoned with the de Luna family emblem.
-- [[Arabelle]] and [[Magda]] investigate the burning building where the fires started on Day 24, accompanied by [[Alek]]. [[Arabelle]] has a vision of a mage, [[Mordesh]], feeding unrest throughout Vallaki. *(See lore document 'Arabelle and Magda's Excellent Adventure')*
+- [[Arabelle]] and [[Magda]] investigate the burning building where the fires started on Day 24, accompanied by [[Alek]]. [[Arabelle]] has a vision of a mage, [[Mordesh]], feeding unrest throughout [[Vallaki]]. *(See lore document '[[Arabelle]] and [[Magda]]'s Excellent Adventure')*
 - [[Arabelle]] foresees [[Viktor]] making some kind of deal with [[Strahd]] for the safety of [[Vallaki]] -- [[Magda]] confronts him that night to dissuade him, and suggests he spend his energy trying to find the stolen [[Sun Sword]]. *(See lore document 'Pawn takes Black Knight')*
 
 ## Day 26
@@ -340,7 +340,8 @@ _Session 27 Downtime Day Events_
 - The party search for [[Jeremiah]], who has gone missing following his revelation. Finding him, they convince him to at least follow them for now.
 - Strahd's carriage arrives and takes the party, [[Madame Eva]], and [[Ismark]] to [[Castle Ravenloft]].
 - Strahd murders Ismark.
-- Strahd uses his Charm ability on Magda for the first time, revealing her weakness to it.
+- Strahd uses his Charm ability on [[Magda]] for the first time, revealing her weakness to it. He compels her to feed on a boy.
+*[[Magda]]'s timer will reset Day 33*.
 - Strahd gives the following information:
 	- [[Ezmerelda]]'s pocket dimension is a void above his banquet table.
 	- [[Arlo]]'s [[Watcher's Eye]] had been spying on the party until he traded it away.
