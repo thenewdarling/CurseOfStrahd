@@ -17,6 +17,6 @@
 - Combat breaks out. The entire party have to rush to keep [[Magda]] alive as she drops to two death saves.
 	- (She uses one of the health potions.)
 - Scraping through, the entire party level up to level 8.
-- Ireena pulls the iron key from Vladimir's corpse.
+- [[Ireena]] pulls the iron key from Vladimir's corpse.
 
 **The party ends the session with [[Magda]] on 12 HP, [[Arabelle]] on 31 HP (+12 temp HP), [[Neander]] on X HP, and [[Ireena]] on X HP.**

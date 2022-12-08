@@ -1,1 +1,1 @@
-see [[Hags]]
+![[Hags]]

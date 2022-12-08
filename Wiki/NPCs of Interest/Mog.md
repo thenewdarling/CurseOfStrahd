@@ -1,5 +1,1 @@
-SPOILERS BELOW
-
-___
-
-see [[Hags]]
+![[Hags]]

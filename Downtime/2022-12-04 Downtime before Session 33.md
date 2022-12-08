@@ -4,9 +4,9 @@
 
 *[09:51] [[Magdalena]] de Luna (she/her):*
 
-*Previously on Curse of Strahd…*
+*Previously on Curse of [[Strahd]]…*
 
-[[Magda]] is unconscious and bleeding out. [[Arabelle]] slides down off the roof, holding a life-saving potion, and poises to administer it. Ireena, still fighting off the undead lord Vladimir, reaches across and uses Lay on Hands. The Morning Lord’s righteous light flows through [[Magda]], burning like ice even as it heals, and her eyes snap open. [[Arabelle]] stands over her, and [[Magda]] sees the fear in her eyes, sees an arrow fly overhead—
+[[Magda]] is unconscious and bleeding out. [[Arabelle]] slides down off the roof, holding a life-saving potion, and poises to administer it. [[Ireena]], still fighting off the undead lord Vladimir, reaches across and uses Lay on Hands. The [[Morning Lord]]’s righteous light flows through [[Magda]], burning like ice even as it heals, and her eyes snap open. [[Arabelle]] stands over her, and [[Magda]] sees the fear in her eyes, sees an arrow fly overhead—
 
 They move, in perfect sync, back to back, as they unleash powerful cantrips to incinerate the archers.
 
@@ -18,9 +18,9 @@ They move, in perfect sync, back to back, as they unleash powerful cantrips to i
 
 *[[Jeremiah]]’s face, the shock, the betrayal, as the portal is closed in his face.*
 
-*And [[Magda]], sitting in that fucking chair. The hubris. Strahd’s hand on her shoulder, delicate as brushing a cobweb. A single word, and she’d been enthralled. All her will, all her bluster, had been nothing. She may as well have been shouting at the tides.*
+*And [[Magda]], sitting in that fucking chair. The hubris. [[Strahd]]’s hand on her shoulder, delicate as brushing a cobweb. A single word, and she’d been enthralled. All her will, all her bluster, had been nothing. She may as well have been shouting at the tides.*
 
-And when she’d dropped this time, there had been nothing. No-one on the other side. Not even Asmodeus. Only darkness. Only her friends, fighting to keep her up even while she wasn’t there to see it…
+And when she’d dropped this time, there had been nothing. No-one on the other side. Not even [[Asmodeus]]. Only darkness. Only her friends, fighting to keep her up even while she wasn’t there to see it…
 
 “I’ve been a fool.”
 
@@ -45,11 +45,11 @@ She takes a deep breath like a weight has been lifted from her, and says absentl
 
 *[06:23] [[Arabelle]] (she/her):*
 
-[[Arabelle]] looks around at what is left of the once fearsome and noble Silver Knights, their fortress crumbling away. The destruction, death and sorrow all around her. “Maybe being away from home, facing danger, seeing my life flash before my eyes… it forces some introspection, doesn’t it?” She smiles, an impish spark in her eyes. “Or maybe I’ve always been this wise, and have been playing you all along. Biding my time. I saw you on the road, knew what you were, what destinies awaits you.” Her eyes glaze over, staring into the distance. “And how you keep defying and changing them.” She focuses back on [[Magda]], her wicked smile back. “And I am now part of it.”
+[[Arabelle]] looks around at what is left of the once fearsome and noble [[Silver Knights]], their fortress crumbling away. The destruction, death and sorrow all around her. “Maybe being away from home, facing danger, seeing my life flash before my eyes… it forces some introspection, doesn’t it?” She smiles, an impish spark in her eyes. “Or maybe I’ve always been this wise, and have been playing you all along. Biding my time. I saw you on the road, knew what you were, what destinies awaits you.” Her eyes glaze over, staring into the distance. “And how you keep defying and changing them.” She focuses back on [[Magda]], her wicked smile back. “And I am now part of it.”
 
 *[08:46] [[Magdalena]] de Luna (she/her):*
 
-"That you are. We'd be lost without you." [[Magda]] squeezes [[Arabelle]]'s shoulder, before turning to Ireena. "And thank you for the assist. I would've been a goner. In the interest of my new-found honesty, I think... we need to rest. Hm?" She turns to the whole group. "I don't know about you but I've been running on fumes since before [[Castle Ravenloft]]."
+"That you are. We'd be lost without you." [[Magda]] squeezes [[Arabelle]]'s shoulder, before turning to [[Ireena]]. "And thank you for the assist. I would've been a goner. In the interest of my new-found honesty, I think... we need to rest. Hm?" She turns to the whole group. "I don't know about you but I've been running on fumes since before [[Castle Ravenloft]]."
 
 *[08:54] [[Arabelle]] (she/her):*
 
@@ -57,4 +57,4 @@ She takes a deep breath like a weight has been lifted from her, and says absentl
 
 *[09:34] [[Magdalena]] de Luna (she/her):*
 
-"Yes, famously the heart of the tomb _doesn't_ hold the most powerful locked-away creatures," [[Magda]] snickers, but she's resigned. "Okay. What's once more unto the breach, hm? But I warn you... my strength is spent." But she looks down, as she feels a warmth around her hip. The symbol of Asmodeus on her sword, the hilt of [[Traitor]] itself, glows imperceptibly. Only for a moment. She wouldn't even have seen it if it hadn't been so dark on the roof. And she wonders if maybe she's just tapped into a new reserve she hadn't known... "Okay. For you my dears, we ride." And she pulls the sword from her belt.
+"Yes, famously the heart of the tomb _doesn't_ hold the most powerful locked-away creatures," [[Magda]] snickers, but she's resigned. "Okay. What's once more unto the breach, hm? But I warn you... my strength is spent." But she looks down, as she feels a warmth around her hip. The symbol of [[Asmodeus]] on her sword, the hilt of [[Traitor]] itself, glows imperceptibly. Only for a moment. She wouldn't even have seen it if it hadn't been so dark on the roof. And she wonders if maybe she's just tapped into a new reserve she hadn't known... "Okay. For you my dears, we ride." And she pulls the sword from her belt.

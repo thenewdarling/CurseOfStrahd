@@ -1,1 +1,1 @@
-see [[Eliza Day]]
+![[Eliza Day]]
