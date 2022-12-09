@@ -387,4 +387,4 @@ _Session 27 Downtime Day Events_
 
 ### [[Session 32]] begins
 
-- The party traverse [[Argynvostholt]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks something in the [[Amber Temple]].
+- The party traverse [[Argynvostholt]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks the Tomb of [[Argynvost]].
