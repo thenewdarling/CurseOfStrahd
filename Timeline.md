@@ -388,3 +388,7 @@ _Session 27 Downtime Day Events_
 ### [[Session 32]] begins
 
 - The party traverse [[Argynvostholt]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks the Tomb of [[Argynvost]].
+
+#### Downtime events before Session 33:
+
+- Magda, after having fallen to one saving throw before death in the final fight with [[Vladimir Horngaard]], finally starts to realise she's been selfish and counterproductive the entire campaign.
