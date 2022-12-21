@@ -1,4 +1,4 @@
-# Session 32 – 1 December 2022
+# Session 33 – 20 December 2022
 
 ## *Session beginning Day 29*
 
