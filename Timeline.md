@@ -392,3 +392,9 @@ _Session 27 Downtime Day Events_
 #### Downtime events before Session 33:
 
 - Magda, after having fallen to one saving throw before death in the final fight with [[Vladimir Horngaard]], finally starts to realise she's been selfish and counterproductive the entire campaign.
+
+### [[Session 33]] begins
+
+- The party enter the Tomb of [[Argynvost]], passing the skeleton of [[Kala]] on the wall, and meet [[Argynvost]] himself. He gives them their task -- enter the [[Amber Temple]], kill the [[Dark Powers]] trapping [[Strahd]], then storm [[Castle Ravenloft]] using a secret tunnel, before casting *Time Stop* on [[Magda]] and giving them their **real** task.
+	- [[Argynvost]] knows [[Strahd]] will interrogate [[Magda]]. He needs the [[Skull of Argynvost]] to help us. [[Strahd]] doesn't know [[Argynvost]] can use it, but he will notice it is missing. He wants you to swap the skull for [[Kala]]'s, so it can be returned to him.
+- [[Rahadin]] has entered [[Argynvostholt]] and found [[Arlo]] during his attunement to [[Strahd's diary]].
