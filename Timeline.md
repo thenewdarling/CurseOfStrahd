@@ -372,6 +372,8 @@ _Session 27 Downtime Day Events_
 - [[Ireena]] appears through the magical darkness and urges the party to run with her, opening a portal in a tree.
 - [[Jeremiah]], who stops to try and cut the vial of [[Arabelle]]'s blood from [[Rahadin]]'s pouch, is unable to reach the tree before [[Ireena]] closes it, apologising.
 
+*The events of [[Jeremiah]] lore document '[[Hunted]]' happen now.*
+
 ### [[Session 31]] begins
 
 - Without [[Jeremiah]] the rest of the party find themselves in [[Argynvostholt]] on the other side of the portal -- the one place [[Strahd]] can never come himself.
