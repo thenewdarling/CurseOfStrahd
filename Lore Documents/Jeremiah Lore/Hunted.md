@@ -1,4 +1,4 @@
-*The following takes place as [[Jeremiah]] is separated from the party at the end of [[Session 30]].*
+*The following takes place as [[Jeremiah]] is separated from the party at the end of [[Session 30]], containing the events of a mini-session between [[Tenderstem]] and [[Bearded Liam]].*
 
 It all happened so quickly. The bandits, the screams in the dark. The elf moved towards his foes with purpose, undeterred by their magical smoke screen. I knew someone else had been following us, and in that moment of chaos Ireena stepped out, she had been waiting to come to our rescue. But [[Rahadin]] would be close behind, I could hear the clash of steel, and I did not bet on the rogues buying us much time.
 
