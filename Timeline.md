@@ -400,3 +400,14 @@ _Session 27 Downtime Day Events_
 - The party enter the Tomb of [[Argynvost]], passing the skeleton of [[Kala]] on the wall, and meet [[Argynvost]] himself. He gives them their task -- enter the [[Amber Temple]], kill the [[Dark Powers]] trapping [[Strahd]], then storm [[Castle Ravenloft]] using a secret tunnel, before casting *Time Stop* on [[Magda]] and giving them their **real** task.
 	- [[Argynvost]] knows [[Strahd]] will interrogate [[Magda]]. He needs the [[Skull of Argynvost]] to help us. [[Strahd]] doesn't know [[Argynvost]] can use it, but he will notice it is missing. He wants you to swap the skull for [[Kala]]'s, so it can be returned to him.
 - [[Rahadin]] has entered [[Argynvostholt]] and found [[Arlo]] during his attunement to [[Strahd's diary]].
+
+### [[Session 34]] begins
+
+- [[Arlo]] completes his attunement to [[Strahd]]'s diary.
+- [[Arabelle]] and [[Neander]] are able to spirit away [[Kala]]'s skull while [[Magda]] and [[Ireena]] run ahead.
+- [[Rahadin]] reveals he has killed [[Jeremiah]], and defeats the exhausted party.
+
+## Day 30 -- on the outskirts of [[Berez]]
+
+- The party awake, dragged to [[Berez]] and tied to a tree. Notably [[Ireena]] is absent.
+- The party are cut free by the [[Witches of Berez]] and given shelter and time to recuperate.
