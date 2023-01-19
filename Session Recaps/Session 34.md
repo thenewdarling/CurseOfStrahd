@@ -1,3 +1,5 @@
+# Session 34 – 5 January 2023
+
 ## *Session beginning Day 29*
 
 - [[Arlo]] finishes his attunement to [[Strahd's diary]], seeing visions of [[Strahd]] in the wars that led to [[Barovia]]. being trapped in the mists.
