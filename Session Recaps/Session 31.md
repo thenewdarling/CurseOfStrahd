@@ -3,7 +3,7 @@
 ## *Session beginning Day 28*
 
 - [[Ireena]] begins coughing blood after her exertion opening the portal.
-- The party find themselves in a garden courtyard, with an arch entering. This is the outermost wall of [[Argynvostholt]]. [[Ireena]] has brought us here as it's one of the two places [[Strahd]] is unable to enter.
+- The party find themselves in a garden courtyard, with an arch entering. This is the outermost wall of [[Wiki/Places of Interest/Argynvostholt]]. [[Ireena]] has brought us here as it's one of the two places [[Strahd]] is unable to enter.
 - We enter the little groundskeeper's hut and find [[Van Richten]] smoking a pipe. He appears aged fifty years by the trauma he's endured since we last saw him.
 - He produces [[Strahd's diary]], giving it to the party for safekeeping.
 - He tells us about the [[Amber Temple]], and we tell him about the book we found in [[Tasha]]'s Tower. He reveals there's a cipher in it.
@@ -19,7 +19,7 @@
 - [[Van Richten]] sees the [[Golem's Eye]], and reanimates it as a boon for the party -- introducing us to [[Neander]].
 - [[Magda]] sends a message to [[Jeremiah]]: *'Jeremiah. Stay strong. We're coming to get you soon. Where are you?'*
 
-## Day 29 - [[Argynvostholt]]
+## Day 29 - [[Wiki/Places of Interest/Argynvostholt]]
 
 - [[Strahd]] sends [[Ezmerelda]]'s eyeball in a coffin to the hold, towed by the undead horse. [[Magda]] burns it, suspecting surveillance again.
 - The party wake, and prepare to enter the hold proper.

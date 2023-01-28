@@ -19,7 +19,7 @@ The empty carriage is towed by a black horse wracked with lacerations. There is 
 
 The horse runs impossibly swiftly. The landscape around seems to fade to an inky void as it charges headlong forwards.
 
-Eventually, the carriage breaks through the void, and we are standing at the foot of [[Castle Ravenloft]], a sight we have seen every waking moment in the distance since arriving in [[Barovia]]. Now we are before it it seems impossibly large, towering over the landscape.
+Eventually, the carriage breaks through the void, and we are standing at the foot of [[Wiki/Places of Interest/Castle Ravenloft]], a sight we have seen every waking moment in the distance since arriving in [[Barovia]]. Now we are before it it seems impossibly large, towering over the landscape.
 
 The castle's portcullis is lowered, and impossible to pass. However, before we can even get there, the entire bridge is riddled with shambling zombies, and there appears to be a large, writhing mound of flesh guarding the door. As we draw closer, it becomes clear -- it is an undead Beholder, in Strahd's thrall.
 
@@ -37,7 +37,7 @@ Its eye beams wreak havoc -- petrification, explosions, beams dealing near-fatal
 
 The party stand before the door, already covered in viscera, Arabelle quickly quaffing a healing potion to keep her out of Magda's bloodlust radar.
 
-For the first time in the campaign, the party enter [[Castle Ravenloft]].
+For the first time in the campaign, the party enter [[Wiki/Places of Interest/Castle Ravenloft]].
 
 Ghostly dancers long since dead waltz around the courtyard, completely unaware of the party's presence. The party pass a statue of [[Yalom]], with large angel wings from his back. It appears he too has been petrified. 
 

@@ -69,7 +69,7 @@ We learn:
 
 We infer:
 - [[Ezmerelda]] is likely trapped by [[Strahd]] personally. He's the only one strong enough to hold someone in a pocket dimension for that level of time in [[Barovia]].
-- The teleportation circle in [[Watcher Manor]] which now seems to have been defaced, likely leads directly to [[Castle Ravenloft]].
+- The teleportation circle in [[Watcher Manor]] which now seems to have been defaced, likely leads directly to [[Wiki/Places of Interest/Castle Ravenloft]].
 
 ___
 
