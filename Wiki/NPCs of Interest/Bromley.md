@@ -1,1 +1,0 @@
-Bromley is [Arabelle]'s brother.

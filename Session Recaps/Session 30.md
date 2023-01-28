@@ -36,7 +36,7 @@
 - Sasha clutches at Magda as she dies, "You can't... let him... leave..."
 	- Magda picks up Sasha's holy symbol of Asmodeus out of her ashes, considers it for a moment as she brushes it off... and throws it out the window where it disappears into the mists.
 
-## Day 27 - [[Wiki/Places of Interest/Castle Ravenloft]]
+## Day 27 - [[Castle Ravenloft]]
 
 - The party are awoken by Rahadin, who informs them he has a vial of Arabelle's blood, and will be able to track them as he does the rest of the party.
 - Strahd's plan is for Rahadin to use the carriage to drop the party, [[Viktor]] and [[Stella]] off at [[Vallaki]], where he will lead the party on foot to [[Berez]].

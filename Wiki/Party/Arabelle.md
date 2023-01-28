@@ -8,12 +8,6 @@ She is played by [[Taanit]].
 
 Arabelle uses (she/her) pronouns.
 
-Her mother is called Agathys.
-
-Her father is called Luvash.
-
-Her brother is called Bromley. He left the farm after their parent's died, in search of Berez.
-
 ~~A young woman who runs a farm just out of [[Krezk]], or owns horses at least. She is perceptive and clever, and a good shot. She offered the party another tarot reading, and her cards burst into flames under the POWER OF DESTINY [#TAASNEAK]~~
 
 tags: [[Krezk]], [[Curse of Strahd campaign]]

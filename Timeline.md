@@ -37,7 +37,7 @@ Downtime events before Session 6:
 
 ### Session 7 begins
 - The party meet the [[Baron]] and [[Baroness]], and learn of [[Stella]] Watcher's body-swap situation with the cat.
-- The party learns of [[Wiki/Places of Interest/Argynvostholt]] and [[Saint Andreal]].
+- The party learns of [[Argynvostholt]] and [[Saint Andreal]].
 - The [[Baron]] wants the party to lead the parade on Day 11 (two days time).
 
 #### Downtime events before Session 8:
@@ -338,7 +338,7 @@ _Session 27 Downtime Day Events_
 
 *Afternoon*
 - The party search for [[Jeremiah]], who has gone missing following his revelation. Finding him, they convince him to at least follow them for now.
-- Strahd's carriage arrives and takes the party, [[Madame Eva]], and [[Ismark]] to [[Wiki/Places of Interest/Castle Ravenloft]].
+- Strahd's carriage arrives and takes the party, [[Madame Eva]], and [[Ismark]] to [[Castle Ravenloft]].
 - Strahd murders Ismark.
 - Strahd uses his Charm ability on Magda for the first time, revealing her weakness to it.
 - Strahd gives the following information:
@@ -349,7 +349,7 @@ _Session 27 Downtime Day Events_
 
 ### [[Session 29]] begins
 
-- The party travel through [[Wiki/Places of Interest/Castle Ravenloft]], and fight the monster that became of the [[Krezkovs]].
+- The party travel through [[Castle Ravenloft]], and fight the monster that became of the [[Krezkovs]].
 
 ### [[Session 30]] begins
 
@@ -373,17 +373,17 @@ _Session 27 Downtime Day Events_
 
 ### [[Session 31]] begins
 
-- Without [[Jeremiah]] the rest of the party find themselves in [[Wiki/Places of Interest/Argynvostholt]] on the other side of the portal -- the one place [[Strahd]] can never come himself.
+- Without [[Jeremiah]] the rest of the party find themselves in [[Argynvostholt]] on the other side of the portal -- the one place [[Strahd]] can never come himself.
 - They meet [[Van Richten]] and strategise about their next move. He tells them the true purpose of the [[Amber Temple]].
 - [[Arlo]] begins to attune to [[Strahd's diary]] from when he was human.
 - [[Van Richten]] awakens the [[Golem's Eye]] in [[Arlo]]'s bag, introducing the party to [[Neander]].
 
-## Day 29 - on the edge of [[Wiki/Places of Interest/Argynvostholt]]
+## Day 29 - on the edge of [[Argynvostholt]]
 
 - The party rest overnight.
 - [[Strahd]] sends [[Ezmerelda]]'s eyeball in a coffin by horseback. [[Magda]] burns it, suspecting surveillance.
-- The party depart to enter [[Wiki/Places of Interest/Argynvostholt]] proper.
+- The party depart to enter [[Argynvostholt]] proper.
 
 ### [[Session 32]] begins
 
-- The party traverse [[Wiki/Places of Interest/Argynvostholt]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks something in the [[Amber Temple]].
+- The party traverse [[Argynvostholt]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks something in the [[Amber Temple]].
