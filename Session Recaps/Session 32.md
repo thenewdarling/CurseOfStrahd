@@ -2,7 +2,7 @@
 
 ## *Session beginning Day 29*
 
-- Between sessions, [[Jerry]] replies to [[Magda]]'s message: *Near [[Berez]]. Five miles north of the road. I am followed. Not much chance of survival. Will move towards [[Vallaki]] soon as possible.* He is alive. For now.
+- Between sessions, [[Jerry]] replies to [[Magda]]'s message: *Near Berez. Five miles north of the road. I am followed. Not much chance of survival. Will move towards Vallaki soon as possible.* He is alive. For now.
 - [[Arabelle]] asks [[Arlo]] if [[Ireena]] can carry the [[Holy Symbol of Ravenkind]].
 - The party formally agree to refer to the golem as [[Neander]].
 - Outside the keep, there is a statue of [[Saint Markovia]], sporting a similarity to the [[Holy Symbol of Ravenkind]].
@@ -17,6 +17,6 @@
 - Combat breaks out. The entire party have to rush to keep [[Magda]] alive as she drops to two death saves.
 	- (She uses one of the health potions.)
 - Scraping through, the entire party level up to level 8.
-- [[Ireena]] pulls the iron key from Vladimir's corpse.
+- Ireena pulls the iron key from Vladimir's corpse.
 
 **The party ends the session with [[Magda]] on 12 HP, [[Arabelle]] on 31 HP (+12 temp HP), [[Neander]] on X HP, and [[Ireena]] on X HP.**

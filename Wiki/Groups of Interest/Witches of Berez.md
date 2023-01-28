@@ -1,4 +1,4 @@
-The **Witches of [[Berez]]** are a famous group of witches which the party have not met yet.
+The **Witches of Berez** are a famous group of witches which the party have not met yet.
 
 Apparently cruel and horrible, but the aesthetic will surely be fire. Double, double, toil and trouble indeed. 
 

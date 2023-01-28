@@ -1,4 +1,4 @@
-**Ezmerelda d'Avenir**, also known as the **[[Vistani]] Wanderer**, is a figure of fame within [[Barovia]].
+**Ezmerelda d'Avenir**, also known as the **Vistani Wanderer**, is a figure of fame within [[Barovia]].
 
 ![[ezmerelda.jpg]]
 

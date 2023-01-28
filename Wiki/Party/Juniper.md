@@ -1,6 +1,6 @@
 *“Alright, bambino. Here’s the deal. You’re gonna tell us where your friend is, and you might live to see another sunrise.”* -- Juniper
 
-**Juniper Vandross** was a satyr Swords Bard who travelled with [[Prince Rupert]] at some point before his arrival in [[Barovia]].
+**Juniper Vandross** was a satyr Swords Bard who travelled with [[Prince Rupert]] at some point before his arrival in Barovia.
 
 He is played by [[Luke]].
 

@@ -1,12 +1,12 @@
-Campaign notes, session recaps and player wiki, originally for [[Curse of Strahd campaign]], now containing other shared campaigns, one-shots, etc. 
+# [[Curse of Strahd campaign]]
 
-Formatted as Obsidian vault. (https://obsidian.md)
-
-*The mists once more are stirring...*
+For things I worry about losing from the Discord.
 
 ## Spoiler Warning
 
-Contents may contain spoilers for official WotC modules:
+To any non-player reading this, the recaps may spoil content of the official Curse of [[Strahd]] module.
 
-- **Curse of Strahd**
-- **Lost Mines of Phandelver**
+## Notes
+
+- Session recaps predating 2022-06-01 have no historical version control, but have had minor changes in the past.
+- Session recaps also are missing spoiler warnings they may have had on Discord.

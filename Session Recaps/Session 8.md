@@ -73,7 +73,7 @@ They arrive back at the Blue Water, and -- ([[Tenderstem]] rolls) -- no one is u
 
 [[Henrick]] is asleep in [[Jeremiah]]'s room.
 
-We go to bed. [[Varian]] has contact with the [[Dark Powers]] during the night.
+We go to bed. [[Varian]] has contact with the Dark Powers during the night.
 
 ___
 

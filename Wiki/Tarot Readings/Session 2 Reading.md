@@ -14,7 +14,7 @@ _This card tells of a powerful force for good and protection, a holy symbol of g
 
 _This card sheds light on one who will help you greatly in the battle against darkness._
 
-**The MISTS** - A [[Vistani]] wanders this land alone, searching for her mentor. She does not stay in one place for long.
+**The MISTS** - A Vistani wanders this land alone, searching for her mentor. She does not stay in one place for long.
 
 _Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him…_
 

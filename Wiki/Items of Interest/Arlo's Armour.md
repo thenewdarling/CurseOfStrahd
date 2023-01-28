@@ -1,4 +1,4 @@
-Crafted by [[Dargos]] and [[Jakob]] Weerdo, the armour [[Arlo]] received in [[Session 27]] has the following effects:
+Crafted by [[Dargos]] and [[Jakob]] Weerdo, the armour Arlo received in [[Session 27]] has the following effects:
 
 Eminently stylish, this armour consists of a fitted metal chest piece that lies discreetly beneath a coat or jacket **(AC 14 + Dex modifier (max 2))**.
 The design is such to enable multi-weapon fighting, providing freedom of movement along with easy access to weapons through various buckles and belts: 

@@ -1,14 +1,4 @@
-**Berez** is a settlement in [[Barovia]] south of [[Argynvostholt]], and the home of the famed [[Witches of Berez]]. 
+**Berez** is a settlement in [[Barovia]] south of [[Wiki/Places of Interest/Argynvostholt]]. The party have not travelled here yet.
 
-The party heard about it first in [[Session 1]] shortly after arriving in [[Barovia Town]], and finally arrived there in [[Session 34]].
-
-![[Berez.png]]
-
-### Places of Interest
-- [[The Sleeping Sparrow]] Tavern
-- [[Gertruda]]'s Home
-- [[Bromlin]]'s Home
-- a town hall
-- a church
-- [[Nessa]]'s Apothecary
-- [[Roots and Fruits]]
+## Other Details
+- Home to the titular [[Witches of Berez]].

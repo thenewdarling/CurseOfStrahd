@@ -5,5 +5,3 @@
 Neander has not expressed their pronouns, and so far the party have defaulted to they/them.
 
 Neander is played by [[Bearded Liam]].
-
-tags: [[Curse of Strahd campaign]]
