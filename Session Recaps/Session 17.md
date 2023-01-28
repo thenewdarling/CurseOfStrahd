@@ -15,7 +15,7 @@ Once it goes dark, they sneak into the [[Abbey]] -- [[Jeremiah]] flying over the
 
 The secret entrance is guarded by a statue with the inscription: "We bring water in memory of our saint." The statue is a woman holding her hands out. If [[Arlo]] pours his waterskin into the woman's hands it runs through her fingers.
 
-There's a marker over the pool: "Here lies Kala. This pool was rebuilt in memory of those lost."
+There's a marker over the pool: "Here lies [[Kala]]. This pool was rebuilt in memory of those lost."
 
 [[Jeremiah]] flies down into the pool to retrieve the scales on the bottom, not needing to breathe in his current state. It doesn't damage him, but he is immune to poison so we don't know much more. [[Magda]] suspects it's holy water.
 

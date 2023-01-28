@@ -5,6 +5,6 @@
 
 She had a missing daughter, [[Gertruda]], who she suspected left to find the [[Witches of Berez]].
 
-Some of her conversations with Varian are documented in the lore document *Mad Mary*.
+Some of her conversations with [[Varian]] are documented in the lore document *Mad Mary*.
 
 tags: [[Barovia Town]]
