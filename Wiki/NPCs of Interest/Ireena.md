@@ -13,4 +13,6 @@ ___
 
 She was [[Strahd]]'s sister and I'm really hoping [[Taanit]] will come along and fill this bit in cos [[Sergei]] told us a lot.
 
+She was temporarily played as a player character by [[Kate]] while the party traversed the depths of [[Argynvostholt]].
+
 tags: [[Barovia Town]]

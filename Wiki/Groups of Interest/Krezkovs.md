@@ -4,4 +4,4 @@ They were functionally immortal, having forced the [[Abbot]] into servitude drai
 
 The [[Vistani]] sell them [[Alanatis]] plants.
 
-After [[Strahd]] was revealed to have killed the Abbot in [[Session 28]], the fate of the Krezkovs seemed unclear -- until the party met them in Strahd's basement, transmogrified into a single acidic slime creature.
+After [[Strahd]] was revealed to have killed the [[Abbot]] in [[Session 28]], the fate of the Krezkovs seemed unclear -- until the party met them in [[Strahd]]'s basement, transmogrified into a single acidic slime creature.

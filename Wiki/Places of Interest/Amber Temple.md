@@ -2,4 +2,4 @@ The [[Amber Temple]] is a site of great importance in [[Barovia]], one of the tw
 
 The party first heard about it in [[Tasha]]'s Tower in a book index in [[Session 23 24 25 LISBON]], before [[Van Richten]] told them its purpose in [[Session 31]].
 
-It is the seat of the spell that binds [[Strahd]] to the land. It is where the [[Heroes of Burning Sun]] must go if they are going to break his immortal hold over [[Barovia]]. This will return Barovia to the [[Prime Material Plane]], freeing [[Strahd]] from the [[Dark Powers]]' prison, but only then will they be able to kill him for good.
+It is the seat of the spell that binds [[Strahd]] to the land. It is where the [[Heroes of Burning Sun]] must go if they are going to break his immortal hold over [[Barovia]]. This will return [[Barovia]] to the [[Prime Material Plane]], freeing [[Strahd]] from the [[Dark Powers]]' prison, but only then will they be able to kill him for good.

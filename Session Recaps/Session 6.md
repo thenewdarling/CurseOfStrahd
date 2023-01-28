@@ -14,7 +14,7 @@ The party eats breakfast in the [[Blue Water Inn]].
 
 [[Jeremiah]] and [[Magda]] run into each other outside the church and investigate the history of the [[Abbot]] of [[Krezk]] with [[Father Lucian]]. The Church is grander than in [[Barovia Town]], though desolate. The symbology is the same though, and the window which overlooks [[Wiki/Places of Interest/Castle Ravenloft]] in the background. Apparently he will heal people of a zombie curse, a handful of people a year.
 
-They go to [[Blinksy]]'s. (IS NO FUN? IS NO BLINKSY!) And buy toys for [[Freek and Myrtle]]. [[Blinksy]] recognises [[Arlo]], he has been crafting a doll in the likeness of [[Arlo]] and [[Allessandra]] - after receiving a message from her, to let [[Arlo]] know he's ok and she's thinking of him.
+They go to [[Blinksy]]'s. (IS NO FUN? IS NO [[BLINKSY]]!) And buy toys for [[Freek and Myrtle]]. [[Blinksy]] recognises [[Arlo]], he has been crafting a doll in the likeness of [[Arlo]] and [[Allessandra]] - after receiving a message from her, to let [[Arlo]] know he's ok and she's thinking of him.
 
 [[Magda]] pays [[Varian]] back for the room cost the night before, and decides now is the time to tell [[Jeremiah]], [[Arlo]] and [[Varian]] about her curse.
 

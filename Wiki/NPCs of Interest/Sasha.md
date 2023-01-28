@@ -2,4 +2,4 @@
 
 She also had a holy symbol of [[Asmodeus]], similar to [[Magda]]'s.
 
-She died in [[Session 30]], after attacking the party in the middle of the night -- instigated bv Cyrus as revenge for [[Jeremiah]]'s unwarrented violence.
+She died in [[Session 30]], after attacking the party in the middle of the night -- instigated bv [[Cyrus]] Belview as revenge for [[Jeremiah]]'s unwarranted violence.

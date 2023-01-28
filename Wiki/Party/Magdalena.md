@@ -43,7 +43,7 @@ Around 20 years into this pact, she was bitten by a vampire, and turned. Her cle
 -   She keeps a diary and has for many years (each one is this thick insert-journal tome lasting like ten years)
 -   Her many names are because of her lineage -- I purposely spread the influences across Europe because in that kind of background your name is also kind of your title, and so represents how all these families were intermarried and the like.
 -   She names all of her weapons.
--   Magda has a birthday on Day 25 after the party arrive in Barovia. Presumably her next birthday will be on Day 390.
+-   [[Magda]] has a birthday on Day 25 after the party arrive in [[Barovia]]. Presumably her next birthday will be on Day 390.
 
 
 tags: [[Curse of Strahd campaign]]

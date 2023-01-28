@@ -3,7 +3,7 @@
 ![[Vallaki.jpg]]
 *Vallaki at night*
 
-Originally founded by the [[Vallakoviches]] and the [[Watchers]], it is the closest thing Barovia has to a metropolitan area, being protected from the monsters in the mists by its mighty wall.
+Originally founded by the [[Vallakoviches]] and the [[Watchers]], it is the closest thing [[Barovia]] has to a metropolitan area, being protected from the monsters in the mists by its mighty wall.
 
 The party first reached Vallaki in [[Session 5]].
 

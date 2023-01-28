@@ -37,7 +37,7 @@ Downtime events before Session 6:
 
 ### Session 7 begins
 - The party meet the [[Baron]] and [[Baroness]], and learn of [[Stella]] Watcher's body-swap situation with the cat.
-- The party learns of [[Wiki/Places of Interest/Argynvostholt]] and [[Saint Andreal]].
+- The party learns of [[Argynvostholt]] and [[Saint Andreal]].
 - The [[Baron]] wants the party to lead the parade on Day 11 (two days time).
 
 #### Downtime events before Session 8:
@@ -326,22 +326,23 @@ _Session 27 Downtime Day Events_
 
 #### Downtime before [[Session 28]] begins
 - [[Stella]] gifts [[Magda]] a ring emblazoned with the de Luna family emblem.
-- [[Arabelle]] and [[Magda]] investigate the burning building where the fires started on Day 24, accompanied by [[Alek]]. [[Arabelle]] has a vision of a mage, [[Mordesh]], feeding unrest throughout Vallaki. *(See lore document 'Arabelle and Magda's Excellent Adventure')*
+- [[Arabelle]] and [[Magda]] investigate the burning building where the fires started on Day 24, accompanied by [[Alek]]. [[Arabelle]] has a vision of a mage, [[Mordesh]], feeding unrest throughout [[Vallaki]]. *(See lore document '[[Arabelle]] and [[Magda]]'s Excellent Adventure')*
 - [[Arabelle]] foresees [[Viktor]] making some kind of deal with [[Strahd]] for the safety of [[Vallaki]] -- [[Magda]] confronts him that night to dissuade him, and suggests he spend his energy trying to find the stolen [[Sun Sword]]. *(See lore document 'Pawn takes Black Knight')*
 
 ## Day 26
 
-- All four members of the party receive an invitation from Strahd in the post, with a first-class stamp... *(See [[Strahd_invitation.jpeg]]*)
+- All four members of the party receive an invitation from [[Strahd]] in the post, with a first-class stamp... *(See [[Strahd_invitation.jpeg]]*)
 - [[Jeremiah]] realises he will likely never be cured of his zombification, and it will continue to degenerate despite [[Yalom]]'s help. It triggers a depressive episode for him.
 
 ### [[Session 28]] begins
 
 *Afternoon*
 - The party search for [[Jeremiah]], who has gone missing following his revelation. Finding him, they convince him to at least follow them for now.
-- Strahd's carriage arrives and takes the party, [[Madame Eva]], and [[Ismark]] to [[Wiki/Places of Interest/Castle Ravenloft]].
-- Strahd murders Ismark.
-- Strahd uses his Charm ability on Magda for the first time, revealing her weakness to it.
-- Strahd gives the following information:
+- [[Strahd]]'s carriage arrives and takes the party, [[Madame Eva]], and [[Ismark]] to [[Castle Ravenloft]].
+- [[Strahd]] murders [[Ismark]].
+- [[Strahd]] uses his Charm ability on [[Magda]] for the first time, revealing her weakness to it. He compels her to feed on a boy.
+*[[Magda]]'s timer will reset Day 33*.
+- [[Strahd]] gives the following information:
 	- [[Ezmerelda]]'s pocket dimension is a void above his banquet table.
 	- [[Arlo]]'s [[Watcher's Eye]] had been spying on the party until he traded it away.
 	- [[Magda]] murdered [[Luca and Shaun]]. (No one pieces this together though.)
@@ -349,7 +350,7 @@ _Session 27 Downtime Day Events_
 
 ### [[Session 29]] begins
 
-- The party travel through [[Wiki/Places of Interest/Castle Ravenloft]], and fight the monster that became of the [[Krezkovs]].
+- The party travel through [[Castle Ravenloft]], and fight the monster that became of the [[Krezkovs]].
 
 ### [[Session 30]] begins
 
@@ -371,19 +372,42 @@ _Session 27 Downtime Day Events_
 - [[Ireena]] appears through the magical darkness and urges the party to run with her, opening a portal in a tree.
 - [[Jeremiah]], who stops to try and cut the vial of [[Arabelle]]'s blood from [[Rahadin]]'s pouch, is unable to reach the tree before [[Ireena]] closes it, apologising.
 
+*The events of [[Jeremiah]] lore document '[[Hunted]]' happen now.*
+
 ### [[Session 31]] begins
 
-- Without [[Jeremiah]] the rest of the party find themselves in [[Wiki/Places of Interest/Argynvostholt]] on the other side of the portal -- the one place [[Strahd]] can never come himself.
+- Without [[Jeremiah]] the rest of the party find themselves in [[Argynvostholt]] on the other side of the portal -- the one place [[Strahd]] can never come himself.
 - They meet [[Van Richten]] and strategise about their next move. He tells them the true purpose of the [[Amber Temple]].
 - [[Arlo]] begins to attune to [[Strahd's diary]] from when he was human.
 - [[Van Richten]] awakens the [[Golem's Eye]] in [[Arlo]]'s bag, introducing the party to [[Neander]].
 
-## Day 29 - on the edge of [[Wiki/Places of Interest/Argynvostholt]]
+## Day 29 - on the edge of [[Argynvostholt]]
 
 - The party rest overnight.
 - [[Strahd]] sends [[Ezmerelda]]'s eyeball in a coffin by horseback. [[Magda]] burns it, suspecting surveillance.
-- The party depart to enter [[Wiki/Places of Interest/Argynvostholt]] proper.
+- The party depart to enter [[Argynvostholt]] proper.
 
 ### [[Session 32]] begins
 
-- The party traverse [[Wiki/Places of Interest/Argynvostholt]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks something in the [[Amber Temple]].
+- The party traverse [[Argynvostholt]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks the Tomb of [[Argynvost]].
+
+#### Downtime events before Session 33:
+
+- Magda, after having fallen to one saving throw before death in the final fight with [[Vladimir Horngaard]], finally starts to realise she's been selfish and counterproductive the entire campaign.
+
+### [[Session 33]] begins
+
+- The party enter the Tomb of [[Argynvost]], passing the skeleton of [[Kala]] on the wall, and meet [[Argynvost]] himself. He gives them their task -- enter the [[Amber Temple]], kill the [[Dark Powers]] trapping [[Strahd]], then storm [[Castle Ravenloft]] using a secret tunnel, before casting *Time Stop* on [[Magda]] and giving them their **real** task.
+	- [[Argynvost]] knows [[Strahd]] will interrogate [[Magda]]. He needs the [[Skull of Argynvost]] to help us. [[Strahd]] doesn't know [[Argynvost]] can use it, but he will notice it is missing. He wants you to swap the skull for [[Kala]]'s, so it can be returned to him.
+- [[Rahadin]] has entered [[Argynvostholt]] and found [[Arlo]] during his attunement to [[Strahd's diary]].
+
+### [[Session 34]] begins
+
+- [[Arlo]] completes his attunement to [[Strahd]]'s diary.
+- [[Arabelle]] and [[Neander]] are able to spirit away [[Kala]]'s skull while [[Magda]] and [[Ireena]] run ahead.
+- [[Rahadin]] reveals he has killed [[Jeremiah]], and defeats the exhausted party.
+
+## Day 30 -- on the outskirts of [[Berez]]
+
+- The party awake, dragged to [[Berez]] and tied to a tree. Notably [[Ireena]] is absent.
+- The party are cut free by the [[Witches of Berez]] and given shelter and time to recuperate.
