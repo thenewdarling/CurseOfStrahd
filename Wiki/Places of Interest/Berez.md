@@ -7,7 +7,7 @@ The party heard about it first in [[Session 1]] shortly after arriving in [[Baro
 ### Places of Interest
 - [[The Sleeping Sparrow]] Tavern
 - [[Gertruda]]'s Home
-- [[Bromlin]]'s Home
+- [[Bromley]]'s Home
 - a town hall
 - a church
 - [[Nessa]]'s Apothecary

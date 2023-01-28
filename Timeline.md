@@ -411,3 +411,10 @@ _Session 27 Downtime Day Events_
 
 - The party awake, dragged to [[Berez]] and tied to a tree. Notably [[Ireena]] is absent.
 - The party are cut free by the [[Witches of Berez]] and given shelter and time to recuperate.
+
+### [[Session 35]] begins
+
+- The party begin their long rest in [[Berez]].
+- [[Arabelle]] reunites with [[Bromley]].
+- [[Magda]] learns [[Aleksander]] is still alive and in [[Barovia]], meeting his children.
+- [[Neander]] appears to have some emotional blockage, and [[Arlo]] takes him to [[Nessa]] the apothecary for help.

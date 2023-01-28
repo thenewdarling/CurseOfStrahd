@@ -13,6 +13,8 @@ It serves as the main setting of the **[[Curse of Strahd campaign]]**.
 
  _"I am sorry for where you find yourself. This is a sinister place, but it is also a land steeped in history."_ -- Mad [[Mary]]
 
+In the [[Prime Material Plane]], [[Strahd]] conquered the mountain valley and re-christened it Barovia after his father, [[King Barov]].
+
 Entire generations have lived within the mists, and escape is thought of as nearly impossible.
 
 Time in Barovia seems to be decoupled from time in the [[Prime Material Plane]], coming into 'orbit' some times but in other times, thousands of years going past in Barovia while mere days pass by. [1]

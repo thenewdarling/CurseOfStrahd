@@ -18,7 +18,7 @@
 - We awake, tied to a tree outside of [[Berez]], barely alive. Notably, [[Ireena]] is missing.
 - We are freed by the [[Witches of Berez]], and meet [[Nessa]], [[Beatrix]], [[Gertruda]], learning about [[Baba Lysaga]].
 - We are invited to find rest in [[The Sleeping Sparrow]] inn.
-- [[Arabelle]] is given directions to her brother [[Bromlin]]'s house.
+- [[Arabelle]] is given directions to her brother [[Bromley]]'s house.
 - Magda casts *Sending* as they now have a day for the *Spell-Refuelling Ring* to recharge. She relays a message to [[Danika]] Martikov:
 
 *Danika, it's Magda. We're in [[Berez]], [[Rahadin]] got us. [[Van Richten]] said [[Ireena]] needed this ring, but we've been separated. We could use some help.*
