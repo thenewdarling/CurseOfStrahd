@@ -416,5 +416,5 @@ _Session 27 Downtime Day Events_
 
 - The party begin their long rest in [[Berez]].
 - [[Arabelle]] reunites with [[Bromley]].
-- [[Magda]] learns [[Aleksander]] is still alive and in [[Barovia]], meeting his children.
+- [[Magda]] learns [[Aleksandr]] is still alive and in [[Barovia]], meeting his children.
 - [[Neander]] appears to have some emotional blockage, and [[Arlo]] takes him to [[Nessa]] the apothecary for help.

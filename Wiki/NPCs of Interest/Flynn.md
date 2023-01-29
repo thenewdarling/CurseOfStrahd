@@ -1,0 +1,1 @@
+**Flynn** was the son of [[Aleksandr]], born in [[Barovia]]. He died in battle with [[Rahadin]] before the party learned of his identity.

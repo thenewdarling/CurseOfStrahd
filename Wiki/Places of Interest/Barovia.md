@@ -1,7 +1,6 @@
 *The mists once more are stirring... It's been longer than expected, are we ready to return to Barovia?*
 -- [[Tenderstem]]
 
-
 The **Valley of Barovia** was a region in the [[Prime Material Plane]], until it was banished into a misty demiplane to serve as the prison of its all-powerful ruler, [[Strahd]] von Zarovich. 
 
 It serves as the main setting of the **[[Curse of Strahd campaign]]**.
@@ -32,5 +31,9 @@ The [[Vistani]] are the only people [[Strahd]] 'permits' to leave for supplies f
 Time in Barovia runs faster or slower relative to the [[Prime Material Plane]] depending on how close they are - at the point where the [[Curse of Strahd campaign]] takes place, it runs around half time -- ie. a year in Barovia is two in the material plane.
 
 Barovia was already separated many years before [[Iliadvar]] fell (250 years before the [[Curse of Strahd campaign]]), but the [[Watchers]] have kept tabs on the material plane through the [[Vistani]]. They once had close ties with many of the royal lines, [[Fiona]] still believed knowledge was power, even if she could only watch from afar.
+
+# Map
+
+![[Player map.jpg]]
 
 [1] Lore document: *Mad [[Mary]]*
