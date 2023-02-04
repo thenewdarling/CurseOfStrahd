@@ -7,7 +7,7 @@ ___
 *“It will take more than games and shadows to get the better of me.”*
 
 
-**Ireena Kolyana**, known in a previous life as **Tatiana**, is a knight the party befriend shortly after arriving in [[Barovia]].
+**Ireena Kolyana**, known in a previous life as **Tatyana**, is a knight the party befriend shortly after arriving in [[Barovia]].
 
 ![[Ireena.jpg]]
 
