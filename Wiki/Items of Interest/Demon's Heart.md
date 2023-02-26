@@ -5,4 +5,4 @@ A homunculus infusion gains 2d8 Hit Points and its *Force Strike* damage dice is
 
 ![[Demons Heart.jpg]]
 
-It was gifted to [[Neander]] by [[Argynvost]] in [[Session 33]].
+It was gifted to [[Neander]] by [[Argynvost]] in [[Session 33]], and he used it to create [[Gem]] at the end of [[Session 36]].

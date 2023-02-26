@@ -4,4 +4,6 @@ She was missing, and her mother [[Mary]] speculated that she went looking for th
 
 The party finally meet her in [[Session 34]]. She would rather not speak about her mother, saying only of her that 'she was lost, they all were'.
 
+She was banished to [[Old Berez]] in [[Session 37]], and the party were given an ultimatum to kill her, but chose not to. She then revealed the 'crime' she had committed in deciding not to spirit [[Flynn]] to [[Berez]] -- she had been having second thoughts, after seeing [[Bromley]] decide to leave and then abruptly change his mind through seeming magical means.
+
 tags: [[Barovia Town]]

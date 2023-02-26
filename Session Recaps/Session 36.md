@@ -1,4 +1,4 @@
-# Session 35 – 26 January 2023
+# Session 36 – 26 January 2023
 
 ## *Session beginning Day 30* - [[Berez]]
 
@@ -16,6 +16,7 @@
 
 ## Day 31 - [[Berez]]
 
+- During the night, [[Neander]] enters the library and creates [[Gem]], their homuculus.
 - The party are woken, and told it is time for The Initiation Ceremony.
 
 ![[initiation.jpg]]

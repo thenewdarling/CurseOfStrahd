@@ -418,3 +418,16 @@ _Session 27 Downtime Day Events_
 - [[Arabelle]] reunites with [[Bromley]].
 - [[Magda]] learns [[Aleksandr]] is still alive and in [[Barovia]], meeting his children.
 - [[Neander]] appears to have some emotional blockage, and [[Arlo]] takes him to [[Nessa]] the apothecary for help.
+
+### [[Session 36]] begins
+
+- The party complete their long rest in [[Berez]], and are asked to complete the Initiation Ritual in the morning.
+- [[Neander]] finishes creating [[Gem]], his homunculus.
+
+## Day 31 -- [[Berez]]
+
+### [[Session 37]] begins
+
+- The party are forced into [[Old Berez]] as part of the initiation ritual, and told to kill [[Gertruda]], along with a transformed [[Fang]] and [[Naesela]], to be allowed to stay.
+- They refuse, and incapacitate [[Fang]] and [[Naesela]], removing the transformation curse from [[Fang]] while they can.
+- They meet [[Jenny]] Greentooth, and enlist her help in stealing the skull, in exchange for retrieving her soul from [[Baba Lysaga]]'s hut.

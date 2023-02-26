@@ -10,7 +10,7 @@ The session opens with [[Danika]] Martikov replying to Magda's *Sending* spell. 
 
 [[Magda]] enters the [[The Sleeping Sparrow]] and talks to its bartender, [[Cordelia]]. Two tieflings watch her in the corner that she remembers from around the skirmish with [[Rahadin]] -- she assumes they are assigned to watch her, so she approaches them. 
 
-Their names are [[Fang]] and [[Naesala]]. It turns out they know [[Magda]] from her history in [[Iliadvar]] -- [[Aleksandr]] is still alive, and lives a ways away near [[Lake Zarovich]]. Their friend is [[Flynn]], his son -- who died in the battle with [[Rahadin]]. They ask why she hasn't aged, and she lies that she came here not directly from the [[Prime Material Plane]], but through the Plane of Fire -- and so for her, the passage of time has been even stranger.
+Their names are [[Fang]] and [[Naesela]]. It turns out they know [[Magda]] from her history in [[Iliadvar]] -- [[Aleksandr]] is still alive, and lives a ways away near [[Lake Zarovich]]. Their friend is [[Flynn]], his son -- who died in the battle with [[Rahadin]]. They ask why she hasn't aged, and she lies that she came here not directly from the [[Prime Material Plane]], but through the Plane of Fire -- and so for her, the passage of time has been even stranger.
 
 Meanwhile, [[Bromley]] tells [[Arabelle]] that [[Baba Lysaga]] has darkness in her past and that it still hurts her, but she looks after these people. He thinks [[Strahd]] destroyed [[Mordesh]]'s mind. [[Arabelle]] corrects him, that she was being controlled by [[Baba Lysaga]], and that when the curse was lifted she was left a husk. He is unconvinced.
 
