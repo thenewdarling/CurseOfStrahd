@@ -113,7 +113,7 @@ Hidden just off the main streets you find an arched opening in the brick wall, a
 Without letting you get a word in edgewise; he excitedly brings you over to his wares. Rows of blades hang from the walls, each made from a blackened steel. 
 - [[Prince Rupert]]’s weapons sell for standard prices, but imbued with dragon flame, the black steel deals magical damage.
 - He’ll be happy to silver existing weapons for a third of their original price.
-“And these, these here’d be the best you’ll find in all [[Barovia]], or elsewhere!” He unfurls a roll of baldes and axe heads each forged out of deep red glass. It’s taken me years to get the tempering right, but undoubtedly, they’re my finest work. The blades themselves thirst for combat; the glass edge only gets sharper with use. I call them Lifehunters.”
+“And these, these here’d be the best you’ll find in all [[Barovia]], or elsewhere!” He unfurls a roll of baldes and axe heads each forged out of deep red glass. It’s taken me years to get the tempering right, but undoubtedly, they’re my finest work. The blades themselves thirst for combat; the glass edge only gets sharper with use. I call them Lifehunters.” (see: [[Lifehunt]])
 - [[Lifehunt]] weapons are +1 magic weapons, they go for 20gp + three times the normal weapon price. Upon hitting a target, the following attack made with the weapon gains an additional +1 to hit.
 
 [17-Jul-21 01:27 PM] [[Varian]] Lo'Gosh (he/him)
