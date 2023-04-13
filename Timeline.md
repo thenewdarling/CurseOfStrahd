@@ -424,10 +424,16 @@ _Session 27 Downtime Day Events_
 - The party complete their long rest in [[Berez]], and are asked to complete the Initiation Ritual in the morning.
 - [[Neander]] finishes creating [[Gem]], his homunculus.
 
-## Day 31 -- [[Berez]]
+## Day 31 -- [[Berez]] / [[Old Berez]]
 
 ### [[Session 37]] begins
 
 - The party are forced into [[Old Berez]] as part of the initiation ritual, and told to kill [[Gertruda]], along with a transformed [[Fang]] and [[Naesela]], to be allowed to stay.
 - They refuse, and incapacitate [[Fang]] and [[Naesela]], removing the transformation curse from [[Fang]] while they can.
 - They meet [[Jenny]] Greentooth, and enlist her help in stealing the skull, in exchange for retrieving her soul from [[Baba Lysaga]]'s hut.
+
+### [[Session 38]] begins
+
+- The party discover the hanging gallows of spectral [[Berez]] citizens, including [[Bromley]].
+- Using [[Arabelle]]'s potions, they manage to get a long rest in eight hours, waiting for dusk, when [[Baba Lysaga]] will leave her hut and they can get in to get everyone's souls.
+- Battle with [[Baba Lysaga]] breaks out.

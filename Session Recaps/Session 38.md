@@ -25,4 +25,4 @@
 - [[Baba Lysaga]] casts a spell to blind [[Arlo]], but he manages to get a hit in with *Love* and paralyses her, giving the entire party at least one turn to attack her. (It also neutralises the disadvantage from being blinded, for now.)
 - We end the session in mid-combat, and move to player-huddle to make plans.... 😈
 
-**The party ends the session with [[Magda]] on 58 HP, [[Arlo]] on 97 HP, [[Arabelle]] on 18 HP, and [[Neander]] on X HP.**
+**The party ends the session with [[Magda]] on 58 HP, [[Arlo]] on 97 HP, [[Arabelle]] on 18 HP, and [[Neander]] on 38 HP.**
