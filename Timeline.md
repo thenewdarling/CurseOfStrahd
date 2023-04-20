@@ -437,3 +437,8 @@ _Session 27 Downtime Day Events_
 - The party discover the hanging gallows of spectral [[Berez]] citizens, including [[Bromley]].
 - Using [[Arabelle]]'s potions, they manage to get a long rest in eight hours, waiting for dusk, when [[Baba Lysaga]] will leave her hut and they can get in to get everyone's souls.
 - Battle with [[Baba Lysaga]] breaks out.
+
+### [[Session 39]] begins
+
+- The battle with [[Baba Lysaga]] concludes with the theft of the [[Skull of Argynvost]].
+- [[Old Berez]] collapses into real [[Berez]], and the party escape while the river banks burst and a flood begins.
