@@ -442,3 +442,8 @@ _Session 27 Downtime Day Events_
 
 - The battle with [[Baba Lysaga]] concludes with the theft of the [[Skull of Argynvost]].
 - [[Old Berez]] collapses into real [[Berez]], and the party escape while the river banks burst and a flood begins.
+
+### [[Session 40]] begins
+
+- The party return to [[The Winery]] and meet [[Strahd]] again. Plans begin for the final assault on the [[Amber Temple]].
+- An in-game three day period of downtime begins.
