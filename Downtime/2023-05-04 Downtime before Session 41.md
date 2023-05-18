@@ -36,3 +36,33 @@ Arlo takes the envelope gingerly, like it’s something precious. He looks at Ma
 She pulls the squeezed hand into giving him a hug. It's a little too tight to be affectionate, more like a hug between two soldiers. "You're the best of us, Arlo. We're all counting on you, and you can count on us. Let's get you all home." 
 
 And with that, she excuses herself.
+
+## [[Jenny]] has a dream (Night of Day 30)
+
+*[11:09]Magdalena de Luna (she/her)_:_*
+
+Jenny Greentooth had not dreamt so smoothly in years. Fluffy, plump things, like whipped cream. She had grown so used to her dreams having to travel through fourteen layers of dimensional Berezian maze, a tiramisu in her subconscious.
+
+She hadn't eaten tiramisu in so long. She was sitting in a little cafe in Vallaki, one that had closed centuries ago. The tiny round table was so weighed down by treats that it threatened to tip over.
+
+She was tucking into the tallest slice of apple pie she'd ever seen in her life, when she realised someone was sitting on the iron-wrought chair opposite her.
+
+"Do you mind?" she spat. She paused to swallow her delicious apple pie before any more of it spilled out of her mouth. "I'm busy!"
+
+He was old, decrepit. He was struggling to get air, like his lungs were full of holes. "Jenny?"
+
+"Yes? What is it?" Jenny said. "I don't know you. What are you doing in my dream? You're going to ruin it!"
+
+"I need your help."
+
+Jenny quirked her eyebrow, stroked the little beard on her chinny-chin-chin. "What will you give me?" Her eyes sparkled with wickedness.
+
+"Magdalena," the old geezer said, lurching forward in his chair. "Lake Zarovich." He clutched a dessert spoon from the table with a hand that held no strength anymore. With intense effort, he started to carve shapes into a custard tart in the middle of the table.
+
+Jenny looked at the tart suspiciously. "That's a teleportation circle pattern."
+
+He finally finished, dropping the spoon on the table and leaning back as though he'd run a marathon. "Magdalena. Lake Zarovich. Please. Bring her."
+
+"Hmmmmm..." Jenny narrowed her eyes at him. "I'll think about it."
+
+And she took her spoon right to the middle of the tart.
