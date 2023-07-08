@@ -6,7 +6,7 @@
 - [[Arabelle]] introduces [[Bromley]] to the rest of the party.
 - [[Arabelle]] gets a *Potion of Invisibility* from [[Nessa]], and shares the potion to remove a point of exhaustion that she used for [[Magda]] in [[Castle Ravenloft]].
 - We meet [[Elm]], an man with a cloak and "funny eyes". He's an elder figure in [[Bromley]]'s life. The fabric of his clothes looks similar to the monks in [[Krezk]].
-- The party visit the church building. There is a statue of a solemn-looking angel. The place appears to predate [[The Strahdlamity]] -- a mismatch of old world religions, and their worship has evolved after being cut off from the [[Prime Material Plane]].
+- The party visit the church building. There is a statue of a solemn-looking angel. The place appears to predate [[Strahdlamity]] -- a mismatch of old world religions, and their worship has evolved after being cut off from the [[Prime Material Plane]].
 - The party relax by the river, when an absent-minded lady drops a large pumpkin and it rolls down the hill. It is followed by carrots and onions. When we help her, she warns us about tomorrow's Initiation Ceremony. She leaves, refusing to tell us her name. Rolling a 27 Perception, [[Magda]] notices she looks like [[Adrianna]].
 - The night ends with a feast, a party, dancing, and a fiddle. [[Bromley]] has produced cider.
 - [[Neander]] asks about gods and the party has a philosophical debate.
