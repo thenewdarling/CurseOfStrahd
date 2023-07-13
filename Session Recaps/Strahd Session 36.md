@@ -12,7 +12,7 @@
 - [[Neander]] asks about gods and the party has a philosophical debate.
 - [[Bromley]] and [[Arabelle]] head up the road.
 - [[Arlo]] and [[Magda]] have a waltz, before heading back to rooms at [[The Sleeping Sparrow]].
-- Everyone expects this will be the last chill day before the end of the campaign -- [[Magda]] has a flashback to dancing with the [[Vistani]] in [[Session 2]].
+- Everyone expects this will be the last chill day before the end of the campaign -- [[Magda]] has a flashback to dancing with the [[Vistani]] in [[Strahd Session 2]].
 
 ## Day 31 - [[Berez]]
 

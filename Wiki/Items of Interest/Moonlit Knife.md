@@ -4,4 +4,4 @@ It can act as a spell focus. It provides an additional +1d8 damage in moonlight.
 
 ![[Moonlit Knife.jpg]]
 
-It was gifted to [[Arabelle]] by [[Argynvost]] in [[Session 33]].
+It was gifted to [[Arabelle]] by [[Argynvost]] in [[Strahd Session 33]].

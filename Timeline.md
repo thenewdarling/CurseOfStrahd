@@ -324,7 +324,7 @@ _Session 27 Downtime Day Events_
 
 ## Day 25
 
-#### Downtime before [[Session 28]] begins
+#### Downtime before [[Strahd Session 28]] begins
 - [[Stella]] gifts [[Magda]] a ring emblazoned with the de Luna family emblem.
 - [[Arabelle]] and [[Magda]] investigate the burning building where the fires started on Day 24, accompanied by [[Alek]]. [[Arabelle]] has a vision of a mage, [[Mordesh]], feeding unrest throughout [[Vallaki]]. *(See lore document '[[Arabelle]] and [[Magda]]'s Excellent Adventure')*
 - [[Arabelle]] foresees [[Viktor]] making some kind of deal with [[Strahd]] for the safety of [[Vallaki]] -- [[Magda]] confronts him that night to dissuade him, and suggests he spend his energy trying to find the stolen [[Sun Sword]]. *(See lore document 'Pawn takes Black Knight')*
@@ -334,7 +334,7 @@ _Session 27 Downtime Day Events_
 - All four members of the party receive an invitation from [[Strahd]] in the post, with a first-class stamp... *(See [[Strahd_invitation.jpeg]]*)
 - [[Jeremiah]] realises he will likely never be cured of his zombification, and it will continue to degenerate despite [[Yalom]]'s help. It triggers a depressive episode for him.
 
-### [[Session 28]] begins
+### [[Strahd Session 28]] begins
 
 *Afternoon*
 - The party search for [[Jeremiah]], who has gone missing following his revelation. Finding him, they convince him to at least follow them for now.
@@ -348,11 +348,11 @@ _Session 27 Downtime Day Events_
 	- [[Magda]] murdered [[Luca and Shaun]]. (No one pieces this together though.)
 	- The reason he is immortal is the spell that holds him here -- if they want to kill him, the party will have to remove it. This will also allow him to leave, so he wants them to do it.
 
-### [[Session 29]] begins
+### [[Strahd Session 29]] begins
 
 - The party travel through [[Castle Ravenloft]], and fight the monster that became of the [[Krezkovs]].
 
-### [[Session 30]] begins
+### [[Strahd Session 30]] begins
 
 - The party receive the [[Holy Symbol of Ravenkind]] from [[Strahd]] and are told to travel to [[Berez]] to retrieve the [[Skull of Argynvost]].
 - Before going to sleep, [[Arabelle]] casts *Gaseous Form* and attempts to explore the castle before she enters the anti-magic field set by the gargoyles and is caught by [[Rahadin]], who knocks her out with a poison dart and takes her blood.
@@ -374,7 +374,7 @@ _Session 27 Downtime Day Events_
 
 *The events of [[Jeremiah]] lore document '[[Hunted]]' happen now.*
 
-### [[Session 31]] begins
+### [[Strahd Session 31]] begins
 
 - Without [[Jeremiah]] the rest of the party find themselves in [[Argynvostholt]] on the other side of the portal -- the one place [[Strahd]] can never come himself.
 - They meet [[Van Richten]] and strategise about their next move. He tells them the true purpose of the [[Amber Temple]].
@@ -387,7 +387,7 @@ _Session 27 Downtime Day Events_
 - [[Strahd]] sends [[Ezmerelda]]'s eyeball in a coffin by horseback. [[Magda]] burns it, suspecting surveillance.
 - The party depart to enter [[Argynvostholt]] proper.
 
-### [[Session 32]] begins
+### [[Strahd Session 32]] begins
 
 - The party traverse [[Argynvostholt]], meeting the [[Silver Knights]], and retrieving an iron key which unlocks the Tomb of [[Argynvost]].
 
@@ -395,13 +395,13 @@ _Session 27 Downtime Day Events_
 
 - Magda, after having fallen to one saving throw before death in the final fight with [[Vladimir Horngaard]], finally starts to realise she's been selfish and counterproductive the entire campaign.
 
-### [[Session 33]] begins
+### [[Strahd Session 33]] begins
 
 - The party enter the Tomb of [[Argynvost]], passing the skeleton of [[Kala]] on the wall, and meet [[Argynvost]] himself. He gives them their task -- enter the [[Amber Temple]], kill the [[Dark Powers]] trapping [[Strahd]], then storm [[Castle Ravenloft]] using a secret tunnel, before casting *Time Stop* on [[Magda]] and giving them their **real** task.
 	- [[Argynvost]] knows [[Strahd]] will interrogate [[Magda]]. He needs the [[Skull of Argynvost]] to help us. [[Strahd]] doesn't know [[Argynvost]] can use it, but he will notice it is missing. He wants you to swap the skull for [[Kala]]'s, so it can be returned to him.
 - [[Rahadin]] has entered [[Argynvostholt]] and found [[Arlo]] during his attunement to [[Strahd's diary]].
 
-### [[Session 34]] begins
+### [[Strahd Session 34]] begins
 
 - [[Arlo]] completes his attunement to [[Strahd]]'s diary.
 - [[Arabelle]] and [[Neander]] are able to spirit away [[Kala]]'s skull while [[Magda]] and [[Ireena]] run ahead.
@@ -412,38 +412,38 @@ _Session 27 Downtime Day Events_
 - The party awake, dragged to [[Berez]] and tied to a tree. Notably [[Ireena]] is absent.
 - The party are cut free by the [[Witches of Berez]] and given shelter and time to recuperate.
 
-### [[Session 35]] begins
+### [[Strahd Session 35]] begins
 
 - The party begin their long rest in [[Berez]].
 - [[Arabelle]] reunites with [[Bromley]].
 - [[Magda]] learns [[Aleksandr]] is still alive and in [[Barovia]], meeting his children.
 - [[Neander]] appears to have some emotional blockage, and [[Arlo]] takes him to [[Nessa]] the apothecary for help.
 
-### [[Session 36]] begins
+### [[Strahd Session 36]] begins
 
 - The party complete their long rest in [[Berez]], and are asked to complete the Initiation Ritual in the morning.
 - [[Neander]] finishes creating [[Gem]], his homunculus.
 
 ## Day 31 -- [[Berez]] / [[Old Berez]]
 
-### [[Session 37]] begins
+### [[Strahd Session 37]] begins
 
 - The party are forced into [[Old Berez]] as part of the initiation ritual, and told to kill [[Gertruda]], along with a transformed [[Fang]] and [[Naesela]], to be allowed to stay.
 - They refuse, and incapacitate [[Fang]] and [[Naesela]], removing the transformation curse from [[Fang]] while they can.
 - They meet [[Jenny]] Greentooth, and enlist her help in stealing the skull, in exchange for retrieving her soul from [[Baba Lysaga]]'s hut.
 
-### [[Session 38]] begins
+### [[Strahd Session 38]] begins
 
 - The party discover the hanging gallows of spectral [[Berez]] citizens, including [[Bromley]].
 - Using [[Arabelle]]'s potions, they manage to get a long rest in eight hours, waiting for dusk, when [[Baba Lysaga]] will leave her hut and they can get in to get everyone's souls.
 - Battle with [[Baba Lysaga]] breaks out.
 
-### [[Session 39]] begins
+### [[Strahd Session 39]] begins
 
 - The battle with [[Baba Lysaga]] concludes with the theft of the [[Skull of Argynvost]].
 - [[Old Berez]] collapses into real [[Berez]], and the party escape while the river banks burst and a flood begins.
 
-### [[Session 40]] begins
+### [[Strahd Session 40]] begins
 
 - The party return to [[The Winery]] and meet [[Strahd]] again. Plans begin for the final assault on the [[Amber Temple]].
 - An in-game three day period of downtime begins.

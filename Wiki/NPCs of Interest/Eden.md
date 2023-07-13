@@ -4,5 +4,5 @@ His relationship with [[Magda]] seems to be contractual in nature but long-stand
 
 #### Other Details
 
-- Eden appears to dislike taking other forms, such as when [[Magda]] changed him into an owl in [[Krezk]] in [[Session 16]].
+- Eden appears to dislike taking other forms, such as when [[Magda]] changed him into an owl in [[Krezk]] in [[Strahd Session 16]].
 - [[Magda]] doesn't seem to have the ability to summon him in [[Barovia]] without feeding her vampire powers a certain amount. (Mechanically, she must feed on a sentient being in the last week to gain access to Find Familiar.)

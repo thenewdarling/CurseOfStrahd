@@ -8,7 +8,7 @@ She is played by [[Taanit]].
 
 Arabelle uses (she/her) pronouns.
 
-Her mother and father were called [[Agathys]] and [[Luvash]], and her brother [[Bromley]] had left for [[Berez]] after their death. Her main adventuring goal was to reunite with him, meeting him again in [[Session 35]].
+Her mother and father were called [[Agathys]] and [[Luvash]], and her brother [[Bromley]] had left for [[Berez]] after their death. Her main adventuring goal was to reunite with him, meeting him again in [[Strahd Session 35]].
 
 ~~A young woman who runs a farm just out of [[Krezk]], or owns horses at least. She is perceptive and clever, and a good shot. She offered the party another tarot reading, and her cards burst into flames under the POWER OF DESTINY [#TAASNEAK]~~
 

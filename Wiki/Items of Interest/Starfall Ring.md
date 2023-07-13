@@ -6,4 +6,4 @@ The ring can also serve as a 300gp diamond spell component -- roll 1d4 after use
 
 ![[Starfall Ring.jpg]]
 
-It was gifted to [[Magda]] by [[Argynvost]] in [[Session 33]].
+It was gifted to [[Magda]] by [[Argynvost]] in [[Strahd Session 33]].

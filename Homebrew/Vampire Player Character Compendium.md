@@ -3,7 +3,7 @@
 *Most of a vampire’s victims become vampire spawn — ravenous creatures with a hunger for blood, mindless and under the control of the vampire that created them. Some do survive to become true vampires, who succeeds this transformation appears to come down to a strength of will.*  ***And my will is certainly strong.***
 
 *A vampire must satiate their hunger for blood or suffer painful withdrawal. The blood itself seems to be something of a red herring, what a vampire truly needs is another sapient creature’s life force. For this reason, stored blood is ineffective, and the blood of beasts is never able to fully fulfil the vampire’s needs.*
-— notes provided by [[Sasha]] in downtime before [[Session 6]]
+— notes provided by [[Sasha]] in downtime before [[Strahd Session 6]]
 
 ### Vampire Traits
 All vampires regardless of level add the following abilities and restrictions to their character sheet:

@@ -5,4 +5,4 @@ The item has a maximum of 3 charges, and may be refilled with an action upon a c
 
 ![[Antagonising Souls.jpg]]
 
-It was gifted by [[Argynvost]] to [[Jeremiah]] in [[Session 33]], who wasn't there to receive it and so the party took it to give to him.
+It was gifted by [[Argynvost]] to [[Jeremiah]] in [[Strahd Session 33]], who wasn't there to receive it and so the party took it to give to him.

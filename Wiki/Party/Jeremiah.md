@@ -2,7 +2,7 @@
 
 Leaving university to make something of himself, he found himself in [[Barovia]] where he quickly succumbed to the bite of a zombie, becoming undead.
 
-After being separated from the party at the end of [[Session 30]], he was killed by [[Rahadin]], and his head and spine were thrown at the party's feet.
+After being separated from the party at the end of [[Strahd Session 30]], he was killed by [[Rahadin]], and his head and spine were thrown at the party's feet.
 
 Before his death, he was played by [[Bearded Liam]], and used (he/him) pronouns.
 

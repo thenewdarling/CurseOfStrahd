@@ -16,7 +16,7 @@
 - During this time, [[Elm]] has been walking around them surreptitiously, and creates a magic circle. They are transported elsewhere. Outside the bubble during this spell cast, all the natives of [[Berez]] appear to age and wither into corpses and dust around them, and they find themselves in...
 - [[Old Berez]]. A ramshackled ancient version of the town. The party hypothesise that this is the real [[Berez]] underneath, when [[Baba Lysaga]]'s spell is pulled away.
 - [[Magda]] immediately gets a ping on her *Locate Object* spell -- it is to the south, hovering above water. She surmises the party must be in a different dimension to the [[Berez]] they were in previously.
-- The party sees [[Baba Lysaga]]'s hut descend into the lake, and then meets [[Jenny]] Greentooth -- the lady from [[Session 36]] with the vegetable theft. 
+- The party sees [[Baba Lysaga]]'s hut descend into the lake, and then meets [[Jenny]] Greentooth -- the lady from [[Strahd Session 36]] with the vegetable theft. 
 - She takes them to her hideout, and explains some of the nature of this plane. She agrees to help the party steal the [[Skull of Argynvost]], on the provision that they retrieve her soul when they enter [[Baba Lysaga]]'s hut. She appears to use a similar method of soul extraction and control as [[Strahd]] and [[Rahadin]].
 	- [[Arabelle]] uses *Banishment* on [[Jenny]] as a show of strength.
 - Meanwhile, two huge bat creatures circle the cemetery -- what remains of [[Fang]] and [[Naesela]]. [[Gertruda]] has been shackled to a gravestone, as bait. The party agree that killing [[Fang]] and [[Naesela]] now would be... deeply hypocritical, and so agree to attempt to incapacitate them.

@@ -7,7 +7,7 @@
 
 **Berez** is a settlement in [[Barovia]] south of [[Argynvostholt]], and the home of the famed [[Witches of Berez]]. 
 
-The party heard about it first in [[Session 1]] shortly after arriving in [[Barovia Town]], and finally arrived there in [[Session 34]].
+The party heard about it first in [[Strahd Session 1]] shortly after arriving in [[Barovia Town]], and finally arrived there in [[Strahd Session 34]].
 
 ![[Berez.png]]
 

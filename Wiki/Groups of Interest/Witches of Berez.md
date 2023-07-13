@@ -1,7 +1,7 @@
 *'The witches never really build anything. They just cover up the ugliness of this world.'* 
 - [[Jenny]] Greentooth
 
-The **Witches of [[Berez]]** are a famous coven of witches which the party first heard hearsay of in [[Session 1]], and met after [[Strahd]] sent them there in [[Session 34]].
+The **Witches of [[Berez]]** are a famous coven of witches which the party first heard hearsay of in [[Strahd Session 1]], and met after [[Strahd]] sent them there in [[Strahd Session 34]].
 
 Their matriarch, [[Baba Lysaga]] has built their town into a false paradise using the [[Skull of Argynvost]], which the party had come to steal.
 

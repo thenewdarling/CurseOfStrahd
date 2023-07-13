@@ -1,4 +1,4 @@
-*The following takes place on the morning of Day 32, the morning after the party arrive back at [[The Winery]] in [[Session 40]].*
+*The following takes place on the morning of Day 32, the morning after the party arrive back at [[The Winery]] in [[Strahd Session 40]].*
 
 It was cold as the first morning light started to poke through the mists, and the air was wet with the aftermath of rain.
 

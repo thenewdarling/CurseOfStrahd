@@ -7,4 +7,4 @@ It was once watched over by the [[Silver Knights]], however after being defeated
 ## Other Details
 
 - [[Jeremiah]] found a [[Coin of Portable Hole]] from there, inscribed "The light that watches over the darkness."
-	- Once [[Arabelle]] showed this coin to [[Godfrey Gwilyn]] in [[Session 32]], it convinced him that the [[Heroes of Burning Sun]] could be the party to finally defeat [[Strahd]].
+	- Once [[Arabelle]] showed this coin to [[Godfrey Gwilyn]] in [[Strahd Session 32]], it convinced him that the [[Heroes of Burning Sun]] could be the party to finally defeat [[Strahd]].

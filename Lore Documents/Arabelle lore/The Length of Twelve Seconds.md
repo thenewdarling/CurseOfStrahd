@@ -1,4 +1,4 @@
-*The following takes place during [[Session 39]], when [[Baba Lysaga]] kills [[Arabelle]].*
+*The following takes place during [[Strahd Session 39]], when [[Baba Lysaga]] kills [[Arabelle]].*
 
 ___
 

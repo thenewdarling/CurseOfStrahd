@@ -4,7 +4,7 @@
 
 The resting place of the rest of his corpse is [[Argynvostholt]], where [[Vladimir Horngaard]] holds the only key to his Tomb. 
 
-The party traversed his Tomb in [[Session 33]], passing through a portal and meeting his spirit.
+The party traversed his Tomb in [[Strahd Session 33]], passing through a portal and meeting his spirit.
 
 ## History
 
