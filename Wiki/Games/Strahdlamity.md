@@ -21,9 +21,9 @@ Strahdlamity starts in the summer of 2023, dungeon mastered by [[Taanit]].
 ## Main Characters
 
 - [[Strahd]] von Zarovich, played by [[Tenderstem]]
-- [[Darla]] Vallakovich, played by [[Kate]]
+- [[Darlah]] Vallakovich, played by [[Kate]]
 - [[Adrianna]] Martikov, played by [[Luke]]
-- [[Sergei]] von Zarovich, played by [[Bearded Liam]]
+- [[Sergei]] Rook, played by [[Bearded Liam]]
 
 ## Other Important Characters
 
