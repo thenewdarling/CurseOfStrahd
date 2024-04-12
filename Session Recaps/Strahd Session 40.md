@@ -10,7 +10,7 @@
 - [[Arlo]], with [[Neander]]'s *Flash of Genius*, manages to tie Deception with [[Magda]]'s Insight check on whether something is up.
 - [[Magda]] manages to resist [[Strahd]]'s Charm effect this time!!
 - [[Strahd]] takes [[Strahd's diary]] from [[Arlo]]'s pocket, revealing he knew he had it. He gives them it back, giving them three days downtime to attune to it.
-- He also release [[Van Richten]], who seems to have some kind of zombie curse now.
+- He also release [[Van Richten]], who seems to have some kind of ongoing health problem now after a [[Strahd]] encounter.
 
 Strahd leaves, to return in three days to escort us personally to the [[Amber Temple]].
 
