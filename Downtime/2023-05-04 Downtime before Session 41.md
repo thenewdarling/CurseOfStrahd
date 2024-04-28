@@ -37,7 +37,7 @@ She pulls the squeezed hand into giving him a hug. It's a little too tight to be
 
 And with that, she excuses herself.
 
-## [[Jenny]] has a dream (Night of Day 30)
+## [[Jenny]] has a dream (Night of Day 31)
 
 *[11:09]Magdalena de Luna (she/her)_:_*
 
@@ -66,3 +66,7 @@ He finally finished, dropping the spoon on the table and leaning back as though 
 "Hmmmmm..." Jenny narrowed her eyes at him. "I'll think about it."
 
 And she took her spoon right to the middle of the tart.
+
+## [[Magda]] visits [[Aleksandr]] (Morning of Day 32)
+
+*See [[2024-04-28 An Old Friend.pdf]] lore document.*

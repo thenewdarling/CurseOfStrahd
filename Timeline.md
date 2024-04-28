@@ -447,3 +447,7 @@ _Session 27 Downtime Day Events_
 
 - The party return to [[The Winery]] and meet [[Strahd]] again. Plans begin for the final assault on the [[Amber Temple]].
 - An in-game three day period of downtime begins.
+
+## Day 32 -- [[The Winery]]
+
+- *The events of [[Magda]] lore document '[[2024-04-28 An Old Friend.pdf]]' happen now.*
