@@ -448,6 +448,24 @@ _Session 27 Downtime Day Events_
 - The party return to [[The Winery]] and meet [[Strahd]] again. Plans begin for the final assault on the [[Amber Temple]].
 - An in-game three day period of downtime begins.
 
-## Day 32 -- [[The Winery]]
+## Day 32-34 -- [[The Winery]]
 
 - *The events of [[Magda]] lore document '[[2024-04-28 An Old Friend.pdf]]' happen now.*
+
+### [[Strahd Session 41]] begins
+
+- The party take a three-day downtime before [[Strahd]] comes for them to take them to the [[Amber Temple]]. [[Arabelle]], [[Neander]] and [[Magda]] attune to [[Strahd's diary]].
+- For the purposes of story, we will assume [[Magda]] and [[Ireena]] fed on wildlife on day 34, and thus their timers will expire Day 41.
+
+
+## Day 35-38 -- en route to [[Mount Ghakis]]
+
+- The party arrive at the foot of [[Mount Ghakis]], and the carriage leaves them. They begin the climb to the [[Amber Temple]].
+
+### [[Strahd Session 42]] begins
+
+- After their encounter with the Roc, they rest for the night.
+
+## Day 39 -- [[Mount Ghakis]]
+
+### [[Strahd Session 43]] begins (TBC)
